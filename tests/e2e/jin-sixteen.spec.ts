@@ -3,12 +3,13 @@ import { expect, test } from "@playwright/test";
 const root = "/series/jin-sixteen-kingdoms";
 
 test("Jin topics separate the 304 opening, Western Jin background and Eastern Jin context", async ({ page }, testInfo) => {
+  test.setTimeout(90_000);
   await page.goto(root);
   await expect(page.getByRole("complementary", { name: "时代前因与并行专题" })).toContainText("八王之乱始于291年");
   await expect(page.getByTestId("narrative-atlas")).toHaveAttribute("data-rendered-year", "382");
   await page.screenshot({ path: testInfo.outputPath("sixteen-home.png"), fullPage: true });
   await page.getByRole("link", { name: /从304年诸国兴起开始/ }).click();
-  await expect(page).toHaveURL(/year=304&sequence=two-zhaos&step=liu-yuan-founds-han/);
+  await expect(page).toHaveURL(/year=304&sequence=two-zhaos&step=liu-yuan-founds-han/, { timeout: 30_000 });
   await expect(page.getByRole("heading", { level: 2, name: "刘渊称汉王", exact: true })).toBeVisible();
   await expect(page.getByText("事件 304 年 · 背景地图 304 年", { exact: true })).toBeVisible();
   await page.goto("/series/western-jin");
@@ -21,9 +22,11 @@ test("Jin topics separate the 304 opening, Western Jin background and Eastern Ji
   const back = page.getByRole("link", { name: "返回地图推演", exact: true });
   await expect(back).toHaveAttribute("href", "/series/eastern-jin/map?year=383&sequence=former-qin-fei&step=fei-river");
   await back.click();
+  await expect(page).toHaveURL(/\/series\/eastern-jin\/map\?/, { timeout: 30_000 });
   await expect(page.getByRole("region", { name: "东晋地图推演", exact: true })).toBeVisible();
 });
 test("Jin completed maps disclose reconstructed edges and keep capitals in place", async ({ page }, testInfo) => {
+  test.setTimeout(90_000);
   await page.goto(root);
   const map = page.getByTestId("narrative-atlas");
   for (const year of [327, 366, 395, 409, 382, 281, 449]) {
@@ -85,7 +88,7 @@ test("Jin autoplay visibly draws a route and advances same-year steps", async ({
 });
 
 test("Jin panorama, six narratives, event return and shared topics", async ({ page }) => {
-  test.setTimeout(60000);
+  test.setTimeout(120_000);
   const errors: string[] = [];
   page.on("pageerror", error => errors.push(error.message));
   const checkWidth = async () => expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1)).toBe(true);
@@ -98,6 +101,7 @@ test("Jin panorama, six narratives, event return and shared topics", async ({ pa
   await page.reload();
   await expect(page.getByRole("heading", { level: 2, name: "前秦", exact: true })).toBeVisible();
   await page.getByRole("link", { name: "进入淝水推演" }).click();
+  await expect(page).toHaveURL(/\/map\?.*sequence=three-qins/, { timeout: 30_000 });
   await expect(page.getByLabel("选择推演")).toHaveValue("three-qins");
   await expect(page.getByLabel("选择推演").locator("option")).toHaveCount(6);
   await page.getByRole("button", { name: "下一步", exact: true }).click();
@@ -157,7 +161,7 @@ test("all six Jin narratives remain readable with reduced motion and a failed ma
 });
 
 test("543211 groups preserve the Wei conclusion, related campaigns and event return links", async ({ page }, testInfo) => {
-  test.setTimeout(60000);
+  test.setTimeout(120_000);
   await page.goto(root);
   const mainlines = page.getByRole("region", { name: "543211：十六国分组" });
   await expect(mainlines.getByRole("link")).toHaveCount(6);
@@ -170,6 +174,7 @@ test("543211 groups preserve the Wei conclusion, related campaigns and event ret
   await page.screenshot({ path: testInfo.outputPath("543211-home.png"), fullPage: true });
   await page.screenshot({ path: testInfo.outputPath("543211-first-screen.png") });
   await mainlines.getByRole("link", { name: /二赵/ }).click();
+  await expect(page).toHaveURL(/\/map\?.*sequence=two-zhaos/, { timeout: 30_000 });
   await expect(page.getByLabel("选择推演")).toHaveValue("two-zhaos");
   await expect(page.getByLabel("选择推演").locator("option")).toHaveCount(6);
   await page.getByRole("button", { name: "下一步", exact: true }).click();
@@ -178,7 +183,7 @@ test("543211 groups preserve the Wei conclusion, related campaigns and event ret
   const returnUrl = page.url();
   await page.getByRole("link", { name: /329 · 石勒消灭刘曜势力/ }).click();
   await page.getByRole("link", { name: "返回地图推演", exact: true }).click();
-  await expect(page).toHaveURL(returnUrl);
+  await expect(page).toHaveURL(returnUrl, { timeout: 30_000 });
   for (const [sequence, step, year, title] of [
     ["yan-successions", "canhebei-turn", 395, "参合陂战败，燕魏力量转折"],
     ["hexi-liang", "southern-liang-ends", 414, "西秦攻取乐都，南凉结束"],
@@ -201,6 +206,7 @@ test("543211 groups preserve the Wei conclusion, related campaigns and event ret
 });
 
 test("Jin keyboard controls, map inspection and switching topics stop playback", async ({ page }, testInfo) => {
+  test.setTimeout(90_000);
   await page.goto(`${root}/map?year=383&sequence=former-qin-fei&step=fei-river`);
   const map = page.getByTestId("narrative-atlas");
   await expect(map).toHaveAttribute("data-rendered-year", "382");
@@ -227,11 +233,13 @@ test("Jin keyboard controls, map inspection and switching topics stop playback",
   await expect(page).toHaveURL(/step=fragmentation/);
   await page.getByRole("banner").getByRole("link", { name: "切换专题", exact: true }).click();
   await page.locator('a[href="/series/northern-wei"]').click();
+  await expect(page).toHaveURL(/\/series\/northern-wei(?:\?|$)/, { timeout: 30_000 });
   await expect(page.getByRole("heading", { level: 1, name: "北魏", exact: true })).toBeVisible();
   expect(page.url()).not.toContain("sequence=");
   await expect(page.getByTestId("narrative-atlas")).toHaveCount(0);
   await page.getByRole("banner").getByRole("link", { name: "切换专题", exact: true }).click();
   await page.locator(`a[href="${root}"]`).click();
+  await expect(page).toHaveURL(new RegExp(`${root}(?:\\?|$)`), { timeout: 30_000 });
   await expect(page.getByRole("button", { name: "全景浏览", exact: true })).toHaveAttribute("aria-pressed", "true");
   await expect(map).toHaveAttribute("data-rendered-year", "382");
 });

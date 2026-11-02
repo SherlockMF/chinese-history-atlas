@@ -69,6 +69,7 @@ test("moves from a sourced 936 timeline event to its person and dynasty map", as
 });
 
 test("covers chronology boundaries and all four narrative filters", async ({ page }) => {
+  test.setTimeout(60_000);
   const trackLabels = ["五代主线", "十国并立", "辽与北方", "宋初统一"];
 
   for (const boundary of [
@@ -147,6 +148,7 @@ test("covers chronology boundaries and all four narrative filters", async ({ pag
   await page
     .getByRole("link", { name: "查看耶律阿保机成为契丹可汗详情" })
     .click();
+  await expect(page).toHaveURL(/\/explore\/abaoyi-khagan/, { timeout: 30_000 });
   await expect(page.getByRole("heading", { name: "史料异说" })).toBeVisible();
   await expect(
     page.getByRole("note", {

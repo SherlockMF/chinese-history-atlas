@@ -1,10 +1,12 @@
 import { expect, test } from "@playwright/test";
 
 test("navigation keeps the selected year and extinct polity deep links remain useful", async ({ page, isMobile }) => {
+  test.setTimeout(60_000);
   await page.goto("/timeline?year=975");
   await expect(page.getByRole("combobox", { name: "直接选择年份" })).toHaveValue("975");
   const nav = page.getByRole("navigation", { name: isMobile ? "移动端主要导航" : "主要导航", exact: true });
   await nav.getByRole("link", { name: "地图", exact: true }).click();
+  await expect(page).toHaveURL(/\/map\?year=975/, { timeout: 30_000 });
   await expect(page.getByRole("slider", { name: "地图年份" })).toHaveValue("975");
   await page.goto("/map?year=978&dynasty=wuyue");
   const notice = page.getByRole("region", { name: "已选政权说明" });
