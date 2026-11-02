@@ -4,10 +4,17 @@ const root = "/series/jin-sixteen-kingdoms";
 
 test("Jin topics separate the 304 opening, Western Jin background and Eastern Jin context", async ({ page }, testInfo) => {
   test.setTimeout(90_000);
+  const mapPrefetches: string[] = [];
+  page.on("request", request => {
+    if (request.headers()["next-router-prefetch"] && new URL(request.url()).pathname.endsWith("/map")) {
+      mapPrefetches.push(request.url());
+    }
+  });
   await page.goto(root);
   await expect(page.getByRole("complementary", { name: "时代前因与并行专题" })).toContainText("八王之乱始于291年");
   await expect(page.getByTestId("narrative-atlas")).toHaveAttribute("data-rendered-year", "382");
   await page.screenshot({ path: testInfo.outputPath("sixteen-home.png"), fullPage: true });
+  expect(mapPrefetches).toEqual([]);
   await page.getByRole("link", { name: /从304年诸国兴起开始/ }).click();
   await expect(page).toHaveURL(/year=304&sequence=two-zhaos&step=liu-yuan-founds-han/, { timeout: 30_000 });
   await expect(page.getByRole("heading", { level: 2, name: "刘渊称汉王", exact: true })).toBeVisible();
@@ -23,7 +30,7 @@ test("Jin topics separate the 304 opening, Western Jin background and Eastern Ji
   await expect(back).toHaveAttribute("href", "/series/eastern-jin/map?year=383&sequence=former-qin-fei&step=fei-river");
   await back.click();
   await expect(page).toHaveURL(/\/series\/eastern-jin\/map\?/, { timeout: 30_000 });
-  await expect(page.getByRole("region", { name: "东晋地图推演", exact: true })).toBeVisible();
+  await expect(page.getByRole("region", { name: "东晋地图推演", exact: true })).toBeVisible({ timeout: 30_000 });
 });
 test("Jin completed maps disclose reconstructed edges and keep capitals in place", async ({ page }, testInfo) => {
   test.setTimeout(90_000);
@@ -50,14 +57,21 @@ test("Jin completed maps disclose reconstructed edges and keep capitals in place
 
 test("Jin autoplay visibly draws a route and advances same-year steps", async ({ page }, testInfo) => {
   test.setTimeout(60000);
+  await page.clock.install({ time: new Date("2026-01-01T00:00:00Z") });
   await page.goto(`/series/western-jin/map?year=280&sequence=jin-conquers-wu&step=upper-yangtze`);
   await expect(page.getByTestId("narrative-atlas")).toHaveAttribute("data-rendered-year", "281");
   const explorer = page.getByRole("region", { name: "西晋地图推演", exact: true });
   await expect(explorer.getByRole("button", { name: "开始播放", exact: true })).toHaveText("自动推演");
+  // Hold each playback phase while assertions run, even on a slow CI browser.
+  await page.clock.pauseAt(new Date("2026-01-01T01:00:00Z"));
   await explorer.getByRole("button", { name: "开始播放", exact: true }).click();
   await expect(explorer.getByRole("status")).toContainText("正在自动推演");
   await expect(explorer.getByRole("progressbar", { name: "当前步骤播放进度" })).toBeVisible();
   await expect(explorer.getByText(/秒后进入：打通中游，进抵武昌/)).toBeVisible();
+  const progress = explorer.getByRole("progressbar", { name: "当前步骤播放进度" });
+  const duration = Number(await progress.getAttribute("aria-valuemax")) * 1000;
+  const movingElapsed = 1000 + (duration - 4000) / 2;
+  await page.clock.fastForward(movingElapsed);
   const route = page.getByTestId("narrative-route-reveal");
   await expect(route).toBeVisible();
   const segment = route.locator("line").first();
@@ -67,19 +81,21 @@ test("Jin autoplay visibly draws a route and advances same-year steps", async ({
   await expect(page.getByRole("button", { name: "查看地点：白帝", exact: true })).toHaveAttribute("data-node-state", "active");
   await explorer.getByRole("button", { name: "暂停播放", exact: true }).click();
   await expect(explorer.getByRole("status")).toContainText("已暂停");
-  const progress = explorer.getByRole("progressbar", { name: "当前步骤播放进度" });
   const paused = await progress.getAttribute("aria-valuenow");
-  await page.waitForTimeout(1200);
+  await page.clock.fastForward(1200);
   await expect(progress).toHaveAttribute("aria-valuenow", paused!);
   await page.getByTestId("narrative-atlas").screenshot({ path: testInfo.outputPath("route-paused.png") });
   await explorer.getByRole("button", { name: "开始播放", exact: true }).click();
+  await page.clock.fastForward(duration - 3000 - movingElapsed);
   await expect(page.getByTestId("narrative-phase")).toContainText("停留阅读", { timeout: 12000 });
   await expect(page.getByRole("button", { name: "查看地点：西陵", exact: true })).toHaveAttribute("data-node-state", "active");
+  await page.clock.fastForward(3000);
   await expect(explorer.getByRole("heading", { name: "打通中游，进抵武昌", exact: true })).toBeVisible({ timeout: 10000 });
   await expect(page).toHaveURL(/year=280.*step=middle-yangtze/);
   await explorer.getByRole("button", { name: "暂停播放", exact: true }).click();
   await explorer.getByRole("button", { name: "下一步", exact: true }).click();
   await explorer.getByRole("button", { name: "开始播放", exact: true }).click();
+  await page.clock.fastForward(14000);
   await expect(explorer.getByRole("status")).toContainText("本组推演已结束", { timeout: 16000 });
   await expect(explorer.getByRole("button", { name: "重新播放", exact: true })).toBeEnabled();
   await explorer.getByRole("button", { name: "重新播放", exact: true }).click();
@@ -234,7 +250,7 @@ test("Jin keyboard controls, map inspection and switching topics stop playback",
   await page.getByRole("banner").getByRole("link", { name: "切换专题", exact: true }).click();
   await page.locator('a[href="/series/northern-wei"]').click();
   await expect(page).toHaveURL(/\/series\/northern-wei(?:\?|$)/, { timeout: 30_000 });
-  await expect(page.getByRole("heading", { level: 1, name: "北魏", exact: true })).toBeVisible();
+  await expect(page.getByRole("heading", { level: 1, name: "北魏", exact: true })).toBeVisible({ timeout: 30_000 });
   expect(page.url()).not.toContain("sequence=");
   await expect(page.getByTestId("narrative-atlas")).toHaveCount(0);
   await page.getByRole("banner").getByRole("link", { name: "切换专题", exact: true }).click();

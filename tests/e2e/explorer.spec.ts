@@ -641,6 +641,7 @@ test("map event modal is a top-level inert and accessible portal", async (
 });
 
 test("a disappearing event selection closes permanently with a safe focus target", async ({ page }) => {
+  await page.clock.install({ time: new Date("2026-01-01T00:00:00Z") });
   await page.goto("/map?year=936");
   const slider = page.getByRole("slider", { name: "地图年份" });
   const marker = page.getByRole("button", {
@@ -679,9 +680,11 @@ test("a disappearing event selection closes permanently with a safe focus target
   await expect(page).not.toHaveURL(/(?:\?|&)event=/);
 
   await marker.click();
+  await page.clock.pauseAt(new Date("2026-01-01T01:00:00Z"));
   await page.getByRole("button", { name: "播放历史" }).evaluate((button) =>
     (button as HTMLButtonElement).click(),
   );
+  await page.clock.runFor(1600);
   await expect(slider).toHaveValue("937", { timeout: 3_000 });
   await expect(dialog).toBeHidden();
   await expect(page.getByLabel("937年地图事件")).toBeFocused();
