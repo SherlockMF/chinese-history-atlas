@@ -16,6 +16,10 @@ jobs:
   verify:
     runs-on: windows-latest
     timeout-minutes: 25
+    strategy:
+      fail-fast: false
+      matrix:
+        project: [desktop, mobile]
     env:
       NEXT_TELEMETRY_DISABLED: "1"
       LLM_PROVIDER: mock
@@ -33,10 +37,11 @@ jobs:
       - run: npm run test:run -- --maxWorkers=4
       - run: npm run build
       - run: npx playwright install chromium
-      - run: npm run test:e2e -- --workers=2
+      # Isolate map rendering and image processing on each runner.
+      - run: npm run test:e2e -- --project=${{ matrix.project }} --workers=1
       - uses: actions/upload-artifact@v7
         if: failure()
         with:
-          name: playwright-failure-traces
+          name: playwright-failure-traces-${{ matrix.project }}
           path: test-results/
           retention-days: 7
