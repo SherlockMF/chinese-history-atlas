@@ -1,0 +1,382 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "covered": 6,
+    "partial": 19,
+    "corrected": 7,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "inherit"
+      ],
+      "note": "1193年17岁纯佑继位与守成具体化。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "inherit"
+      ],
+      "note": "循旧章具体外交，不将守住父业判断绝对化。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "inherit"
+      ],
+      "note": "附蒙校附金。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "inherit"
+      ],
+      "note": "金宋关系及北方新局写明。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "first-raid"
+      ],
+      "note": "1205第一次攻夏。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "inherit"
+      ],
+      "note": "1206正式尊号未到，仍铁木真；并非此前从未称汗。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "inherit"
+      ],
+      "note": "诸部名解释，固定六国不强断。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "inherit"
+      ],
+      "note": "蒙古整合诸部而非一夜统一族名。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "inherit",
+        "naiman"
+      ],
+      "note": "汪古告警乃蛮聚盟，残部仍在不说所有已灭。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "naiman"
+      ],
+      "note": "1204太阳败，1206不欲鲁；兄弟次序纠，长幼原因不虚断。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "fallen-khan",
+        "naiman"
+      ],
+      "note": "王汗身份与乃蛮背景，天山纯经商与全草原王未证。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "fallen-khan"
+      ],
+      "note": "饮水被哨抓自报名未信而杀，桑昆分别逃。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "fallen-khan"
+      ],
+      "note": "首级祭祀有据，镀银与水果补物未证。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "fallen-khan"
+      ],
+      "note": "首级笑标史书征兆叙事，太阳命踏碎，不鬼魂事实。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "gurbesu"
+      ],
+      "note": "古儿别速关系版本与作用，骂夫对白不全照录。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "gurbesu"
+      ],
+      "note": "欧洲嫁妆婚泛谈非本朝缺口；收继不泛化。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "gurbesu",
+        "naiman"
+      ],
+      "note": "太阳欲战与老将异议写，灭所有克烈族不强断。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "gurbesu",
+        "naiman"
+      ],
+      "note": "蔑视蒙古与妇女挤乳原情节、败后被带来。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "gurbesu"
+      ],
+      "note": "秘史铁木真亲纳，非赐最不爱洗澡贵族。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "naiman",
+        "first-raid"
+      ],
+      "note": "屈出律1208后奔契丹；不把追他过夏当1205确定起因。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "inherit",
+        "first-raid"
+      ],
+      "note": "夏外交背景实写，不首次见城心理。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "naiman",
+        "first-raid"
+      ],
+      "note": "太阳败与夏边防变化，不加固时刻臆断。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "first-raid"
+      ],
+      "note": "城市资源与掠人民骆驼有据，帐篷羊数独白不编。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "first-raid"
+      ],
+      "note": "战争行动保留，走哪哪我地心理未证。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "first-raid"
+      ],
+      "note": "力吉里寨被攻破，音频未回听保候选，不数月不克。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "first-raid"
+      ],
+      "note": "掠后退不是攻不下城。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "first-raid"
+      ],
+      "note": "后续攻城经验为编辑解释，不详知铁木真当时思想。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "zhongxing"
+      ],
+      "note": "1205修城改中兴；17岁为1193继位非当时。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "zhongxing"
+      ],
+      "note": "改名有据，退蒙古自夸心声不虚构。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "zhongxing"
+      ],
+      "note": "守城者后见之明限制写，具体人人无畏未证。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "zhongxing"
+      ],
+      "note": "认新敌过程限定，未经证言心理不作事实。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "zhongxing"
+      ],
+      "note": "服装文化优越感不强归夏人，实力由实际损失。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-huanzong-first-mongol",
+      "sectionIds": [
+        "zhongxing"
+      ],
+      "note": "1205首征改名接下一年宫变。"
+    }
+  ]
+}

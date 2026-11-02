@@ -1,0 +1,208 @@
+{
+  "date": "2026-09-30",
+  "method": "人工逐段完整通读指定原稿，对读所列古籍与必要研究，逐项核对实际正文承接。未回听音频；缺乏出处的对白、动机、数值及跨时代旁论不以相关关键词冒充完整覆盖。",
+  "counts": {
+    "partial": 8,
+    "corrected": 7,
+    "covered": 2
+  },
+  "rows": [
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "school-gates"
+      ],
+      "note": "平城都城与教育中心承接；150万人口未核统计口径与来源，不使用也不视为已覆盖。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "school-gates"
+      ],
+      "note": "皇宗学落实为皇族教育、492帝问经；不扩成全中国最高学府或普通重臣子弟共有学校。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "school-gates"
+      ],
+      "note": "身份限制与学校各自任务已写，不将有房即可入学的现代笑谈当古代制度。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "hunger-and-registers"
+      ],
+      "note": "487旱灾、赈济和失效据本纪展开；未支持即位初前所未有连年大旱或改革一概始于唤醒民智。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "before-and-after",
+        "hunger-and-registers"
+      ],
+      "note": "纠正皇宗学前不重教，写基层执行问题；无俸贪腐因果、濒临分裂论及戏称冯婉兰未在本篇完整展开。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "before-and-after"
+      ],
+      "note": "道武、太武、献文兴学及太和延续有具体时点，不以民族性概括课程或无数据宣称普及率。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "school-gates",
+        "before-and-after"
+      ],
+      "note": "从古代实际学官、身份门槛与扩充观察，避免直接套现代全民入学尺度。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "before-and-after"
+      ],
+      "note": "明确学校记录不足推出全国识字率，拒绝无统计依据的统一5%数值。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "school-gates",
+        "before-and-after"
+      ],
+      "note": "区分皇宗、太学、迁洛后四门设置而非单一升学阶梯；民国教育比较与勇猛等于残忍的族群判断未承接。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "punishment-in-steps",
+        "family-liability"
+      ],
+      "note": "以北魏各次修刑和族诛减等承接法律变动；未核董仲舒、沈家本跨代概论和一次废尽酷刑之说。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "family-liability"
+      ],
+      "note": "以481诏具体解释三族五族一门递减与剩余杀戮；宗爱旧案、九族一般定义未在本篇展开。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "punishment-in-steps",
+        "family-liability"
+      ],
+      "note": "以可核的474、477、481、487、492措施代替一人一次废刑；未证因贵族阶层矛盾而废车裂的心理及确切废止条文。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "punishment-in-steps",
+        "interrogation-and-exile"
+      ],
+      "note": "改死戍边和流徒界限据魏111/7下；不说大多数肉刑均被流放替代，强调刑罚交错及死刑仍在。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "interrogation-and-exile"
+      ],
+      "note": "刑制并非线性进步的主线已回应；司马迁、商周人祭炮烙等跨代案例未逐一核源写入。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "interrogation-and-exile"
+      ],
+      "note": "纠正毁体到刻字再到流放的单线替代，列并存的身体刑、鞭杖、迁徙等，不把刻字说成不伤身体。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "punishment-in-steps",
+        "family-liability",
+        "interrogation-and-exile"
+      ],
+      "note": "保存生命充边的议论与实际改死戍边分开，流放仍强制服役；保留重罪及亲属死亡，不把少杀等同无暴力。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "hunger-and-registers",
+        "family-liability",
+        "interrogation-and-exile"
+      ],
+      "note": "教育、刑罚与国家治理相接，同时写具体减轻与仍存强制，结到政令执行而非赞美单线文明。"
+    }
+  ]
+}

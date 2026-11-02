@@ -1,0 +1,289 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿，对照正文及对应原典独立复核；未回听音频。",
+  "counts": {
+    "partial": 12,
+    "not-needed": 4,
+    "covered": 10
+  },
+  "rows": [
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "successive-rebels"
+      ],
+      "note": "后晋部将接连反叛已用，逐次原因分别说明；南方主旋律及都仿石造反的全称不当原因。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [],
+      "note": "无耻没下限及对岳父不忠的骂语，非具体新事。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "successive-rebels"
+      ],
+      "note": "强镇反与求外援已具体李金全向南唐求援；每人都想学石氏的心态未定。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [],
+      "note": "主持人自拟处乱世会否动心、忠厚老实的聊天。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "successive-rebels"
+      ],
+      "note": "岁奉契丹的外部压力由后文政务困难承接；胳膊粗、彩衣娱亲的比喻舍弃。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "successive-rebels"
+      ],
+      "note": "范延光魏州反已用，补孙锐冯晖迫促及张从宾同叛。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "successive-rebels"
+      ],
+      "note": "范延光反的行动已用；口述仅因石氏不规矩即有理不替代具体动因。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "successive-rebels"
+      ],
+      "note": "范叛后李金全拒调与胡汉筠造谣侵财背景已用，不只称爱将反。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "successive-rebels"
+      ],
+      "note": "942安从进襄州围破自焚及连年平反压力已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "loyalty-and-cost"
+      ],
+      "note": "割地批评与王清功劳并立的评价已用；个人好恶不转换成读者须同意。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "loyalty-and-cost"
+      ],
+      "note": "王清襄州督攻、先登的尽力已用；人格魅力因臣勇而必然成立的推断保持讨论。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "loyalty-and-cost"
+      ],
+      "note": "王清后期力战死与桑维翰尽力已用；身数十箭本次未核不写、其他朝代没人忠死的全称不采用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "loyalty-and-cost"
+      ],
+      "note": "桑维翰与王清文武忠诚并列已用；不把为晋死等于整个割地选择正确。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "loyalty-and-cost"
+      ],
+      "note": "独立补读新五代8，保昌殿与享年五十一实有原文，补回正文。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "adult-heir"
+      ],
+      "note": "病托重睿、冯道与景议立长君已用，抱入怀的行动有源。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "adult-heir"
+      ],
+      "note": "重贵为敬儒子、敬瑭养子已用，过继不是现代侄子笑谈。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "adult-heir"
+      ],
+      "note": "军镇经历与年长继承理由已用；本为亲子服务培养计划不凭猜测补。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "partial",
+      "assessment": "not-needed",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [],
+      "note": "人工幼鸟不识鹰比喻，不作石重贵外交动机的确证。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "adult-heir"
+      ],
+      "note": "景延广以拥立功掌权、影响外交已用；文不贪武不怕格言不代替决策事实。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "grandson-not-subject"
+      ],
+      "note": "景延广主张保亲属辈分、去臣礼已用，不录蛮夷骂语。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "grandson-not-subject"
+      ],
+      "note": "称孙不臣、个人礼与政权自主区分已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "grandson-not-subject"
+      ],
+      "note": "补景延广横磨剑威胁及书面外交；“土地非无有”此句仍未定位，不伪作原文。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "grandson-not-subject"
+      ],
+      "note": "晋方拒依附的意思已用；练练长对白不当文书原话。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "grandson-not-subject"
+      ],
+      "note": "外交转向与连续战争联系已用；不是谁一句话就可单因决定战争。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [],
+      "note": "西夏成吉思汗跨朝类比及石重贵姓名笑谈，非后晋新事件。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-rebellions-and-grandson-letter",
+      "sectionIds": [
+        "grandson-not-subject"
+      ],
+      "note": "外交自主须军费兵粮支撑的判断已用；兵强繁荣即一定好时机的公式不作事实。"
+    }
+  ]
+}

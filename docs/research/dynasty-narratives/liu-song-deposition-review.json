@@ -1,0 +1,343 @@
+{
+  "date": "2026-10-01",
+  "method": "逐段完整读南朝02 P006–P034共29段，对读宋书3、4、5、41、43、44、61、63，南史1，通鉴119、120与世说言语。核出生母、年龄、废立与诛杀时序、江陵护卫和任官过程；正文另补谢晦临刑联句及檀道济436年结局，避免把四位顾命写成一次被杀。只对原段实际错误记corrected，反事实动机、拟对白与不明杀害间隔保留partial。未回听音频，未把转写修正称作听音校正。 主代理另行完整读取所列原稿、正文与每条台账，完成独立逐段语义对照，并复查关键原典、纪年与章节范围。",
+  "counts": {
+    "corrected": 10,
+    "not-needed": 1,
+    "partial": 15,
+    "covered": 3
+  },
+  "rows": [
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "young-heir"
+      ],
+      "note": "校正嫡长子为长子、张夫人所生，承接刘裕死后义符继位；本段节目预告的其余七帝并非本篇范围。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [],
+      "note": "前期回顾与本期七帝节目串场，无新增待补史事；不以重复金戈铁马词句虚增覆盖。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "young-heir"
+      ],
+      "note": "校正原配嫡长子称谓；承接少帝、422至424两年在位及继位年幼。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "young-heir"
+      ],
+      "note": "承接死年十九、父亲六十及原配生女；以生母与祔葬史实说明家庭，不将不忘发妻与儿子年幼必然导致王朝转坏的个人分析当定论。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "young-heir"
+      ],
+      "note": "校正继位时十九为史籍记十七，十九是死年；以406出生说明父亲四十多岁得子，不采正常必有三四十岁继承人的假设。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "young-heir",
+        "four-ministers"
+      ],
+      "note": "承接父亲留位给义符并配顾命，补太子问题已被进言；亲子前后两面与刘裕一定确信其能继业属拟心理，未采用。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "young-heir"
+      ],
+      "note": "承接太子时已有不当交游；补通鉴119谢晦进言、刘裕询问义真的具体场面。原段关于父亲未太用心与最信任随征儿子的心理推断未证，不把新增进言记录本身算纠错。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "two-depositions",
+        "boat-at-dawn"
+      ],
+      "note": "义真不适合继位另写其背景；龙舟入睡故事移回424废帝前夜，校正原段置于刘裕病重时的时序；女子歌舞至月落的具体场面无据未采。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "four-ministers"
+      ],
+      "note": "承接徐傅无异图、檀有略无远志的遗言，补原段遗漏的谢晦警告，纠正四顾命一概有能力无野心的概括；节目拟心理不作逐字对白。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "boat-at-dawn"
+      ],
+      "note": "承接华林园列肆亲自卖酒；以世说东晋入园条校正华林园由少帝新建，区分旧园与新增游乐设施；短裤汗衫与避暑动机未证。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "four-ministers",
+        "two-depositions"
+      ],
+      "note": "承接顾命认为少帝失德并谋废立，写出参与者、继位人选问题与后续步骤；对话改为有来源的事件叙述。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "two-depositions"
+      ],
+      "note": "承接少帝无子、次序转向义真及关中失政；具体拆分杀王修与诸将贪载导致败退，不把原段烧杀抢掠与一员大将的泛说全部归个人品性。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "two-depositions"
+      ],
+      "note": "完整承接先废义真王爵、徙新安为庶人以越过继位次序，并补424二月与张约之谏争。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "two-depositions",
+        "boat-at-dawn"
+      ],
+      "note": "承接424景平二年檀道济徐羡之等入宫执少帝、收玺、废营阳王；补内应和迁徙，起事月与422即位分明。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "two-brothers-die"
+      ],
+      "note": "两位皇子相继被害均展开；原段哥哥死后立刻杀弟弟的紧接时序未确证，明列少帝纪附叙位置与义真传六月及干支问题，不判原段顺序已被确凿推翻。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "from-jiangling"
+      ],
+      "note": "承接迎刘义隆；校正以随父南征北战且战绩佳解释入选，改按文帝纪幼年留守任职与通鉴声望记载；不把谢晦后来辩护直接当全部拥立者忠心的证明。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "from-jiangling"
+      ],
+      "note": "承接义隆镇荆州、刘义季相随和迎驾；校正到处带弟弟打仗教养为宋61所载奉父命随赴江陵、因而受兄长喜爱。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "from-jiangling"
+      ],
+      "note": "承接新帝对废杀两兄的疑惧，不把原段关于忠臣与傀儡的拟对白记成原话。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "from-jiangling"
+      ],
+      "note": "承接江陵府僚劝行、本人有兵严守，展开王华等具体理由；不采一旦有事先动手的拟策，也未给荆州作无条件最大军镇排名。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "from-jiangling"
+      ],
+      "note": "承接接受迎立并禁止迎驾部众近卫；不赴京必被另立者加害的反事实推测未作已知动机。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "from-jiangling"
+      ],
+      "note": "承接朱容子抱刀数旬、府兵护卫、入建康即位改元元嘉；元嘉之治整体政绩与元嘉草草北伐典故属后续篇，未在此展开。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "two-brothers-die",
+        "offices-and-fear"
+      ],
+      "note": "承接两兄遇害与即位后加官进位，补途中问死事；原段新帝表示感谢与必须装尊重的拟心理未作对白。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "offices-and-fear"
+      ],
+      "note": "校正谢晦于新帝即位后主动请去荆州的时序：宋44和通鉴120记徐羡之在迎驾前先授以外援，登基后正式确认；不把试探猜忌当唯一有据目的。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "two-brothers-die",
+        "offices-and-fear",
+        "reckoning",
+        "last-couplet"
+      ],
+      "note": "用蔡廓警告、谢晦惧去不得与后续反目承接废立者不安；不为四人编共同内心，最终结局拆开426与436。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "two-brothers-die",
+        "offices-and-fear",
+        "reckoning",
+        "last-couplet"
+      ],
+      "note": "承接文帝正式确认荆州任命；原段四人一概弑君不当，据宋44区分檀道济参与废立与未参与杀害，试探说仅属推测。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "offices-and-fear"
+      ],
+      "note": "承接旧部进入近侍禁卫及到彦之任职争议；史籍记具体任命，未证全部荆州人员与全体宿卫一次互换，当地经验反对话也未采。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "offices-and-fear"
+      ],
+      "note": "承接谢晦外镇、文帝旧部接掌军事的变化；全部换防与双方交换条件的拟对白未证，以425归政防止把集权写成瞬间完成。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "offices-and-fear",
+        "reckoning",
+        "last-couplet"
+      ],
+      "note": "展开王华孔宁子攻击、金昌亭表态及亲信位置；保留徐傅425仍在政务的事实，不写成旧臣立刻全被排除，也不采哥哥只是做小买卖的戏谑定性。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-deposition",
+      "sectionIds": [
+        "reckoning",
+        "last-couplet"
+      ],
+      "note": "展开426公布杀害两皇子罪名、徐傅死与谢晦兵败，区分檀道济到436才遇害；不采用马上完成全部权力更替的压缩判断及资本主义萌芽笑谈。"
+    }
+  ]
+}

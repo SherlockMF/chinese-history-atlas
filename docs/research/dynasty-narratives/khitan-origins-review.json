@@ -1,0 +1,344 @@
+{
+  "date": "2026-10-02",
+  "method": "L01：辽组子代理完整阅读列出原段、检索并阅读所列原典后逐段自审；未回听音频，独立交叉复核待主代理完成，原基线不变。",
+  "counts": {
+    "covered": 8,
+    "corrected": 10,
+    "partial": 11,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P001",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "entering-the-record"
+      ],
+      "note": "承接契丹名见北魏史籍。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "entering-the-record"
+      ],
+      "note": "原典仅称登国中，不确认389；补北魏持续往来，纠正败后直到唐才再出现。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "songmo-and-a-given-surname"
+      ],
+      "note": "核648年松漠都督府、窟哥及赐李姓，纠正都护府与节度使称呼。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "songmo-and-a-given-surname",
+        "li-jinzhong-war"
+      ],
+      "note": "承接唐的赐姓联系；武周战争不据族群性格与感恩心理解释。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "li-jinzhong-war"
+      ],
+      "note": "承接李尽忠其人及与孙万荣关系。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "li-jinzhong-war"
+      ],
+      "note": "按赵翽侵侮而起兵，不写成新君派使安抚这一未证具体情节。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "li-jinzhong-war"
+      ],
+      "note": "身份为松漠都督，承接营州冲突及自称可汗。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "li-jinzhong-war"
+      ],
+      "note": "无上可汗称号有据。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "li-jinzhong-war"
+      ],
+      "note": "承接武周军事挫败，不断言首次可汗称号及武家独负所有败责。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "li-jinzhong-war"
+      ],
+      "note": "补李尽忠已死、孙万荣继续及奚突厥袭后，纠正单一武家李唐胜败对照。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "li-jinzhong-war",
+        "changing-eight-tribes"
+      ],
+      "note": "不把战争直接确证为还政李唐原因；遥辇重组单列。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "entering-the-record"
+      ],
+      "note": "承接东胡鲜卑相关族源叙述，保留人群分合限定。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "entering-the-record",
+        "white-horse-blue-ox"
+      ],
+      "note": "不把诸族等同为持续不变的一支，转入始祖神话。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "white-horse-blue-ox"
+      ],
+      "note": "承接土河老哈河及潢河西拉木伦河地理对应。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "khitan-origins",
+      "sectionIds": [],
+      "note": "地方食物与伊拉克插话无新增契丹史信息。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "white-horse-blue-ox"
+      ],
+      "note": "承接木叶山会合、八子与奇首神话，标文学传说。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "white-horse-blue-ox"
+      ],
+      "note": "承接可敦与始祖夫妇，不把所有草原时代官号一概等同帝后。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "white-horse-blue-ox"
+      ],
+      "note": "承接白马青牛祭祀与始祖关联。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "white-horse-blue-ox"
+      ],
+      "note": "双祖受祭不等于社会全面男女平等。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "white-horse-blue-ox",
+        "changing-eight-tribes"
+      ],
+      "note": "承接太后参与政治的背景；不把各时代八部视为固定同一组织。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "three-strange-rulers"
+      ],
+      "note": "骷髅主乃呵故事有传本，作为神话承接。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "three-strange-rulers"
+      ],
+      "note": "原典偷看后失踪，无化青烟和特定年轻人身份。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "three-strange-rulers"
+      ],
+      "note": "猪皮被妻子偷走，不是青年窥看。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "three-strange-rulers"
+      ],
+      "note": "承接野猪皮、第三主转场，不保留动画比喻。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "three-strange-rulers"
+      ],
+      "note": "二十羊日食十九余一复生，按传本列出。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "three-strange-rulers"
+      ],
+      "note": "阶段解释保留为节目后世解读，不能确证原始经济形态。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "three-strange-rulers"
+      ],
+      "note": "狩猎畜牧比较以解释层呈现。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "changing-eight-tribes"
+      ],
+      "note": "承接转向遥辇制度，不比较哪种神话更真实。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "changing-eight-tribes"
+      ],
+      "note": "承接夷离堇军政作用，避免各部官制同一化。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "khitan-origins",
+      "sectionIds": [
+        "changing-eight-tribes"
+      ],
+      "note": "承接军事部落格局及阿保机转场，加入制度变化。"
+    }
+  ]
+}

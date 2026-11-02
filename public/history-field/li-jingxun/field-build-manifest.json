@@ -1,0 +1,37 @@
+{
+  "siteId": "li-jingxun",
+  "schemaVersion": 1,
+  "buildVersion": "unity-6000.3.24f1-u15-28f5562b",
+  "gameCommit": null,
+  "sourceRepositoryHead": "8f30b9f004d90aac80e8ecf17b28a2e49075b7a2",
+  "unityVersion": "6000.3.24f1",
+  "source": "history-field/game/Builds/WebGL",
+  "builtAt": "2026-09-23T02:47:29.5412492Z",
+  "artifactLatestWriteAt": "2026-09-23T02:47:20.6729261Z",
+  "gitTracked": false,
+  "sourceTotalBytes": 56143388.0,
+  "files": [
+    {
+      "path": "Build/WebGL.data.gz",
+      "bytes": 42583201,
+      "sha256": "28f5562bd7e4354b69a2e93ab353fb6aef03a10874c65d5307be1db362ec05f7"
+    },
+    {
+      "path": "Build/WebGL.framework.js.gz",
+      "bytes": 91322,
+      "sha256": "65a80637053d4e68f0c337ee4c39de0c59de2d4d74543fee92d0b727dd559941"
+    },
+    {
+      "path": "Build/WebGL.loader.js",
+      "bytes": 26983,
+      "sha256": "c597a1f388b4b70ee490bb61c3e067d4bfe114ce25df3ddcb6c539d18b4bfeeb"
+    },
+    {
+      "path": "Build/WebGL.wasm.gz",
+      "bytes": 13441882,
+      "sha256": "1b0d52b102c01a19fddb18c27f709ed24e02cdd85560f1d07aa134388100b09d"
+    }
+  ],
+  "sourceDirty": true,
+  "sourceNote": "U15 responsive burial warning panel and mutually exclusive HUD messages are uncommitted; artifact identity is pinned by SHA-256. No gameplay or performance acceptance was run."
+}

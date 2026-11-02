@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-30",
+  "method": "人工通读北魏02 P082–P105共24段，并逐条对读魏书、通鉴及相关载记；每项判定以正文实际承接为准，未采用命题和范围缺口独立注明。未回听音频。",
+  "counts": {
+    "corrected": 18,
+    "covered": 3,
+    "partial": 3
+  },
+  "rows": [
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "384年后燕、386年魏的先后及此前援助已写，明确周边不只慕容一家敌手。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "燕强魏弱起点与魏增长均承接；用燕灭西燕和向青兖扩张纠正后燕没有发展。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "实力增长与关系转变由贺兰干预、扣使等具体事件承接，不将强国必然开战或此役即完成统一写成定律。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "helan-and-envoy"
+      ],
+      "note": "391年贺讷、贺染干内争、魏请燕出兵、还讷部落与迁贺染干本人完整承接。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "helan-and-envoy"
+      ],
+      "note": "请燕介入及双方扩大影响已写；区分慕容麟建议召珪入燕廷、令弟监国未获采纳与后来扣留觚；解武装、试探、预谋吞燕的整套内心计划无明确史文支撑，未写成事实，来源说明保留这一缺口。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "helan-and-envoy"
+      ],
+      "note": "拓跋觚使燕与索马已写，并列魏书遣使390、扣留391的时间；不把此次使命直接断为向燕请求平贺兰的援军。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "helan-and-envoy"
+      ],
+      "note": "索马、拒绝与断交按史书承接，不把名马断作已约定的战争经费，不拟联姻义务的争吵对白。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "helan-and-envoy"
+      ],
+      "note": "扣觚与魏绝燕、转联西燕的外交转折已写。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "helan-and-envoy"
+      ],
+      "note": "使者为弟与长期被扣已承接；魏的实际回应是绝交联西燕，不将兄弟感情及尊重程度推为可知内心，也不写成随即直接出征。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "changzi"
+      ],
+      "note": "慕容垂与魏交恶之后仍先攻西燕已写，按其所述为继承者除患解释决策，不用后见之明断言唯一正确敌人必为魏。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "changzi"
+      ],
+      "note": "394年围长子、慕容永求援、魏军未至而西燕亡均承接，纠正华北从此只剩燕魏。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "changzi",
+        "advance"
+      ],
+      "note": "西燕灭后缓冲减少而非周边势力全消失；395年垂决定出兵并拒高湖谏，纠正年老已不愿战。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "changzi",
+        "advance"
+      ],
+      "note": "灭西燕及继续扩张均写，慕容垂对灭永与伐魏有主动决策，不虚构满足统一后被儿弟逼战的内心。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "advance"
+      ],
+      "note": "八万主军与一万八千后继步骑分列，不作九万八千骑同一军阵；太子率军与垂决策责任均保留。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "advance"
+      ],
+      "note": "河西迁人畜、示弱诱敌、别部降燕、粮船准备均写，不以退一步求和平或所有部众随意改投解释战事。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "advance",
+        "river-rumour"
+      ],
+      "note": "隔河相持、许谦求后秦及杨佛嵩援兵、截使者均已写；原段截退路的各路魏军部署未逐路展开，不能以截信路代替全部军事部署。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "river-rumour"
+      ],
+      "note": "出发时垂已有疾、数月截使与假死消息写明，不编造宝完全不知父病或密信已证病入膏肓。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "river-rumour"
+      ],
+      "note": "假死消息、慕舆嵩谋拥麟及宝麟猜忌已写，使军心动摇有具体事件。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "river-rumour",
+        "pursuit"
+      ],
+      "note": "十月烧船夜退、未冰造成不备与十一月河冰急追写明，纠正仅弃船及退兵等同必争位。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "pursuit"
+      ],
+      "note": "十一月渡河、二万余骑急追及参合陂取胜已写；战场现代定位及与342年聚众地点同址未核定。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "pursuit",
+        "captives"
+      ],
+      "note": "大败与留用贾彝、贾闰、晁崇均写；魏是昼夜急追而非安坐以逸待劳，失察和地形阻断补足战败过程。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "captives"
+      ],
+      "note": "择留有才者后原拟给其余降者衣粮放归，纠正放官留兵的混说。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "captives"
+      ],
+      "note": "王建主张杀降以空燕国便于进取，非有降兵叛变证据；不认可杀俘道理正确，也不抹去珪采纳责任。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "canhe-slope",
+      "sectionIds": [
+        "captives"
+      ],
+      "note": "通鉴四五万降众及尽坑之保留出处和计数层次，不固定为精确四万或补活埋细节；燕方后续按宝求再伐与垂筹备写，不虚构收到消息时的怒言。"
+    }
+  ]
+}

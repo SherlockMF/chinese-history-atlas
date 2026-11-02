@@ -1,0 +1,439 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11 主代理独立逐读金02 P151—185、192—195共39条原段、正文、逐Pnotes，亲读金101承晖尽忠及仆散端传、元史1、58、圣武亲征录相关段；恢复有源十一城未下的数字并限定时地，宫眷/从良书/诀别与两城营建分层。未回听音频。",
+  "counts": {
+    "corrected": 8,
+    "partial": 14,
+    "covered": 11,
+    "not-needed": 3,
+    "uncertain": 3
+  },
+  "rows": [
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "peace-price"
+      ],
+      "note": "补回元史太祖纪列出的1213河北十一城未下，纠正原段混称只留十一州、北方再无防御；不是未核数字而删除。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "peace-price"
+      ],
+      "note": "战力受损有据，四十万被全砍的准确人数说不采。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "peace-price"
+      ],
+      "note": "用守军军心和组织承接困境，未把一次战役写成全部抵抗消失。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "peace-price"
+      ],
+      "note": "议和及送永济女岐国公主有明确记载。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "peace-price"
+      ],
+      "note": "保留元史五百童男女三千马金帛，十将细军百人与彩绣各额未进一步核得。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "peace-price"
+      ],
+      "note": "补出金廷对战和风险的实际讨论；蒙古接受和议动机不单因推定。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "peace-price"
+      ],
+      "note": "城外州郡损失及补给联系写入，蒙古总人口估计未证。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [],
+      "note": "想念草原及早晚都是我的为节目设想对白。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "peace-price"
+      ],
+      "note": "议和撤军后宣宗决定南迁和不同政策选择实写。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "southward-court"
+      ],
+      "note": "承晖反对及南京留守主迁都争论承接。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "southward-court"
+      ],
+      "note": "赵昉为太学生、四百人上书，不作为在任汉臣。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "southward-court"
+      ],
+      "note": "汴京作为迁往南京承接，各备选地点优劣不全展开。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "southward-court"
+      ],
+      "note": "守忠与两留守留中都具体安排实写。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "southward-court"
+      ],
+      "note": "尽忠久在军旅并掌兵有据，不一概说成胡沙虎固定副手。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "southward-court"
+      ],
+      "note": "南迁后蒙古再围城先后有据，亲友对白移解释边界。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [],
+      "note": "害怕及朋友关系的拟对白没有作为实录。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "not-needed",
+      "assessment": "uncertain",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "southward-court"
+      ],
+      "note": "韬光养晦和成吉思汗套己心理未证；解释明确保留边界。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "jau-army"
+      ],
+      "note": "乣军名称及再次围城承接。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "jau-army"
+      ],
+      "note": "良乡收原给甲马、乣军因此叛乱实写。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "jau-army"
+      ],
+      "note": "补卢沟潜渡反击和降蒙再围城。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "jau-army",
+        "grain-route"
+      ],
+      "note": "留哥契丹而非女真；太子七月离城、通州降与断粮分期。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "chenghui-last-day"
+      ],
+      "note": "尚书省约同死与分歧、承晖最后一天实写。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "chenghui-last-day"
+      ],
+      "note": "尽忠谋南奔有据，幽默对白及西京可丢之语未作事实。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "chenghui-last-day"
+      ],
+      "note": "从良书对象为家中服役者，妻儿已死；补遗表和分财。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "chenghui-last-day"
+      ],
+      "note": "遗表引咎、明指术虎高琪和托师安石送表均有金101据；史文未录具体点名尽忠与龙业再兴的完整劝辞，不冒充逐字承接。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "chenghui-last-day"
+      ],
+      "note": "诀别文字倒写二字有据，无绝笔诗原文，不伪补。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "chenghui-last-day",
+        "jinzhong-flight"
+      ],
+      "note": "师安石闻哭返、承晖服毒与妃嫔待逃实写。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "jinzhong-flight"
+      ],
+      "note": "尽忠许先出开路、妃嫔信之并等候实写。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "jinzhong-flight"
+      ],
+      "note": "弃妃嫔而去以史文呈现，性别辱骂不补。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "jinzhong-flight",
+        "two-cities"
+      ],
+      "note": "1215失守、尽忠南逃与城市破坏承接，一把火烧尽的细节未核。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "two-cities"
+      ],
+      "note": "六十二年首都经历承接，节目创作免责声明不变为事实来源。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [],
+      "note": "与宋徽宗谁更蠢的戏谈不补。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P183",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "two-cities"
+      ],
+      "note": "保留君臣军政失败的整体反思，未将靖康简单等同。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P184",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "two-cities"
+      ],
+      "note": "以不同决定与军队补给解释，不采一切历史必然重演。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "two-cities"
+      ],
+      "note": "留守责任和人物评价入文，金全是傻子的总结不采。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "partial",
+      "assessment": "uncertain",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "two-cities"
+      ],
+      "note": "原述同次烧尽宫城未证；本文不制造毁坏规模。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P193",
+      "baselineVerdict": "partial",
+      "assessment": "uncertain",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "two-cities"
+      ],
+      "note": "世仇背景不能替代具体纵火命令，未作核定动机。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P194",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "two-cities"
+      ],
+      "note": "1267新城在旧中都东北、1272大都改名，不称成吉思汗烧后直接重建。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P195",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-last-defenders",
+      "sectionIds": [
+        "two-cities"
+      ],
+      "note": "位置及营建纪年有据，水源耗竭与风水因果仍保留待核。"
+    }
+  ]
+}

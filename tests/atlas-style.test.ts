@@ -3,6 +3,13 @@ import { describe, expect, it } from "vitest";
 import { createAtlasStyle } from "@/features/history-map/atlas/atlas-style";
 
 describe("createAtlasStyle", () => {
+  it("supplies local land context beyond the original East Asia tile extent", () => {
+    const style = createAtlasStyle();
+    expect(style.sources.extendedLand).toMatchObject({ type: "geojson", data: "/maps/base/atlas-land-context.geojson" });
+    const ids = style.layers.map(layer => layer.id);
+    expect(ids.indexOf("atlas-extended-land")).toBeGreaterThan(ids.indexOf("background"));
+    expect(ids.indexOf("atlas-extended-land")).toBeLessThan(ids.indexOf("earth"));
+  });
   it("uses curated lakes and political lines for selection rather than lake rings", () => {
     const style = createAtlasStyle();
     expect(style.sources.naturalWater).toMatchObject({data:"/maps/continuous/natural-water.geojson"});
@@ -10,6 +17,11 @@ describe("createAtlasStyle", () => {
     for (const id of ["atlas-realms-hover","atlas-realms-selected"]) {
       expect(style.layers.find((layer) => layer.id === id)).toMatchObject({source:"realmOutlines"});
     }
+  });
+  it("keeps shared coverage-band edges intact through GeoJSON tiling", () => {
+    const style = createAtlasStyle();
+    expect(style.sources.realms).toMatchObject({ tolerance: 0 });
+    expect(style.layers.find(layer => layer.id === "atlas-realms-fill")).toMatchObject({ paint: { "fill-opacity": ["*", ["coalesce", ["get", "coverageOpacity"], 1], ["match", ["get", "boundaryKind"], "influence", 0.16, 0.34]] } });
   });
   it("contains terrain context but no modern cartography", () => {
     const style = createAtlasStyle();

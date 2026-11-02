@@ -1,0 +1,692 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：完整读南朝01 P006–P060与南朝02 P134–P135共57段，对读宋书1、2、5、41、47，南史1，晋书65、84、100，通鉴111、113，三国志32，隋书2和辛弃疾全词。复用既有晋及南朝事件框架但另写早年故事，不将仅提主题算全文承接；宋书多死骑至后退与通鉴皆死坠岸独逐两版本并列，姓名谱系与拟心理保留证据边界。未回听音频；未核陈寅恪引文及现代彭城故里争论，未写六帝网络归纳。 已完成独立逐段交叉复核，并按反馈修正台账用语与过满判定。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "corrected": 6,
+    "not-covered": 3,
+    "partial": 35,
+    "covered": 12,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "south-before-song"
+      ],
+      "note": "承接420建宋至589灭陈，改本段约160年为首尾相距169年；同稿P010本已说169，本条只记录P006的数字校正，不把算术插话当新增史事。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "partial",
+      "assessment": "not-covered",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [],
+      "note": "北魏黄河以北势力与后继北朝大小是泛范围比较，没有给定年代和统一边界。不同朝代的疆域反复变化，不能用南朝背景一段冒充定量对比；本项不另绘未经研究的面积排名，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "south-before-song"
+      ],
+      "note": "承接宋齐梁陈顺序与长江中下游核心，未逐朝展开黄河以南边界的消长。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "south-before-song"
+      ],
+      "note": "承接建康与今南京关系；扬州、江陵、福州及沿海向南的城市地理未展开。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "south-before-song"
+      ],
+      "note": "承接南朝四代及169年；云贵四川控制范围、族属分类、刘宋59年8帝未逐项展开。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "south-before-song"
+      ],
+      "note": "补420—479相距59年、南朝420—589相距169年，前者约三分之一；仅作纪年比较，不作治绩评分。",
+      "resolution": "body-added",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "south-before-song"
+      ],
+      "note": "只承接四朝相继的总框架。齐梁陈各历时、帝数及强人建国概括未展开，尤其原稿南齐22年的数字未在本篇处理。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [],
+      "note": "把南朝后裔与高洋等并作换花样失政是节目过场评价，不是一条遗漏的具体宫廷事件。各人已由相应故事呈现行为与后果，不加没有判准的荒诞程度榜单，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [],
+      "note": "主要为雪泥鸿爪式闲谈及后续刘宋节目预告，无独立历史事实要求本文承接；不把转入刘宋算新增覆盖。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "south-before-song"
+      ],
+      "note": "承接从两晋转向东晋末年、国势衰弱的背景，并用安帝时各方分据而朝廷局促的具体局面说明。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "south-before-song"
+      ],
+      "note": "按通鉴列荆江豫及京口江北军权所在，承接安帝朝权力分散、中央难以统御的要点。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [],
+      "note": "战国、周末与汉末的群雄并起类比是叙事过场。不同制度和时段不能靠这一句完成可比社会史研究；本段不另立跨时代同因结论，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "south-before-song"
+      ],
+      "note": "承接刘裕建宋结束东晋、南朝起点，并说明军队与同僚在崛起中的作用；北魏是否已整合北方全部势力及其具体时序未展开。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "south-before-song",
+        "birth-and-name"
+      ],
+      "note": "承接北方家族南迁与刘氏迁京口；原段概括南朝统治家族随司马南来，正文没有把这种概括当作一次迁徙的完整过程，孙权营建建康的具体过程未展开。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "south-before-song"
+      ],
+      "note": "承接北来家族与江南旧族共处；迁都选择的推拟过程、已有城市设施未逐项考述。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "south-before-song"
+      ],
+      "note": "承接江南旧族与北来家族的背景；原段以汉代宗室分封说明本地士族形成，正文未展开该例及汉至晋经济开发。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "south-before-song"
+      ],
+      "note": "承接刘宋名称用于区别赵宋、建立者为刘裕；主持人自称主理人的插话不计。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "xin-qijis-jinu"
+      ],
+      "note": "承接刘裕军事评价与永遇乐引入，全词随节呈现；武力前几名及此词公认第一都是未量化的主持人评价，不当学界共识。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "xin-qijis-jinu"
+      ],
+      "note": "按辛词全文校正孙仲谋、寄奴、元嘉、封狼居胥、佛狸等转写，保留全词并加译文；未回听原音。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "xin-qijis-jinu"
+      ],
+      "note": "承接寄奴即刘裕、元嘉为刘宋年号，并补明确属于刘义隆而非父亲刘裕。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "xin-qijis-jinu"
+      ],
+      "note": "承接辛弃疾借金戈铁马称颂刘裕的理解，结合廉颇收尾解释词人壮志与年老的自况；不转成客观武力排行。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "birth-and-name"
+      ],
+      "note": "写史籍彭城县绥舆里与迁京口，未裁定现代宿州徐州的具体故里之争，也未承接旅游争名人动机和诸葛亮地望类比。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "birth-and-name"
+      ],
+      "note": "明确宋书追溯楚元王刘交、刘交为刘邦弟，南史为二十一世孙，校正本段二十二；皇室谱系保留为史籍说法，不直接作独立核实的世系。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "birth-and-name",
+        "two-men-named-liu"
+      ],
+      "note": "承接有仕宦背景而家贫及称宋问题；只将刘交后裔列为官方谱系叙述，不将血缘和国号之间的推测变成确证。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "two-men-named-liu"
+      ],
+      "note": "承接刘备与汉宗室身份、两刘国号比较的切入；未完整展开蜀汉国号的政治宣告，汉帝玄孙含混表述改以三国志中山靖王之后转述，不定具体代数。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "two-men-named-liu"
+      ],
+      "note": "据三国志交代刘备出自汉景帝子刘胜的史籍说法，刘裕与刘邦疏远所以不称汉的拟心理未采；原玄孙字样未当已核代数。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "two-men-named-liu"
+      ],
+      "note": "承接宋公、宋王到宋朝及刘备比较，未采用刘裕自认与刘邦没那么近的内心推断。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "birth-and-name",
+        "poor-household",
+        "two-men-named-liu"
+      ],
+      "note": "承接家族有旧日仕宦而个人家贫、与刘备贫困经历可作比较；将重演剧本保留为比较而非实际模仿的事实命题。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "birth-and-name"
+      ],
+      "note": "承接父为郡功曹、赵母产疾死、亲属哺养；以宋47请不起乳母校正做官即可保证家中温饱的断言。九岁丧父未核定，也不把婴儿受乳推成一直寄养。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "birth-and-name"
+      ],
+      "note": "承接幼年失去生母与寄奴小名，补继母萧氏持续照料的另一面；寄奴必因寄养得名和奴字的一般称谓史未确证，不据此给命名原因定论。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "birth-and-name",
+        "poor-household"
+      ],
+      "note": "承接贫困而非王氏核心大族的身世，补父祖官职；陈寅恪次等士族引语未核到原文，常年寄人篱下的全童年经历未写定。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "poor-household",
+        "two-men-named-liu"
+      ],
+      "note": "据通鉴卖履、南史樵渔与躬耕展开多种谋生经历，另以三国志刘备贩履织席作比较；不据此推定两人互相仿效。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "poor-household"
+      ],
+      "note": "承接体力谋生的具体境遇；市井习气的宽泛性格标签未作统一结论。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "poor-household",
+        "wang-mi-and-the-army"
+      ],
+      "note": "承接好樗蒲、乡里轻视，分别写宋书社钱三万与通鉴113同刁逵樗蒲未及时付清钱款的两种叙述；原段倾家荡产程度及刘邦家族遗传式笑谈未采用，不因有赌博史源便将全部推断算已补。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "poor-household"
+      ],
+      "note": "明确399年三十多岁、此后战绩记载密集；不能据此确定那一年才决定发愤，保留早年经历的空白。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "poor-household"
+      ],
+      "note": "承接妻臧爱亲及已生女儿的家庭故事，新增婚后俭素；成家促成发愤及自认有门第该获举荐的拟心理未采。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "wang-mi-and-the-army"
+      ],
+      "note": "按晋65承接琅邪王谧赏识及一代英雄评价；未核到刘裕四处求举孝廉的过程，不将同族王氏泛说扩大为特定近亲关系。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "wang-mi-and-the-army"
+      ],
+      "note": "承接评价须辨叙事层次、王谧善待与刘裕后来保护他，并写代还三万钱和404年迎还；仕途不通才投军的因果未写定。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "south-before-song",
+        "wang-mi-and-the-army"
+      ],
+      "note": "承接孙无终司马身份、北府军经历；未将起任幕府职任必因门第作为史料明言。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "sun-en-rises",
+        "wang-mi-and-the-army"
+      ],
+      "note": "承接399孙恩起事、五斗米道背景与谢琰刘牢之东讨、北府来历；王氏信教旁支的具体家族关系未展开。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "sun-en-rises",
+        "two-men-named-liu"
+      ],
+      "note": "以讨孙恩与刘备讨黄巾作有限比较，说明无据认定刘裕照刘备剧本行动；原稿代入刘裕发现人生召唤的对白未作史实。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "wang-mi-and-the-army",
+        "sun-en-rises"
+      ],
+      "note": "承接谢琰刘牢之东讨、刘裕由孙无终司马转刘牢之参军；宋书明说牢之请入，未找到孙无终亲自推荐的环节。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "sun-en-rises",
+        "the-patrol"
+      ],
+      "note": "承接数十人的侦察队遭遇数千敌众及侦察任务；未把史籍记数当现代实测。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "the-patrol"
+      ],
+      "note": "承接人数悬殊仍进战，未替刘裕写今天我要扬名的拟心理。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "the-patrol"
+      ],
+      "note": "分别呈现宋书部众多死、通鉴皆死与坠岸；以岸下而非未经确认的土坡复述通鉴，保留两书伤亡程度差异。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "the-patrol"
+      ],
+      "note": "承接通鉴仰刀击敌、登岸续战；敌人讨首级等拟对白未采用。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "the-patrol"
+      ],
+      "note": "承接刘敬宣骑兵搜寻并救援；先打一圈即劝撤退的拟对白未见所核史源。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "the-patrol"
+      ],
+      "note": "承接援军加入后进兵收复山阴；拒撤并誓活捉孙恩的拟对白未采用，亦未把山阴现代行政对应展开。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "the-patrol",
+        "wars-along-the-shore"
+      ],
+      "note": "承接孙恩逃海与刘裕战功渐显，并以其后连战说明声名累积，未写作一战便已确定全部仕途。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "the-patrol"
+      ],
+      "note": "承接少击多及对夸张的质疑，补独逐数千确见通鉴而非只来自网络；不能据个人打架经验判定具体战场场面必真或必假，保留文本层次。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "the-patrol"
+      ],
+      "note": "承接苦战至援军赶来；并列通鉴独逐数千与宋书骑至后敌退，不把原段对网络叙述的否定升级成已解决的史料争议。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "the-patrol",
+        "wars-along-the-shore"
+      ],
+      "note": "通过遭遇战、海盐伏兵、失利后脱身与治军展开勇力和机变，承接讨孙恩使声名上升。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "six-rulers"
+      ],
+      "note": "实际补桓玄、慕容超、谯纵、姚泓、晋安帝、晋恭帝六位君主各自结局，区分冯迁斩杀、部将入蜀后自缢、送京处死及下令弑旧君；谯纵身份不全称帝，恭帝死在建宋以后，不照录药名或亲手杀六帝。",
+      "resolution": "body-added",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "wars-along-the-shore"
+      ],
+      "note": "承接孙恩屡次返海上陆与卢循继起，补晋100所记临海太守辛景最后击败孙恩，校正由刘牢之带刘裕一路直接消灭的简化；卢循为卢植后裔的远世谱系未在正文展开。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "wars-along-the-shore"
+      ],
+      "note": "承接卢循后来由已非刘牢之部将的刘裕击败及战乱耗损晋朝，分清410统军获胜与411杜慧度最终击败卢循，未把主持人个人屠龙比喻作史实。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "two-men-named-liu",
+        "xin-qijis-jinu"
+      ],
+      "note": "承接出身贫困、亲自作战与辛词评价，并以军队、援骑、同僚说明白手起家的具体条件；喜欢程度与开国君主名次是个人评价。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-origins",
+      "sectionIds": [
+        "two-men-named-liu",
+        "xin-qijis-jinu"
+      ],
+      "note": "承接刘备比较与刘裕取得关洛、子孙未能保持成果，补418关中失守尚在刘裕生前；未把对手强弱和运气作为两人人生结果的充分解释，后世子孙倾覆经过留待后篇。"
+    }
+  ],
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "南朝01_clean_v1.md",
+        "paragraph": "P007",
+        "resolution": "research-closed"
+      },
+      {
+        "file": "南朝01_clean_v1.md",
+        "paragraph": "P011",
+        "resolution": "body-added"
+      },
+      {
+        "file": "南朝01_clean_v1.md",
+        "paragraph": "P013",
+        "resolution": "research-closed"
+      },
+      {
+        "file": "南朝01_clean_v1.md",
+        "paragraph": "P017",
+        "resolution": "research-closed"
+      },
+      {
+        "file": "南朝01_clean_v1.md",
+        "paragraph": "P058",
+        "resolution": "body-added"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

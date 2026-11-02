@@ -1,0 +1,329 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：S23：已完整阅读本篇所列原段，对照正文及列明原典逐段自审；子代理起草，主代理已独立阅读全文原段、原典与逐段台账并完成交叉复核；页面验证待补。未回听音频；基线保持不变。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "partial": 12,
+    "covered": 9,
+    "corrected": 5,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "qingtang",
+        "broken-peace"
+      ],
+      "note": "补具体战斗和诈和，不误称萧绎本人亲到城下组织所有战斗。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "hunger"
+      ],
+      "note": "米粮之外缺薪盐、饥病与人相食均有承接，未作无依据病原诊断。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "hunger"
+      ],
+      "note": "侯景也缺粮，以诈和运东府粮；台城可守一两年反事实无法证，不纳。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "royal-rivals",
+        "hunger"
+      ],
+      "note": "萧统后立萧纲、宗室紧张承接，不把诸子心理全由长嫡规则推定。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "qingtang",
+        "royal-rivals"
+      ],
+      "note": "写统属冲突与地盘竞争，不一概说所有援军从未救援。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "qingtang",
+        "broken-peace"
+      ],
+      "note": "柳仲礼奋战重伤、伤后不战和柳津责问写具体过程。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [],
+      "note": "主持人虚构武帝理解柳津的对白及劝人别溺爱之插话，无独立事实承接；不把相邻段问策内容移到本段。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "broken-peace"
+      ],
+      "note": "羊侃、朱异死后仍有和议再战；最后有董勋熊昙朗内应，非简单水淹即陷。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "meeting-the-emperor"
+      ],
+      "note": "入见时惶惧依据通鉴，并非无来源心理猜测。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "meeting-the-emperor"
+      ],
+      "note": "入见兵数问答和天下皆有之夸语，明确不是实际控制范围。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "meeting-the-emperor"
+      ],
+      "note": "自我得失之叹在城陷萧确报告时，非必在侯景问兵之后。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "meeting-the-emperor"
+      ],
+      "note": "侯景以诏命遣散援军并控制宫城。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "meeting-the-emperor"
+      ],
+      "note": "具体区分退散与投降，不把诸军全写为借机扩势。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "last-days"
+      ],
+      "note": "记饮膳裁减、忧愤成疾与索蜜不得，不把婚姻拒绝当虐待唯一已证动机。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "last-days",
+        "titles"
+      ],
+      "note": "萧纲即位、萧正德失帝位的时间和关系写明。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "titles"
+      ],
+      "note": "补萧正德私信被截后遇害，节目对骂不作史录。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "last-days",
+        "titles"
+      ],
+      "note": "太子法统有用可从安排看出，不虚构侯景完整内心计划。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "titles"
+      ],
+      "note": "侯景娶正德女在548称帝助军阶段，非549才索女；旧承诺失效写出。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "titles"
+      ],
+      "note": "由实际授官过程衔接，不沿用婚配时序。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "titles"
+      ],
+      "note": "宇宙大将军确见本纪与通鉴，不另杜撰一般大司马递迁程序。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "titles"
+      ],
+      "note": "具体称号和简文惊问有据。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "titles"
+      ],
+      "note": "补淮南齐俗宇为空间、宙为时间，与宇宙大将军/六合的官号相对照；纠正原段倒置词义，不作太空军衔或古人x/y轴数学观念。",
+      "resolution": "body-added",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "titles"
+      ],
+      "note": "称号夸张与实权控制并列，没文化属节目主观评语不作定论。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "royal-rivals"
+      ],
+      "note": "写萧慥、萧誉、萧方等具体事件，不误称全是萧绎亲兄弟。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "royal-rivals"
+      ],
+      "note": "承接宗室争权后果，不把说出口便应验当因果。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "royal-rivals"
+      ],
+      "note": "解释名义与辖境竞争，未替所有宗室虚构救简文无利可图的心理。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiankang-fall",
+      "sectionIds": [
+        "royal-rivals"
+      ],
+      "note": "上游内战消耗平乱力量且先形成自己的指挥系统。"
+    }
+  ],
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "南朝05_clean_v1.md",
+        "paragraph": "P101",
+        "resolution": "body-added"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

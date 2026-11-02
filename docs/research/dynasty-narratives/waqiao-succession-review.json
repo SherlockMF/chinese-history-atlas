@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11收尾独立复核：逐读指定原P、现正文及所用原典；实义评价以编辑解读承接，未证心理、比例和全称判断明确研究结案；未回听音频。",
+  "counts": {
+    "covered": 6,
+    "not-needed": 1,
+    "partial": 5,
+    "corrected": 1
+  },
+  "rows": [
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P224",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "waqiao-succession",
+      "sectionIds": [
+        "waqiao-campaign"
+      ],
+      "note": "高梁河后的边境战争承接；瓦桥关胜利不等于辽宋战争结束。丽泽玩笑不采。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P225",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "waqiao-succession",
+      "sectionIds": [],
+      "note": "庙号景宗的相声式玩笑，节目自嘲已点破，无实质命题。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P226",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "waqiao-succession",
+      "sectionIds": [
+        "waqiao-campaign"
+      ],
+      "note": "980亲征瓦桥三捷及景宗朝辽宋互有胜负有辽9/83支撑；陈述《辽代史话》未亲读，未保留作核实过的引语，健康衰弱/以后败多的总评未扩写。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P227",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "waqiao-succession",
+      "sectionIds": [
+        "jiaoshan-end",
+        "succession-settled"
+      ],
+      "note": "祥古山病、焦山崩、35岁、斜轸韩德让托孤实承接；丰南镇/丰镇今地指认未独核不采用。跨两节补精确227引用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P228",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "waqiao-succession",
+      "sectionIds": [
+        "succession-settled"
+      ],
+      "note": "第一次顺利父死子继的判断承接，原因落在下节《辽史》框架。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P001",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "waqiao-succession",
+      "sectionIds": [
+        "succession-settled"
+      ],
+      "note": "景宗离世与托孤话题承接；刀削面等闲谈不采。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "waqiao-succession",
+      "sectionIds": [
+        "succession-settled"
+      ],
+      "note": "顾命更正：受顾命者是耶律斜轸与韩德让（《辽史》卷82“与耶律斜轸俱受顾命”），口述辽03稿作休哥系误记；“南院大王”为武侠小说名号非史文官称。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "waqiao-succession",
+      "sectionIds": [
+        "succession-settled"
+      ],
+      "note": "research-closed：原篇已短述契丹国志的特殊宠任传闻及其限度，区分传闻与实际辅政；韩篇the-gossip是另外的具体承接，未将他篇正文冒算成本篇。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "waqiao-succession",
+      "sectionIds": [
+        "succession-settled"
+      ],
+      "note": "契丹政权更替多叛乱的传统承接为背景。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "waqiao-succession",
+      "sectionIds": [
+        "succession-settled"
+      ],
+      "note": "“母寡子弱，族属雄强，边防未靖，奈何”与“信任臣等，何虑之有”按《辽史》卷71逐字承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "waqiao-succession",
+      "sectionIds": [
+        "succession-settled"
+      ],
+      "note": "親读契丹国志18明确诸王归第、不得私相燕会、夺兵权，恢复具体措施，不再空称“他书”。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "waqiao-succession",
+      "sectionIds": [
+        "succession-settled"
+      ],
+      "note": "契丹国志18明确召赵王等妻子赴阙，恢复此事；未明说女眷陪太后或人质，正文不扩写。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "waqiao-succession",
+      "sectionIds": [
+        "succession-settled"
+      ],
+      "note": "韩家汉人祖先被掳按辽74与辽82明确写入；隆绪即位及平稳过渡承接。"
+    }
+  ],
+  "independentReview": "complete",
+  "independentReport": "final-unadopted-liao-wudai-independent.md"
+}

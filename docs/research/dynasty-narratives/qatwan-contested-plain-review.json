@@ -1,0 +1,296 @@
+{
+  "date": "2026-10-11",
+  "method": "起草后由根代理独立逐段对读原逐字稿、正文、定位与相关史源；按实际内容保留partial/uncertain，不回听音频。见cross-review-l45-l52.md。",
+  "counts": {
+    "partial": 5,
+    "covered": 9,
+    "corrected": 8,
+    "not-needed": 2,
+    "uncertain": 2
+  },
+  "rows": [
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "two-wars"
+      ],
+      "note": "1137扩张承接，思想健康是节目总评不作全族事实。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "two-wars"
+      ],
+      "note": "1137忽毡败马赫穆德、退撒马尔罕与未立即吞河中承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "two-wars"
+      ],
+      "note": "塞尔柱宗主背景承接，11世纪极盛疆域不展开。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "two-wars"
+      ],
+      "note": "强宗主使冲突升级承接，全部出于忌惮的心理未断。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "two-wars"
+      ],
+      "note": "未即吞河中承接，守等良机内心及北汉类比未作事实。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "two-wars"
+      ],
+      "note": "葛逻禄与喀喇汗政权争端承接，不简单写康里与葛逻禄两民族互打。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "two-wars"
+      ],
+      "note": "马赫穆德求桑贾尔援助承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "two-wars"
+      ],
+      "note": "葛逻禄转求大石与两宗主冲突承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "two-wars"
+      ],
+      "note": "桑贾尔出兵与大石交涉承接，拟对白不添。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "two-wars"
+      ],
+      "note": "替葛逻禄求宽宥承接，全文及草原亲戚说未核。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [],
+      "note": "互骂、天冷及主持人戏拟。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "three-columns"
+      ],
+      "note": "卡特万地点、三路统帅及各2500据辽史承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "three-columns"
+      ],
+      "note": "十万和两翼各2500标出处，纠正辽史未记总数不足三万；40万70万未直接核完整传本。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "three-columns"
+      ],
+      "note": "故意退却、两翼不同语种和战术过程未直接核得原始记载，不写为实景。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "three-columns"
+      ],
+      "note": "逐财追击拉长阵线与葛逻禄突击细节未核原始记录。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "three-columns"
+      ],
+      "note": "大败与妻被俘承接，妻弟全部战死纠正；葛逻禄战术未核。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "three-columns",
+        "victory-and-tribute"
+      ],
+      "note": "战果与河中宗主权分列两节，不以现代地图锁定桑贾尔落脚点。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [],
+      "note": "数字夸大动机戏拟，不猜每作者心理。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "three-columns"
+      ],
+      "note": "纠正唐军怨雪耻内心无证与以少胜多已证定论。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "three-columns"
+      ],
+      "note": "桑贾尔马赫穆德退呼罗珊、大石保留地方王朝承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "victory-and-tribute"
+      ],
+      "note": "伊布拉辛三世继位与既有桃花石汗称号承接，非新造汉封号。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "victory-and-tribute"
+      ],
+      "note": "额儿布思攻花剌子模及村庄劫掠承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "victory-and-tribute"
+      ],
+      "note": "阿即思年贡与臣属承接，3千3万差异留下，不说中亚全部直属。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "victory-and-tribute"
+      ],
+      "note": "战役与分层治理成就及征讨代价并列评价。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "victory-and-tribute"
+      ],
+      "note": "诗及颇尚文教亲核湛然居士集自注，作者楚材非成吉思汗；穆斯林具体崇拜评语未核原文。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qatwan-contested-plain",
+      "sectionIds": [
+        "prester-john"
+      ],
+      "note": "祭司王约翰早期文本及第二次十字军背景承接，非大石确为基督徒；该段末继承另入L48。"
+    }
+  ]
+}

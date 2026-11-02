@@ -1,0 +1,425 @@
+{
+  "date": "2026-09-30",
+  "method": "人工逐段通读北魏02 P002–P007、P028–P057共36段，对读魏书卷1、2、13、15、23、24，通鉴卷104、晋书卷112、113与宋书卷95。主线采用魏书与通鉴，并保留生俘、谱系、燕凤献策时间线冲突；逐段记录正文承接和未核支线，不以同名或来源范围自动判覆盖。未回听音频。",
+  "counts": {
+    "covered": 10,
+    "corrected": 20,
+    "partial": 6
+  },
+  "rows": [
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "qin"
+      ],
+      "note": "苻氏氐人背景、苻坚的政治与军事作用已用执政、任人、农学和兼并事例承接，不只留下好皇帝的标签。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "qin"
+      ],
+      "note": "以苻氏陇右—河北—关中经历与具体农政限定青海地域和单一生产方式泛称，不将现代藏苗生活印象套入氐人史。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "qin"
+      ],
+      "note": "汉文化相关治理与统一功业已承接；明确生产方式、政权组织与现代族性想象须分开，所谓过渡阶段及野性不作为民族固定特征。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "qin"
+      ],
+      "note": "北方统一、政治军事作用与项羽类比的评价性质已承接；后来的南征膨胀及完整性格评价未在这篇前史展开。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "qin"
+      ],
+      "note": "项羽类比与该杀不杀论明确放在事后评价层，正文回到实际安边方案，不以性格类比直接解释灭代后处置。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "qin",
+        "yan-plan"
+      ],
+      "note": "保留处置降者与后裔的决策问题，明确慈善或不够狠不能替代当时安边逻辑；不将斩草除根作为历史必然准则。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "卫辰归叛、什翼犍渡河追讨已写，秦都校为长安，并拆开365年的局势与367年的渡河战事。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "铁弗刘卫辰持续被追逐和刘库仁作为代方南部大人的身份均已交代；眼中钉是口语评价，不增造私人仇恨。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "river",
+        "invasion"
+      ],
+      "note": "刘库仁身份、375年求援及376年苻洛进兵均写，兵数按两书分别表述；原段把刘库仁此前活动泛写为连续追阻卫辰，未逐次核实补全。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "invasion"
+      ],
+      "note": "前秦侵逼南境、白部独孤部抵抗失败及刘库仁一方迎战已展开，呈现此次战争改变代国命运的具体过程。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "invasion"
+      ],
+      "note": "刘库仁退云中、十万骑石子岭再败与什翼犍有病不能亲征均已写；精神压力使其患病的病因推断未采为已证事实。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "invasion"
+      ],
+      "note": "高车诸部反叛、迁阴山以北、受袭失去牧地后重返漠南的内外困境已展开，不以单一弃城动作替代迁徙过程。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "invasion",
+        "camp",
+        "accounts"
+      ],
+      "note": "云中归来十二日后死亡和寔君内乱已承接，并列古籍异说；秦军只是稍退仍在君子津，校正此前已彻底结束战争的叙述。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "camp"
+      ],
+      "note": "寔君夺位猜疑已归通鉴的继承争端，明确更有资本与苻坚谈判等内心推演未获史料支持。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "invasion",
+        "camp"
+      ],
+      "note": "奔告秦军、李柔张蚝趋云中已写，说明原军尚近，并非苻坚后来突然才以报仇名义重新组军。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "camp"
+      ],
+      "note": "代众离散与376年代国统治瓦解已写，明确不能将代国覆亡当作全部北魏历史终点。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "camp",
+        "judgment"
+      ],
+      "note": "灭代、秦接管和转入处置寔君的问题已承接；苻坚作为主要外敌的作用通过过程呈现。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "judgment"
+      ],
+      "note": "寔君与斤的车裂以及苻坚谴责恶行已写；单凭该事断定苻坚受中原思想影响有多深，未作为定量或单一因果结论。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "judgment"
+      ],
+      "note": "杀父者受罚已承接，明确替代王报仇的政治表演和特意选择最残忍方式的内心说明未见相应记载。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "accounts",
+        "judgment",
+        "yan-plan"
+      ],
+      "note": "惩处与幼童安置已写，校正寔君之子为什翼犍之孙、寔之子；给自己诸子示警的意图明确保留为未证推测。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "accounts",
+        "yan-plan"
+      ],
+      "note": "幼年拓跋珪的去留已展开，分清其父系，并以燕凤安边方案替代杀之必招报仇的未经核定因果。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "yan-plan"
+      ],
+      "note": "二刘分领及旧代将转受秦任已展开；分部是燕凤建议后实施，且首先关乎部众统领，不把疆域简化为现代行政区一分为二。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "yan-plan"
+      ],
+      "note": "刘库仁先为代臣、后受前秦官爵统领旧部的双重关系已写，未将其归附前秦等同抛弃旧主后裔。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "qin"
+      ],
+      "note": "苻氏氐人背景已承接；原段将拓跋、慕容、独孤等集团统归鲜卑的族称清单未一概沿用，族属专题未全面展开。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "刘库仁与刘虎宗族、母系与拓跋婚姻的记载已承接；原段另以汉匈和亲、母家刘姓说明匈奴取汉姓刘，这一取姓解释尚待专门核源，正文未展开，不能以反对单一赐姓说代替处理。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "accounts",
+        "yan-plan"
+      ],
+      "note": "拟迁幼主的目的地明确为长安，非洛阳；保留秦廷控制安置问题，不把干部比喻当作苻坚原话。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "accounts",
+        "yan-plan"
+      ],
+      "note": "燕凤向苻坚提出建议及被采纳已写；两刘分部是建议内容而非已经完成的前提，改正讲述顺序。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "invasion",
+        "yan-plan"
+      ],
+      "note": "刘库仁勇而有智、实际奋战而败与尽职的主要评价均有具体承接；现代足球插话不复写。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "river",
+        "yan-plan"
+      ],
+      "note": "卫辰多变、二人不可独任与刘库仁母亲出拓跋氏的婚姻关系均已写，以族属记载承接本段而非仅同名。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "accounts",
+        "yan-plan"
+      ],
+      "note": "六岁、成年后扶立与存亡继绝的劝说已写；主张是未来政治回报，不是幼童已治地方或必然形成感恩心理。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "accounts",
+        "judgment",
+        "yan-plan"
+      ],
+      "note": "惩寔君而保留拓跋后裔及其政治效果已承接，校正父子关系，明确不能据幼年身份保证其日后理解与态度。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "yan-plan"
+      ],
+      "note": "苻坚听从进言已写，儿童可任意塑造的类比限定为不能保证的心理推断，不拿来解释必然结果。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "qin",
+        "yan-plan",
+        "shelter"
+      ],
+      "note": "采纳方案、贺氏携幼主转居贺兰再独孤已写；六岁不等于掌地方、仪不一概列亲弟，并区分项羽与斩草比喻的事后评价性质。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "shelter"
+      ],
+      "note": "入贺兰的关系与后续转居已承接，明确所读记载不支持舅家因家道中落而拒收的故事。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "shelter"
+      ],
+      "note": "对不接纳原因的两段推测逐项限定：秦复仇和长大兼并的对白未见记载，不能以后来的贺兰内部分歧前移到376年。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dai-fall",
+      "sectionIds": [
+        "shelter"
+      ],
+      "note": "刘库仁接纳贺氏与幼主、仍守臣节和提供安全环境已写，同时保留他受秦任命的实际身份。"
+    }
+  ]
+}

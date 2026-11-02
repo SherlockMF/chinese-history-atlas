@@ -1,0 +1,371 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "covered": 17,
+    "corrected": 6,
+    "not-needed": 2,
+    "partial": 8
+  },
+  "rows": [
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "wait-and-march"
+      ],
+      "note": "947晋阳即帝、国号汉与待契丹撤军时机已用，补天福十二年非一上来另号。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "wait-and-march"
+      ],
+      "note": "刘知远按沙陀背景，不附会刘姓即匈奴、中山靖王后裔。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "corrected",
+      "assessment": "not-needed",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [],
+      "note": "汉公主后代及忽必烈叫刘必烈的跨代聊天，本篇未获可靠出处，不作建国血统证明。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [],
+      "note": "主持人追问刘必烈真假，无新增后汉行动。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "wait-and-march"
+      ],
+      "note": "史弘肇前驱、南下入洛汴已用，不把民众全部打累当唯一时机。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "wait-and-march"
+      ],
+      "note": "政策安抚与军纪方向已用；魏州许降后杀人也补，不能宣称靠纪律已全赢民心。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "wait-and-march"
+      ],
+      "note": "李氏劝出宫蓄代率民财及郭威劝进已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "wait-and-march"
+      ],
+      "note": "史弘肇前驱、杜重威仍拒调、汉劝降及围魏已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "wait-and-march"
+      ],
+      "note": "魏州饥降与后汉承位已用；曾急攻死伤后才围，非一直不打。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "wait-and-march"
+      ],
+      "note": "四辅臣得职与暂定秩序已用；所有政策都有效的全称受魏州杀约反例限制。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "harsh-order"
+      ],
+      "note": "郭外全体文盲流氓的概括不沿用，分吏治军宿卫财赋职掌及个人差异。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "harsh-order"
+      ],
+      "note": "具体严法与财税政策已用；不说全部不识字、只发财无治理能力。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "harsh-order"
+      ],
+      "note": "独立补新五代30刘铢随年杖、合欢杖，按人物区分酷政。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "harsh-order"
+      ],
+      "note": "独立亲读通鉴288王守恩洛阳课率至行乞、抒厕与丧车，补回地方史事，非全国统一乞丐税。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "harsh-order"
+      ],
+      "note": "948正月病中托四辅幼主与死已用，万岁殿准确；无命做帝拟语删去。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "harsh-order"
+      ],
+      "note": "遗言是善防重威，死后臣下诛父子；不能把直接临终命其死当逐字原令。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "harsh-order"
+      ],
+      "note": "辅政权力结构及幼主受限已用；郭外全员不顾百姓不当全称定论。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "silenced-emperor"
+      ],
+      "note": "李业官职请求被阻、国舅不能超序已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "silenced-emperor"
+      ],
+      "note": "所求为宣徽使非刺史；耿夫人立后被拒已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "silenced-emperor"
+      ],
+      "note": "耿氏死后拟皇后礼葬遭拒、幼帝起杀心与近人进谗已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "silenced-emperor"
+      ],
+      "note": "950十一月伏杀杨邠史弘肇王章于朝已用，不依宇文护类比造现场。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "silenced-emperor"
+      ],
+      "note": "权臣亲党遭诛、另一密诏欲杀郭威王殷已用，不说所有非遗旧臣真全杀。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "secret-edict"
+      ],
+      "note": "密诏被泄郭军南下、俘内侍鸗脱已用，具体日不以口述孤证定。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "secret-edict"
+      ],
+      "note": "鸗脱领夹表回朝、索谗臣和郭家婴儿皆杀已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "secret-edict"
+      ],
+      "note": "刘子陂汉军败、帝欲返城刘铢拒门已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "secret-edict"
+      ],
+      "note": "帝逃赵村被乱军杀、太后与郭议嗣已用；老哥们拟对白不作宫中实录。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "yellow-flag"
+      ],
+      "note": "迎刘赟与契丹陷内丘饶阳军报据通鉴289已用，不把真实边报写成郭捏借口。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "yellow-flag"
+      ],
+      "note": "澶州军士怕刘氏继位追罪、拥郭北返已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "yellow-flag"
+      ],
+      "note": "撕黄旗披郭、回京951即位国号周已用；一披即全天下刘氏皆灭不沿用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "yellow-flag"
+      ],
+      "note": "后汉两帝短祚、北汉刘崇续立已用；后蜀下节另承接。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "liu-evaluation"
+      ],
+      "note": "重新评价刘知远有长短的议论已用；主播欣赏哪个人不是额外史事。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "liu-evaluation"
+      ],
+      "note": "出兵判断、财政调整的可取例已用；同姓拍马屁笑谈删去。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "liu-evaluation"
+      ],
+      "note": "不足一年治理限制验证长期能力已用，同时保留魏州杀约与观望责任，不因短暂全免。"
+    }
+  ]
+}

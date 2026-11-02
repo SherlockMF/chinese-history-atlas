@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-30",
+  "method": "通读隋下P171、P189–P193共6段，核通鉴185、隋书4/45、旧唐1，结合2014发掘报告全文转载、扬州博物馆专家会议纪要、2014人民日报海外版原版及2013深圳商报官方账号报道。古代葬事、考古身份与现代同名笑谈分开，原稿已有的传闻限定保留；未回听音频，P171与江都篇交叉不重复计唯一原段。",
+  "counts": {
+    "corrected": 3,
+    "partial": 2,
+    "covered": 1
+  },
+  "rows": [
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-tomb",
+      "sectionIds": [
+        "bedboards-and-reburial",
+        "dates-in-fragments"
+      ],
+      "note": "校宫人、床板小棺与流珠堂暂殡，分别列陈棱葬、622文献与不早于627考古判断，不采631唯一节点。此段与江都篇交叉，统计唯一原段时去重，不重复计功。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P189",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-tomb",
+      "sectionIds": [
+        "bedboards-and-reburial",
+        "bricks-at-caozhuang",
+        "dates-in-fragments"
+      ],
+      "note": "校631唯一改葬日期，补2012末发现线索与2013发掘、认定过程；分开墓主身份确认和仍须讨论的终葬具体时间。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P190",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-tomb",
+      "sectionIds": [
+        "bricks-at-caozhuang",
+        "dates-in-fragments"
+      ],
+      "note": "用报告、官方专家会议及同期新闻补建设现场发现和墓主综合认定，分别说明两墓；不把这个建设案例扩大为中国考古一概只有被动一种，也不把开发场景仅作未证传闻。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P191",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-tomb",
+      "sectionIds": [
+        "a-modern-name"
+      ],
+      "note": "原段已明说坊间传闻、未见官方，未把它当作主播确定断言再驳。补报纸所述孙勇为总经理、杨勇为副总经济师，纠正传言中老板职务；杨建等转写未回听，报道亦非现代人事档案的独立核实。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "yang-guang-tomb",
+      "sectionIds": [
+        "a-modern-name"
+      ],
+      "note": "承接千年同名巧合成为谈资的传播吸引力，区分玩笑与古代证据；上一期片尾曲未提供准确曲名及版本，未猜补或计为承接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P193",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "yang-guang-tomb",
+      "sectionIds": [
+        "a-modern-name"
+      ],
+      "note": "明确现代同名不能成为古代杨勇复仇，保留笑谈之外真实家族悲剧的感受；原段本属玩笑和反思，没有伪装成待证转世史实。"
+    }
+  ]
+}

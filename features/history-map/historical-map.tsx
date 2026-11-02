@@ -8,6 +8,7 @@ import { clampSeriesYear } from "@/lib/history/series";
 import { fiveDynastiesConfig } from "@/data/series/five-dynasties/config";
 import type { HistorySeriesConfig, HistoricalMapSnapshot } from "@/types/series";
 import { SnapshotMap } from "./snapshot-map";
+import { LocationsMap } from "./locations-map";
 import type {
   Dynasty,
   HistoricalEvent,
@@ -135,6 +136,7 @@ const EMPTY_ATLAS: AtlasDataset = {
 
 export function HistoricalMap(props: HistoricalMapProps) {
   const series = props.series ?? fiveDynastiesConfig;
+  if (series.mapMode === "locations") return <LocationsMap key={series.id} series={series} locations={props.locations ?? EMPTY_LOCATIONS} events={props.events ?? EMPTY_EVENTS} dynasties={props.dynasties} />;
   if (series.mapMode === "snapshot") return <SnapshotMap series={series} snapshots={props.snapshots ?? []} dynasties={props.dynasties} events={props.events} />;
   return <AnnualHistoricalMap {...props} series={series} />;
 }
@@ -154,7 +156,7 @@ function AnnualHistoricalMap({
   const yearRecord = useMemo(() => resolveMapYear(year, events), [events, year]);
   const dynasties = useMemo(() => withMapPolities(siteDynasties), [siteDynasties]);
   const [resolution, setResolution] = useState<SnapshotResolution>();
-  const [showReference, setShowReference] = useState(false);
+  const [showReference, setShowReference] = useState(true);
   const [referenceAtlas, setReferenceAtlas] = useState<AtlasDataset>();
   const [referenceError, setReferenceError] = useState<string>();
   const [rendererFailure, setRendererFailure] =
@@ -172,9 +174,11 @@ function AnnualHistoricalMap({
     if (!showReference || !referenceAtlas) return annualAtlas;
     return {
       ...annualAtlas,
-      realms: { type: "FeatureCollection", features: [...annualAtlas.realms.features, ...referenceAtlas.realms.features] },
-      boundaries: { type: "FeatureCollection", features: [...(annualAtlas.boundaries?.features ?? []), ...(referenceAtlas.boundaries?.features ?? [])] },
-      outlines: { type: "FeatureCollection", features: [...(annualAtlas.outlines?.features ?? []), ...(referenceAtlas.outlines?.features ?? [])] },
+      places: { type: "FeatureCollection", features: [...annualAtlas.places.features, ...referenceAtlas.realms.features.map(({ properties }) => ({
+        type: "Feature" as const,
+        geometry: { type: "Point" as const, coordinates: [properties.labelLongitude, properties.labelLatitude] },
+        properties: { id: `${properties.id}-label`, name: properties.name, placeKind: "landmark" as const, sourceRefs: properties.sourceRefs },
+      }))] },
       sources: [...new Map([...annualAtlas.sources, ...referenceAtlas.sources].map((source) => [source.id, source])).values()],
     };
   }, [annualAtlas, referenceAtlas, showReference]);
@@ -186,17 +190,18 @@ function AnnualHistoricalMap({
   const effectiveYearRecord = yearRecord;
   const visibleRegions = useMemo(
     () =>
-      atlasToHistoricalRegions(atlas),
-    [atlas],
+      [...atlasToHistoricalRegions(atlas), ...(showReference && referenceAtlas ? atlasToHistoricalRegions(referenceAtlas) : [])],
+    [atlas, referenceAtlas, showReference],
   );
   const visibleDynasties = useMemo(() => {
     const byId = new Map(dynasties.map((dynasty) => [dynasty.id, dynasty]));
-    const names = new Map(atlas.realms.features.map((feature) => [feature.properties.dynastyId, feature.properties.name]));
+    const features = [...atlas.realms.features, ...(showReference && referenceAtlas ? referenceAtlas.realms.features : [])];
+    const names = new Map(features.map((feature) => [feature.properties.dynastyId, feature.properties.name]));
     return [...names].flatMap(([id, name]) => {
       const dynasty = byId.get(id);
       return dynasty ? [{...dynasty, name}] : [];
     });
-  }, [dynasties, atlas]);
+  }, [dynasties, atlas, referenceAtlas, showReference]);
   const selected = visibleDynasties.find((dynasty) => dynasty.id === selectedId);
   const inactiveSelection = resolvedForYear?.status === "official" && !selected
     ? dynasties.find((dynasty) => dynasty.id === selectedId && !isMapContext(dynasty.id)) : undefined;
@@ -293,13 +298,11 @@ function AnnualHistoricalMap({
     if (
       resolvedForYear?.status === "official" && selectedId &&
       (!dynasties.some((dynasty) => dynasty.id === selectedId) || isMapContext(selectedId)) &&
-      !atlas.realms.features.some(
-        (feature) => feature.properties.dynastyId === selectedId,
-      )
+      !visibleDynasties.some((dynasty) => dynasty.id === selectedId)
     ) {
       selectDynasty(undefined);
     }
-  }, [atlas, dynasties, resolvedForYear?.status, selectDynasty, selectedId, year]);
+  }, [visibleDynasties, dynasties, resolvedForYear?.status, selectDynasty, selectedId, year]);
 
   return (
     <section aria-label={`${series.title}互动历史地图`} className="relative rounded-[1.25rem] border border-ink/15 bg-paper shadow-[0_24px_70px_rgba(23,40,36,.14)]">
@@ -313,7 +316,7 @@ function AnnualHistoricalMap({
               <input type="checkbox" checked={showReference} onChange={(event) => setShowReference(event.target.checked)} className="accent-cinnabar" />
               显示 943 年周边地域参考（非当年疆域）
             </label>
-            {showReference ? <p className="mt-1" role="status">{referenceError ? `参考层未载入：${referenceError}` : !referenceAtlas ? "正在载入参考层…" : "浅色地域只反映 943 总图，不表示当前年份的控制范围或政权存续。"}</p> : null}
+            {showReference ? <p className="mt-1" role="status">{referenceError ? `参考层未载入：${referenceError}` : !referenceAtlas ? "正在载入参考层…" : "外围仅标 943 总图中的地域名称，不填色或画国界，不表示当前年份的控制范围或政权存续。"}</p> : null}
           </div>
           {!resolvedForYear ? <p role="status" className="px-4 py-2 text-xs text-muted">正在载入本阶段疆域，地理底图可继续操作…</p> : null}
           <div ref={mapViewportRef} className="relative min-h-[26rem] scroll-mt-44 sm:min-h-[32rem]">
@@ -323,7 +326,7 @@ function AnnualHistoricalMap({
               events={events}
               locations={locations}
               selectedDynastyId={selectedId}
-              availableLegendKinds={availableLegendKinds(atlas, selected?.id)}
+              availableLegendKinds={availableLegendKinds(atlas, selected && !isMapContext(selected.id) ? selected.id : undefined)}
               onSelectRegion={handleSelectRegion}
               onSelectEvent={selectEvent}
               onFatalError={handleAtlasFatal}

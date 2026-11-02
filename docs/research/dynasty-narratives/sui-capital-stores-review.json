@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-30",
+  "method": "完整读隋（上）P096–105及现有大兴图解，核隋书1、24、68、通鉴175、192、195与唐两京城坊考1、2、类编长安志8。正文区分营建迁入与后世扩建、转运仓与义仓、储备政论与具体府库；未回听录音，无法核实的跨城面积比较及规划谱系保留partial。",
+  "counts": {
+    "partial": 5,
+    "corrected": 4,
+    "covered": 1
+  },
+  "rows": [
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-capital-stores",
+      "sectionIds": [
+        "leave-old-changan"
+      ],
+      "note": "迁都、新建大兴城及原因承接；原稿把官制户籍法律全部做完才营都的顺序说法未在本篇具体展开，不计充分覆盖。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-capital-stores",
+      "sectionIds": [
+        "leave-old-changan"
+      ],
+      "note": "用通鉴所载井水咸卤、城制狭小及诏书所载久经战乱说明居住问题；将现代上下水排污全面毁坏的推断收束为有出处的旧城条件。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-capital-stores",
+      "sectionIds": [
+        "leave-old-changan"
+      ],
+      "note": "承接长期战争、旧宫室权宜与另建新城的选择；未复述闲谈对白，不把董卓一事当作此后历代城况的唯一证据。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-capital-stores",
+      "sectionIds": [
+        "plan-a-capital"
+      ],
+      "note": "校582正月为六月下诏、十二月命名，分高颎总纲与宇文恺规划，补583迁入；核龙首原、故城东南和元代所传乾卦六爻。原段参照北魏洛阳与北齐邺城的具体规划谱系未独立核证，保留partial。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-capital-stores",
+      "sectionIds": [
+        "plan-a-capital",
+        "palace-offices-wards"
+      ],
+      "note": "承接坡地礼制解释、宫城皇城外郭及官民分区；六爻解释注明晚出文献。88%分区比例未采用，生活区越大必然物资越多的推演没有升格为事实。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-capital-stores",
+      "sectionIds": [
+        "palace-offices-wards"
+      ],
+      "note": "改写大城便利、乡村只能小农的绝对化对照，以官署市场聚集及居民实际空间说明都城特点，明确不能泛推所有城乡人的生活。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-capital-stores",
+      "sectionIds": [
+        "palace-offices-wards"
+      ],
+      "note": "承接市坊与唐长安的生活空间，分清隋唐层次；影视比附、世界最大结论及汉长安2.4倍的统计口径未核，不认定完整承接。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-capital-stores",
+      "sectionIds": [
+        "palace-offices-wards"
+      ],
+      "note": "承接中轴、街坊分区与唐承隋城；未采用北京1.4、拜占庭7、巴格达6.2倍，也未在正文展开巴格达始建年代，故保留partial而非把删去比较算作完成。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-capital-stores",
+      "sectionIds": [
+        "palace-offices-wards",
+        "canal-and-granaries",
+        "community-stores",
+        "five-zhu",
+        "wealth-and-hunger"
+      ],
+      "note": "承接大兴为唐长安基础及唐人继续使用改建的后见评价；交通仓储与市场用途已写，不将营建只解释为统一的单一动机。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-capital-stores",
+      "sectionIds": [
+        "canal-and-granaries",
+        "community-stores",
+        "wealth-and-hunger"
+      ],
+      "note": "核628唐太宗五十年政论与637马周府库未尽，两条话语分开；明确604至637为33年、618至637为19年，未尽府库不全等于粮食。补隋末仓满民饥与开仓，使积储和饱食有别；原段末句音律礼法是收束复述，不虚报为本篇新增制度详解。"
+    }
+  ]
+}

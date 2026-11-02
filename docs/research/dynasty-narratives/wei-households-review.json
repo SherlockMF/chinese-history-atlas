@@ -1,0 +1,653 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段通读北魏05 P052–P108，按正文与核定史料登记。原稿相州试点完整故事未获核定，不以主题相近视作覆盖；未回听音频。 2026-10-11末轮：对本台账指定未采用段亲读原段和相关原典，逐项标research-closed；可证内容或明确编辑解读补入，拟对白及无证情节保留not-covered，未回听音频。新写部分待独立交叉复核。",
+  "counts": {
+    "partial": 19,
+    "corrected": 21,
+    "covered": 10,
+    "not-covered": 7
+  },
+  "rows": [
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "income"
+      ],
+      "note": "官员收入与俸制缺失已讲；蒙古类比未展开，不以游牧属性解释所有制度。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "income"
+      ],
+      "note": "区分赏赐、产业、战争所得及坞壁依附，不把领有奴隶当成所有官员统一收入。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "income"
+      ],
+      "note": "坞壁防御、生产和控制人口的关系已讲；全国由战乱转国泰民安后统一转型未核。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "income"
+      ],
+      "note": "区分坞主与官员、依附者与奴隶，不将贪污受贿写作合法且人人必需的俸给。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "income"
+      ],
+      "note": "稳定官员生活与追究贪腐须同时处理的制度问题已展开。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "zhang-sheti"
+      ],
+      "note": "定位张赦提并写讨贼经历；旱灾直接导致匪患及该案是484改革导火索未核。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "zhang-sheti"
+      ],
+      "note": "捕盗升迁、出任幽州及清名已写；同时保留滥杀，不能全称无瑕好官或断言零收入。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "zhang-sheti"
+      ],
+      "note": "妻段氏受纳、请托与朝廷关系有明确内容；贫穷逼贪的日常对白未核。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-needed",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "zhang-sheti"
+      ],
+      "note": "保留不能将责任全推妻子的辨析，区别临死怨妻与史家查明的纵容行为；现代费用笑谈不当事实。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "zhang-sheti"
+      ],
+      "note": "由清转贪、调查和处死已写；经济压力为唯一动机及该案触发改革未核。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "salary"
+      ],
+      "note": "484按官品发帛谷、户调为来源以及赏赐与定期俸给区别已讲；没有照搬转写错名。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "salary"
+      ],
+      "note": "俸禄与问责相连，以李洪之班禄后获罪说明仍须查贪。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "salary"
+      ],
+      "note": "用淮南王佗请罢禄及高闾廷议写阻力，不拟造初颁俸当日太后百姓对白。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "salary"
+      ],
+      "note": "说明钱粮仍来自民户、严刑并行；纠正一劳永逸以及鲜卑此前没有百姓概念。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "salary"
+      ],
+      "note": "改革价值已述；直传辽金西夏的具体制度沿革未核，不能作完成。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "pasture"
+      ],
+      "note": "已展开苑禁与农业的冲突；开国功臣统一跑马圈熟田的具体分封链未核。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "pasture"
+      ],
+      "note": "牧养、田亩与收益争议已写；全部牧地由熟田转成、全被贵族掌握的量化概括未核。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "pasture"
+      ],
+      "note": "以司马跃请罢苑及孝文审地是否宜耕的明确记录承接，不采用现代骑马开阔对白。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "pasture"
+      ],
+      "note": "粮输京师及不同距离输粟米已写；平城全部依赖河北及当廷诸王拒交地细节未核。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "pasture"
+      ],
+      "note": "实际解苑争论与政府粮食需求已讲；南朝抢粮提议、冯太后桑麻谷稻拍板的会议未核。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "pasture"
+      ],
+      "note": "说明推行阻力及牧农继续并存；原段所称造反、镇压的特定对象事件未找到，不作补齐。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "li-anshi",
+        "land-rules"
+      ],
+      "note": "均田形成及条文作用已讲；隋唐演变、唐德宗废除及三百年断限尚未展开，不归因大唐盛世于单一政策。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "land-rules"
+      ],
+      "note": "按人口授田、还田和例外实写，不将均田简化为向所有百姓分尽所有无主田。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "li-anshi",
+        "land-rules"
+      ],
+      "note": "流亡、强宗侵地与李安世建议均量的具体问题和政策目标已写。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "li-anshi"
+      ],
+      "note": "相州任职与奏疏的传记次序校正；不能将地方所有行动预设为颁制前试点。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "income",
+        "register"
+      ],
+      "note": "隐户、民数与征调关系已实写，未把所有税统一简化成人头税。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "income",
+        "register"
+      ],
+      "note": "说明荫附者身份有别、隐匿户口问题；四千六千为节目设例，不冒充真实数量。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "income",
+        "register"
+      ],
+      "note": "对应户籍隐漏及税役不均，不把主持人四千报二百的角色扮演当历史对话。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "income",
+        "register"
+      ],
+      "note": "本段实质命题为隐户妨碍国家征税，已由income/register承接；其余角色插话不单列缺口。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "income",
+        "li-anshi"
+      ],
+      "note": "地方豪强控制人口及相州政务已讲；相州一半首长均由坞主担任和完全无权等说法未核。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "income"
+      ],
+      "note": "明确坞壁地方依附不能直接等同封邦建国；段内谐音插话不充作制度定义。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "li-anshi"
+      ],
+      "note": "明确奏疏与相州任职次序、剿强人不等于完整均田试验链，避免倒置史源。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "li-bo"
+      ],
+      "note": "落实李波宗族与此前击败官军；妹妹来自歌谣，非明确诱杀名单，宴请场景未据为史实。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "li-bo"
+      ],
+      "note": "按原典写李波及子侄三十余人邺市被斩，纠正兄妹二人府中宴席伏杀。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "li-bo"
+      ],
+      "note": "诱杀事实及武装冲突已承接；随后逐坞攻破分地的具体链条未核。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "wei-households",
+      "sectionIds": [],
+      "note": "research-closed：亲读魏书53李安世传、北史33同传、魏书110食货志及通鉴136。史传有诱杀李波子侄三十余人、境内肃然，没有群众内应攻破大量坞壁及最强坞主张太的这组细节；现有李波故事不能替代，此段未采用。",
+      "researchStatus": "research-closed"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "wei-households",
+      "sectionIds": [],
+      "note": "research-closed：在李安世两传及所核均田、三长编年中，未核得张太获罪逃跑并举报谋反的人物与事件。没有依据把名字替换成李波或其他豪族，该连续情节未采用。",
+      "researchStatus": "research-closed"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "wei-households",
+      "sectionIds": [],
+      "note": "research-closed：魏书53、110与通鉴136所记相关朝议是李安世均量奏疏、李冲三长制及群臣讨论；未核得本段姓冯大臣建议南下抢粮的朝会和原话。不挪用太武南征或另场财赋议论，该场景未采用。",
+      "researchStatus": "research-closed"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "wei-households",
+      "sectionIds": [],
+      "note": "research-closed：李安世传在均量奏疏之后才叙出任相州，通鉴136由上言接485年均田诏；未核得因全国坞壁会议而召他展示相州试点的该场会议。不能把史传叙次拼作原段因果，该场景未采用。",
+      "researchStatus": "research-closed"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "wei-households",
+      "sectionIds": [],
+      "note": "research-closed：亲核李安世传及均田编年，未见张太告状触发召见、孝文帝展示告状奏折的记载。上疏获纳不等于这份告状奏折存在，该场景未采用。",
+      "researchStatus": "research-closed"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "wei-households",
+      "sectionIds": [],
+      "note": "research-closed：魏书53与北史33保存李安世论流民、占田和断争的奏疏，没有当廷指张太及为了大魏江山随皇帝处置的这段对白。未将奏疏意旨改成虚构自辩，该对白未采用。",
+      "researchStatus": "research-closed"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "wei-households",
+      "sectionIds": [],
+      "note": "research-closed：魏书53高祖深纳及后均田起于此、通鉴136的485年均田诏可以核定；未核得帝笑纳张太告状、相州试点因告状而全国推广的因果链。正文原有制度史实不冒充此完整故事，此段未采用。",
+      "researchStatus": "research-closed"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "land-rules",
+        "limits"
+      ],
+      "note": "流散、田权与安置目标已写；所有逃亡者必被坞主追杀以及已全部挽回人口未核。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "land-rules"
+      ],
+      "note": "区别露田还受与桑田世业，保留稳定人口目标，不写全面获得无条件所有权或全国流动均受一国控制。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "land-rules"
+      ],
+      "note": "迁往空荒及人口安置条文已写；以跨江投南朝为更好生活的普遍判断未展开。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "land-rules",
+        "limits"
+      ],
+      "note": "冯太后掌权、孝文诏令与改革目标已写；产量国库立即上升的定量实效以及一切事全由太后主导不能核定。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "land-rules",
+        "limits"
+      ],
+      "note": "评价改革意义及共同施政已写；最伟大排名及完整三百年制度影响尚不作事实定论。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "register"
+      ],
+      "note": "均田与户口赋役的关联、旧荫附关系以及三长新安排已讲。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "register",
+        "debate"
+      ],
+      "note": "李冲提议及传载亲幸已署源，政治行动不被现代男朋友/爱情对白代替。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "register",
+        "debate"
+      ],
+      "note": "李冲在制度中的才干和实际建议已写；对太后全部亲幸者皆能干的泛评未展开。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "register"
+      ],
+      "note": "说明基层核户与征役目标，纠正此前从无基层国家管理的绝对概括。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "register"
+      ],
+      "note": "五家一邻、五邻一里、五里一党以及与官府联系已详述。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "register",
+        "debate"
+      ],
+      "note": "免役校正为邻一夫、里二夫、党三夫，豁免针对征戍、其余若民；任职义务及不同反对意见已说明。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "debate"
+      ],
+      "note": "拓跋丕赞成但主张冬闲实施，保留其顾虑；不把反对者一概写作同一贵族利益。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "debate"
+      ],
+      "note": "太后支持立三长及课赋有准、荫户可出的理由已按史文承接。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "register",
+        "debate",
+        "limits"
+      ],
+      "note": "推行与层级责任已写，以487灾荒中官不明奉说明不能等于绝无隐瞒舞弊。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "register",
+        "debate",
+        "limits"
+      ],
+      "note": "三长连接民户国家与三项改革互相牵动的收束已写；亲政承接下一篇。"
+    }
+  ],
+  "independentReview": "complete",
+  "audioReviewed": false,
+  "independentReport": "final-unadopted-north-independent.md",
+  "independentReviewScope": "末轮北朝15原段的逐段语义复核；所涉5份台账210行、235映射结构核验。"
+}

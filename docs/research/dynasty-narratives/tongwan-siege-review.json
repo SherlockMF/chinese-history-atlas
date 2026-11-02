@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-30",
+  "method": "人工逐段通读指定原稿，逐项核对正文实际承接，并对读所列古籍、诗词原文及必要现代释文。未回听音频；推论、未识别实物和未核定数字不按已覆盖计。",
+  "counts": {
+    "covered": 2,
+    "corrected": 7
+  },
+  "rows": [
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tongwan-siege",
+      "sectionIds": [
+        "strong-walls"
+      ],
+      "note": "从北征柔然转向夏国的叙事连接已承接，以425死亡与426攻夏议论说明转折。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "tongwan-siege",
+      "sectionIds": [
+        "strong-walls"
+      ],
+      "note": "补勃勃建城、425死与昌继位、兄弟争位；以蒸土铁锥试墙和弓甲检验纠正刀扎墙混叙，不作强迫症诊断。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "tongwan-siege",
+      "sectionIds": [
+        "strong-walls"
+      ],
+      "note": "大夏建国与夏后氏自称、魏廷先攻何方的争论及选择夏国已写；不把死去勃勃当在位敌手，采用夏国而非沿用带族称的胡夏作价值判断。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tongwan-siege",
+      "sectionIds": [
+        "winter-raid"
+      ],
+      "note": "明确426九月奚斤周几分路、十月帝出发、十一月袭统万、十二月奚斤入长安，纠正先取长安及十月袭城；河冰只用于具体渡河。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tongwan-siege",
+      "sectionIds": [
+        "winter-raid"
+      ],
+      "note": "轻骑二万与魏书列传一万八千异数并列，黑水距城三十余里，未等同于西夏黑水城；冰渡与突然逼近已承接。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tongwan-siege",
+      "sectionIds": [
+        "winter-raid",
+        "inside-and-out"
+      ],
+      "note": "冬至宴群臣、闻魏军至亲出迎战已承接；去口语插话与凭父亲血统判勇怯。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tongwan-siege",
+      "sectionIds": [
+        "inside-and-out"
+      ],
+      "note": "赫连昌败退、城门未及闭、豆代田入西宫与宫门闭后逾垣退已写；不把全部夏国精锐断言集中宫内。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "tongwan-siege",
+      "sectionIds": [
+        "inside-and-out",
+        "second-campaign",
+        "after-the-capital",
+        "place"
+      ],
+      "note": "拆开426掠迁撤军与427再征取城，补428昌被擒、定继续称帝及431覆亡，纠正持续围城与取城即灭国；补刘卫辰与勃勃父子关系及391旧事。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tongwan-siege",
+      "sectionIds": [
+        "place"
+      ],
+      "note": "核定陕西榆林靖边红墩界镇白城则村，交代内蒙古与宁夏方向，纠正山西在榆林南而为东隔黄河。"
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读金02本项全部原段，重读现有正文并亲读所列原典相关段，修正文误读及逐P真实承接说明；未回听音频。",
+  "counts": {
+    "partial": 14,
+    "not-needed": 6,
+    "covered": 8,
+    "corrected": 11
+  },
+  "rows": [
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "behind-gauze"
+      ],
+      "note": "补入章宗听董师中、路铎等谏，因民饥罢北幸的具体早年事件；不把近臣故事写为出现即必衰亡的公式。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [],
+      "note": "重女色、外戚、奸佞三标志和红颜祸水类比属节目纲领评价；正文分别叙述受宠、任官、皇帝选择，不用三条评语代替史事。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "behind-gauze"
+      ],
+      "note": "李氏家人因罪没宫籍及监户女子入宫已叙述；以原典身份解释宫监户，没有照搬清代发奴制度。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "behind-gauze",
+        "empress-and-relatives"
+      ],
+      "note": "隔纱宫教及徒单、唐括、蒲察世婚门第均有实际正文；琴棋书画课程与清代选妃比较无本次史源支持。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "behind-gauze"
+      ],
+      "note": "青纱分隔、指字请问、声音清亮且敏于文义均从金史卷64落入正文，不臆断男女授受观念的唯一原因。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "behind-gauze"
+      ],
+      "note": "章宗问谁最可教、张建以声音回答、宦者梁道称才貌写入；老师不识脸是原典情境，不编皇帝闲逛培训班。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "behind-gauze"
+      ],
+      "note": "老师不知学生容貌以及皇帝获推荐寻得李氏已写；看见就会斩头、掀帘自问自答等戏剧推想未写。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "behind-gauze"
+      ],
+      "note": "受宠、通文义且善于迎合章宗、原配早亡有正文；皇帝掀帘和李氏必使出浑身解数的心理补白无史源不采用。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "moon-by-sun"
+      ],
+      "note": "宫廷妆台露坐逸闻列为后世传录；不确定北海琼华岛土堆地点，风吹水面相声联仅插话不进入诗文。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "moon-by-sun"
+      ],
+      "note": "二人土上坐的上联与“坐”拆字完整保存并释义，注明日下旧闻考所引金台集的晚出性质。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "moon-by-sun"
+      ],
+      "note": "原段孤月日边明据日下旧闻考校为一月日边明；日月合明已释，不收反清穿越笑谈。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "moon-by-sun"
+      ],
+      "note": "日月相伴、机敏恭维的读法放interpretation，明确是联语解读，未当作李妃真实心理或金代太阳象征实录。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "moon-by-sun",
+        "behind-gauze"
+      ],
+      "note": "李师儿姓名和后世传录应声作对保留；因作诗才获名、李师师比较与穿越笑谈不写成事实。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "empress-and-relatives",
+        "behind-gauze"
+      ],
+      "note": "原配已逝与章宗欲立李氏为后、大臣反对都有正文；“历代谁更有文化”的拟造皇帝对白不照写。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "empress-and-relatives"
+      ],
+      "note": "立后争议按后妃传写世婚部族和监户门第冲突，不能化约成清代式一律汉妃不得后；朝野一致也未扩大。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "empress-and-relatives",
+        "unborn-heir"
+      ],
+      "note": "元妃位诸妃之上而未立后已叙述；补足1202年李氏生忒邻、两岁夭折，纠正从未生子，爱情导致灭亡不作史实。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "behind-gauze",
+        "unborn-heir"
+      ],
+      "note": "受宠、李氏才貌和两人确曾有子的后续都有落点；自由恋爱、不渣是主持人评价，不据此重构宫中关系。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [],
+      "note": "敬仰才华的感叹重复前段，才貌推荐与低微监户身份已在前文说明，无须另添皇帝恋爱心理。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "empress-and-relatives"
+      ],
+      "note": "按金史卷64写喜儿为兄、铁哥为弟，并写近职与外人攀谱求官；纠正原稿“两个哥哥”。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "empress-and-relatives"
+      ],
+      "note": "李喜儿赐名李仁惠、1196年劳军授官赏赐有正文，本次从本纪取北边劳军而未泛称西夏蒙古各路。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "empress-and-relatives"
+      ],
+      "note": "本纪授官一万一千人已准确采用；“三品以下随便封”的不限授权未查得，不能由人数推定。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "empress-and-relatives"
+      ],
+      "note": "据章宗纪二将二百万两校为二十万两，并写赏近两万人与绢钱；卖官、私吞均为原段推测，正文明确数字不能证明私吞。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "empress-and-relatives"
+      ],
+      "note": "宗端修请远小人、章宗派李仁惠问姓名这段交锋完整写入，不以皇帝装糊涂当可证内心。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "empress-and-relatives"
+      ],
+      "note": "写宗端修为汝州人、当面对李仁惠报出兄弟姓名；原段女真猛安身份与揪衣领动作未照录。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "empress-and-relatives"
+      ],
+      "note": "依据宗端修传是李仁惠回奏，章宗责备兄弟却不去除；不写押李到御前，也不编皇帝私下劝御史别得罪人。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "empress-and-relatives",
+        "xu-network"
+      ],
+      "note": "谏言未使李家退出及胥持国登场都有承接；宠色、外戚、奸臣三类标签没有替代具体政治活动。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "xu-network"
+      ],
+      "note": "胥持国姓名与经童出身写入，并交代县丞、官田案和太子宫职；皇帝赐名猜测及经童等同清代监生未采用。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "xu-network"
+      ],
+      "note": "内外相互称誉和借外廷支持已用；依本传早年履历不写章宗童年玩伴、发小或没有文化。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "xu-network"
+      ],
+      "note": "参知政事、尚书右丞与经童宰辅、监户女妃的讥语皆有正文，兼说明讥语含出身轻蔑，非直接赞同攻击。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "xu-network",
+        "unborn-heir"
+      ],
+      "note": "监户妃与经童宰辅评价、章宗晚年病重和继嗣问题均有正文；无孩子校成孩子相继早夭，未核年数十九不照录。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "unborn-heir"
+      ],
+      "note": "贾氏范氏被称有孕、遗诏须等男孩已有正文；结合后来的诈孕罪名及宣宗翻案，不认定原段所说确实真有孕已证实。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "unborn-heir"
+      ],
+      "note": "以遗诏两宫生男立储、皆男择可立者承接未出生继承人的安排；章宗清楚自己看不到出生的心理没有直接史证。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [],
+      "note": "白帝城与诸葛亮托孤类比不进入此篇；遗诏立储条款已在P69对应正文，不当作皇位归还的私人承诺。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [],
+      "note": "选年老皇帝等其死亡的推想未查原典，不使用；不能因同在继承人一节标为部分采用。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [],
+      "note": "李妃预期太后待遇、十年八年后再交皇位属于主持人假设，没有正文采用，未以遗诏男嗣条款替代这一核心推想。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "unborn-heir"
+      ],
+      "note": "补入章宗诛永中、永蹈后疏忌宗室，以卫绍王纪解释选永济；不扩大为最能打的宗室全部被杀，年龄策略也未证。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "unborn-heir"
+      ],
+      "note": "永济柔弱少智受章宗喜爱的史书叙述已用；卫王必有意传自己孩子、先干倒太后的动机未证，不据后来赐死倒推。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [
+        "unborn-heir"
+      ],
+      "note": "分清1209年二月范氏胎形失为尼、四月李氏贾氏因案赐死，非继位第一件事杀元妃且两宫皆出家；补1213年宣宗宣布证据不明放家族。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-shier-zhangzong-court",
+      "sectionIds": [],
+      "note": "本段为下一话题转场，蒙古进攻与中都毁灭由野狐岭、胡沙虎和迁都篇承接，本篇未展开；不把永济一人定为全部原因。"
+    }
+  ],
+  "independentReview": "complete",
+  "audioReplayed": false
+}

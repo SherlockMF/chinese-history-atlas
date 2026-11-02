@@ -6,7 +6,7 @@ export const northernQiZhouSuiConfig: HistorySeriesConfig = {
   title: "北齐·北周 → 隋",
   featuredPersonId: "yang-jian",
   featuredEventId: "sui-founded",
-  relatedSiteIds: ["li-jingxun"],
+  relatedSiteIds: ["li-jingxun", "xu-xianxiu"],
   subtitle: "从北魏分裂，到隋的统一与崩解",
   timelineMinYear: 534,
   timelineMaxYear: 618,
@@ -14,6 +14,7 @@ export const northernQiZhouSuiConfig: HistorySeriesConfig = {
   mapMaxYear: 618,
   defaultYear: 550,
   mapMode: "snapshot",
+  cityOverlayId: "daxing",
   trackIds: ["wei-transition", "northern-qi", "northern-zhou", "sui-founding", "sui-unification", "sui-collapse"],
   tracks: [
     { id: "wei-transition", label: "北魏分裂前史", description: "东魏与西魏的格局" },

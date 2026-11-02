@@ -1,0 +1,644 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段人工对照北魏06 P077–P133与元子攸故事；covered=实质承接；partial=仍有独立细节未写；corrected=据所列史料校正或限定；not-covered=未承接；not-needed=无独立历史主张的插话。未回听原音，原审计判定单独保留。 2026-10-11末轮：对本台账指定未采用段亲读原段和相关原典，逐项标research-closed；可证内容或明确编辑解读补入，拟对白及无证情节保留not-covered，未回听音频。新写部分待独立交叉复核。",
+  "counts": {
+    "partial": 17,
+    "covered": 19,
+    "corrected": 19,
+    "not-needed": 2
+  },
+  "rows": [
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "watched"
+      ],
+      "note": "遥控朝廷与晋阳据点已承接；原稿把元天穆固定留洛并与南部战事串联的时间线未沿用。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "watched"
+      ],
+      "note": "亲党布列皇帝左右、大小动静受监视的核心已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "watched"
+      ],
+      "note": "受制仍有作为的评价已承接；与其他傀儡皇帝的整体高下比较未作结论。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "watched"
+      ],
+      "note": "亲理冤狱已承接；以鲜卑血统解释内心动机及改革绝无可能的断语未采用。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "watched"
+      ],
+      "note": "受制皇帝为申诉者理冤的行动已承接；前朝朝纲混乱与具体冤案的因果未展开。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "watched"
+      ],
+      "note": "依《魏书》明确为申诉受阻者到华林东门，不扩写成所有百姓随时见皇帝；原稿拟对白不作实录。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "watched"
+      ],
+      "note": "据《魏书》卷19上元昭业条补入阊阖门外扣马谏、帝避过。姓名和动作按史籍校正，未将原稿眼神示意或安慰动机当成实录；转写未回听。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "watched"
+      ],
+      "note": "补入《魏书》后劳勉之的具体行为；原典未记保护双方的理由和对白，来源说明保留这一限制，不把节目演绎写作史实。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "appointments"
+      ],
+      "note": "元子攸与李神俊整顿选官并触动尔朱荣任官权已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "appointments"
+      ],
+      "note": "依史文写曲阳县令任命、尔朱荣遣人夺任及尔朱世隆接管选事，区分各人行为。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "appointments"
+      ],
+      "note": "元天穆以尔朱荣有功为由当面施压、要求普代天下官的冲突已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "appointments"
+      ],
+      "note": "皇帝以臣节反驳已承接；原稿扩写的恐吓和杀帝措辞未逐句收入。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "appointments"
+      ],
+      "note": "任官争执与尔朱荣愤怒已承接；其原先等皇帝昏庸再取代的内心计划未确证。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "appointments"
+      ],
+      "note": "补出九类赏赐、李贤注出处与曹操前例，说明礼遇抬高政治地位；校正并非单纯九件礼器，也不是必然禅位的固定程序。许周与九锡转写按史籍校正。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "appointments"
+      ],
+      "note": "借斥退许周试探礼遇、皇帝顺势称赞忠诚的对话结构已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "appointments"
+      ],
+      "note": "拒绝授予所望殊礼的应对已承接；扩写训诫和节目自我比较未收入。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "watched"
+      ],
+      "note": "对元子攸勇气的敬意已作为编辑评价承接；正气使对方畏惧的心理因果未证实。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "appointments"
+      ],
+      "note": "research-closed：新增明确编辑解读，结合通鉴154的君臣任命争执、九锡试探和尔朱氏后来另立元晔，纠正因皇帝人格威慑便不敢换帝的单因解释；不推定尔朱荣当时内心。原段抵抗与废立关系已实质讨论。",
+      "researchStatus": "research-closed"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [],
+      "note": "承接前段的感叹、邪魅比喻和转场，没有新增可独立核验的事件。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "signals"
+      ],
+      "note": "入朝探视皇后生产已承接；进京必为趁机杀帝的确定动机改为双方戒惧。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "signals"
+      ],
+      "note": "入朝消息造成朝士避走已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "signals"
+      ],
+      "note": "避走及尔朱荣致朝士书已承接；把不走者一概定为忠臣、重演河阴的拟想未确证。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "signals"
+      ],
+      "note": "温子升呈书及皇帝不悦已承接；按史文相任去留校正再杀百官的威胁性拟文。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "signals"
+      ],
+      "note": "奚毅身份、往来传命已承接并校正名字；受人格魅力折服的动机仍未证明。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [],
+      "note": "节目主持人假设自己见到元子攸也会敬佩的插话，非独立历史情节。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "signals"
+      ],
+      "note": "奚毅愿以死效忠及皇帝因其旧身份而怀疑已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "signals"
+      ],
+      "note": "来使原为尔朱荣亲信、皇帝不敢贸然交心的理由已承接；现代动漫类比省去。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "signals"
+      ],
+      "note": "皇帝称尔朱荣无异心且记住奚毅忠诚的两面答复已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "signals"
+      ],
+      "note": "入洛后互疑与传言已承接；坊间对皇帝理冤的评价未具体收入。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "signals"
+      ],
+      "note": "元子攸决定除掉尔朱荣并防止后患已承接；民众普遍认定皇帝必有作为的说法未写成事实。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "signals"
+      ],
+      "note": "元天穆尚在并州、为免后患暂缓刺杀并召其入洛已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "signals"
+      ],
+      "note": "双方当面问及传言及尔朱荣释疑已承接；内心惊惧的拟想不作事实。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "signals"
+      ],
+      "note": "立幼主或陈留王改写为元徽向皇帝提出的风险判断，不写成确证的尔朱荣密谋。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "signals",
+        "precedent"
+      ],
+      "note": "皇帝再与奚毅密谈，随后告知元徽等近臣已承接；原稿精确公历日未确证，元天穆入洛以次序交代。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "precedent"
+      ],
+      "note": "元天穆至洛、西林园宴射和五百骑出猎提议已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "precedent"
+      ],
+      "note": "保留出猎邀约及奚毅警告；史文是因省辞讼，不能扩写成让皇帝停止理冤。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "precedent"
+      ],
+      "note": "借出猎挟持迁都的警告及皇帝问温子升对策已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "precedent"
+      ],
+      "note": "温子升叙诛董卓本末已承接；宁为玉碎换为史载曹髦、曹奂比较，且补赦免凉州人的关键教训。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "precedent",
+        "failed-attempt"
+      ],
+      "note": "合谋、决心与伏兵部署已承接；温子升拟誓词和全部近臣因被盯死而不能动手未确证。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "failed-attempt"
+      ],
+      "note": "李彧姊婿身份、藏伏兵及劝帝避刀已承接并校正名字；在外招募勇士的具体安排未在本处史文确证。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "failed-attempt",
+        "blade"
+      ],
+      "note": "首谋未遂及改用诞子消息已承接；退出因气场不对的内心解释去掉，史文只记饭未毕起出。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "blade"
+      ],
+      "note": "元徽报喜欢舞、尔朱荣与元天穆博戏后同入、皇帝失色已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "blade"
+      ],
+      "note": "温子升提醒失色及元子攸索酒已承接；一大碗的器量未作事实。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "blade"
+      ],
+      "note": "文书问答按史文改为温子升答敕；明确所拟为赦文但未向尔朱荣解释皇子大赦。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "blade"
+      ],
+      "note": "朝向、元徽行礼、伏兵入殿及皇帝亲刃已展开；补出尔朱荣见伏兵趋御座后皇帝出刀的次序。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "blade"
+      ],
+      "note": "皇帝亲自动手的叙事反转已承接；鲜卑血统解释与节目悬念感叹不作史实。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "blade"
+      ],
+      "note": "伏兵砍杀二人、内外欢呼及成功后的反攻悬念已承接；砍成肉泥未沿用为事实。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "blade",
+        "river-bridge"
+      ],
+      "note": "百官入贺、登门大赦及尔朱部众尚存并展开反攻已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "river-bridge"
+      ],
+      "note": "尔朱世隆率部众商议反击已承接，并补司马子如的策略。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "aftermath"
+      ],
+      "note": "水不没马腹移至尔朱兆第二次攻洛的阶段；不写成黄河干涸或天命证明。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "river-bridge"
+      ],
+      "note": "皇帝宣布罪止尔朱荣、其余官爵如故并赐铁券劝降已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "river-bridge"
+      ],
+      "note": "索尸及拒绝和解已承接；不以原稿扩写对骂作史录。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "river-bridge"
+      ],
+      "note": "按史文出库物募敢死士，不写成皇帝私人散尽家财。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "river-bridge"
+      ],
+      "note": "新募者不习战、李苗请断河桥已承接；补火船水路而非绕北岸纵火的方式。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "river-bridge"
+      ],
+      "note": "火船焚桥、争渡溺死、等待接应不至与李苗赴水死已承接；不将最后一支能战部队的断语作事实。段内不清转写仍未回听。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "aftermath"
+      ],
+      "note": "二次反攻、永宁寺囚禁、索巾不得已承接；地点改为云龙门被执，并分开迁晋阳后的遇害。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [
+        "aftermath"
+      ],
+      "note": "元子攸遇害地点与方式已校正，高欢转变补有铺垫；其起兵、废元恭立元修的完整后续留给下一篇。"
+    }
+  ],
+  "independentReview": "complete",
+  "audioReviewed": false,
+  "independentReport": "final-unadopted-north-independent.md",
+  "independentReviewScope": "末轮北朝15原段的逐段语义复核；所涉5份台账210行、235映射结构核验。"
+}

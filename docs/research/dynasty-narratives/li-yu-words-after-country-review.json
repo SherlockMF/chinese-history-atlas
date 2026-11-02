@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "corrected": 5,
+    "partial": 9,
+    "covered": 4,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "ruler-and-poet"
+      ],
+      "note": "李煜艺术与守国决策并写，纠正只有创作全不备战的单标签；蠢货是节目评语不作史料事实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "capture-and-memory"
+      ],
+      "note": "以破阵子表达归为臣虏的体验已用，不能证明代表中国所有亡国之君同一心声。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "capture-and-memory"
+      ],
+      "note": "破阵子题、作者与四十年家国三千里山河全词已核字补齐，数字注明文学凝缩。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "capture-and-memory"
+      ],
+      "note": "凤阁至仓皇辞庙以下全词及解释已用，补离别/别离、垂泪/挥泪异文。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [],
+      "note": "幼儿末帝分类和主播跨朝接话与李煜本篇具体决策无关。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "ruler-and-poet"
+      ],
+      "note": "李煜缮甲募兵、拒召由君主节叙述，纠正从没想到战争的心理绝对推断；天祚帝分类不另展开。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "spring-river"
+      ],
+      "note": "宫苑记忆和文学成就已用；王宫之外完全无世界的主观推断不替他作实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "spring-river"
+      ],
+      "note": "同情诗人与保留君主治理判断由词江水节承接；主播当日情绪和现代诗句不移给李煜。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "ruler-and-poet",
+        "spring-river"
+      ],
+      "note": "文学理想不抵治理责任已用；北京下雨与主播私人心情舍弃。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "long-regret",
+        "ruler-and-poet"
+      ],
+      "note": "相见欢全词及读者同情与政治判断并存已用；生太平就必伟大是反事实想象。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "ruler-and-poet"
+      ],
+      "note": "词人才能与君主责任两种判断并写；一生本不该来、来世帝王家祈愿不作史实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "capture-and-memory",
+        "death-and-rumour"
+      ],
+      "note": "违命侯名号与被征服者处境已写；太祖恨李煜的确切私人心理未证，不借海昏西夏类比确认。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "death-and-rumour",
+        "spring-river"
+      ],
+      "note": "978卒在太宗朝，宋史未载毒杀、默记有牵机药与词祸叙事分层；虞美人全词另节，不写一读即毒死确案。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "death-and-rumour",
+        "spring-river"
+      ],
+      "note": "虞美人朱颜江水全词已用，周后受辱只作未证流传叙述；姿色评价不替具体宫廷行为作证。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "death-and-rumour",
+        "painting-and-inscription"
+      ],
+      "note": "定位明沈德符万历野获编28图记；具体描述有晚出来源，但不能记作宋人当时现场绘制事实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "death-and-rumour",
+        "painting-and-inscription"
+      ],
+      "note": "补同篇传署元人冯海粟题诗四句与宫人抱持描述，以明笔记所录分层；原图/原题未亲验。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "spring-river"
+      ],
+      "note": "同情亡国者与治理评议并存已用；靖康作为报应、弱国无外交的绝对概括不作史因。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "long-regret"
+      ],
+      "note": "后半李煜艺术与精神追求由长恨节承接，前半现代制度安全感不属于词的历史来源。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "li-yu-words-after-country",
+      "sectionIds": [
+        "long-regret"
+      ],
+      "note": "相见欢人生长恨水长东及全词、书画音律才能已用；词帝作为赞誉不作君主政绩评价。"
+    }
+  ]
+}

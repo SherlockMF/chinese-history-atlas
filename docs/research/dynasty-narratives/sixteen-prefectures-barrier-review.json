@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读辽02 P128—142全部15段、正文与原台账；亲读通鉴280、辽地理40/41、辽11统和四年全文与宋4/5相关年纪，另核河北/张家口地方志机构古今对应和旧城沉库来源。逐段检查语义与精确引用；未回听音频。",
+  "counts": {
+    "covered": 10,
+    "partial": 2,
+    "corrected": 3
+  },
+  "rows": [
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sixteen-prefectures-barrier",
+      "sectionIds": [
+        "sixteen-names"
+      ],
+      "note": "补名单可指认而疆界随战事改变的具体解释，避免把当时全无边界当事实。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sixteen-prefectures-barrier",
+      "sectionIds": [
+        "sixteen-names"
+      ],
+      "note": "逐州介绍古今对应的功能说明承接，今地对照标注为地理通识而非史文。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sixteen-prefectures-barrier",
+      "sectionIds": [
+        "sixteen-names"
+      ],
+      "note": "幽州起头：辽史卷40“太宗升为南京，又曰燕京”写入；记笔记的玩笑不承接。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sixteen-prefectures-barrier",
+      "sectionIds": [
+        "sixteen-names"
+      ],
+      "note": "本段蓟/瀛/涿古今对应，莫实际在P132，修正旧台账错位。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sixteen-prefectures-barrier",
+      "sectionIds": [
+        "sixteen-names",
+        "around-the-capital"
+      ],
+      "note": "莫州任丘在名单节，檀州密云在京畿节，补P132精确引用；张飞/方便面玩笑不采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "sixteen-prefectures-barrier",
+      "sectionIds": [
+        "around-the-capital"
+      ],
+      "note": "顺州在今顺义；基线原判已覆盖，本篇作为地名清单再次承接。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sixteen-prefectures-barrier",
+      "sectionIds": [
+        "around-the-capital"
+      ],
+      "note": "新涿鹿、妫怀来，与702迁治及1951拆迁后沉入官厅库故事；补官方地方志现代沿革来源。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sixteen-prefectures-barrier",
+      "sectionIds": [
+        "around-the-capital"
+      ],
+      "note": "儒州在今延庆；“妫州说成延庆”的口述分歧按延庆=儒州澄清，不沿用混淆。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sixteen-prefectures-barrier",
+      "sectionIds": [
+        "beyond-the-mountains"
+      ],
+      "note": "宣化武州、大同云州、应县应州实际承接；原木塔定位提示未在正文展开，未以古代地理志替代现代建筑来源。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sixteen-prefectures-barrier",
+      "sectionIds": [
+        "beyond-the-mountains",
+        "front-and-back"
+      ],
+      "note": "十六州名单收束；山前七州分组在下节展开。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sixteen-prefectures-barrier",
+      "sectionIds": [
+        "front-and-back"
+      ],
+      "note": "七/九分组按河北地方志机构地理段核实；正文纠正南京/西京道不能作同期同表分栏。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sixteen-prefectures-barrier",
+      "sectionIds": [
+        "why-youzhou"
+      ],
+      "note": "979确实攻幽州；986宋三路北伐同时攻山后，纠正一出兵就只奔幽州的过概括。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sixteen-prefectures-barrier",
+      "sectionIds": [
+        "why-youzhou"
+      ],
+      "note": "山后雁门设防解释限定宋979取得北汉地区以后；山前平原压力保留，拒马河战例纠正全无山川阻拦。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sixteen-prefectures-barrier",
+      "sectionIds": [
+        "why-youzhou"
+      ],
+      "note": "步骑机动差异作为编辑解读，不认可宋全是步军/辽全是骑兵或平原必易发生战争的绝对说法；未独立证明世界地理特殊程度。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sixteen-prefectures-barrier",
+      "sectionIds": [
+        "why-youzhou"
+      ],
+      "note": "补986西路云应寰朔，纠正宋初只争山前七州；骂石敬瑭的情绪比喻不充作史实。"
+    }
+  ],
+  "independentReview": "completed"
+}

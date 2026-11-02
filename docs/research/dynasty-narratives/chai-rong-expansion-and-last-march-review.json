@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "covered": 6,
+    "partial": 4,
+    "corrected": 10,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "four-prefectures"
+      ],
+      "note": "王景向训取秦成阶凤四州而不灭后蜀已用，补唐仓黄花断粮与分击具体过程。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "four-prefectures"
+      ],
+      "note": "取四州后转淮南与三次南征已用，四州不是口述四周。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "four-prefectures"
+      ],
+      "note": "蜀未灭、有限推进后图江淮已用；自拟以现实力吃不下的皇帝内心不当史实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "first-huai"
+      ],
+      "note": "南征淮南已写并按955冬与956亲征分开；十万固定总兵数本篇未逐军核定。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "first-huai"
+      ],
+      "note": "寿春刘仁赡坚守与周军久围已用，补浮桥后路和唐军救援。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "first-huai",
+        "second-huai",
+        "third-huai"
+      ],
+      "note": "首次956五月还因雨营粮运攻具受损，不简写大寒班师；后两征保留围城与水陆战过程。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "third-huai"
+      ],
+      "note": "958李璟献14州60县、去帝称唐国主而非当时江南国主，赵都虞候升都指挥战功已用。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "northern-march"
+      ],
+      "note": "转向北征及宁州王洪降已用，不因汉人守将就推定全部立场不坚定。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "northern-march"
+      ],
+      "note": "益津终廷晖、瓦桥姚内斌、莫刘楚信、瀛高彦晖降与三关三州已写，补各将姓名。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "northern-march"
+      ],
+      "note": "幽州尚未得、诸将警契丹骑兵集结已用，纠正一取幽州即全部十六州必归。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "northern-march"
+      ],
+      "note": "亲读辽6及83：959萧思温应周，979奚底讨古败及斜轸战事另时，未把换防倒移959。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "northern-march"
+      ],
+      "note": "补959在位穆宗及萧思温南面应对；睡王评价不等全境无防御，奚底从来守不住全称不成立。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "northern-march"
+      ],
+      "note": "临门已到手的推算改为幽州未得、骑兵威胁仍在；奚底慌乱及让斜轸早换的对白不虚补。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "northern-march"
+      ],
+      "note": "瓦桥病还、战争停止与遗憾已用；虚构高烧度数及必可取全十六州不采用。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "northern-march"
+      ],
+      "note": "定位五代史补5三十年问答，明确非通鉴294班师临终遗命。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "northern-march"
+      ],
+      "note": "幼子继与赵升都点检已写；升军职不直接等唯一托孤之臣，未编大侄子交给你的对白。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "corrected",
+      "assessment": "uncertain",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [],
+      "note": "柴荣临终叮嘱范质提防赵匡胤的秘密告诫未在亲读原典定位，不写确证。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "northern-march"
+      ],
+      "note": "未竟事业的评价已由末节承接；五代唯一明主是主播个人品评，未要求读者认同。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "northern-march"
+      ],
+      "note": "早死未竟与李存勖后期不同的比较以柴荣成果/未竟之业承接；齐达内世界杯比喻舍弃。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "northern-march"
+      ],
+      "note": "近胜的惋惜已用，修正一切条件都有利与冠军已可触摸的必胜推定。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chai-rong-expansion-and-last-march",
+      "sectionIds": [
+        "northern-march"
+      ],
+      "note": "关南快进与诸将警戒并写，不把辽穆宗无作为扩成契丹全空虚、全境必降。"
+    }
+  ]
+}

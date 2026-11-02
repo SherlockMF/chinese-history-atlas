@@ -1,0 +1,277 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11收尾独立复核：逐读指定原P、现正文及所用原典；实义评价以编辑解读承接，未证心理、比例和全称判断明确研究结案；未回听音频。",
+  "counts": {
+    "partial": 13,
+    "covered": 3,
+    "corrected": 7,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "sixteen-list",
+        "new-border"
+      ],
+      "note": "幽云两端及山前山后交通已用；地图推荐、南下唯两弱点的全称不作史证。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "new-border"
+      ],
+      "note": "雁门太行仍在、代北与山前路径区别已用，未称无任何险。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "new-border"
+      ],
+      "note": "山前平原容易南下有说明，华北完全无险可守改为城山河及驻军须组织。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "sixteen-list"
+      ],
+      "note": "蓟州位置和向东联系已用，不把后来山海关当936既定西口防线。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "sixteen-list"
+      ],
+      "note": "瀛檀顺州列名与城谷关系已用，檀州密云不等居庸北口；顺义抽烟城墙笑谈删去。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "sixteen-list"
+      ],
+      "note": "新妫谷地与山后交通已用；逐州现代水库名称非古战场坐标，不当当时行政要素。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "sixteen-list"
+      ],
+      "note": "儒应寰等名称与雁门北屏障已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "sixteen-list"
+      ],
+      "note": "朔蔚与代北东向通路已用；长城内最大屯兵、军都山滑雪场类比不核作事实。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "sixteen-list"
+      ],
+      "note": "山口通路与北京属契丹的改变已用；太行各陉完整清单不在本篇逐列。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "new-border"
+      ],
+      "note": "research-closed：已承接辽金元明清作为整体中国历史的编辑视角，并区分王朝更替、地方延续与936州域；不采用北方一块地千年同界或持续对宋外患的全称断言，未借此许诺另篇补核。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "new-border"
+      ],
+      "note": "新增959瀛莫收复设雄霸驻军、979/986宋取而未固，具体反证直到明首次所有州全不归中原，不倒推同一年全收。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "new-border"
+      ],
+      "note": "补三关与雄霸州驻军的真实新防线，以具体部署校防守仅靠黄河，不只抽象否认。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "new-border"
+      ],
+      "note": "中原视角评割地及公共后果已用；千古罪人的道德标签转为具体选择与损失。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "new-border"
+      ],
+      "note": "补979高梁河/986三路北伐及退军迁民，收复目标有具体战例；澶渊前所有政策唯一目的仍不虚称。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "new-border"
+      ],
+      "note": "割地不是必然且有个人选择的评价已用；若改用别计必能脱困的反事实不确定。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [],
+      "note": "石敬瑭列辽功臣前五、阿保机在天盘点的段子，不充作实际功臣名册。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "resources-and-dependence"
+      ],
+      "note": "称臣父礼土地与农耕腹地已用；汴洛契丹自由贸易免关税未核，不补成确定政策。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "resources-and-dependence"
+      ],
+      "note": "得田民工匠与资源的效果按辽地理志谨慎说明；每州固定冶铁纺织分工未逐项证实。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "resources-and-dependence"
+      ],
+      "note": "幽州南京及前沿的地位已用；固定屯十万军未找到同年依据，不推为936兵数。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "resources-and-dependence"
+      ],
+      "note": "契丹治理资源增长与后晋继续依赖已用；没有石敬瑭辽绝不能如此的反事实不写。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "southern-distance"
+      ],
+      "note": "后晋割地建国背景已用；节目上期夸赞与遥遥领先玩笑不入故事。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "southern-distance"
+      ],
+      "note": "城镇、耕地与军事缓冲增加契丹资源已用，敌我好点是解释比喻。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "southern-distance"
+      ],
+      "note": "后晋依赖契丹与南方各自经营已用；所有南国同时成熟繁荣的全称不保留。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sixteen-prefectures-strategic-cost",
+      "sectionIds": [
+        "southern-distance"
+      ],
+      "note": "福建等南方仍有战争，纠正到此普遍不打仗；繁荣不能用没有战事证明。"
+    }
+  ],
+  "independentReview": "complete",
+  "independentReport": "final-unadopted-liao-wudai-independent.md"
+}

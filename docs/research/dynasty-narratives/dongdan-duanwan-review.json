@@ -1,0 +1,289 @@
+{
+  "date": "2026-10-11",
+  "method": "独立重读25原段与全文，亲读辽2/3/71/72/37/76、通鉴275相关与隋84契丹条；纠误排号泣、围降再叛、断腕择立次序及已证/推断，石房功能保留uncertain；音频未回听。",
+  "counts": {
+    "covered": 15,
+    "corrected": 3,
+    "partial": 6,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "east-conquest"
+      ],
+      "note": "925年十二月亲征诏“惟渤海世仇未雪”及皇后、皇太子、大元帅尧骨皆从，按《辽史》卷2写入；925出征与926灭国分开。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "east-conquest"
+      ],
+      "note": "辽2先围忽汗、谲譔降再叛，才攻破；改旧补正文出降前已攻破的次序。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "east-conquest"
+      ],
+      "note": "辽72明记倍作歌辞父、号泣而出，恢复旧补误称无史文的辞别情节；仅不补父也抱头哭。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "falling-star"
+      ],
+      "note": "次扶余府不豫、大星陨于幄前、崩年五十五按《辽史》卷2；班师路上病逝的口述表述与史文相合。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "three-sons-firewood"
+      ],
+      "note": "三子名位：倍留东丹、德光大元帅尧骨、李胡尚幼；大元帅称号按《辽史》卷2随行记录与太宗纪。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "three-sons-firewood"
+      ],
+      "note": "三子采薪试探按《辽史》卷72李胡传“又尝大寒，命三子采薪”写入。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "three-sons-firewood"
+      ],
+      "note": "德光不择而取最先至、人皇王取干者束而归，按卷72原文。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "three-sons-firewood"
+      ],
+      "note": "李胡取少弃多袖手而立及太祖“长巧而次成，少不及矣”评语，按卷72原文。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "three-sons-firewood"
+      ],
+      "note": "太后属意李胡/当次爱德光与辽71避倍均已用；汉化太深是推断移interpretation，不作史注明言。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "three-sons-firewood"
+      ],
+      "note": "首遇皇帝继任无先例一义随采薪节带出，其余为烧柴火玩笑串场，不逐句承接。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "falling-star",
+        "three-sons-firewood"
+      ],
+      "note": "辽2八月梓宫西还、德光先赴行在、倍继至，补真实到丧次序，不止分散方位。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "follow-the-emperor"
+      ],
+      "note": "称制、难制者被杀已用；全体百官均反对德光和太后在家待丧不符合现读原典，不全覆盖。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "follow-the-emperor"
+      ],
+      "note": "以殉名政治清洗为编辑解读，丧偶痛心与不听话每人必杀的拟心理未证。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "follow-the-emperor"
+      ],
+      "note": "“汝思先帝乎……果思之，宜往见之”对答按通鉴卷275原文，不补造现场对白。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "falling-star"
+      ],
+      "note": "停灵与下葬：辽史卷2七月崩至天显二年八月葬祖陵约一年；树葬风俗按《隋书》卷84原文。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "falling-star"
+      ],
+      "note": "尸置山树之上、三年收骨而焚按《隋书》卷84；回归天地的解释保留为风俗理解。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "falling-star"
+      ],
+      "note": "祖州明殿/二仪像不是小石屋停灵功能的证据，本次未核遗迹功能，正文不坐实风干石房；一年多葬期另有辽2。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "zhao-siwen"
+      ],
+      "note": "以百数杀戮与赵思温登场按通鉴“前后所杀以百数”；树上的调侃不承接。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "zhao-siwen"
+      ],
+      "note": "赵思温对答“亲近莫如后，后行，臣则继之”按通鉴卷275；其卢龙人出身按《辽史》卷76。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "zhao-siwen"
+      ],
+      "note": "激将玩笑不承接，实质对答已入上一段。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "zhao-siwen"
+      ],
+      "note": "顾嗣子幼弱国家无主原语已用，口述长子28与太后点名长子未记，不能因此全覆盖年龄命题。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "zhao-siwen"
+      ],
+      "note": "断腕：辽史卷71“因断右腕纳於柩”与通鉴“乃断一腕，令置墓中”并存；左撇子为节目玩笑不采用。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "zhao-siwen"
+      ],
+      "note": "辽37断腕楼与通鉴赵思温得免已用；此后永不逼殉/无人同法死的绝对结论无史文，删旧补断言。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "holding-the-reins"
+      ],
+      "note": "通鉴926先执辔而927才断腕，辽3正式即位927十一，分层列次序，不能将断腕预设为牵马前威慑因果。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dongdan-duanwan",
+      "sectionIds": [
+        "holding-the-reins"
+      ],
+      "note": "执辔德光当众被拥戴有史源；旧正文先剁手后众牵马的因果已删，史书年序差别明示。"
+    }
+  ],
+  "independentReview": "completed"
+}

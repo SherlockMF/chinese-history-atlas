@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-30",
+  "method": "完整读隋（中）P001–P006、P020–P026，核隋书2、48、68及通鉴178，区分杨素监营责赏与宇文恺营造职事、史家死亡记载与精确统计、两种帝后释怒叙法。未回听录音，人物隐秘动机及跨后妃受难比较不冒作史实。",
+  "counts": {
+    "partial": 5,
+    "corrected": 5,
+    "covered": 3
+  },
+  "rows": [
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P001",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "renshou-palace",
+      "sectionIds": [
+        "a-palace-in-qizhou"
+      ],
+      "note": "营仁寿宫与晚年生活的主题已写；原段替杨坚安排的犒劳自己内心独白没有当史实，不能据后来皇后辩护倒推开工时全部动机。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "renshou-palace",
+      "sectionIds": [
+        "a-palace-in-qizhou"
+      ],
+      "note": "以高祖纪的服玩节俭、灾民杂糠与宫殿营造展示矛盾；原段安享晚年属人之常情的心理判断没有作为可证实因果，仍保留部分承接。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "renshou-palace",
+      "sectionIds": [
+        "a-palace-in-qizhou",
+        "two-men-at-the-site"
+      ],
+      "note": "补593年正月幸岐州、二月诏营，明确杨素监营、推荐前莱州刺史宇文恺；没有将宇文恺写成此时仍任莱州刺史，也不虚构皇帝看中地势的现场对白。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "renshou-palace",
+      "sectionIds": [
+        "two-men-at-the-site"
+      ],
+      "note": "写宇文恺已有大兴、漕运工程经验及仁寿宫职事，承接专业营造者定位、约两年工期；原段修洛阳及所有运河皆由他负责的泛称未在本篇逐项展开，仍为partial。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "renshou-palace",
+      "sectionIds": [
+        "two-men-at-the-site",
+        "the-cost-in-lives"
+      ],
+      "note": "约两年宫成、夷山堙谷台榭相连、严急役使及其对节俭形象的冲击均已展开；游戏造房比喻属表达手段，不作为待核历史事实。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "renshou-palace",
+      "sectionIds": [
+        "the-cost-in-lives"
+      ],
+      "note": "核595年宫成及杨坚前往；区分离宫与新都，将一万多人的精确化口述还原为通鉴死者以万数的记载，并注明缺少可精确核算的名册。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "renshou-palace",
+      "sectionIds": [
+        "the-emperors-anger"
+      ],
+      "note": "承接杨坚见新宫壮丽而怒、帝后随后介入的冲突；幸福形容和拟声口语不冒作可考独白。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "renshou-palace",
+      "sectionIds": [
+        "the-emperors-anger"
+      ],
+      "note": "以为吾结怨天下的史文承接奢华营建损耗民力、皇帝担心怨恨的核心，不复用假山、门球等现代想象对白。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "renshou-palace",
+      "sectionIds": [
+        "the-emperors-anger"
+      ],
+      "note": "校受责惶恐者为杨素；工程历时两年为何直到宫成才发怒的质疑以知情程度未明处理，未断言皇帝作戏，也未完整证明原段揣测。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "renshou-palace",
+      "sectionIds": [
+        "the-emperors-anger"
+      ],
+      "note": "受劝者为杨素，劝告者补实名封德彝；正文写等待皇后而不采皇帝愤怒必非真意的推断。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "renshou-palace",
+      "sectionIds": [
+        "the-empresss-reward"
+      ],
+      "note": "皇后以帝后晚年自娱肯定新宫已承接；与吕后、述律后所受磨难的比较未核未展开，不以删去比较计充分覆盖。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "renshou-palace",
+      "sectionIds": [
+        "the-empresss-reward"
+      ],
+      "note": "恢复通鉴公知吾夫妇老等引语，明确对话对象杨素，并与隋书杨素自陈、皇后转谕的另一记法分开。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "renshou-palace",
+      "sectionIds": [
+        "the-empresss-reward"
+      ],
+      "note": "赏赐对象校为杨素，补钱百万、锦绢三千段；从劳民之责转为忠孝之赏的结局完整写入。"
+    }
+  ]
+}

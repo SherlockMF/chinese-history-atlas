@@ -19,7 +19,7 @@ import {
   ATLAS_INITIAL_VIEW,
 } from "@/features/history-map/atlas/atlas-config";
 import { getAtlasDatasetBounds } from "@/features/history-map/atlas/atlas-bounds";
-import { createAtlasStyle } from "@/features/history-map/atlas/atlas-style";
+import { createAtlasStyle, realmFillOpacity } from "@/features/history-map/atlas/atlas-style";
 import type { AtlasRegionSelection } from "@/features/history-map/atlas/atlas-region-selection";
 import type {
   AtlasDataset,
@@ -30,6 +30,12 @@ import type {
 export interface MapLibreCanvasProps {
   atlas: AtlasDataset;
   year: number;
+  fitToData?: boolean;
+  viewBounds?: [[number, number], [number, number]];
+  cameraDurationMs?: number;
+  cameraPlaying?: boolean;
+  reducedMotion?: boolean;
+  mutedRealms?: boolean;
   selectedDynastyId?: string;
   onSelectRegion: (selection: AtlasRegionSelection) => void;
   onProjectorChange: (projector: AtlasProjector) => void;
@@ -149,9 +155,20 @@ function createBoundaryCollection(atlas: AtlasDataset): NonNullable<AtlasDataset
   })) };
 }
 
+function applyNarrativeOpacity(map: MapLibreMap, muted: boolean) {
+  map.setPaintProperty("atlas-realms-fill", "fill-opacity", realmFillOpacity(muted));
+  map.setPaintProperty("atlas-realm-labels", "text-opacity", muted ? 0.45 : 1);
+}
+
 export function MapLibreCanvas({
   atlas,
   year,
+  fitToData = false,
+  viewBounds,
+  cameraDurationMs = 650,
+  cameraPlaying,
+  reducedMotion = false,
+  mutedRealms,
   selectedDynastyId,
   onSelectRegion,
   onProjectorChange,
@@ -164,6 +181,10 @@ export function MapLibreCanvas({
   const atlasRef = useRef(atlas);
   const injectedAtlasRef = useRef<AtlasDataset | undefined>(undefined);
   const yearRef = useRef(year);
+  const fitToDataRef = useRef(fitToData);
+  const viewBoundsRef = useRef(viewBounds);
+  const previousViewBoundsRef = useRef(viewBounds);
+  const mutedRealmsRef = useRef(mutedRealms);
   const selectedDynastyIdRef = useRef(selectedDynastyId);
   const onSelectRegionRef = useRef(onSelectRegion);
   const onProjectorChangeRef = useRef(onProjectorChange);
@@ -179,6 +200,9 @@ export function MapLibreCanvas({
   useEffect(() => {
     atlasRef.current = atlas;
     yearRef.current = year;
+    fitToDataRef.current = fitToData;
+    viewBoundsRef.current = viewBounds;
+    mutedRealmsRef.current = mutedRealms;
     selectedDynastyIdRef.current = selectedDynastyId;
     onSelectRegionRef.current = onSelectRegion;
     onProjectorChangeRef.current = onProjectorChange;
@@ -192,6 +216,9 @@ export function MapLibreCanvas({
     onSelectRegion,
     selectedDynastyId,
     year,
+    fitToData,
+    viewBounds,
+    mutedRealms,
   ]);
 
   useEffect(() => {
@@ -293,7 +320,7 @@ export function MapLibreCanvas({
         if (!realmsSource) {
           throw new Error("Missing GeoJSON source: realms");
         }
-        realmsSource.setData(atlasRef.current.realms);
+        realmsSource.setData(atlasRef.current.realmFills ?? atlasRef.current.realms);
         injectedAtlasRef.current = atlasRef.current;
       } catch (error) {
         reportFatal(error, "当前年份核心疆域无法载入");
@@ -317,13 +344,15 @@ export function MapLibreCanvas({
       }
 
       loadedRef.current = true;
-      if (container.clientWidth > 0 && container.clientWidth < 600) {
-        const bounds = getAtlasDatasetBounds(atlasRef.current) ?? ATLAS_BOUNDS;
+      const compact = container.clientWidth > 0 && container.clientWidth < 600;
+      if (compact || fitToDataRef.current || viewBoundsRef.current) {
+        const bounds = viewBoundsRef.current ?? getAtlasDatasetBounds(atlasRef.current) ?? ATLAS_BOUNDS;
         map.fitBounds(bounds as [[number, number], [number, number]], {
           duration: 0,
-          padding: { top: 40, right: 20, bottom: 120, left: 20 },
+          padding: { top: 40, right: compact ? 20 : 40, bottom: compact ? 120 : 56, left: compact ? 20 : 40 },
         });
       }
+      if (mutedRealmsRef.current !== undefined) applyNarrativeOpacity(map, mutedRealmsRef.current);
       publishProjector();
       onRenderSuccessRef.current(yearRef.current);
     };
@@ -425,7 +454,7 @@ export function MapLibreCanvas({
     try {
       const realms = getGeoJsonSource(map, "realms");
       if (!realms) throw new Error("Missing GeoJSON source: realms");
-      realms.setData(atlas.realms);
+      realms.setData(atlas.realmFills ?? atlas.realms);
       getGeoJsonSource(map, "disputed")?.setData(atlas.disputed);
       getGeoJsonSource(map, "places")?.setData(atlas.places);
       getGeoJsonSource(map, "boundaries")?.setData(createBoundaryCollection(atlas));
@@ -434,6 +463,13 @@ export function MapLibreCanvas({
         createRealmLabelCollection(atlas),
       );
       injectedAtlasRef.current = atlas;
+      if (fitToDataRef.current) {
+        const compact = (containerRef.current?.clientWidth ?? 1000) < 600;
+        map.fitBounds((viewBoundsRef.current ?? getAtlasDatasetBounds(atlas) ?? ATLAS_BOUNDS) as [[number, number], [number, number]], {
+          duration: 0,
+          padding: { top: 40, right: compact ? 20 : 40, bottom: compact ? 120 : 56, left: compact ? 20 : 40 },
+        });
+      }
       onRenderSuccessRef.current(year);
     } catch (error) {
       if (!fatalReportedRef.current) {
@@ -444,6 +480,27 @@ export function MapLibreCanvas({
       }
     }
   }, [atlas, year]);
+
+  useEffect(() => {
+    const map = mapRef.current;
+    const previousBounds = previousViewBoundsRef.current;
+    previousViewBoundsRef.current = viewBounds;
+    if (!map || !loadedRef.current || (!viewBounds && !previousBounds)) return;
+    const bounds = viewBounds ?? getAtlasDatasetBounds(atlasRef.current) ?? ATLAS_BOUNDS;
+    map.fitBounds(bounds as [[number, number], [number, number]], { duration: reducedMotion ? 0 : cameraDurationMs, padding: 58 });
+  }, [viewBounds, reducedMotion, cameraDurationMs]);
+
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map || !loadedRef.current || cameraPlaying === undefined) return;
+    if (!cameraPlaying) map.stop();
+    else if (viewBoundsRef.current) map.fitBounds(viewBoundsRef.current, { duration: reducedMotion ? 0 : cameraDurationMs, padding: 58 });
+  }, [cameraPlaying, cameraDurationMs, reducedMotion]);
+
+  useEffect(() => {
+    const map = mapRef.current;
+    if (map && loadedRef.current && mutedRealms !== undefined) applyNarrativeOpacity(map, mutedRealms);
+  }, [mutedRealms]);
 
   useEffect(() => {
     const map = mapRef.current;
@@ -472,7 +529,7 @@ export function MapLibreCanvas({
         [number, number],
       ],
       {
-        duration: 700,
+        duration: reducedMotion ? 0 : 700,
         padding: { top: 40, right: compact ? 20 : 40, bottom: compact ? 160 : 56, left: compact ? 20 : 40 },
       },
     );

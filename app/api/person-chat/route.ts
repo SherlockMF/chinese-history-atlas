@@ -60,7 +60,7 @@ export async function POST(request: Request) {
         return NextResponse.json({ ...localAnswer, method: "local" }, { headers: { "Cache-Control": "no-store" } });
       }
     }
-    const retrieval = await new LocalHistoryRetriever().retrieve(
+    const retrieval = await new LocalHistoryRetriever({ includeNarratives: false }).retrieve(
       input.message,
       { selectedPerson: person.id, currentPage: "/people" },
       3,

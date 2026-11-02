@@ -3,6 +3,8 @@ export type HistoryEntityRef = { type: "person" | "event" | "location"; id: stri
 
 export type HistorySiteConfig = {
   id: string;
+  /** Planned sites reserve stable slugs but must not expose an archive link. */
+  status?: "ready" | "planned";
   archiveSlug: string;
   title: string;
   description: string;

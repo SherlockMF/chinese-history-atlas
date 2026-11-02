@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-30",
+  "method": "完整读北周P001–011及既有pingyang全文，核周书武帝纪、通鉴172、隋书高祖纪与地理志、北齐书傅伏传及历代三宝纪11；四节前置补入，保留旧四节及其P012–043锚点，不改旧pilot-review。数字区分史源叙述范围和兵力口径，未回听录音。",
+  "counts": {
+    "covered": 4,
+    "corrected": 3,
+    "partial": 4
+  },
+  "rows": [
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P001",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "monasteries-and-households"
+      ],
+      "note": "明确引入隋费长房历代三宝纪，说明佛法僧三宝及佛教一方的毁废记忆，承接书名与文献性质。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "monasteries-and-households"
+      ],
+      "note": "实写574佛道二教还民与毁像，经本书卷11核四万寺、三百万量级编户的574—577范围，后者含灭齐后地区；不作575前单次清查、不将赐寺宅都说成拆寺、不换算三百万士兵，生育命令无据未增。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "march-575"
+      ],
+      "note": "高纬与无愁天子具名，对应北齐书自弹胡琵琶无愁曲的来源；原段主持人感叹不作周帝真实内心。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "march-575"
+      ],
+      "note": "齐朝失序、周帝据此判断可伐及齐边将仍能抵抗实写；现代节目玩笑不是历史断言，删去玩笑不计事实校正。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "march-575"
+      ],
+      "note": "575亲征、侯莫陈琼身份、主军与舟师分开写；原稿称仅分三路的兵力口径未逐路完整复原，保留缺口。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "march-575"
+      ],
+      "note": "侯莫陈为三字复姓、琼为名；杨坚为后来隋文帝、当时大将军随国公并率舟师自渭入河均展开。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "march-575"
+      ],
+      "note": "六万人是武帝所领六军主力、禁止伐树践稼及军法有据；现代集团军司令等价与把杨坚列西魏初八柱国未采用，沿途深得民心无群体证据而明确保留，不能算全段全证。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "retreat-575"
+      ],
+      "note": "拆开河阴大城、洛口东西二城、中潬与金墉战事，区分已克与未克，具体写高阿那肱自晋阳援至河阳、周帝患病夜退和烧舟弃城；次年再战接下节，未单独给亲政后各战编号。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "choose-jinzhou"
+      ],
+      "note": "576改攻晋州和拊背未扼喉的比喻已实写，晋州/平阳/晋阳纠正；亲率十四万及全国之力在所核周书6、通鉴172未获明文，不机械相加分路数字，保留未证。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "choose-jinzhou"
+      ],
+      "note": "写攻晋州诱齐军来救、周军严阵以待及胜后再向晋阳与东进的关系，纠正把战略目标晋州全替成晋阳、以为取一城即整个齐国已得。高欢所起不擅改原典地名。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "choose-jinzhou"
+      ],
+      "note": "平阳即晋州治所而非其前关隘，侯子钦先降、崔景嵩内应、尉相贵被执与八千甲士分开；原段仇君不补造同名人物，胜后增强信心和刻意养身的内心叙写未获证据，未全部承接。"
+    }
+  ]
+}

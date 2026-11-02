@@ -1,0 +1,292 @@
+{
+  "date": "2026-09-30",
+  "method": "人工逐段通读北魏01 P132–P136及北魏02 P008–P027共25段，对读魏书卷1、13、24，通鉴卷96、97和晋书卷113。只按正文实际承接判断，不以引用范围代替覆盖；区分年号追尊、婚姻次序、引文评价及未证心理。未回听音频。",
+  "counts": {
+    "corrected": 12,
+    "partial": 4,
+    "covered": 9
+  },
+  "rows": [
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "accession"
+      ],
+      "note": "承接动荡后什翼犍继位，明确高祖是拓跋珪即位后的追尊，不把追尊当作338年在位称号；拆字笑谈不复写。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "accession"
+      ],
+      "note": "郁律次子、宽仁形象、后赵为质、兄死迎立与建国年号均已写；区分代王身份和后世昭成皇帝、高祖称谓。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "accession"
+      ],
+      "note": "代王继位及强邻背景已写，分开338年的后赵格局与357年才执政的苻坚，不将晚年主要对手提前到即位时。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "yan-feng",
+        "accession"
+      ],
+      "note": "燕凤入仕、内政作用及跨代国与北魏的仕历已写；开国二十功臣名目未核定，苻坚一生之敌的修辞不作为全时期唯一对手。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "yan-feng"
+      ],
+      "note": "燕凤通过向苻坚进言保留幼年拓跋珪、旧臣延续到北魏的关联已承接；本段为后续预告，没有具体战役细节待照搬。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "accession",
+        "yan-feng"
+      ],
+      "note": "339年置官分职、远近归附及燕凤参决国事均已承接；未把任燕凤强定在设官当日。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "yan-feng"
+      ],
+      "note": "姓名、经史和阴阳谶纬已写，明确不能把其知识全部缩成现代口语中的算命。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "yan-feng"
+      ],
+      "note": "代人、文化声名及围代城取人的经过已写，补出先有礼聘而不应的次序；三顾茅庐插话不复写。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "yan-feng"
+      ],
+      "note": "拒绝应聘、以屠城要挟以及城人惧而送出的具体情节已承接；午睡对白属插科，不作史实。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "yan-feng",
+        "shengle"
+      ],
+      "note": "入仕、保全后裔及正式城邑营建的设想均已承接，灅源方案与盛乐实施分开。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "shengle"
+      ],
+      "note": "王氏因迁徙传统、事难后根基未固和遇敌不易转移而反对灅源筑城，什翼犍从谏已写。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "shengle"
+      ],
+      "note": "盛乐营建、340年宫室与341年筑城次序已承接；原段后见式列盛乐为北魏三都之一，并未主张340年已有三都制度，本文未展开三都关系，也未承接鲜卑思想变化与军事实力提升的具体论断。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "shengle",
+        "assembly"
+      ],
+      "note": "营建与342年赴参合陂已承接；说明造城不能直接证明对防御已有充分信心，避免把心理推断写成记载。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "assembly"
+      ],
+      "note": "342年七月七日诸部毕集、设坛埒讲武驰射和成为常例已展开；限定武状元选拔及全部国家宗教仪式的扩大解释。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "marriages"
+      ],
+      "note": "慕容皝、代燕邻接与求婚已写，并补339年既有婚姻；两国或和或战的主要关系已呈现，耶律楚材跨朝插话不复写。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "marriages"
+      ],
+      "note": "343年求婚、马千匹不与及冲突均已写，明确是续婚谈判，不能误作两家此前从未结亲。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "marriages"
+      ],
+      "note": "聘马条件已承接，明确故意开天价或因轻视实力而拒婚属于未获记载支持的动机推测。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "marriages"
+      ],
+      "note": "慕容儁等出兵、什翼犍避去已写，校正没打过为双方未交战而撤回；未虚构代王战后反省造城的对白。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "restraint"
+      ],
+      "note": "351年后赵衰亡、冉闵与中原争战以及代王起意南进已承接，战争评价有归属；原段将冉魏列为传统十六国之一的分类问题未在本篇展开。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "restraint"
+      ],
+      "note": "亲率大军平四海、敕诸部会师及大人劝阻已承接；劝阻依据为持久战争风险，不增补他们提起八年前避燕的对白。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "restraint"
+      ],
+      "note": "豪强并起、不能一举平定、可能跨年损耗与最终停止计划均已展开。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "tie-fu"
+      ],
+      "note": "356年务桓死、弟阏头继立谋叛，及已有归附背景已写；暴怒内心独白不复写。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "tie-fu",
+        "marriages"
+      ],
+      "note": "临河招谕而降与356年燕来求婚均已写，区分未灭铁弗、慕容儁与已故慕容皝以及此前既有婚姻，不采用翻身后对方才看中的猜想。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "marriages",
+        "tie-fu"
+      ],
+      "note": "婚姻往来与铁弗关系延续已写，说明续婚和再求婚的层次，限定婚姻永久保障边境或此后才开始征战的线性叙述。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shiyijian",
+      "sectionIds": [
+        "tie-fu"
+      ],
+      "note": "高车、没歌及铁弗反复归叛已写，365年并列背代与反秦受封，避免只写单向归秦；敕勒名称解释及敕勒川诗句混入木兰的旁支未展开。"
+    }
+  ]
+}

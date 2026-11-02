@@ -1,0 +1,292 @@
+{
+  "date": "2026-09-30",
+  "method": "人工逐段复读北魏03 P145–P150及北魏04 P001–P019共25段，对照魏书4下、5、6、18、83上、94及通鉴124、126。逐段分开史载事件、动机说明与节目推演；保留基线原判，未回听音频。",
+  "counts": {
+    "partial": 9,
+    "corrected": 9,
+    "covered": 7
+  },
+  "rows": [
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "eastern-palace"
+      ],
+      "note": "承接宗爱为太武近侍、非法擅权及东宫冲突；原段把酷刑直接推为全国动荡的因果未展开，坏人总评改用具体行为呈现。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "eastern-palace"
+      ],
+      "note": "展开晃已有监国、劝战与课农经验，以及宗爱受宠获封；未把觊觎皇位、将来必然继统和宗爱的口头自白写成事实。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "eastern-palace"
+      ],
+      "note": "按魏书94与通鉴126改为宗爱谗杀仇尼道盛等东宫官属、晃忧卒；随后太武追悔，不写成皇帝亲下杀太子命令。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "regret"
+      ],
+      "note": "承接太武追悔、宗爱怕诛而弑君的史载因果；喃喃自语、预想车裂及熟睡中被杀细节没有确证，正文限定弑杀现场未知。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "uncertain",
+      "assessment": "corrected",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "regret"
+      ],
+      "note": "以魏书本纪核为四十五岁；原稿十五岁岁为转写疑点，未回听。未搬用张飞睡中死的小说类比证明太武死法。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "regret"
+      ],
+      "note": "承接拓跋焘为太武帝及征战一生却死于宫廷的转折；最有名的两帝排名、个人偏爱未作为史论采纳，孝文姓名和汉武转写仅在来源注说明。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P001",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "regret"
+      ],
+      "note": "保留本段历史实质：太武拓跋焘在长期征战后被宗爱弑杀；节目问候和期数过渡不另转写。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "regret"
+      ],
+      "note": "承接太武遭宗爱弑杀，第四帝遇难将在后文展开；数字忌讳玩笑不需正文化。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "eastern-palace",
+        "regret"
+      ],
+      "note": "宗爱因谗害东宫、惧太武追责而弑君已写；校正晃为忧卒，并限定不能由一名宦官推定完整照搬汉制。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "regret"
+      ],
+      "note": "承接司徒司空与宦官等职官背景，明确有这些官名不等于汉制原样继承，也不足支持游牧政权本无宦官的全称判断。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "false-command"
+      ],
+      "note": "宗爱扶立与己相善的拓跋余及拥立后控制权力均已展开，并补杀三臣与翰的具体过程；名字谐音玩笑略去。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "false-command",
+        "empty-treasury"
+      ],
+      "note": "核452年立余、余为晃弟与非按次序继位，并展开宗爱所获军政官职、录三省与掌宿卫。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "empty-treasury"
+      ],
+      "note": "用杜氏及常太后亲属获爵任官的实例，纠正死母旧制令北魏只剩宦官、再无外戚势力之说。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "empty-treasury"
+      ],
+      "note": "写余因非次而立厚赏收心，府藏迅速耗竭且不恤政事；无政治抱负属内心概括，未断定，更未展开与汉末十常侍的类比。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "empty-treasury"
+      ],
+      "note": "宗爱掌权与余沉于声乐已写；余因没有思想准备才选择享乐的心理链条无确证，正文未代言。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "empty-treasury"
+      ],
+      "note": "承接余的长夜饮宴和游猎；未采用临时做皇帝的自白，也不把个人嗜好推广为所有游牧皇帝的共同性格。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "empty-treasury"
+      ],
+      "note": "写宗爱弑太武后兼掌朝政禁军、公卿畏惧；余天天与宫女相处和欲望必不断膨胀的细节推论未采用。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "empty-treasury",
+        "eastern-temple"
+      ],
+      "note": "据传记写余疑宗爱谋变而欲夺权、宗爱反击；明确宗爱自立称帝计划无确证，未采用鲜卑血性与底线独白解释。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "eastern-temple"
+      ],
+      "note": "完整承接余欲夺权后宗爱先发，452年十月夜祭东庙派人弑余；原段拟声互怼不当史料对白。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "eastern-temple",
+        "grandson"
+      ],
+      "note": "校正刺客为贾周，年内再弑君已写；用刘尼源贺陆丽具体行动替代泛称王公大臣投票平衡，迎立与拘捕的先后明确。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "grandson",
+        "recovery"
+      ],
+      "note": "写濬为晃子太武孙、文成帝，迎立后诛宗爱贾周夷三族及十三年治理；另提示宗爱死后并非所有宫廷争斗立即结束。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "grandson",
+        "recovery"
+      ],
+      "note": "承接太武用兵造成虚耗、余厚赏空库、濬十三年及休养施政，并以南北边战限定全部精力休养的绝对化说法。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "recovery"
+      ],
+      "note": "回应南北强敌疑问：452宋曾趁宫乱北伐、458魏仍渡漠对柔然；不是北无强敌也不是宋从未进攻。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "recovery"
+      ],
+      "note": "用453宋内乱、455察吏重农业与减役免租、461南北互使说明恢复与外交；将总体安抚方针置于边战仍存的情境，列465终年与十三年时段。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "zong-ai",
+      "sectionIds": [
+        "recovery"
+      ],
+      "note": "以440出生、452即位、465去世核传统计岁十三与二十六，承接民生恢复和冯氏衔接；所核本纪仅记崩，未强定具体病死原因。"
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "partial": 11,
+    "covered": 12,
+    "corrected": 5
+  },
+  "rows": [
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "daughter"
+      ],
+      "note": "任得敬投降、任女17岁1137献、静州官职；原训练情报全带未核。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "daughter"
+      ],
+      "note": "任氏1138皇后及父官升写入。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "heda"
+      ],
+      "note": "辽撻马随成安、天祚非夏献按前篇纠正。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "heda"
+      ],
+      "note": "军事功、李国姓、夏州统军具体履历。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "heda"
+      ],
+      "note": "对辽与公主关系具体，真心心理不复演。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "heda"
+      ],
+      "note": "投金不满与联辽旧部，非夏献帝；非已经率全部兵到西辽。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "heda"
+      ],
+      "note": "西域大石与辽余部交代，荒唐囚帝故事不扩。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "heda"
+      ],
+      "note": "派间使找大石无结果、复辽构想。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "heda"
+      ],
+      "note": "1140散财起夏州、围灵取盐，非找不到便纯自建皇朝。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "summer-attack"
+      ],
+      "note": "仁孝命任平叛与实战谋略。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "summer-attack"
+      ],
+      "note": "袭夏后方具体，返援部众散，盐州败黄河不渡。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "daughter",
+        "office"
+      ],
+      "note": "任女是嫡母，军政职不同时全到顶。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "summer-attack",
+        "office"
+      ],
+      "note": "1147入朝议、外镇兵权与中央进职分期。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "summer-attack"
+      ],
+      "note": "仁孝欲许，仁忠公济反对，非皇帝先知野心一人拒。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "summer-attack",
+        "office"
+      ],
+      "note": "西平公、都统、入朝中书国相年代；音频候选未听。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "office"
+      ],
+      "note": "任亲具体官职与谏者被罢，非仁孝控欲一切知。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "office"
+      ],
+      "note": "1160楚王仪从几同国主。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "schools-palace"
+      ],
+      "note": "废学上言与仁孝不报写足。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "schools-palace"
+      ],
+      "note": "省费原主张与私人用人解释分开，科举硬门槛不虚断。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "schools-palace"
+      ],
+      "note": "皇帝不接受但非对方当场摊牌，分国準备分年。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "schools-palace"
+      ],
+      "note": "瓜沙与灵州修宫迁远构想，西北瓜州非京口瓜洲。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "schools-palace",
+        "doctor-and-letter"
+      ],
+      "note": "灵夏计划与未完成迁都，生病接下一期而不反復机械被识破。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "doctor-and-letter"
+      ],
+      "note": "王师道实际出诊、附表被拒，亲探及猜忌心理未证。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "partition"
+      ],
+      "note": "分路灵州囉庞、仁孝求封、金廷李石世宗分歧。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "doctor-and-letter"
+      ],
+      "note": "密通宋求援原是约攻西蕃，不作既定攻金盟约。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "doctor-and-letter",
+        "partition"
+      ],
+      "note": "截书事实与版本，打金必得夏推演不复演。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "partition"
+      ],
+      "note": "谢表和拒封相援有据，金国被威胁台词未证。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-heda-rendejing",
+      "sectionIds": [
+        "partition"
+      ],
+      "note": "金表态必要出兵不等实际派兵；仁孝自己诛，政治支持与战力区分。"
+    }
+  ]
+}

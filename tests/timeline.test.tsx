@@ -1,6 +1,7 @@
 import { act, render, screen } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
-import { beforeEach, describe, expect, it } from "vitest";
+import { beforeEach, describe, expect, it, vi } from "vitest";
+import { westernJinConfig } from "@/data/series/jin-sixteen-kingdoms/config";
 
 import { events } from "@/data/seed";
 import { useHistoryStore } from "@/features/history-state/history-store";
@@ -40,16 +41,17 @@ describe("Timeline", () => {
     );
   });
 
-  it("keeps year controls available when no event is recorded", async () => {
+  it("keeps empty ranges on the track but disables the dropdown when no event is recorded", async () => {
     const user = userEvent.setup();
     render(<Timeline events={[]} />);
 
-    await user.selectOptions(screen.getByLabelText("直接选择年份"), "930");
+    expect(screen.getByLabelText("直接选择年份")).toBeDisabled();
+    await user.click(screen.getByRole("button", { name: "选择924—979年，暂无收录事件" }));
 
     expect(screen.getByRole("status")).toHaveTextContent(
       "这一年暂无收录事件",
     );
-    expect(useHistoryStore.getState().currentYear).toBe(930);
+    expect(useHistoryStore.getState().currentYear).toBe(924);
   });
 
   it("shows the active historical period across the 907 boundary", () => {
@@ -72,5 +74,49 @@ describe("Timeline", () => {
 
     expect(useHistoryStore.getState().currentYear).toBe(875);
     expect(screen.getByLabelText("875至979年时间轨")).toBeInTheDocument();
+  });
+
+  it("labels a reference map with its actual year when the timeline year has no independent plate", () => {
+    useHistoryStore.getState().reset({ series: westernJinConfig, currentYear: 281 });
+    render(<Timeline series={westernJinConfig} events={[]} mapYears={[281, 304]} />);
+    expect(screen.getByRole("link", { name: /281 年 · 对应年代地图示意/ })).toHaveAttribute("href", "/series/western-jin/map?year=281");
+    act(() => useHistoryStore.getState().setCurrentYear(282));
+    expect(screen.queryByRole("link", { name: /对应年代地图示意/ })).not.toBeInTheDocument();
+    expect(screen.getByRole("link", { name: /参考 281 年地图示意（非本年）/ })).toHaveAttribute("href", "/series/western-jin/map?year=281");
+    act(() => useHistoryStore.getState().setCurrentYear(280));
+    expect(screen.getByRole("link", { name: /参考 281 年地图示意（非本年）/ })).toHaveAttribute("href", "/series/western-jin/map?year=281");
+    expect(useHistoryStore.getState().currentYear).toBe(280);
+    expect(screen.getByRole("button", { name: "播放历史" })).toBeDisabled();
+  });
+
+  it("lists only event years in the dropdown while retaining empty intervals on the track", async () => {
+    const records = [265, 280, 290, 300].map(year => ({ ...events[0], id: `jin-${year}`, startYear: year, endYear: year, tracks: ["jin-order"] }));
+    useHistoryStore.getState().reset({ series: westernJinConfig, currentYear: 280 });
+    render(<Timeline series={westernJinConfig} events={records} mapYears={[281]} />);
+    const selector = screen.getByLabelText("直接选择年份");
+    expect([...selector.querySelectorAll("option:not([hidden])")].map(option => option.getAttribute("value"))).toEqual(["265", "280", "290", "300"]);
+    expect(screen.getByRole("button", { name: "选择281—289年，暂无收录事件" })).toBeVisible();
+    await userEvent.click(screen.getByRole("button", { name: "选择281—289年，暂无收录事件" }));
+    expect(useHistoryStore.getState().currentYear).toBe(281);
+    expect(selector).toHaveValue("");
+    expect(selector.querySelector('option[value="281"]')).toBeNull();
+    await userEvent.selectOptions(selector, "290");
+    expect(useHistoryStore.getState().currentYear).toBe(290);
+  });
+
+  it("plays only recorded years and can restart from the last event", async () => {
+    vi.useFakeTimers();
+    try {
+      const records = [923, 936, 960].map((year, index) => ({ ...events.find(event => event.id === "founding-later-jin")!, id: `play-${index}`, startYear: year, endYear: year }));
+      render(<Timeline events={records} />);
+      act(() => screen.getByRole("button", { name: "播放历史" }).click());
+      act(() => vi.advanceTimersByTime(1200));
+      expect(useHistoryStore.getState().currentYear).toBe(936);
+      act(() => vi.advanceTimersByTime(1200));
+      expect(useHistoryStore.getState().currentYear).toBe(960);
+      expect(useHistoryStore.getState().isPlaying).toBe(false);
+      act(() => screen.getByRole("button", { name: "播放历史" }).click());
+      expect(useHistoryStore.getState().currentYear).toBe(923);
+    } finally { vi.useRealTimers(); }
   });
 });

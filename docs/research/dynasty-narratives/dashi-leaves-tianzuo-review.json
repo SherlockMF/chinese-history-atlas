@@ -1,0 +1,480 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11 主代理逐读本批150条原段、故事正文与原有逐段note；亲读辽史27—30、71、98，金史2、3、74，宋史335、357，北盟7、10、11及契丹国志相应段落；修正文妃诗、交涉与战役时序、刘延庆指挥评价、大石系绳引路青冢及林牙官称，不以引用范围或关键字命中代替语义对应；未回听音频。",
+  "counts": {
+    "partial": 13,
+    "covered": 17,
+    "not-needed": 3,
+    "corrected": 9,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "return-and-answer"
+      ],
+      "note": "找回天祚行在承接，沼泽封闭和传讯方式未推定。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "return-and-answer"
+      ],
+      "note": "天祚责问“我在汝何敢立淳”承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [],
+      "note": "现代通讯感想无新史实。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [],
+      "note": "电话邮箱鸽子信号闲聊。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "return-and-answer"
+      ],
+      "note": "完整答辩校辽史文字后入正文。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "return-and-answer"
+      ],
+      "note": "太祖子孙对向他人乞命的答辩承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "return-and-answer"
+      ],
+      "note": "赦罪与酒食承接，任都统、驻夹山外20里未由本纪证实。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "return-and-answer"
+      ],
+      "note": "普贤女诛、淳削属籍承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "return-and-answer"
+      ],
+      "note": "北辽短存与大石崛起承接，不以两件事概括全部意义。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "capture-and-flight"
+      ],
+      "note": "1123龙门东生获，不合成为天祚游猎时夹山一次被袭。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "capture-and-flight"
+      ],
+      "note": "被俘与降金故事承接，裸体拖马细节未证。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "capture-and-flight"
+      ],
+      "note": "重要将领被获承接，金方唯一最后名将评价不作事实。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "capture-and-flight"
+      ],
+      "note": "补金史74宗望传：大石受绳系为向导到青冢辽帝营，天祚已往应州，营中后妃诸子被俘；不是空无人的夹山。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [],
+      "note": "专业逃跑拟心声玩笑。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "capture-and-flight"
+      ],
+      "note": "释五子、新赐女真妻、任宗翰谋士的全套具体未核；不据国志补造。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "capture-and-flight"
+      ],
+      "note": "国志携五子夜遁与妻留营承接，主观动机略。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "capture-and-flight"
+      ],
+      "note": "国志只载妻答丈夫畏罪而窜、拒告去向；饮醉和点兵拟对白未采用，拒告在妻子留营故事中承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "capture-and-flight"
+      ],
+      "note": "妻拒告遇害据国志；轮番凌辱、到死隐瞒路径不扩写。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "the-last-order"
+      ],
+      "note": "自金来归与重整力量承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "the-last-order"
+      ],
+      "note": "七千兵属国志另一叙事位置，不能定为逃营一路新招数。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "the-last-order"
+      ],
+      "note": "阴山室韦来归与天祚复燕云决议承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "the-last-order"
+      ],
+      "note": "出兵愿望承接，哭诉与永久不猎誓言不造。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "the-last-order"
+      ],
+      "note": "全师未备而弱势求战、养兵待时劝谏承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "the-last-order"
+      ],
+      "note": "1124杀官自立与脱离承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "return-and-answer"
+      ],
+      "note": "太祖八代孙承接，毛球玩笑略。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "return-and-answer"
+      ],
+      "note": "遥远宗支说明承接，牙里果支系与历代全无作为待考。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "return-and-answer"
+      ],
+      "note": "履历正文明确补入辽以翰林为林牙，故称大石林牙；官称、文字能力与进士履历对应本段。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "return-and-answer"
+      ],
+      "note": "淳病死、普贤女归与大石答辩承接，非吓死。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "capture-and-flight"
+      ],
+      "note": "两次返回与国志女眷故事分层承接，宗翰非宗望。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "capture-and-flight"
+      ],
+      "note": "五子宵遁有国志，强烈侮辱细节无同等史源未采用。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "the-last-order"
+      ],
+      "note": "大石与室韦兵来归承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "the-last-order"
+      ],
+      "note": "恢复旧国意向承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "the-last-order"
+      ],
+      "note": "全师未谋战备劝谏承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "the-last-order"
+      ],
+      "note": "保存力量与战略分歧承接，皇帝拟对白略。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "the-last-order"
+      ],
+      "note": "1124离开、1125被获承接，死亡传说留下一篇。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "where-to-go"
+      ],
+      "note": "离开行在与中亚建国分开承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "where-to-go"
+      ],
+      "note": "建国多口径说明承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "where-to-go"
+      ],
+      "note": "1124作为脱离建政口径承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "where-to-go"
+      ],
+      "note": "1124—1218=94，1132—1218=86，非88。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "where-to-go"
+      ],
+      "note": "八年之间军队路线重建承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "where-to-go"
+      ],
+      "note": "东金南宋夏环境承接，非严格唯一方向证明。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "where-to-go"
+      ],
+      "note": "先北可敦后西行，不固定写甘肃通道。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "dashi-leaves-tianzuo",
+      "sectionIds": [
+        "where-to-go"
+      ],
+      "note": "屏障与补给双面解释承接，不能预设先投某强国才自立。"
+    }
+  ]
+}

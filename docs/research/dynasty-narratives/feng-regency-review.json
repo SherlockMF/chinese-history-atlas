@@ -1,0 +1,623 @@
+{
+  "date": "2026-09-30",
+  "method": "人工逐段完整通读指定原稿，对读所列古籍与必要研究，逐项核对实际正文承接。未回听音频；缺乏出处的对白、动机、数值及跨时代旁论不以相关关键词冒充完整覆盖。",
+  "counts": {
+    "corrected": 24,
+    "partial": 21,
+    "uncertain": 4,
+    "covered": 5
+  },
+  "rows": [
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "return-to-power"
+      ],
+      "note": "承接476再临朝与实际掌政；不用政治人物必然残忍的一般断言说明个人行为。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "return-to-power",
+        "li-family"
+      ],
+      "note": "保留抚育与子贵母死制度，区分李氏469年薨的简略记载与林氏旧制死的明文，不补李氏临死场景。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "li-family"
+      ],
+      "note": "李惠被忌、诬南叛及二弟诸子后妻遇害依外戚传；补幸存亲属与488访舅，纠正母系全部杀尽。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "mercy-and-fear"
+      ],
+      "note": "娄提姓名、内三郎身份、自刺几死据今本魏87，纠正楼提和自刎；不以只杀该杀者合理化李氏受害。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "mercy-and-fear"
+      ],
+      "note": "承接太后赐娄提帛二百匹；传未记号召群臣学习，不扩成宣传运动。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "mercy-and-fear"
+      ],
+      "note": "服庵䕡子与粥中混入蝘蜓依魏13承接；史料未说蝘蜓本为药材。原段是讲述者的药渣解释，并非厨人对白。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "mercy-and-fear"
+      ],
+      "note": "保留笑释厨人与孝文怒，未加仍吃粥及宽待下人教训对白；热羹伤手另据魏7下。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "mercy-and-fear"
+      ],
+      "note": "孝文宽免烫伤与食虫事件已承接，冯太后的抚育与教育亦见正文；教育对其后来成为明主的具体因果与影响程度未能由两次宽恕直接证实。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "kinship-question"
+      ],
+      "note": "承接生母假说并举刘蓉研究为具体例子，同时区分假说与古籍明文；未逐一展开原段泛称的其他历史学家及其论证。原段本就称一种说法，并未宣称学界定论。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "kinship-question"
+      ],
+      "note": "承接献文年少得子作为疑问线索；未给13岁或12岁受孕的算法与月份复核，不把年龄推算充作血缘证据。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "kinship-question"
+      ],
+      "note": "年龄与对父子态度差异不足以证明身世，正文明确其证据限度；不作生殖能力推断。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "kinship-question"
+      ],
+      "note": "原段说冯太后把献文帝拓跋弘从婴儿抚养至少年，再养其子；已核魏13明确467年亲养的是孝文帝拓跋宏，不能移作亲养献文的证据。前一抚育经历及据此推定的亲情尚未核实。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "kinship-question"
+      ],
+      "note": "父子两代态度不能证明一夫一子的假说已限制；本篇未完整展开献文被迫退位、遇害各史源与让叔父的过程。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "kinship-question"
+      ],
+      "note": "承接幼帝继位、467还政与抚育；未把拥幼等同亲生之子证据，也未复述献文让位京兆王之争。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "kinship-question"
+      ],
+      "note": "明确产后休养、哺乳年数均非还政记载可支持的事实，不将讲者猜测转为叙事。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-needed",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "kinship-question"
+      ],
+      "note": "保留讨论不同假说的空间，同时要求文献证据，不采用历史只是希望样子的相对主义结论。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "mercy-and-fear"
+      ],
+      "note": "以史书明确的太后担忧冯氏、幽闭幼帝展示特定政治恐惧；未证明所有最高掌权者只因恐惧恋权。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "mercy-and-fear"
+      ],
+      "note": "写具体幽闭、废立企图与谏止，不承接历代失权者无例外惨死的全称判断。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "wang-rui"
+      ],
+      "note": "不以性关系给统治者定道德罪名，分别写宠幸、厚赐和政事，也不将私人恩遇对权力的影响一笔抹去。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "wang-rui"
+      ],
+      "note": "王叡的身份与政治作用写入，以法秀案从宽意见和临终劝谏为具体内容。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "wang-rui",
+        "li-chong"
+      ],
+      "note": "王叡承父天文卜筮、478虎圈逸虎以戟御退；纠正巡猎野虎。李冲陇西家世与兄长抚育已写。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "li-chong"
+      ],
+      "note": "李冲三长方案、太后支持及帝亲政后继续咨询律令写实展开，并写异议而非泛称绝对忠诚。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "li-chong",
+        "farewell"
+      ],
+      "note": "区分太后掌政和孝文亲政，说明二佛并坐法华背景，未把所有云冈并坐佛直接判为二圣纪念像。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "farewell"
+      ],
+      "note": "承接490年太和殿卒、49岁与薄葬遗旨；正文未展开具体病因与文明太皇太后谥号。本段没有绝食五日内容，不以邻段丧情作为本段纠正依据。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "farewell"
+      ],
+      "note": "不作辽萧太后比较排名，改用具体制度与官员影响衡量，也限制单人造就整个隋唐的因果。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "return-to-power",
+        "farewell"
+      ],
+      "note": "家难入宫到掌政、终年及身后遗产承接，保留人物处境的落差而不只赞颂成功。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "farewell"
+      ],
+      "note": "承接不以女性标签取代政治评价；没有展开近代女性执政者的题外类比。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "farewell"
+      ],
+      "note": "人物评价不需分性别排名已回应；现代政治女性形象的旁论没有写入北魏故事。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "return-to-power"
+      ],
+      "note": "姑姑冯昭仪抚育的可核事实承接，幼年只求保命的心理独白未写成史实。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "return-to-power",
+        "farewell"
+      ],
+      "note": "说明父被杀与入宫家难，不据此推定掌权后理应报仇；用具体施政及受害者替代假想复仇路线。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "return-to-power",
+        "farewell"
+      ],
+      "note": "未用报仇或大爱解释全部政治选择；她心中魏与北燕毫无区别的推想无直接证据，未视为已承接。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "kinship-question",
+        "li-family"
+      ],
+      "note": "区别血缘假说和实际抚育，亲情与旧制杀母、政治权力并置，不用母性光辉概括抹平。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "li-chong",
+        "kinship-question"
+      ],
+      "note": "育帝与培养任用官员两线均有具体承接，制度设计落实为李冲三长制争议。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "li-chong",
+        "farewell"
+      ],
+      "note": "承接太和制度改变及后续延续；未证明原始到彻底封建化的单线阶段划分或制度不变沿用三四百年。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "li-chong",
+        "farewell"
+      ],
+      "note": "保留不按性别限缩政治评价，后世影响落在制度和人；不把今日与隋唐未来全视为个人预设。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "learning-to-rule"
+      ],
+      "note": "献文以太上皇执政、亲自北征可核；未找到这次出征携五岁宏同往的明文，不补行军场景。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "learning-to-rule"
+      ],
+      "note": "原段核心是献文向幼帝讲郁律、猗卢及拓跋迁徙祖业的启蒙经历，尚未核定具体出处；正文另写皇诰、酒训，不能用同属教育主题替代这段具体经历。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "learning-to-rule"
+      ],
+      "note": "教育由训诫书与参与官员展示；太后回宫追问父亲说什么的私人对话未采用。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "learning-to-rule"
+      ],
+      "note": "汉文经典和劝戒教育有具体内容；未把太后反对父亲英雄叙事的想象对白当事实。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "learning-to-rule"
+      ],
+      "note": "以高允史论和帝要求直记国恶回应历史不止荣耀；不将国史狱简化为写野字就获罪的单线解释。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "learning-to-rule"
+      ],
+      "note": "高允改皇诰及作酒训可核；未证太后怕宏代表鲜卑贵族而特命其反驳父亲讲史。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "learning-to-rule"
+      ],
+      "note": "高允主张记得失及幼帝受训承接；所谓第二堂课逐项批判祖先的对白无据保留缺口。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "learning-to-rule"
+      ],
+      "note": "原段核心是幼帝已形成祖业认同与学习中原文化的双重认识，并因此坚定改革；具体童年心理和因果未核实，正文的一般宫廷教育不能充当对应证据。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "learning-to-rule"
+      ],
+      "note": "正文回答其出生祥瑞之问，记神光照室；本段前半所断言五岁已形成双重政治认同未核实。本段没有否认祥瑞，否认在P018。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "learning-to-rule"
+      ],
+      "note": "本纪明载出生神光，纠正本段无祥瑞之说；承接471年即位后九月求言诏，同时限定诏令以幼帝名义发布不能证明五岁独立设计政策。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "learning-to-rule"
+      ],
+      "note": "求言诏写到民庶已承接；不把诏书直接视为五岁帝独立怀疑近臣过滤民情的心理纪录。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "learning-to-rule"
+      ],
+      "note": "开放进言对象已写，近臣如何处理消息的拟想及帝内心对白没有依据，未补写。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "learning-to-rule"
+      ],
+      "note": "明确幼帝名义诏书不证明独立调查民情，不能以成年改革成果倒推五岁政策设计。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "return-to-power",
+        "li-chong"
+      ],
+      "note": "前期太后实际决策、490后帝亲政及官员延续均有明确区分。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "return-to-power",
+        "li-chong",
+        "learning-to-rule"
+      ],
+      "note": "原段以王子出四门为类比，推定幼帝亲见民间疾苦并了解改革问题；该具体经历与因果尚未核实，不能仅凭正文谈改革现实处境就判已承接。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "return-to-power",
+        "li-chong"
+      ],
+      "note": "家难入宫与制度着眼户籍赋役分开写；六岁入宫及苦难直接造成政策的推论未核定。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "farewell"
+      ],
+      "note": "纠正290为490，注明467出生与成年亲政；不混虚岁24与周岁23。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "farewell",
+        "mercy-and-fear"
+      ],
+      "note": "本传丧母哀毁据五日绝饮；另有幽闭与杖责作矛盾证据，不采用未核长引语或晚年肯定发生的夺权冲突。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "kinship-question",
+        "farewell",
+        "mercy-and-fear"
+      ],
+      "note": "抚育之情保留，生母之说标为假说，亲情不掩权力伤害，不以身世猜测解释所有关系。"
+    }
+  ]
+}

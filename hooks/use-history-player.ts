@@ -6,7 +6,7 @@ import {
   useHistoryStore,
 } from "@/features/history-state/history-store";
 
-export function useHistoryPlayer(prepareYear?: (year: number) => Promise<unknown>) {
+export function useHistoryPlayer(prepareYear?: (year: number) => Promise<unknown>, playbackYears?: readonly number[]) {
   const [failure, setFailure] = useState<{ year: number; message: string }>();
   const currentYear = useHistoryStore((state) => state.currentYear);
   const maxYear = useHistoryStore((state) => state.series.timelineMaxYear);
@@ -16,21 +16,21 @@ export function useHistoryPlayer(prepareYear?: (year: number) => Promise<unknown
 
   useEffect(() => {
     if (!isPlaying) return;
-    if (currentYear >= maxYear) {
+    const nextYear = playbackYears ? playbackYears.find(year => year > currentYear && year <= maxYear) : currentYear + 1;
+    if (currentYear >= maxYear || nextYear === undefined) {
       pause();
       return;
     }
     let cancelled = false;
     // Begin IO during the current year's dwell time, not after the next tick.
-    const preparation = prepareYear?.(currentYear + 1).then(
+    const preparation = prepareYear?.(nextYear).then(
       () => ({ ok: true as const }),
       (error: unknown) => ({ ok: false as const, message: error instanceof Error ? error.message : "地图加载失败" }),
     );
     const advance = () => {
       if (cancelled) return;
-      const nextYear = currentYear + 1;
       setCurrentYear(nextYear);
-      if (nextYear >= maxYear) pause();
+      if (nextYear >= maxYear || (playbackYears && !playbackYears.some(year => year > nextYear && year <= maxYear))) pause();
     };
     const timer = window.setTimeout(() => {
       if (!preparation) { advance(); return; }
@@ -44,7 +44,7 @@ export function useHistoryPlayer(prepareYear?: (year: number) => Promise<unknown
       });
     }, 1200);
     return () => { cancelled = true; window.clearTimeout(timer); };
-  }, [currentYear, isPlaying, pause, prepareYear, setCurrentYear, maxYear]);
+  }, [currentYear, isPlaying, pause, prepareYear, setCurrentYear, maxYear, playbackYears]);
 
   useEffect(() => {
     const handleVisibility = () => {

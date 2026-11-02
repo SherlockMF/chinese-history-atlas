@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Suspense, type ReactNode } from "react";
+import { type ReactNode } from "react";
 
 import { SiteChrome } from "@/components/layout/site-chrome";
 import { HistoryProvider } from "@/features/history-state/history-provider";
@@ -15,11 +15,9 @@ export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="zh-CN" data-scroll-behavior="smooth">
       <body>
-        <Suspense fallback={null}>
-          <HistoryProvider>
-            <SiteChrome>{children}</SiteChrome>
-          </HistoryProvider>
-        </Suspense>
+        <HistoryProvider>
+          <SiteChrome>{children}</SiteChrome>
+        </HistoryProvider>
       </body>
     </html>
   );

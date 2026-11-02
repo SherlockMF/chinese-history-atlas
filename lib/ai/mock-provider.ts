@@ -25,7 +25,7 @@ function isUsableEvidence(
 
 function answerSection(evidence: RetrievedEvidence): string {
   const details = [
-    `${evidence.title}（${evidence.year}）${evidence.marker}：${evidence.summary}`,
+    `${evidence.title}${evidence.story ? `（${evidence.story.period}）` : evidence.year === undefined ? "" : `（${evidence.year}）`}${evidence.marker}：${evidence.summary}`,
   ];
   if (evidence.matchedEvidence?.text.trim()) {
     details.push(
@@ -88,18 +88,19 @@ export class MockLlmProvider implements LlmProvider {
       answer: selected.map(answerSection).join("\n\n"),
       provenance: "knowledge-base",
       relatedPeople: [],
-      relatedEvents: selected.map((item) => item.eventId),
+      relatedEvents: selected.filter(item => !item.story).map((item) => item.eventId),
       relatedYears: unique(
         selected.flatMap((item) =>
           item.matchedQueryYears.length
             ? item.matchedQueryYears
-            : [item.year],
+            : item.year === undefined ? [] : [item.year],
         ),
       ),
       sources: selected.map((item) => ({
-        sourceId: `history-event:${item.eventId}`,
+        sourceId: item.sourceId,
         title: item.title,
         references: [...item.sourceRefs],
+        ...(item.story ? { href: `/series/${item.story.seriesId}/stories/${item.story.slug}#${item.story.sectionId}` } : {}),
       })),
     };
   }

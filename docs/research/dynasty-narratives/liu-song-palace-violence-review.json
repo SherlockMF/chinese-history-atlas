@@ -1,0 +1,446 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：通读南朝02 P074–P110共37段，对读宋书6/7/8/54/72/80/94、南史2、魏书97、通鉴129/130/131与胡三省卷130注。区分占山制度的限制与承认、诏书责任与极刑、年岁与跨年、政治梦兆与可证行动、宫闱性暴力与未证姐弟传闻、465起兵与466称帝。未回听音频；叙事适量保留暴力事实，不把裸身细节、现代诊断、排名类比或未证心理勉强算完整。P074与前篇跨篇按原段键去重。 主代理另行完整读取所列原稿、正文与每条台账，完成独立逐段语义对照，并复查关键原典、纪年与章节范围。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "partial": 16,
+    "corrected": 11,
+    "not-covered": 2,
+    "covered": 6,
+    "uncertain": 2
+  },
+  "rows": [
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "after-the-brothers"
+      ],
+      "note": "核魏书97所存建康歌谣，校转写并明北朝叙述立场，承接刘劭刘濬结局及453—464统治；同段与弑父前篇交叉须按file+paragraph去重。早期全面继承父祖政策的概括未据个别政令算完整证实。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "mountains-and-orders"
+      ],
+      "note": "据宋54展开羊希占山五条，纠正占山令仅为削弱地方豪强的单向叙述：同时保留人工经营旧业、按官品准许占有；另据宋6/94写发兵用刑限制、学校和近臣参政，不把亲政等同全面消除门阀。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "wine-and-grain"
+      ],
+      "note": "补南史2及通鉴129醉眠后整容理事、索取奉献与宋6赈灾诏；诏令落到463—464具体日期，不据此证明下诏时已病重，酒量无碍与人物分裂感不当实证。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "wine-and-grain"
+      ],
+      "note": "救济不及时致弃民者严加纠劾，不等同侵吞赈款一概格杀勿论；补464死后太子继位，但需要放松而理智提醒的心理因果仍未证，故不把全段算纠正后覆盖。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-two-emperors-rumor"
+      ],
+      "note": "刘子业登场已有具体事件，十大暴君与中国卡里古拉是现代榜单及类比，未给评价维度或可比研究。保留不采用排名，不把现成登场误算已证明比较，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-two-emperors-rumor"
+      ],
+      "note": "按449出生、464即位、465被杀分周岁与传统计龄：史书十六即位十七死，不混用十五与十七拼成在位两整年；跨年一年多，结局为遇弑而不只被废。不使用需预设正统序列的第六帝序号。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-two-emperors-rumor"
+      ],
+      "note": "补戴法兴约束、华愿儿传真伪天子流言、465八月被杀及随后辅臣被诛；并补其收贿与执掌诏令的一面，不将所有被杀者统写清白严臣，原稿笼统迅速清除没有改成无依据精确时长。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-mother-and-the-dream"
+      ],
+      "note": "据宋7承接王太后病重召子、刘子业以病人间多鬼拒绝前往的记载，明确史书归属。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-mother-and-the-dream"
+      ],
+      "note": "保留太后索刀的愤怒言语，明确未载实际剖腹；她本已重病，随后病卒不能直接说是被儿子气死。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-mother-and-the-dream"
+      ],
+      "note": "完整讲述宋7亡母梦中斥不仁不孝及帝位应归文帝之子的叙事；梦的发生与梦中言语无法独立证实，以史书梦兆而非事实预言处理。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-mother-and-the-dream"
+      ],
+      "note": "原稿本已提示后来附会，正文保留这一阅读边界而不假称纠错；解释归文帝别子实指叔辈支系，但未证编造者身份和确切成文动机，不把刘骏排除出文帝子。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "kings-in-cages"
+      ],
+      "note": "校湘东王刘彧、山阳王刘休祐（非山阴）及建安王刘休仁；据宋72写三王竹笼称重，肥壮依史文，不补皇子吃得好为确定生理原因。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "kings-in-cages"
+      ],
+      "note": "补猪王杀王贼王、东海王刘禕及木槽泥坑羞辱；不采用平庸无能的全人格判定，也没有逐字复刻裸身和玩弄细节，保留主要权力伤害。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "kings-in-cages"
+      ],
+      "note": "承接泥坑槽食、刘子业多次欲杀三王及刘休仁顺语周旋保命，细节依宋72并归史书。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-unborn-heir"
+      ],
+      "note": "刘蒙/矇/曚与宋7本纪刘胜为异文，宋72作廷尉、通鉴作少府，不能定为侍卫刘萌；孕妾入宫和拟认皇子依据史料，刘休仁拖延杀机相连。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-unborn-heir"
+      ],
+      "note": "分清冀生男欲立太子与后来的皇子出生大赦，未把意向写成已册立；刘彧受捆缚和皇帝杀机依宋72，校原稿姓名混转。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-unborn-heir"
+      ],
+      "note": "保留即日屠猪、休仁以待皇子出生取肝肺为辞拖延，以及交廷尉一宿后释放；不额外描写未发生的杀害。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-unborn-heir"
+      ],
+      "note": "精神有问题是主播推测。古代政治残暴记载不能替代临床资料与医学诊断，正文的拒绝远程诊断已经足够，不补确诊、不列后续诊断任务，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "ghosts-in-the-bamboo-hall"
+      ],
+      "note": "保留华林园与刘义符前篇的承接，未重讲卖物市场；该内容主要由少帝篇承担，转场语与听众准备不计历史事实。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "ghosts-in-the-bamboo-hall"
+      ],
+      "note": "据南史2写宫人受命奔逐及拒从被杀的背景，以有辱尊严的强迫说明核心伤害，没有重现裸身景象；前位少帝为刘义符，不用误转刘子阳。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "ghosts-in-the-bamboo-hall"
+      ],
+      "note": "南史2/通鉴130确载不从者被杀、两次梦兆与再杀似梦宫人，正文分层保留；梦境及上天申诉不当实证，来年不及熟不擅加具体麦熟月份。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "portraits-in-the-temple"
+      ],
+      "note": "据通鉴130写太庙画祖考像和评刘裕英雄、擒天子，明确人物对白而不将每个被点名者改成刘裕亲擒实绩。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "portraits-in-the-temple",
+        "the-false-funeral"
+      ],
+      "note": "保留评文帝遭子杀、令画工补孝武鼻部特征及姑母新蔡公主承接；本次核到的主引材料未提供原稿英妹姓名，正文不用未核姓名，未因相近就算完整。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-false-funeral"
+      ],
+      "note": "据宋80、宋7及通鉴130写强纳姑母、杀宫人代尸行丧、谢贵嫔仪仗及何迈身份；性暴力以克制非渲染方式概述。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-false-funeral",
+        "the-princess-and-the-court-women"
+      ],
+      "note": "补何迈招集勇士、谋废立子勋及亲兵诛迈；楚玉与皇帝姐弟性关系未在所核主要材料得到确证，留缺，不以公主面首与同辇记载推导。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-princess-and-the-court-women"
+      ],
+      "note": "据宋7保留公主男女待遇之问及置三十面首；记载不证明皇帝亲自命名造词，故没有连带把整段全部覆盖。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-princess-and-the-court-women"
+      ],
+      "note": "面貌美、发美解释可追到胡三省注并明确归属；出自刘子业若指亲自创造词语无据，未把后世词解倒写成当日言语。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-princess-and-the-court-women"
+      ],
+      "note": "补刘休仁母杨太妃及母子被置于同一强迫场面的关系，具体来源为宋72休仁传。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "the-princess-and-the-court-women"
+      ],
+      "note": "宋72确载杨太妃受害，补刘道隆勿与王道隆混；通鉴诸妃主含南平王妃江氏，不能说都是皇帝自己的妃子姐妹，更不能说全部服从。补江氏拒绝及三子被杀，省去露骨叙述。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "ghosts-in-the-bamboo-hall"
+      ],
+      "note": "补刘彧参与推翻前废帝及既定杀机背景；主播应受何种酷刑的感叹不纳叙事，忍无可忍不是可独立还原的唯一动机。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "ghosts-in-the-bamboo-hall"
+      ],
+      "note": "校阮佃夫、王道隆，补李道儿与寿寂之姜产之的密结；巫者言鬼和行刺同时记载，不足证谋者指使巫师诱骗皇帝，保留未证空缺。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "ghosts-in-the-bamboo-hall"
+      ],
+      "note": "写射鬼后遇刺、引弓不中、逃走呼寂寂和被追杀，列南史华光殿记载而不将遇害处锁死竹林；史年十七按虚岁，不添乱刀砍成肉泥。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "barefoot-to-the-throne"
+      ],
+      "note": "校为刘彧继位，文帝第十一子、孝武之弟；不是刘骏或刘裕，直接行刺为寿寂之等而非刘彧亲手。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "barefoot-to-the-throne"
+      ],
+      "note": "补明帝465年岁末即位至472年去世及叔辈继位，日期采用史书记年，不将节目约说在位七年写成七个跨年；原稿本来质疑母后梦，正文维持存疑，不用结局倒证梦真，也不从诸弟普遍不满推定全体动机。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "another-emperor-upstream"
+      ],
+      "note": "纠为邓琬奉刘子勋而非刘劭；465十一月拒赐死起兵、466正月方称帝改义嘉。收到刘彧加官后仍拒绝，争统不只是信息不通。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "another-emperor-upstream"
+      ],
+      "note": "纠正刘彧弑帝之时就已有两个新皇帝的错时；对手为刘子勋非刘劭刘子业，控制范围分丹阳淮南等数郡与最危急只保丹阳阶段，非始终建康孤城。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [
+        "keep-the-soldiers-together",
+        "the-qianxi-supply-line"
+      ],
+      "note": "扩展罪不相及、统一军号、殷孝祖来援、三吴与钱溪截粮、466八月义嘉覆灭；中央军训练装备有据，但明帝以后暴虐必由创伤造成无实证，后期诸问题留后篇。"
+    }
+  ],
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "南朝02_clean_v1.md",
+        "paragraph": "P078",
+        "resolution": "research-closed"
+      },
+      {
+        "file": "南朝02_clean_v1.md",
+        "paragraph": "P091",
+        "resolution": "research-closed"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

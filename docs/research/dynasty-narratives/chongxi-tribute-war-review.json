@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读辽04各原段、正文与所列原典，纠正源文、年代和叙事层级；逐条说明实际承接。音频未回听，不以转写之外的对白补写。",
+  "counts": {
+    "partial": 3,
+    "covered": 6,
+    "corrected": 3
+  },
+  "rows": [
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chongxi-tribute-war",
+      "sectionIds": [
+        "the-opportunity"
+      ],
+      "note": "宋夏交战与辽宋基本和平入文；体制修正具体项无源不加。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chongxi-tribute-war",
+      "sectionIds": [
+        "the-opportunity"
+      ],
+      "note": "辽史关河壕堑官方理由及借西顾施压的分析明确。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chongxi-tribute-war",
+      "sectionIds": [
+        "the-demand"
+      ],
+      "note": "索晋阳及瓦桥南十县原典实际承接。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chongxi-tribute-war",
+      "sectionIds": [
+        "the-demand"
+      ],
+      "note": "增币二十万数目入文，援夏威胁拟语不补。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chongxi-tribute-war",
+      "sectionIds": [
+        "the-demand"
+      ],
+      "note": "新增亲读宋313最终纳字，与辽19贡字并列。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chongxi-tribute-war",
+      "sectionIds": [
+        "the-casus-belli"
+      ],
+      "note": "转伐夏实际承接；败后彻底不再治事的概括不采。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chongxi-tribute-war",
+      "sectionIds": [
+        "the-casus-belli"
+      ],
+      "note": "公主不睦1038死据辽18；不写兴宗亲姊，非1044唯一导火索。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chongxi-tribute-war",
+      "sectionIds": [
+        "the-casus-belli"
+      ],
+      "note": "归夏800户与援叛党两书异述，公主旧怨另列。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chongxi-tribute-war",
+      "sectionIds": [
+        "the-casus-belli"
+      ],
+      "note": "恢复三路兵数、渡河深入400里南壁，实际展开战过程。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chongxi-tribute-war",
+      "sectionIds": [
+        "retreat-trap"
+      ],
+      "note": "拒和三退烧草耗马与萧惠劝进分别有宋485辽93。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chongxi-tribute-war",
+      "sectionIds": [
+        "retreat-trap"
+      ],
+      "note": "风沙迷目据辽93实际恢复，非无源；南壁与俘驸马两书并列。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chongxi-tribute-war",
+      "sectionIds": [
+        "the-defeat"
+      ],
+      "note": "数骑逃元昊纵去入文；不把此役作为此后全无作为的唯一原因。"
+    }
+  ],
+  "independentReview": "completed"
+}

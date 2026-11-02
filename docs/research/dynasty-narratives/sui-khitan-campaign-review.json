@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-30",
+  "method": "通读指定原段、正文与所列史籍；按部落、时代与史源分开核对，未回听音频。",
+  "counts": {
+    "corrected": 2,
+    "partial": 1
+  },
+  "rows": [
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P189",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-khitan-campaign",
+      "sectionIds": [
+        "changing-neighbours",
+        "drums-and-horns"
+      ],
+      "note": "展开韦云起借启民骑兵攻契丹，纠正固定反隋联盟与把八部一概移用于隋代；吞并防范的动机归属节目解释。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P190",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-khitan-campaign",
+      "sectionIds": [
+        "changing-neighbours",
+        "a-later-balance"
+      ],
+      "note": "承接契丹、室韦部落关系与隋末依突厥；将中期改为隋末唐初，刘武周及窦建德分别核据。王世充具体依附过程及汗号在本篇未展开。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P191",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-khitan-campaign",
+      "sectionIds": [
+        "drums-and-horns",
+        "a-later-balance",
+        "the-cost-of-many-fronts"
+      ],
+      "note": "区分战略解释与战争代价；605年主力出自启民，不能断言各场都是同一批隋军轮战。"
+    }
+  ]
+}

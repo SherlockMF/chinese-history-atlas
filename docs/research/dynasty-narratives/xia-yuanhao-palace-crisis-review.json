@@ -1,0 +1,484 @@
+{
+  "date": "2026-10-11",
+  "method": "逐条独立重读本篇所列原稿、全部正文与对应史源实际段落，核对每个P的具体承接及舍弃理由；保留baselineVerdict。未回听音频，转写候选不认定为音频结论。",
+  "counts": {
+    "corrected": 10,
+    "partial": 18,
+    "covered": 11,
+    "not-needed": 2,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "weimu",
+        "shanyu"
+      ],
+      "note": "卫慕与山遇事分开，山遇从父非母舅；战争顾虑据具体军政账。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "shanyu"
+      ],
+      "note": "部族贸易、城防与坐困风险补；保守阶层标签仅解释非整族共同心理。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "shanyu"
+      ],
+      "note": "不比作述律后耶律倍；元昊威胁告密的实据补，非舅甥。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "shanyu"
+      ],
+      "note": "威逼从弟惟序，非胞弟；告密不成消息被转告实补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "shanyu"
+      ],
+      "note": "亲属22人珍宝马匹出奔宋境及保安接报补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "shanyu"
+      ],
+      "note": "求内附与战情转达补；逐字镇压要求非所核对白。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "shanyu"
+      ],
+      "note": "遣返基于旧例与疑诈，非笼统怕元昊找事的原话。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "shanyu"
+      ],
+      "note": "郭劝李渭处置失去军政人才的结果补；不报告皇帝的现场心理未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "shanyu"
+      ],
+      "note": "宥州接收及从骑射杀父子实补；树桩鼓掌动作未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "weimu",
+        "shanyu"
+      ],
+      "note": "母族山喜与山遇分清，1034母死先1038出奔，不接成同场逼母对白。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "weimu"
+      ],
+      "note": "毒母注明长编系记录，宋史仅死告哀；未说女眷皆出一场事件。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "weimu"
+      ],
+      "note": "卫慕妃怀孕被幽、产子后被杀的辑史故事实补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "weimu",
+        "mozang"
+      ],
+      "note": "野利进谗与后宫继承竞争补，具体太子两子时间及主观恐惧不全证。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "weimu"
+      ],
+      "note": "母子被杀补但未核同沉黄河；1038称帝另J22，非夏国公。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "mozang"
+      ],
+      "note": "遗属寻找与野利将领之死后的不平补；并非同胞两个哥哥已确定。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "mozang"
+      ],
+      "note": "悔杀寻遗属得没藏氏见清卷18，故事实补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "mozang"
+      ],
+      "note": "预先故意留下妻子为主持推测，未据此补作事实，遗属实际记载已在相邻段补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "mozang"
+      ],
+      "note": "没藏氏出家为野利后所使，不是元昊命超度。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "mozang"
+      ],
+      "note": "戒坛寺关系、两岔猎途生子补；具体佛学拜访对白与动机未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "mozang"
+      ],
+      "note": "宁令两岔与生子威胁补；欢喜/大王释义有异，不全判定。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "mozang",
+        "taken-bride"
+      ],
+      "note": "野利失势与废后时序补；主持不应留活口评价不补事实。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "ningming"
+      ],
+      "note": "太子校宁明，性情与学道补；野利实际清辑史有三子非仅二。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "ningming"
+      ],
+      "note": "养生治国问答实补，去儒佛混写。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "ningming"
+      ],
+      "note": "不嗜杀人、寡欲两答与父亲不喜实补；现代讽语不伪作对白。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "ningming"
+      ],
+      "note": "不许入见非已正式废，父子疏远补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "ningming"
+      ],
+      "note": "辟谷气忤不食死亡、遗奏厚葬、另立宁令哥补；二十出头和替父母还业未证。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "mozang"
+      ],
+      "note": "宁令哥与谅祚不混，没藏黑云候选未回听；称号释义保留异说。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "taken-bride",
+        "mozang"
+      ],
+      "note": "废后系夺子妇之后，非先废后才为太子娶妻；没藏怂恿直接原因未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "taken-bride"
+      ],
+      "note": "太子迎娶没𠼪氏、父见美夺妇补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "taken-bride",
+        "knife"
+      ],
+      "note": "太子受辱与母被废处境补；逼死兄长断言及情绪对白不写实。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "knife"
+      ],
+      "note": "讹庞阴劝太子作乱、正月望日入宫补；不是公历一月15。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "knife"
+      ],
+      "note": "醉中入宫、刀伤鼻补；拥新妃饮酒现场未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "judgment"
+      ],
+      "note": "鼻为身份最高象征、党项普遍选择割鼻的文化解释未获对应可靠材料，不以鼻伤事实覆盖。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "knife"
+      ],
+      "note": "伤鼻逃走及次日元昊死补；血吓逃与立即失血死心理病因未证。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "knife"
+      ],
+      "note": "逃入讹庞黄芦实补；舅舅称呼不伪作现场。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "knife"
+      ],
+      "note": "讹庞杀宁令哥、拥立幼子及谋权逻辑补，说明来源版本。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "knife",
+        "judgment"
+      ],
+      "note": "元昊子伤父年46廟景宗，不是妻子杀、48岁；感叹作编辑评价。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "judgment"
+      ],
+      "note": "制度建国能力与宫廷行为分开评价。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "judgment"
+      ],
+      "note": "军政组织成效补；各战非只是骚扰非真打，细节转J24。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "judgment"
+      ],
+      "note": "建国能力和暴力并列作编辑解读，不接受历史人品极端排名为事实。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "judgment"
+      ],
+      "note": "最差开国皇帝排名、英数重复为节目主观评语，保留核心评价主题不生产事实排行。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "sectionIds": [
+        "judgment",
+        "taken-bride"
+      ],
+      "note": "多疑、夺妇及制度能力冲突实补；九妻八无善终统计不作已核，书载婚数口径异。"
+    }
+  ],
+  "independentReview": "complete"
+}

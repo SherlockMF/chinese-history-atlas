@@ -1,0 +1,812 @@
+[
+  {
+    "queueIds": [
+      "J08"
+    ],
+    "slug": "jin-mongol-yehuling",
+    "exportName": "jinMongolYehuling",
+    "summary": {
+      "slug": "jin-mongol-yehuling",
+      "seriesId": "jin",
+      "title": "从朝贡使者到野狐岭",
+      "subtitle": "一场轻慢，几条战线，两种失去先机的办法",
+      "summary": "从女真生计与蒙金朝贡关系写到乌沙堡、野狐岭和会河川，分辨不同史书的时序、主将与兵数，补足临阵决策的具体过程。",
+      "period": "金代前期—1212",
+      "category": "战役 · 外交 · 决策",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 40,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J10"
+    ],
+    "slug": "jin-zhongdu-last-defenders",
+    "exportName": "jinZhongduLastDefenders",
+    "summary": {
+      "slug": "jin-zhongdu-last-defenders",
+      "seriesId": "jin",
+      "title": "中都：留下来的人",
+      "subtitle": "一场和议、一条断掉的粮道，和两位留守的最后一天",
+      "summary": "从1214年议和与南迁争论追到1215年中都失守，补写乣军倒戈、运粮失败、承晖绝笔与尽忠出逃，再分清金中都和元大都。",
+      "period": "1214—1215；1267—1272",
+      "category": "城邑 · 宫廷 · 守城",
+      "eventIds": [
+        "jin-zhongdu-falls"
+      ],
+      "personIds": []
+    },
+    "recordCount": 39,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J11"
+    ],
+    "slug": "jin-southern-court",
+    "exportName": "jinSouthernCourt",
+    "summary": {
+      "slug": "jin-southern-court",
+      "seriesId": "jin",
+      "title": "汴京：权臣换了，危局仍在",
+      "subtitle": "高琪的护城濠、尽忠的怨言，与东华门外的亲军",
+      "summary": "补写南迁朝廷的防御与攻宋争论、英王泄密、高琪杀妻案、尽忠被诛及宣宗最后一夜的皇位交接。",
+      "period": "1214—1224",
+      "category": "宫廷 · 战争 · 继承",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 31,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J12"
+    ],
+    "slug": "jin-sanfeng-campaign",
+    "exportName": "jinSanfengCampaign",
+    "summary": {
+      "slug": "jin-sanfeng-campaign",
+      "seriesId": "jin",
+      "title": "三峰山：雪落之前，粮道已断",
+      "subtitle": "从潼关绕到汉水，主力决战怎样成为饥寒中的奔走",
+      "summary": "补足三路攻金、假道冲突、禹山交战、焚毁粮储、雨雪围困与败后遭遇，并分开1232汴京之围和1233宋蒙攻蔡。",
+      "period": "1230—1233",
+      "category": "战役 · 补给 · 外交",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 30,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J13"
+    ],
+    "slug": "jin-tolui-succession",
+    "exportName": "jinToluiSuccession",
+    "summary": {
+      "slug": "jin-tolui-succession",
+      "seriesId": "jin",
+      "title": "拖雷：一杯水之后",
+      "subtitle": "监国、拥立与死亡传说之间，哪些事情能够说清",
+      "summary": "铺开拖雷监国、楚材定册、三峰山庆功与巫水记载，保留毒杀说的推测性质，并说明其家族并未随死亡失去全部权力。",
+      "period": "1227—1232",
+      "category": "汗位 · 军功 · 传说",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 40,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J14"
+    ],
+    "slug": "jin-three-last-ministers",
+    "exportName": "jinThreeLastMinisters",
+    "summary": {
+      "slug": "jin-three-last-ministers",
+      "seriesId": "jin",
+      "title": "危城：三个人的权力",
+      "subtitle": "白撒误军、崔立开城与官奴困主，三种不同的末路",
+      "summary": "防城竹材藏在主将家中，崔立借请命开城，官奴夜袭得胜又囚禁皇帝。危城中的军功、政变与暴政，并不只有同一种结局。",
+      "period": "1228—1234",
+      "category": "战役 · 政变 · 危城",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 77,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J15"
+    ],
+    "slug": "jin-caizhou-last-transfer",
+    "exportName": "jinCaizhouLastTransfer",
+    "summary": {
+      "slug": "jin-caizhou-last-transfer",
+      "seriesId": "jin",
+      "title": "蔡州：交出去的最后一天",
+      "subtitle": "传位与殉国之外，还有南迁以来的粮、田和用人困局",
+      "summary": "哀宗传位给尚能驰突的承麟，哭奠未完，蔡州便失守。最后一日之外，南迁军户的地权、粮食和财政压力早已累积。",
+      "period": "1215—1234",
+      "category": "蔡州 · 财政 · 君主评价",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 14,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J17"
+    ],
+    "slug": "xia-tangut-migration",
+    "exportName": "xiaTangutMigration",
+    "summary": {
+      "slug": "xia-tangut-migration",
+      "seriesId": "western-xia",
+      "title": "党项：家园怎样移到陕北",
+      "subtitle": "山谷的部落、唐蕃之间的约定与几次没有结束的迁徙",
+      "summary": "逐段承接早期生活、八姓、归隋、赤辞抗唐与结盟失信、吐蕃压力、仆固怀恩和郭子仪迁置，分清山地来源与后来平夏部。",
+      "period": "6—9世纪",
+      "category": "族群 · 战役 · 迁徙",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 61,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J18"
+    ],
+    "slug": "xia-tongwan-city",
+    "exportName": "xiaTongwanCity",
+    "summary": {
+      "slug": "xia-tongwan-city",
+      "seriesId": "western-xia",
+      "title": "统万城：白色城墙的代价",
+      "subtitle": "一个统一天下的名字，两种验工故事，几百年的夏州",
+      "summary": "补足统万城建都、夯土遗址与残酷验工记载，再连接唐末定难军对这座旧城的经营，纠正刀刺墙的混叙。",
+      "period": "413—10世纪",
+      "category": "城邑 · 史记 · 考古",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 12,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J19"
+    ],
+    "slug": "xia-dingnan-succession",
+    "exportName": "xiaDingnanSuccession",
+    "summary": {
+      "slug": "xia-dingnan-succession",
+      "seriesId": "western-xia",
+      "title": "定难军：换了皇帝，城还在",
+      "subtitle": "铁鹤、换防、玉带与纳土，李氏怎样守住又交出夏州",
+      "summary": "补写思恭勤王、思忠战死、933年拒绝换防、宋初献马玉带和982年继捧入朝，分清994年毁城。",
+      "period": "9世纪末—994",
+      "category": "藩镇 · 战役 · 朝贡",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 34,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J21"
+    ],
+    "slug": "xia-deming-hexi",
+    "exportName": "xiaDemingHexi",
+    "summary": {
+      "slug": "xia-deming-hexi",
+      "seriesId": "western-xia",
+      "title": "德明：向西走，向两边称臣",
+      "subtitle": "宋朝的岁赐、河西的城州，与父子不同的雄心",
+      "summary": "补写德明承位后的誓表、宋辽关系、河西推进、兴州新都与元昊太子，分清和议策略与边境仍有交兵。",
+      "period": "1004—1032",
+      "category": "外交 · 河西 · 继承",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 3,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J20"
+    ],
+    "slug": "xia-jiqian-return",
+    "exportName": "xiaJiqianReturn",
+    "summary": {
+      "slug": "xia-jiqian-return",
+      "seriesId": "western-xia",
+      "title": "继迁：一场没有结束的出奔",
+      "subtitle": "丧车离城、诈降夺州、两边受封与灵州新都",
+      "summary": "补足继迁奔地斤泽、联部受挫、诱杀曹光实、田仁朗被撤、联辽与继捧冲突、互市和粮道，再写灵州及西凉败亡。",
+      "period": "982—1004",
+      "category": "起兵 · 战役 · 外交",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 61,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J22"
+    ],
+    "slug": "xia-yuanhao-founding",
+    "exportName": "xiaYuanhaoFounding",
+    "summary": {
+      "slug": "xia-yuanhao-founding",
+      "seriesId": "western-xia",
+      "title": "元昊：造一个自己的朝廷",
+      "subtitle": "红袍少年、髡发令、新文字与称帝的代价",
+      "summary": "补写元昊少年识见、河湟挫折、改元改姓、官服礼乐、文字与军制，再以称帝和张元吴昊的投效连起建国过程。",
+      "period": "1032—1043",
+      "category": "建国 · 制度 · 人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 53,
+    "independentReview": "complete",
+    "counts": {
+      "partial": 26,
+      "covered": 11,
+      "not-needed": 1,
+      "corrected": 15
+    }
+  },
+  {
+    "queueIds": [
+      "J23"
+    ],
+    "slug": "xia-yuanhao-palace-crisis",
+    "exportName": "xiaYuanhaoPalaceCrisis",
+    "summary": {
+      "slug": "xia-yuanhao-palace-crisis",
+      "seriesId": "western-xia",
+      "title": "从卫慕氏到宁令哥：帝王家里没有退路",
+      "subtitle": "反对战争的人、被废的皇后，与伤父的太子",
+      "summary": "分清卫慕氏与山遇事件的时序，补宁明、野利后、没藏氏、夺太子妃与宁令哥伤父的不同记载，呈现1048年继承危机。",
+      "period": "1034—1048",
+      "category": "宫廷 · 继承 · 史源",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 42,
+    "independentReview": "complete",
+    "counts": {
+      "corrected": 10,
+      "partial": 18,
+      "covered": 11,
+      "not-needed": 2,
+      "uncertain": 1
+    }
+  },
+  {
+    "queueIds": [
+      "J24"
+    ],
+    "slug": "xia-sanchuankou-war-peace",
+    "exportName": "xiaSanchuankouWarPeace",
+    "summary": {
+      "slug": "xia-sanchuankou-war-peace",
+      "seriesId": "western-xia",
+      "title": "三川口之后：打赢的人也想开市",
+      "subtitle": "金明诈降、援军陷围，与宋辽夏的三方算盘",
+      "summary": "补金明陷落、三川口援军与郭遵刘平的遭遇，单列魏泰传令故事，连写好水川定川、互市岁赐和1044辽夏战争。",
+      "period": "1040—1044",
+      "category": "战役 · 外交 · 贸易",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 30,
+    "independentReview": "complete",
+    "counts": {
+      "corrected": 7,
+      "covered": 11,
+      "partial": 11,
+      "not-needed": 1
+    }
+  },
+  {
+    "queueIds": [
+      "J25"
+    ],
+    "slug": "xia-yeli-counterplot",
+    "exportName": "xiaYeliCounterplot",
+    "summary": {
+      "slug": "xia-yeli-counterplot",
+      "seriesId": "western-xia",
+      "title": "野利兄弟：一封信，两种死因",
+      "subtitle": "王嵩的袈裟、边境的祭文，与元昊的疑心",
+      "summary": "补野利将领、种世衡与王嵩反间故事，分列宋代本传、东都事略和清代宝刀版本，说明被杀时序与宫廷原因的争议。",
+      "period": "1040年代",
+      "category": "人物 · 反间 · 宫廷",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 30,
+    "independentReview": "complete",
+    "counts": {
+      "partial": 15,
+      "corrected": 6,
+      "covered": 9
+    }
+  },
+  {
+    "queueIds": [
+      "J26"
+    ],
+    "slug": "xia-mozang-regency",
+    "exportName": "xiaMozangRegency",
+    "summary": {
+      "slug": "xia-mozang-regency",
+      "seriesId": "western-xia",
+      "title": "幼主背后：没藏氏握住国柄",
+      "subtitle": "继位争论、辽军与屈野河，直到贺兰山夜归",
+      "summary": "补1048幼主继立、1049—1050辽夏战争、旧将与外戚争权、屈野河侵田、太后遇害及讹庞纳女；区分私情版本与性别评价。",
+      "period": "1048—1056",
+      "category": "宫廷 · 战争 · 人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 47,
+    "independentReview": "complete",
+    "counts": {
+      "partial": 23,
+      "corrected": 11,
+      "covered": 12,
+      "not-needed": 1
+    }
+  },
+  {
+    "queueIds": [
+      "J27"
+    ],
+    "slug": "xia-liangzuo-personal-rule",
+    "exportName": "xiaLiangzuoPersonalRule",
+    "summary": {
+      "slug": "xia-liangzuo-personal-rule",
+      "seriesId": "western-xia",
+      "title": "谅祚亲政：少年挣开的第一道锁",
+      "subtitle": "梁氏告密、改礼求书，与银甲上的箭伤",
+      "summary": "补清除讹庞、废立皇后、议定疆界与汉礼官制、求婚外交及宋夏边争；分开伤死笔记和1067本传年次。",
+      "period": "1059—1067",
+      "category": "人物 · 宫廷 · 外交",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 45,
+    "independentReview": "complete",
+    "counts": {
+      "covered": 13,
+      "partial": 20,
+      "corrected": 10,
+      "not-needed": 2
+    }
+  },
+  {
+    "queueIds": [
+      "J28"
+    ],
+    "slug": "xia-liang-dowager-confined-emperor",
+    "exportName": "xiaLiangDowagerConfinedEmperor",
+    "summary": {
+      "slug": "xia-liang-dowager-confined-emperor",
+      "seriesId": "western-xia",
+      "title": "梁太后：国主被关在五里之外",
+      "subtitle": "恢复蕃礼、边城攻守，与李清的归宋之议",
+      "summary": "补梁氏姐弟摄政、恢复蕃礼、1070环庆及1071顺宁故事，分开辽援许诺、成年亲政、李清之死和1081囚主危机。",
+      "period": "1067—1081",
+      "category": "宫廷 · 战争 · 人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 31,
+    "independentReview": "complete",
+    "counts": {
+      "covered": 8,
+      "not-needed": 4,
+      "partial": 14,
+      "corrected": 4,
+      "uncertain": 1
+    }
+  },
+  {
+    "queueIds": [
+      "J29"
+    ],
+    "slug": "xia-five-routes-yongle",
+    "exportName": "xiaFiveRoutesYongle",
+    "summary": {
+      "slug": "xia-five-routes-yongle",
+      "seriesId": "western-xia",
+      "title": "五路伐夏：打进去了，粮食却跟不上",
+      "subtitle": "灵州的争功、永乐的水源，与秉常复位后的旧权力",
+      "summary": "补1081五路战果和粮道、1082永乐城选址与城陷，核分兵数、诈降泛说及1083—1086梁氏交接。",
+      "period": "1081—1086",
+      "category": "战争 · 宫廷 · 人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 25,
+    "independentReview": "complete",
+    "counts": {
+      "corrected": 5,
+      "partial": 12,
+      "covered": 5,
+      "uncertain": 3
+    }
+  },
+  {
+    "queueIds": [
+      "J30"
+    ],
+    "slug": "xia-younger-liang-dowager",
+    "exportName": "xiaYoungerLiangDowager",
+    "summary": {
+      "slug": "xia-younger-liang-dowager",
+      "seriesId": "western-xia",
+      "title": "小梁太后：高车停在平夏城下",
+      "subtitle": "兄妹争权、边城攻守，与一场有争议的毒杀",
+      "summary": "补乾顺幼立、乙逋之死、1097—1098平夏城攻防、辽声援与1099梁氏死亡版本。",
+      "period": "1086—1099",
+      "category": "宫廷 · 战争 · 人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 37,
+    "independentReview": "complete",
+    "counts": {
+      "covered": 8,
+      "not-needed": 4,
+      "corrected": 3,
+      "partial": 18,
+      "uncertain": 4
+    }
+  },
+  {
+    "queueIds": [
+      "J31"
+    ],
+    "slug": "xia-qianshun-liao-jin",
+    "exportName": "xiaQianshunLiaoJin",
+    "summary": {
+      "slug": "xia-qianshun-liao-jin",
+      "seriesId": "western-xia",
+      "title": "乾顺：旧盟败了，新盟站着受",
+      "subtitle": "察哥的统安之战、援辽洪水与金使王阿海的礼仪争执",
+      "summary": "补乾顺求和请婚、徽宗边战、察哥大胜、援辽与转金、割地被收回、扩张教育及评价出处。",
+      "period": "1099—1139",
+      "category": "外交 · 战争 · 人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 45,
+    "independentReview": "complete",
+    "counts": {
+      "covered": 10,
+      "partial": 21,
+      "not-needed": 1,
+      "corrected": 13
+    }
+  },
+  {
+    "queueIds": [
+      "J32"
+    ],
+    "slug": "xia-renxiao-disasters",
+    "exportName": "xiaRenxiaoDisasters",
+    "summary": {
+      "slug": "xia-renxiao-disasters",
+      "seriesId": "western-xia",
+      "title": "仁孝：死去几口人，租税免几年",
+      "subtitle": "粮价、地裂与把救荒视为靖乱的臣子",
+      "summary": "补仁孝16岁继位与两母、1142—1143灾荒、逐户减税和井里赈恤、任得敬平乱；查贪具体案保留未核。",
+      "period": "1139—1143",
+      "category": "民生 · 灾害 · 人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 12,
+    "independentReview": "complete",
+    "counts": {
+      "partial": 6,
+      "covered": 5,
+      "uncertain": 1
+    }
+  },
+  {
+    "queueIds": [
+      "J33"
+    ],
+    "slug": "xia-heda-rendejing",
+    "exportName": "xiaHedaRendejing",
+    "summary": {
+      "slug": "xia-heda-rendejing",
+      "seriesId": "western-xia",
+      "title": "任得敬：从平叛功臣到分国权相",
+      "subtitle": "萧合达的复辽之梦、学校之争，与金世宗不肯签下的册书",
+      "summary": "补合达叛乱后方突袭、任得敬入朝晋爵废学修宫、求医通宋与1170分国拒封；纠金军实际援夏说。",
+      "period": "1137—1170",
+      "category": "宫廷 · 战争 · 外交",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 28,
+    "independentReview": "complete",
+    "counts": {
+      "partial": 11,
+      "covered": 12,
+      "corrected": 5
+    }
+  },
+  {
+    "queueIds": [
+      "J34"
+    ],
+    "slug": "xia-renxiao-law-schools",
+    "exportName": "xiaRenxiaoLawSchools",
+    "summary": {
+      "slug": "xia-renxiao-law-schools",
+      "seriesId": "western-xia",
+      "title": "仁孝：一匹马与二十卷律令",
+      "subtitle": "从金廷礼节，到宗室课堂与水渠边的成文规则",
+      "summary": "补仁孝外交拒使互市、马伤进谏、天盛律令水利条款与学校科举；校正强制入学与马伤编法因果。",
+      "period": "1144—1193",
+      "category": "制度 · 文化 · 外交",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 28,
+    "independentReview": "complete",
+    "counts": {
+      "corrected": 5,
+      "partial": 20,
+      "covered": 3
+    }
+  },
+  {
+    "queueIds": [
+      "J35"
+    ],
+    "slug": "xia-huanzong-first-mongol",
+    "exportName": "xiaHuanzongFirstMongol",
+    "summary": {
+      "slug": "xia-huanzong-first-mongol",
+      "seriesId": "western-xia",
+      "title": "桓宗：中兴府迎来的新敌人",
+      "subtitle": "王汗的首级、古儿别速的反讽，与1205年被攻破的寨",
+      "summary": "补草原诸部政治、乃蛮疑兵马力与1205掠夏；校太阳不欲鲁年次、屈出律路线与力吉里攻克。",
+      "period": "1193—1206",
+      "category": "战争 · 人物 · 外交",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 33,
+    "independentReview": "complete",
+    "counts": {
+      "covered": 6,
+      "partial": 19,
+      "corrected": 7,
+      "not-needed": 1
+    }
+  },
+  {
+    "queueIds": [
+      "J36"
+    ],
+    "slug": "xia-anquan-coup",
+    "exportName": "xiaAnquanCoup",
+    "summary": {
+      "slug": "xia-anquan-coup",
+      "seriesId": "western-xia",
+      "title": "安全：罗太后的两封表",
+      "subtitle": "越王降爵、拒绝诱饵的朝臣，与死因未明的桓宗",
+      "summary": "补仁友平任功、安全降爵干政与刘忠亮、罗氏向金奏告册封；宫廷私情和再立皇后保留未证。",
+      "period": "1196—1207",
+      "category": "宫廷 · 人物 · 外交",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 20,
+    "independentReview": "complete",
+    "counts": {
+      "covered": 5,
+      "partial": 7,
+      "corrected": 3,
+      "uncertain": 5
+    }
+  },
+  {
+    "queueIds": [
+      "J37"
+    ],
+    "slug": "xia-mongol-sieges",
+    "exportName": "xiaMongolSieges",
+    "summary": {
+      "slug": "xia-mongol-sieges",
+      "seriesId": "western-xia",
+      "title": "克夷门：胜了一阵，仍然失了关",
+      "subtitle": "1207年的粮荒撤军、1209年的诱伏与淹城，以及右手的承诺",
+      "summary": "补两次攻夏补给关口水攻及金拒援、令公被俘归国、察合与贡骆驼；校年次人数人物混合。",
+      "period": "1207—1210",
+      "category": "战争 · 外交 · 人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 30,
+    "independentReview": "complete",
+    "counts": {
+      "covered": 7,
+      "partial": 18,
+      "corrected": 3,
+      "uncertain": 2
+    }
+  },
+  {
+    "queueIds": [
+      "J38"
+    ],
+    "slug": "xia-anquan-jin-war",
+    "exportName": "xiaAnquanJinWar",
+    "summary": {
+      "slug": "xia-anquan-jin-war",
+      "seriesId": "western-xia",
+      "title": "安全之后：向金挥出的兵",
+      "subtitle": "仍来往的使节、陇安的五千俘口，与父亲早已去世的新王",
+      "summary": "补附蒙攻金政策、敌对中使聘渐断与战乱民生；纠1223陇安年代及凉州父子起义说。",
+      "period": "1210—1223",
+      "category": "外交 · 战争 · 人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 14,
+    "independentReview": "complete",
+    "counts": {
+      "covered": 3,
+      "partial": 7,
+      "corrected": 4
+    }
+  },
+  {
+    "queueIds": [
+      "J39"
+    ],
+    "slug": "xia-zunxu-scholar-emperor",
+    "exportName": "xiaZunxuScholarEmperor",
+    "summary": {
+      "slug": "xia-zunxu-scholar-emperor",
+      "seriesId": "western-xia",
+      "title": "遵顼：状元的太子不肯领兵",
+      "subtitle": "东胜援军、流泪的谏者，与灵州囚禁前的出家请求",
+      "summary": "补1203学业即位、东胜与蒙夏军礼、苏寅孙及德任劝和乞僧；校父亲凉州起义与杀岳父心理说。",
+      "period": "1203—1223",
+      "category": "人物 · 宫廷 · 战争",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 20,
+    "independentReview": "complete",
+    "counts": {
+      "corrected": 3,
+      "partial": 9,
+      "covered": 8
+    }
+  },
+  {
+    "queueIds": [
+      "J40"
+    ],
+    "slug": "xia-zunxu-western-service",
+    "exportName": "xiaZunxuWesternService",
+    "summary": {
+      "slug": "xia-zunxu-western-service",
+      "seriesId": "western-xia",
+      "title": "遵顼：右手为何拒绝出兵",
+      "subtitle": "讹答剌商队、克烈旧盟，与发生在拒兵之前的中兴围城",
+      "summary": "补花剌通商杀使、楚材军营故事、王汗许婚陷阱、阿沙拒征、围城时序及梁德懿谏退位；不复演五字檄与借世仇密谋。",
+      "period": "1217—1223",
+      "category": "外交 · 人物 · 宫廷",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 43,
+    "independentReview": "complete",
+    "counts": {
+      "covered": 9,
+      "corrected": 14,
+      "partial": 17,
+      "uncertain": 3
+    }
+  },
+  {
+    "queueIds": [
+      "J41"
+    ],
+    "slug": "xia-dewang-last-alliance",
+    "exportName": "xiaDewangLastAlliance",
+    "summary": {
+      "slug": "xia-dewang-last-alliance",
+      "seriesId": "western-xia",
+      "title": "德旺：七策中的人质与援军",
+      "subtitle": "沙州火穴守城、未兑现的质子，与罗世昌藏下的二十卷",
+      "summary": "德旺试图修好金朝并寻求外援。沙州守将以火穴拒敌，高良惠劝送质子，张公辅陈七策，罗世昌却开始为王朝保存最后的历史。",
+      "period": "1223—1225",
+      "category": "外交 · 战争 · 人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 36,
+    "independentReview": "complete",
+    "counts": {
+      "partial": 18,
+      "not-needed": 2,
+      "covered": 11,
+      "corrected": 5
+    }
+  },
+  {
+    "queueIds": [
+      "J42"
+    ],
+    "slug": "xia-last-cities-two-endings",
+    "exportName": "xiaLastCitiesTwoEndings",
+    "summary": {
+      "slug": "xia-last-cities-two-endings",
+      "seriesId": "western-xia",
+      "title": "灭夏：城墙之内，两种终局",
+      "subtitle": "甘州父子、灵州旧太子，与门外行礼和秘丧杀降的不同记述",
+      "summary": "河西城池相继失守，甘州与肃州守将的亲属走向不同结局。末帝奉出图籍后，关于杀降的次序，几部史书留下了两种终局。",
+      "period": "1226—1227",
+      "category": "战争 · 人物 · 史料",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 21,
+    "independentReview": "complete",
+    "counts": {
+      "partial": 10,
+      "covered": 3,
+      "corrected": 7,
+      "not-needed": 1
+    }
+  },
+  {
+    "queueIds": [
+      "J43"
+    ],
+    "slug": "xia-tombs-descendant-memory",
+    "exportName": "xiaTombsDescendantMemory",
+    "summary": {
+      "slug": "xia-tombs-descendant-memory",
+      "seriesId": "western-xia",
+      "title": "西夏之后：土芯、字迹与族谱",
+      "subtitle": "从贺兰山王陵到居庸关云台，王朝之外还有不同的延续",
+      "summary": "贺兰山王陵的夯土内核、居庸关云台的西夏文和各地族谱，使王朝之后的人与文字仍可追索；遗迹、祖源认同与国家统治各有自己的时间线。",
+      "period": "1227年以后",
+      "category": "文化 · 遗存 · 记忆",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 7,
+    "independentReview": "complete",
+    "counts": {
+      "corrected": 2,
+      "partial": 4,
+      "uncertain": 1
+    }
+  }
+]

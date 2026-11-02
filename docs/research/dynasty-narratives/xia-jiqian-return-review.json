@@ -1,0 +1,684 @@
+{
+  "date": "2026-10-11",
+  "method": "根代理独立逐P对读原逐字稿、正文和相应原典；实读核实内容补回，异载、文学传统、转写疑点不强行消除。见cross-review-j17-j21.md，未回听音频。",
+  "counts": {
+    "partial": 23,
+    "covered": 23,
+    "corrected": 13,
+    "not-needed": 1,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "mourning-cart"
+      ],
+      "note": "乳母出葬实有，入继捧府请假对白不证。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "mourning-cart"
+      ],
+      "note": "元昊祖父及追号补据宋史继迁传；德明上尊号和元昊神武、太祖分开。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "mourning-cart"
+      ],
+      "note": "族弟非亲弟。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "mourning-cart"
+      ],
+      "note": "并非已毁城，地方权位非直接继承。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "mourning-cart"
+      ],
+      "note": "宋接管辖境覆盖，不说全党项没有土地。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "mourning-cart"
+      ],
+      "note": "宗族迁朝转场，不等于所有部众全散。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "mourning-cart"
+      ],
+      "note": "三百里地斤泽，现代精确今址未核。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [],
+      "note": "现代跨省行路插叙不承担故事事实。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "mourning-cart"
+      ],
+      "note": "当地部族豪强未全部随召。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "mourning-cart"
+      ],
+      "note": "动员联部覆盖，拟造谁呀对白去。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "mourning-cart"
+      ],
+      "note": "清辑史画像有异说，拜哭按后世记述。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "mourning-cart"
+      ],
+      "note": "祖产动员有对应，不引用刘备谱系类比。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "mourning-cart"
+      ],
+      "note": "982出奔招集。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "camp-and-allies"
+      ],
+      "note": "田钦祚巡检确有，983配属与骚扰次序不写定。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "camp-and-allies"
+      ],
+      "note": "西夏书事3实记田钦祚、袁继忠屯三岔而非三路；宋反夜袭与继迁先攻失利分开。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "camp-and-allies"
+      ],
+      "note": "攻三岔失利、狐狢谷退却与宋夜袭补回，刘备类比略。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "camp-and-allies"
+      ],
+      "note": "清辑史3明确招界外民归业，已补。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "camp-and-allies"
+      ],
+      "note": "财粟招抚、张浦与部众饥敝补据清辑史3；给每户房屋无源不添。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "camp-and-allies"
+      ],
+      "note": "张浦提出宥州横山占险建策补据清辑史3。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "camp-and-allies"
+      ],
+      "note": "攻宥州失败有据，横山战略与现代旗县今址未定。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "camp-and-allies"
+      ],
+      "note": "宥州失败回地斤泽。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "camp-and-allies"
+      ],
+      "note": "清辑史哶嵬、魔病人乜崖对应；族名待音频。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "jia-lu-chuan"
+      ],
+      "note": "985书信诈降诱曹光实。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "jia-lu-chuan"
+      ],
+      "note": "葭芦川伏兵诱杀。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "jia-lu-chuan"
+      ],
+      "note": "借旗取银、焚会、官号清辑对应，音频待核。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "renlang-plan"
+      ],
+      "note": "清辑史4补折罗遇与弟埋乞战死及折遇乜后来被擒，后续王侁战果不得全算田仁朗先胜。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "renlang-plan"
+      ],
+      "note": "数万围寨而非一万固定数，固围令截路有机会。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "renlang-plan"
+      ],
+      "note": "难穷巢穴直接本传，卫霍跨代类比不扩写。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "renlang-plan"
+      ],
+      "note": "小而固抚宁、待疲与强弩截路。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "renlang-plan"
+      ],
+      "note": "王侁西北985先于986杨业事，调整节目时序。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "renlang-plan"
+      ],
+      "note": "构陷本传有据，辱骂不照搬。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "renlang-plan"
+      ],
+      "note": "下狱申辩、怀柔或诱酋密图。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "renlang-plan"
+      ],
+      "note": "商州团练副使不泛流放，后复任；王侁有胜不能说继迁无能力。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "renlang-plan",
+        "two-names"
+      ],
+      "note": "银州败退与转向辽。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "two-names"
+      ],
+      "note": "989义成公主、990夏国王，宋传合系986异文。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "two-names"
+      ],
+      "note": "辽封号支持，唐统认同不作直接心理事实。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "two-names"
+      ],
+      "note": "继捧回夏。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "two-names"
+      ],
+      "note": "赵普建议、赵保忠和恢复旧职。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "two-names"
+      ],
+      "note": "招降牵制继迁的使命。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "two-names"
+      ],
+      "note": "继捧报愿降和银州刺史。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "two-names"
+      ],
+      "note": "不一概未受全部官，区分名号与无实降心。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "two-names"
+      ],
+      "note": "求辽援及早年拒好、婚封分期，不只闹便封。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "two-names"
+      ],
+      "note": "990封夏国王与未得夏州。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "two-names",
+        "trade-and-boundary"
+      ],
+      "note": "盟辽不保证辽永不攻，后续拒见俘掠。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "trade-and-boundary"
+      ],
+      "note": "继捧附辽991，继迁潜附宋导致辽使；非992已吞夏州。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "trade-and-boundary"
+      ],
+      "note": "韩德威持诏、继迁拒见。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "trade-and-boundary"
+      ],
+      "note": "俘掠实有、灵银地点异，不证明私怒全部因继捧。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "trade-and-boundary"
+      ],
+      "note": "互市请辞与曲折策略，百战评价另节。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "trade-and-boundary"
+      ],
+      "note": "王者无外非现代无限疆界；求互市与向辽诉均有据。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "trade-and-boundary"
+      ],
+      "note": "绥银已复为991对辽使者报告，后索宥夏并列，不混成一时。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "trade-and-boundary"
+      ],
+      "note": "请求拒绝再出兵。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "grain-and-five-roads"
+      ],
+      "note": "994到996再受名号逐步分期，补粮队与五路。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "lingzhou-and-xiliang"
+      ],
+      "note": "1001潘罗支授号抗继迁有据，精确转向动机属推论。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "lingzhou-and-xiliang"
+      ],
+      "note": "原此役继迁赢的单一战役过程未证，保留候选。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "lingzhou-and-xiliang"
+      ],
+      "note": "西向冲突与敌方结宋有据，内心独白不作事实。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "lingzhou-and-xiliang"
+      ],
+      "note": "1003中箭，1004死，四十二。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "what-he-left"
+      ],
+      "note": "宋辽周旋为编辑概括，不称已立现代固定国策。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "what-he-left"
+      ],
+      "note": "战争改变谈判与初步根据地。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "what-he-left"
+      ],
+      "note": "不采无继迁全族必消失的反事实。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "what-he-left"
+      ],
+      "note": "功绩具体评价，辽此时不叫刚建立。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-jiqian-return",
+      "sectionIds": [
+        "what-he-left"
+      ],
+      "note": "韧性评价保留明确编辑层次，非史家赞词。"
+    }
+  ]
+}

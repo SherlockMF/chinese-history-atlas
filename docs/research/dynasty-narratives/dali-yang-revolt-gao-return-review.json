@@ -1,0 +1,410 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核：逐读台账所列原P、正文全部节与对应原典缓存，核查实际承接并纠正错位；未回听音频，不把候选计为全覆盖。",
+  "audioReviewed": false,
+  "counts": {
+    "covered": 11,
+    "partial": 11,
+    "corrected": 2,
+    "not-needed": 3,
+    "uncertain": 11
+  },
+  "rows": [
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "revolt"
+      ],
+      "note": "思廉退位廉义继立落实，廉义异写不认成另一人。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "revolt"
+      ],
+      "note": "1076贡宋与1080杨义贞弑廉义据两类原典落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "revolt"
+      ],
+      "note": "弑君篡位进入正文，单人突然刺杀的具体方式未核不复演。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "revolt"
+      ],
+      "note": "篡位自立明确，广安为早先年号不另推出稳定四年政权。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "revolt"
+      ],
+      "note": "高智升令子起东爨僰兵讨杨与立寿辉落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "revolt"
+      ],
+      "note": "平乱者可选下一王的政治后果入文，复仇内心不编造。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "abdication"
+      ],
+      "note": "寿辉授高父布燮、高子鄯阐侯的格局落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "abdication"
+      ],
+      "note": "日月交晦星昼见为天变记述，不诊断精神疾病。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "abdication"
+      ],
+      "note": "高氏军政持续性承接，君王特殊心理未当记录。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "abdication"
+      ],
+      "note": "退位与权臣职位连读，不用私人恐惧解释所有变化。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [],
+      "note": "瑞士佣军类比无史源，不补成南诏大理军制事实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "uncertain",
+      "assessment": "uncertain",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [],
+      "note": "连续姓名污染未回听；正明据独立史籍写出，不标恢复原述。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "abdication"
+      ],
+      "note": "正明继位再出家的地方王统落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "uncertain",
+      "assessment": "uncertain",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [],
+      "note": "污染姓名未通过音频厘清，相关段不能虚称已语音确认。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "middle"
+      ],
+      "note": "高升泰1094受禅称大中国落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "middle"
+      ],
+      "note": "高升泰受禅后改国号大中国进入正文。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "middle"
+      ],
+      "note": "高氏仍执政与国人称高国主入文，不断全民反对高王。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "middle"
+      ],
+      "note": "地方史人心解释有层次，不以现代情绪补民变。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "middle"
+      ],
+      "note": "高氏受禅与还政的政治变化承接，邻国观感和民意支持未据材料确定。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "middle"
+      ],
+      "note": "称帝与实际掌权两层区分，遗命还国不是已证全民推翻。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "middle"
+      ],
+      "note": "还位仍掌政令的具体制度后果落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "middle"
+      ],
+      "note": "段正淳与正明按胡蔚本兄弟关系，不凭小说还原。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "middle"
+      ],
+      "note": "后理成立1096明确，小说关系只作边界不讲情节。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "middle"
+      ],
+      "note": "1094至1096短暂高氏国号与后理时序落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "middle"
+      ],
+      "note": "段氏王冠、高氏政令并存进入正文。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "middle"
+      ],
+      "note": "求经籍药书的具体交流补入，不因记事少认王无作为。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [],
+      "note": "高升洁为正淳妻的称名未在亲读诸王条找到可靠出处。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [],
+      "note": "高升泰妹或女的亲属说未核，不能据联姻推精确谱系。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [],
+      "note": "妻为才女且通奇门的传称未定位原典，不作实录。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [],
+      "note": "赞妻诗文归属缺可追溯早期出处，未署为正淳作品。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [],
+      "note": "朗诵前对节目旧话题的回想不承接。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [],
+      "note": "国有巾帼等诗文仅见口述传本，年代作者均未核，不据现代文气判真伪。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [],
+      "note": "流行歌曲与诗句口吻比较不构成作品出处证据。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [],
+      "note": "从传诗推出妻子塑造国王价值观，无可靠文本支撑。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [],
+      "note": "妻教东走等具体句未核归属，不作宫廷对白。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [],
+      "note": "根据传诗推国王恐惧高氏亲族是二次推测，未入史实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [],
+      "note": "高家全体控制私人婚姻的情节缺依据，不把政治格局冒充私情证明。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dali-yang-revolt-gao-return",
+      "sectionIds": [
+        "middle"
+      ],
+      "note": "前后理分界、1108退位子和誉继承据地方史落实，诗的评价舍弃。"
+    }
+  ],
+  "independentReview": {
+    "reviewer": "finish_jin_xia_dali",
+    "status": "complete",
+    "paragraphCount": 38,
+    "audioReviewed": false
+  }
+}

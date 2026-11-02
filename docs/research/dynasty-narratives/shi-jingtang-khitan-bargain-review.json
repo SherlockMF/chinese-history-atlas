@@ -1,0 +1,331 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读29原段、全文及通鉴279相关、280全卷、辽72义宗倍；修935副总管/936公主语、先册立后争约、亡国闰月，补有史酣饮与倍密报；桑临死对白保留评价层不事实化，音频未回听。",
+  "counts": {
+    "corrected": 6,
+    "covered": 14,
+    "not-needed": 1,
+    "partial": 8
+  },
+  "rows": [
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "second-transfer"
+      ],
+      "note": "935张敬达副总管分兵权补回；公主酒后讥反在936正月，纠此前正文与台账误提前935。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "second-transfer"
+      ],
+      "note": "调天平及削久据河东已用；世人永不吸取历史教训不是史证。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "second-transfer"
+      ],
+      "note": "敬瑭拒调、指从珂养子德位不正已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [],
+      "note": "给我让皇位的反复拟对白，不当原奏要求给石氏的事实。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "second-transfer"
+      ],
+      "note": "上表请明宗亲子许王从益继承已用，石氏以亲子名义抗养子。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "second-transfer"
+      ],
+      "note": "撕奏表削官爵已用；脱衣床头笑谈无证不录。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "second-transfer"
+      ],
+      "note": "初围唐军三万、后续余军数字分开，纠正百万进攻晋阳。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "second-transfer",
+        "land-for-help"
+      ],
+      "note": "桑参与河东幕议在second-transfer，求援与草表在land-for-help，补真实跨节引用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "land-for-help"
+      ],
+      "note": "城中资源渐紧、寻找外援已用；洛阳钱都被搜空导致只能契丹的绝对推论不写。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "land-for-help"
+      ],
+      "note": "桑维翰建议屈节求契丹已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "land-for-help"
+      ],
+      "note": "称臣表文第一项已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "land-for-help"
+      ],
+      "note": "请求父礼事耶律德光已用，并补刘知远明确反对。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "land-for-help"
+      ],
+      "note": "割地作为实际利益交换已用；称臣父礼只是虚的评价不照录。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "land-for-help"
+      ],
+      "note": "许割卢龙一道、雁门以北，册立后十六州实定已用；无别招的宿命说不采用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "land-for-help"
+      ],
+      "note": "石敬瑭遣使、桑维翰草表，不记敬瑭本人带厚礼出境。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "land-for-help"
+      ],
+      "note": "臣、子与割地三个条件及国防后果已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "land-for-help"
+      ],
+      "note": "耶律德光得表与母议秋出兵已用；初次亲见桑维翰饮猎场景未核不编。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "land-for-help"
+      ],
+      "note": "土地诱因与契丹欢迎条件已用；再说一遍十六州的长拟对答无证删去。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "land-for-help"
+      ],
+      "note": "契丹得前沿城镇的利益已用；馅饼和早想南游的心理删去。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "jinan-trap"
+      ],
+      "note": "契丹长驱、汾水诱伏、晋安寨合围及从珂未进已用；吓尿失斗志不是独立史证。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "jinan-trap"
+      ],
+      "note": "通鉴280确日夕酣饮悲歌，补回实际忧沮表现；仍不将所有将领一同投石作史实。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "tent-and-tower"
+      ],
+      "note": "亲读辽72密报盍讨及召倍同焚拒从被杀，通鉴280杀在自焚前，分别采用，非拉其上楼共焚；末日闰十一月。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "tent-and-tower"
+      ],
+      "note": "柳林立晋在十一月；赵密求帝与桑跪泣守约均在其后闰月，纠原新篇将争约置于册立前；后唐闰月亡不十二月。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "tent-and-tower"
+      ],
+      "note": "晋国名与此前晋阳军镇及册立代价已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "tent-and-tower"
+      ],
+      "note": "以割十六州换帝位、后果并议已用，具体州名单在W20消费。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "sang-evaluation"
+      ],
+      "note": "桑维翰筹援与争约的尽力已用，可与对割地批评并立；负天下未负卿不伪作其亲口格言。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P183",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "sang-evaluation"
+      ],
+      "note": "不脸谱化人物的评价方法已用；主播古装人物喜好不落事实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P184",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "sang-evaluation"
+      ],
+      "note": "私人忠诚与公共损失分开评价；临死微笑、千古骂名长对白明确读者想象，非有源死场。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "sang-evaluation"
+      ],
+      "note": "交朋友式忠义的价值观转为讨论，不使私人交代抵销国家代价。"
+    }
+  ],
+  "independentReview": "completed"
+}

@@ -67,6 +67,8 @@ export type AtlasRegionProperties = {
   dynastyId: string;
   name: string;
   snapshotId: string;
+  color?: string;
+  coverageOpacity?: number;
   validFromYear: number;
   validToYearExclusive: number;
   boundaryKind: AtlasBoundaryKind;
@@ -98,8 +100,10 @@ export type AtlasPlaceFeatureCollection = FeatureCollection<
 
 export type AtlasDataset = {
   outlines?: FeatureCollection<LineString | MultiLineString, { id: string; dynastyId?: string; accuracyLevel: AtlasAccuracy; sourceRefs: string[] }>;
-  boundaries?: FeatureCollection<LineString | MultiLineString, { id: string; accuracyLevel: AtlasAccuracy; sourceRefs: string[] }>;
+  boundaries?: FeatureCollection<LineString | MultiLineString, { id: string; accuracyLevel: AtlasAccuracy; sourceRefs: string[]; supplement?: boolean }>;
   realms: AtlasRegionFeatureCollection;
+  /** Optional display fragments; realms remain canonical for labels and bounds. */
+  realmFills?: AtlasRegionFeatureCollection;
   disputed: AtlasRegionFeatureCollection;
   places: AtlasPlaceFeatureCollection;
   sources: AtlasSourceRecord[];

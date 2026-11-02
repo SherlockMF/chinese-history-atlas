@@ -17,7 +17,7 @@ export function ReadingPaths({ events, series = fiveDynastiesConfig, paths }: { 
       return <article key={path.id} className="border-b border-ink/15 py-8 lg:border-b-0 lg:px-7 lg:first:pl-0 lg:not-last:border-r">
         <div className="flex items-baseline justify-between gap-3"><span className="font-serif text-4xl text-ink/25">0{index + 1}</span><span className="text-xs text-muted">{path.period} · {path.eventIds.length} 站</span></div>
         <h3 className="mt-5 font-serif text-2xl">{path.title}</h3><p className="mt-4 text-sm leading-7 text-muted">{path.description}</p>
-        {first ? <Link href={`/explore/${first.id}?year=${first.startYear}&path=${path.id}`} aria-label={`开始阅读：${path.title}`} className="mt-6 inline-flex min-h-11 items-center border-b border-cinnabar text-sm text-cinnabar focus-visible:outline-cinnabar">开始阅读 ↗</Link> : null}
+        {first ? <Link href={`/explore/${first.id}?year=${first.startYear}&path=${path.id}${series.id === "five-dynasties" ? "" : `&series=${series.slug}`}`} aria-label={`开始阅读：${path.title}`} className="mt-6 inline-flex min-h-11 items-center border-b border-cinnabar text-sm text-cinnabar focus-visible:outline-cinnabar">开始阅读 ↗</Link> : null}
       </article>;
     })}</div>
   </section>;

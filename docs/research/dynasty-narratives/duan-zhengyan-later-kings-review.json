@@ -1,0 +1,237 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核：逐读台账所列原P、正文全部节与对应原典缓存，核查实际承接并纠正错位；未回听音频，不把候选计为全覆盖。",
+  "audioReviewed": false,
+  "counts": {
+    "uncertain": 2,
+    "corrected": 6,
+    "partial": 9,
+    "covered": 2,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "uncertain",
+      "assessment": "uncertain",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [],
+      "note": "和誉正严姓名从独立史籍确认，原姓名污染未回听不虚称辨音。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "uncertain",
+      "assessment": "uncertain",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [],
+      "note": "原段连续姓名混乱保留待核，不能凭段誉小说关系补转写。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "recognition"
+      ],
+      "note": "即位1108而非1107，原段年代纠正。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "court"
+      ],
+      "note": "正文依胡蔚本作宣仁，未把口述轩仁当谥号；也不据长寿判断高氏全失权。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "recognition"
+      ],
+      "note": "贡使、宋封和后续贸易有实际承接；除开国者外最有作为及宋关系为立国唯一根本未获证。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "recognition"
+      ],
+      "note": "册封王和誉具体官号入文，幻戏人不在本传核实不增补。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "recognition",
+        "court"
+      ],
+      "note": "补宋廷册封及1147退为僧，纠正未禅位；勤政与宋封助收权的推断不作确定事实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "recognition",
+        "court"
+      ],
+      "note": "贡使礼遇与外援强度分开，不据外交推宋直接统治。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "recognition",
+        "court"
+      ],
+      "note": "往来成本及朝贡贸易变化补实，不确定宋助王削高计划。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "court"
+      ],
+      "note": "高氏平叛和守鄯阐的具体活动承接，君相心理对白不编。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "court"
+      ],
+      "note": "伊何报旧主仇事露获赦补充人物行动，属于晚出地方记。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "recognition"
+      ],
+      "note": "按宋史恢复金紫光禄大夫等完整封号，纠正口述紫金光炉；不夸大为不断升封。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "court"
+      ],
+      "note": "近四十年在位及诸部争乱承接；94岁精确寿数与四十年全程平稳、收尽高权未获证。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "court"
+      ],
+      "note": "1147诸子内争外叛退为僧，纠正未退位；无嫡长原因未证明。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "after"
+      ],
+      "note": "正兴继立与高氏相位延续落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "after"
+      ],
+      "note": "智兴修寺同时筑关，不用奉佛直接证明全社会持续衰败。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "after"
+      ],
+      "note": "高氏内部夺相位和地方占据明确，双权并非始终稳定。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [],
+      "note": "金庸南帝武功属于小说，不作历史智兴履历。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "after"
+      ],
+      "note": "智廉求藏经1465部置五华楼按古书，未当现代逐册清点。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-zhengyan-later-kings",
+      "sectionIds": [
+        "after"
+      ],
+      "note": "智祥时和年丰评价、祥兴兴智承接王统；短长年数异文不强合。"
+    }
+  ],
+  "independentReview": {
+    "reviewer": "finish_jin_xia_dali",
+    "status": "complete",
+    "paragraphCount": 20,
+    "audioReviewed": false
+  }
+}

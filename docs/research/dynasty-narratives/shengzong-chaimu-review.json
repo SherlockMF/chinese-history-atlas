@@ -1,0 +1,195 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核：亲读本篇台账全部对应原段、正文与列明原典；2026-10-11逐P校验实际sectionIds与transcripts，修正未核片段评估；未回听音频。史源缓存output/research-source-cache。",
+  "counts": {
+    "covered": 5,
+    "partial": 6,
+    "not-needed": 3,
+    "corrected": 3
+  },
+  "rows": [
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P213",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [
+        "curtain-falls"
+      ],
+      "note": "萧绰1009卒、韩德让1011薨按《辽史》卷15编年承接；“大十几岁活得久”的年表观察属实。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P214",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [
+        "curtain-falls"
+      ],
+      "note": "太后摄政结束与亲政承接；不能抹去圣宗此前参政，养生长寿原因未证。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P215",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [
+        "curtain-falls"
+      ],
+      "note": "礼志阻午旧制及完整薪坛承接，圣宗1009补办具体纪年未证。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P216",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [
+        "curtain-falls"
+      ],
+      "note": "“能称为礼必有流程”的判断承接，转入礼志拆解。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P217",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [],
+      "note": "烧火被抓玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P218",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [],
+      "note": "“费人”的纣王玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P219",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [
+        "the-ceremony"
+      ],
+      "note": "八部认可与长老到场的框架承接，礼仪化说明见礼志“八部之叟前导后扈”。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P220",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [
+        "the-ceremony"
+      ],
+      "note": "辞让环节按《礼志》“先帝升遐，有伯叔父兄在，当选贤者”原文承接；口述的“柴火插脖领”为讲史想象。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P221",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [
+        "the-ceremony"
+      ],
+      "note": "礼志一次辞让；燕北录系统辨主互答三遍是另一1058道宗环节，不合并为三让。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P222",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [
+        "nine-substitutes"
+      ],
+      "note": "拾遗转引燕北录明确道宗清宁四1058、九替身十帐，非圣宗确定行礼。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P223",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [
+        "nine-substitutes"
+      ],
+      "note": "第八帐宋国大王提认、帝否认互答三遍与赏赐恢复；气场/紫光拟演不当史事。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P224",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [
+        "nine-substitutes"
+      ],
+      "note": "十帐辨认原记录落实，提前安排好的判断属推测，无气场事实。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P225",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [
+        "the-ceremony",
+        "nine-substitutes"
+      ],
+      "note": "受册薪坛与燕北录拜先帝诸项分别叙；唐伯虎类比及确定点火顺序未作原典史实。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P226",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [],
+      "note": "跳进黄河洗不清玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P227",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [
+        "nine-substitutes"
+      ],
+      "note": "拾遗转引的辨认行动承接，记错帐篷及兄弟密谋未有史证。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P228",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [
+        "the-ceremony"
+      ],
+      "note": "礼志翼日受册、七庙神主与御容承接；奇首可汗可敦及圣宗创始延后未获此篇史证。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P229",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "shengzong-chaimu",
+      "sectionIds": [
+        "aftermath"
+      ],
+      "note": "982–1031四十九年保留；仅次三帝的全史排行无完备范围，诸帝延后因圣宗效法未证。"
+    }
+  ],
+  "independentReview": "completed"
+}

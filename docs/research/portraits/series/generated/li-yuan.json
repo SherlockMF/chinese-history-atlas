@@ -1,0 +1,17 @@
+{
+  "id": "li-yuan",
+  "name": "李渊",
+  "representativeAge": 52,
+  "prompt": "第一张输入为本人的传世肖像参考，第二张为朱温画风样图。参考第一张的脸型、眉眼、鼻形与髭须特征重新创作；只描绘本人，不保留原图侍从。第二张仅参考画法、配色、纸感与构图，不复制朱温面容。人物为李渊，身份：唐朝建立者、隋太原留守。生平依据：隋末任太原留守，617年从太原起兵进入关中，618年在长安建立唐朝。本画代表年龄约52岁，年龄及以下造型均为创作设定：男性，成熟稳健，保留参考肖像的脸部辨识特征，隋末官员时期的深褐袍服与简洁官冠；不照搬唐朝即位后的礼服。服饰取北朝至隋的时代语汇，避免五代宋明清服饰及夸张影视造型。采用输入朱温样图的统一原创国风手绘插画风格：自然写实人体比例，面部立体光影、细腻水彩笔触与纸绢质感，低饱和朱砂、墨绿、赭色及少量金色，简洁暖纸白背景。竖幅3:4，单人半身胸像，身体略侧、脸朝向观者；头顶留白，头饰完整，面部清晰且适合缩小为圆形头像，无文字、无印章、无边框。",
+  "reference": "docs/research/portraits/series/references/li-yuan.jpg",
+  "source": {
+    "title": "明代《唐高祖立像》局部（台北故宫博物院藏）",
+    "url": "https://commons.wikimedia.org/wiki/File:TangGaozu_(cropped).jpg"
+  },
+  "note": "依据传世肖像重新创作；画中约52岁，年龄、光影与部分细节为艺术处理。参考为后世唐高祖像，本画衣冠按隋末官员身份作艺术处理。",
+  "generator": "built-in image_gen",
+  "original": "C:\\Users\\84754\\.codex\\generated_images\\01a0c47c-b25c-7471-bb2c-f64d1bc8dc5e\\exec-960fe2e4-ef75-44b2-ab85-fd76f8562609.png",
+  "asset": "public/portraits/series/li-yuan.webp",
+  "width": 1086,
+  "height": 1448
+}

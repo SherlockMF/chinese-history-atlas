@@ -1,0 +1,386 @@
+{
+  "date": "2026-10-11",
+  "method": "独立重读34原段与全正文；亲读通鉴255/256、新唐225下、旧五代25、贵耳、挥麈后录5、邵博闻见后录17；补回被错误删掉的泼水唤醒/封禅寺/近千残兵，受俘更正成都、精确区分送酒人与未证对白；音频未回听。",
+  "counts": {
+    "covered": 20,
+    "partial": 8,
+    "corrected": 6
+  },
+  "rows": [
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P204",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "final-pursuit"
+      ],
+      "note": "五万兵与路线按《通鉴》卷255“将蕃、汉兵五万出天井关……还兵自陕、河中渡河而东”分层；跑回山东的口述概括承接。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P205",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "final-pursuit"
+      ],
+      "note": "通鉴255明记巢收余众近千人，旧补稿误称仅口述概括，已改实际有源。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P206",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "final-pursuit"
+      ],
+      "note": "旧五代25明确封禅寺迎劳，已补回，不再因通鉴本段无而排除。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P207",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "shangyuan-night"
+      ],
+      "note": "犒赏款待的背景按“固请入城，馆于上源驿”承接；动机为节目分析。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P208",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "shangyuan-night"
+      ],
+      "note": "礼貌宴饮已写，姓李唐室嫡系心理未证，解释在interpretation。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P209",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "shangyuan-night"
+      ],
+      "note": "酒间失态按《通鉴》“乘酒使气，语颇侵之”分寸呈现，拟对白不采。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P210",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "shangyuan-night"
+      ],
+      "note": "羞辱细节为节目渲染层；史文落点是“语颇侵之”。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P211",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "shangyuan-night"
+      ],
+      "note": "朱温谋袭按“宣武将杨彦洪密与全忠谋，连车树栅以塞衢路，发兵围驿而攻之”。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P212",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "shangyuan-night"
+      ],
+      "note": "通鉴255与旧五代25均明载郭景铢泼水唤醒；旧台账说渲染是复核错误；突围雷雨而非简单雨扑火。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P213",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "shangyuan-night"
+      ],
+      "note": "结仇定局承接，与五代02 P002–P003回顾段交叉印证。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P214",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "langhu-valley"
+      ],
+      "note": "黄巢入泰山狼虎谷按《通鉴》卷256“巢众殆尽，走至狼虎谷”。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P215",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "langhu-valley"
+      ],
+      "note": "降将离散、狼虎谷败亡与两史及后世笔记版本已分层呈现。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P216",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "langhu-valley"
+      ],
+      "note": "林言外甥、斩首；通鉴妻子首与新唐杀妻子装函不同于原段妻子只押解，未采“偷袭”心理。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P217",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "langhu-valley"
+      ],
+      "note": "自刎版按《新唐书》“我欲讨国奸臣……若取吾首献天子，可得富贵，毋为他人利”；节目浪漫版有据。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P218",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "langhu-valley"
+      ],
+      "note": "“巢乃自刎，不殊，言因斩之”承接；林言携首遇害与《通鉴》合。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P219",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "monk-tradition"
+      ],
+      "note": "亲读贵耳、邵博与挥麈，补张全义/南禅寺，原段可信度不高承前自刎说，旧稿错搬成专指遁僧。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P220",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "monk-tradition"
+      ],
+      "note": "完整诗补可信转述文本，并对照无人问/识、草上飞/犹忆当年、僧衣等异文；不当实证。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P221",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "hao-and-the-women"
+      ],
+      "note": "更正：从子黄浩（《新唐书》作“浩”，非儿子、非“皓”），号浪荡军，天复初（901年后）陷浏阳为邓进思伏杀，距黄巢死近二十年。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P222",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "hao-and-the-women"
+      ],
+      "note": "黄浩伏杀已写；受俘地点在僖宗成都行在，非原段长安，补宫室毁、885才回京。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P223",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "hao-and-the-women"
+      ],
+      "note": "献首姬妾与问话有源；二三十位人数本次未证，不虚报全覆盖。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P224",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "hao-and-the-women"
+      ],
+      "note": "姬妾对答按“狂贼凶逆，国家以百万之众，失守宗祧，播迁巴、蜀；今陛下以不能拒贼责一女子，置公卿将帅于何地乎！”逐字承接。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P225",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "hao-and-the-women"
+      ],
+      "note": "“皆戮之于市”承接；天子失面子的解读为节目层。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P226",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "hao-and-the-women"
+      ],
+      "note": "人争与酒有源；原段刽子手劝酒为未证身份与动机，改送酒人未明。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P227",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "hao-and-the-women"
+      ],
+      "note": "不饮不泣神色肃然已写；“你们更不是东西”未证对白未造。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P228",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "twenty-three-years"
+      ],
+      "note": "884—907二十三年与李朱相争框架承接，作为本系列开场。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "shangyuan-night"
+      ],
+      "note": "上源驿回顾与“不共戴天”承接，与P213互证。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "shangyuan-night"
+      ],
+      "note": "结仇已写；所核两史该夜不见“朱三不共戴天”直语，未冒称史书确载。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "eight-memorials"
+      ],
+      "note": "七月回太原、上表告状按卷256“前后八表”承接。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "eight-memorials"
+      ],
+      "note": "请兵讨全忠按“请发兵诛讨”承接。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "eight-memorials"
+      ],
+      "note": "请讨有源；因沙陀族籍而不重用的单因说不坐实，奉唐与自主军事张力作编辑解读。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "eight-memorials"
+      ],
+      "note": "朝廷调解按“但遣中使赐优诏和解之”与杨复恭口谕承接。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "eight-memorials"
+      ],
+      "note": "封爵更正：中和三年收京后先进陇西郡公、四年八月进爵陇西郡王（《通鉴》卷256）；口述“平完事就封”时间线已理顺。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "eight-memorials"
+      ],
+      "note": "字数王爵跨朝代普适说不采，interpretation明确不能字数排行或推继位资格。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "shangyuan-feud",
+      "sectionIds": [
+        "eight-memorials"
+      ],
+      "note": "陇西郡王与朝廷暂时补偿已写，闯王闲谈无新增史实。"
+    }
+  ],
+  "independentReview": "completed"
+}

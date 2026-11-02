@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核：亲读本篇台账全部对应原段、正文与列明原典；2026-10-11逐P校验实际sectionIds与transcripts，修正未核片段评估；未回听音频。史源缓存output/research-source-cache。",
+  "counts": {
+    "covered": 4,
+    "corrected": 5,
+    "uncertain": 1,
+    "partial": 1,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P230",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shengzong-seal-poem",
+      "sectionIds": [
+        "the-poet-emperor"
+      ],
+      "note": "诗人皇帝框架与文治武功承接；在位时长互见前篇。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P231",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shengzong-seal-poem",
+      "sectionIds": [
+        "the-seal"
+      ],
+      "note": "笔记区分原传国玺毁与石晋重造受命宝；不以石敬瑭献真秦玺作事实。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P232",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "shengzong-seal-poem",
+      "sectionIds": [
+        "the-seal"
+      ],
+      "note": "辽太宗轻慢玺对白未在所列材料定位，只存解释限度，不伪作原话。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P233",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shengzong-seal-poem",
+      "sectionIds": [
+        "the-seal"
+      ],
+      "note": "北方正统象征由诗分析；作者实名与太宗圣宗心理对比不可从笔记确证。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P234",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shengzong-seal-poem",
+      "sectionIds": [
+        "the-poem"
+      ],
+      "note": "亲读珩璜新论首句“一时制美宝”非美玉；北主未实名，金镶玉等不作鉴定。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P235",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shengzong-seal-poem",
+      "sectionIds": [
+        "the-poem"
+      ],
+      "note": "六句原文有源，珩璜新论及拾遗转引分层；相传圣宗作者未升格实名事实。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P236",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shengzong-seal-poem",
+      "sectionIds": [
+        "the-poem"
+      ],
+      "note": "逐句解读承接为节目赏析层。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P237",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shengzong-seal-poem",
+      "sectionIds": [
+        "the-poem"
+      ],
+      "note": "“工整有气度”评价与乾隆对照保留为节目观点。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P238",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "shengzong-seal-poem",
+      "sectionIds": [],
+      "note": "乾隆与郑少卿闲聊段，无实质命题。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P239",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shengzong-seal-poem",
+      "sectionIds": [
+        "the-reign-appraisal"
+      ],
+      "note": "辽史15开泰五1016诸道狱空有据；不等于整个圣宗朝无人犯罪，17赞亦记胜败并陈。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P240",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shengzong-seal-poem",
+      "sectionIds": [
+        "the-reign-appraisal"
+      ],
+      "note": "卷15高丽东征失败和党项叛服恢复，朝贡不能等同周边始终稳定。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P241",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shengzong-seal-poem",
+      "sectionIds": [
+        "the-reign-appraisal"
+      ],
+      "note": "1031年圣宗崩、兴宗继位与“两个伟大的妈妈”预告承接；辽03收束。"
+    }
+  ],
+  "independentReview": "completed"
+}

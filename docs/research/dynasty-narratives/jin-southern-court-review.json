@@ -1,0 +1,353 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11 主代理独立逐读金03 P010—040全部31条、正文与notes，亲读金106攻宋城濠及赛不杀妻、金93泄密与东华门继承、金101尽忠传、元史1及119相关时序；核实受害者和供词分层，去正文审稿口吻，纪年抵牾保留，未回听音频。",
+  "counts": {
+    "corrected": 10,
+    "partial": 7,
+    "covered": 11,
+    "not-needed": 3
+  },
+  "rows": [
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "south-office"
+      ],
+      "note": "1214已南迁，贞祐四年不是刚到汴京；高琪续权位实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "south-office"
+      ],
+      "note": "高琪仍受任用写入，宣宗无人可用的绝对判断不采。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "south-office",
+        "southern-war"
+      ],
+      "note": "尚书右丞相与攻宋建议承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "southern-war",
+        "south-office"
+      ],
+      "note": "蒙古未持续主力南下但木华黎作战不断，不称围都后不再打。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [],
+      "note": "诗句谐音与转场不独立补史实。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "south-office"
+      ],
+      "note": "1219主力西征使战线结构改变写入。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "south-office"
+      ],
+      "note": "1217木华黎太师国王及统领南征诸军写入。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "south-office"
+      ],
+      "note": "木华黎1223死在高琪1219被诛后，不写他的死让高琪继续谋划。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "southern-war"
+      ],
+      "note": "再启宋金战事与多面压力实际承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "southern-war"
+      ],
+      "note": "休息与攻宋选择用胥鼎许古意见呈现，宋朝军力绝对弱不采。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "moat-question",
+        "southern-war"
+      ],
+      "note": "多线作战与外围屏障共同讨论。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "moat-question"
+      ],
+      "note": "补御史台潼关掎角与各军出击建议、留京精兵政策。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "moat-question"
+      ],
+      "note": "原史濠未及浚并非断言全国财力连沟也挖不了。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "moat-question"
+      ],
+      "note": "高琪效力与宣宗不让兵临城下的问答按原史承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "moat-question"
+      ],
+      "note": "由不采意见引到英王欲告，不增省略拟对白。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "prince-leak"
+      ],
+      "note": "守纯联络三官密议告发及网络承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "prince-leak"
+      ],
+      "note": "受害者非英王妻儿；实际高琪令自己家奴杀其妻。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "prince-leak"
+      ],
+      "note": "高琪归罪自己奴赛不并灭口，非买通英王奴杀宗室。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "prince-leak",
+        "jinzhong-condemnation"
+      ],
+      "note": "1219十二月伏诛有据，杀妻实情纠正原罪由。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "jinzhong-condemnation"
+      ],
+      "note": "尽忠与高琪不合实际写入，不采用我独坏的虚构心理。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "jinzhong-condemnation"
+      ],
+      "note": "与兄交谈及审问是原传顺序，不写获准狱中探视。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "jinzhong-condemnation"
+      ],
+      "note": "兄弟谈皇帝疏己与若再掌兵原传意思承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "jinzhong-condemnation"
+      ],
+      "note": "胡沙虎事件暗示及谋逆告发承接，公开必弑君对白不确定。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "jinzhong-condemnation",
+        "ruler-and-ministers"
+      ],
+      "note": "兄弟被诛和坏天下语及批评写入。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "ruler-and-ministers"
+      ],
+      "note": "本名彖多，不以转写抟多作人名。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [],
+      "note": "胡沙虎死早无法更坏的反事实戏谈不补。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [],
+      "note": "掉坑等报应想象不是史实。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "ruler-and-ministers"
+      ],
+      "note": "皇帝勤政与判断失误并述，不采全由皇帝个人续命。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "ruler-and-ministers",
+        "east-gate"
+      ],
+      "note": "宣宗功过、临终继承与子即位承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "east-gate"
+      ],
+      "note": "哀宗十年并非全在开封；庙号不等于一条机械释义。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-southern-court",
+      "sectionIds": [
+        "east-gate"
+      ],
+      "note": "归德蔡州迁驻与政策调适承接，不称三个正式都城。"
+    }
+  ]
+}

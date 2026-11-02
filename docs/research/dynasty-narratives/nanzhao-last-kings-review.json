@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核：逐读台账所列原P、正文全部节与对应原典缓存，核查实际承接并纠正错位；未回听音频，不把候选计为全覆盖。",
+  "audioReviewed": false,
+  "counts": {
+    "corrected": 5,
+    "covered": 3,
+    "partial": 2,
+    "uncertain": 3
+  },
+  "rows": [
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-last-kings",
+      "sectionIds": [
+        "warcost"
+      ],
+      "note": "859为大中十三年，纠正大历十三口误与君王身份。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "nanzhao-last-kings",
+      "sectionIds": [
+        "warcost"
+      ],
+      "note": "世隆称帝与唐廷吊册争议落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-last-kings",
+      "sectionIds": [
+        "warcost"
+      ],
+      "note": "大礼国与937段氏大理国区分。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "nanzhao-last-kings",
+      "sectionIds": [
+        "warcost"
+      ],
+      "note": "少年征发、妇女供军按唐书入文，不估全国数量。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "nanzhao-last-kings",
+      "sectionIds": [
+        "warcost",
+        "envoys"
+      ],
+      "note": "隆舜大封民与求和亲连向长期战争成本。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "nanzhao-last-kings",
+      "sectionIds": [
+        "usurpers"
+      ],
+      "note": "郑回后裔关系按晚出谱系陈述，不验证七世精确世代。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P183",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "nanzhao-last-kings",
+      "sectionIds": [
+        "envoys",
+        "usurpers"
+      ],
+      "note": "舜化贞末期与902死后取代落实；郑氏具体杀幼主明示晚出性质。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P184",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "nanzhao-last-kings",
+      "sectionIds": [],
+      "note": "纸龙偷珠传说未在所读原典定位，不当夺国实录。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "nanzhao-last-kings",
+      "sectionIds": [],
+      "note": "偷取龙珠使王朝失命的具体动作尚无核定文本。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P186",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "nanzhao-last-kings",
+      "sectionIds": [],
+      "note": "龙珠传说解释力不能替代政权更迭，原情节仍待源核。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P187",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-last-kings",
+      "sectionIds": [
+        "usurpers"
+      ],
+      "note": "郑三主与928结束落实，不照录24年统一总数。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P188",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-last-kings",
+      "sectionIds": [
+        "usurpers"
+      ],
+      "note": "赵由杨拥立再被杨废，不写赵自行灭郑且长期独治。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P189",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-last-kings",
+      "sectionIds": [
+        "usurpers"
+      ],
+      "note": "义宁到937段思平承接，地方书在年数与杨名上异文保留说明。"
+    }
+  ],
+  "independentReview": {
+    "reviewer": "finish_jin_xia_dali",
+    "status": "complete",
+    "paragraphCount": 13,
+    "audioReviewed": false
+  }
+}

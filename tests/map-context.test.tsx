@@ -8,7 +8,7 @@ describe("fixed regional context", () => {
   const tibet = withMapPolities([]).find((p) => p.id === "tibetan-regions")!;
   it("does not present the display interval as a background polity lifespan", () => {
     render(<DynastyListView dynasties={[tibet]} regions={[]} year={943} onSelect={() => {}} />);
-    expect(screen.getByText("地域背景 · 非逐年控制面")).toBeInTheDocument();
+    expect(screen.getByText("地域背景 · 仅标名称")).toBeInTheDocument();
     expect(screen.queryByText("907—979")).not.toBeInTheDocument();
     expect(screen.queryByText(/当年君主/)).not.toBeInTheDocument();
   });

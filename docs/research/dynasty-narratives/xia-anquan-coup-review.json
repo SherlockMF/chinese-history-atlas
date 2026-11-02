@@ -1,0 +1,235 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "covered": 5,
+    "partial": 7,
+    "corrected": 3,
+    "uncertain": 5
+  },
+  "rows": [
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "father"
+      ],
+      "note": "内忧与宗室安全关系写入。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "father"
+      ],
+      "note": "仁友捕任亲功与越王爵，亲弟/族弟异说明确，非泛南征北战。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "father"
+      ],
+      "note": "仁友1196卒，安全求袭。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "father"
+      ],
+      "note": "安全名及表世功求爵。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "father"
+      ],
+      "note": "纯佑降镇夷郡王，不只是看相不给爵；原候选未回听。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "father"
+      ],
+      "note": "亲堂兄弟史源记法有限定，非无爵。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-needed",
+      "assessment": "corrected",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "father"
+      ],
+      "note": "不以外貌解释夺爵，承袭与王级区别。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "power"
+      ],
+      "note": "权力发展反对者具体，不拿未先杀作唯一因果。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "power",
+        "mother"
+      ],
+      "note": "干政篡谋与宫中罗氏支持。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "mother"
+      ],
+      "note": "母氏参与有书证，不由太后泛史推其动机。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "mother"
+      ],
+      "note": "宋金未载罗氏安全爱情关系，候选未实证，不当确定史实。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "mother"
+      ],
+      "note": "天长地久私情对白未证。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "mother"
+      ],
+      "note": "配对皇后愿望与废后立皇后未证。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "mother"
+      ],
+      "note": "爱情胜亲子名言非可核罗氏原语。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "mother"
+      ],
+      "note": "废立有罗氏表；废月份与死期异，不一个月必被谋杀。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "judgment"
+      ],
+      "note": "14首尾计约13实年；守成评价具具体背景。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "judgment",
+        "mother"
+      ],
+      "note": "母氏参与废子与外患，叔母私情不作定因。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "judgment"
+      ],
+      "note": "长治继承困境为编辑分析，非无乱子保证。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "mother",
+        "judgment"
+      ],
+      "note": "罗氏变皇后未证，全贵族默认无材料，留事实与史评。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-anquan-coup",
+      "sectionIds": [
+        "new-reign"
+      ],
+      "note": "1206安全继位接1207再侵。"
+    }
+  ]
+}

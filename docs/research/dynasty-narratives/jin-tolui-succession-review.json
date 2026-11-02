@@ -1,0 +1,450 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11 主代理独立逐读金03 P094—133全部40条、正文与notes，亲读元115睿宗、146楚材、2太宗纪及秘史14；确认宿卫交新汗、先拜礼、社稷定册、巫水与九月薨的文本差别，不以毒杀推演冒充核实；修跨节绑定，未回听音频。",
+  "counts": {
+    "partial": 12,
+    "covered": 7,
+    "corrected": 5,
+    "not-needed": 4,
+    "uncertain": 12
+  },
+  "rows": [
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "hearth-and-throne",
+        "merit-and-modesty"
+      ],
+      "note": "大战重创主力与拖雷战功实写，不能称所有兵力消失。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "merit-and-modesty"
+      ],
+      "note": "庆功称赞及社稷功核实，定册含义补足。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "hearth-and-throne",
+        "merit-and-modesty"
+      ],
+      "note": "四子排序和引入承接；要命说作为推演。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "hearth-and-throne"
+      ],
+      "note": "诸子分地部众承接，非两兄仅靠自征成国。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "hearth-and-throne"
+      ],
+      "note": "幼子背景与宿卫交付分开，不写所有军队永久归托雷。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "hearth-and-throne"
+      ],
+      "note": "家产与汗位分开；最有实力不是核定比较。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "hearth-and-throne"
+      ],
+      "note": "1229即位；忌惮推断不写既成事实。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "hearth-and-throne",
+        "kneeling-order"
+      ],
+      "note": "1227—1229监国；定册过程实写，假设对白不补。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "kneeling-order"
+      ],
+      "note": "楚材劝察合台先拜有传文。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "kneeling-order"
+      ],
+      "note": "礼制原意保留，只针对托雷缺证。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [],
+      "note": "口音南城闲谈，不独立史实。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [],
+      "note": "口音模仿，不独立史实。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "kneeling-order"
+      ],
+      "note": "隔阂心理推论保留边界，不能从先拜断定。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "hearth-and-throne"
+      ],
+      "note": "权力重置解释，不采军队全独占。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-needed",
+      "assessment": "uncertain",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "hearth-and-throne"
+      ],
+      "note": "假设卸甲会遭杀未发生，不写人物意图。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [],
+      "note": "郭靖安达与假设笑谈属小说。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-needed",
+      "assessment": "uncertain",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "merit-and-modesty"
+      ],
+      "note": "称赞有据，安排诛心说无直接证据。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [],
+      "note": "公司类比不作史事。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-needed",
+      "assessment": "uncertain",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "merit-and-modesty"
+      ],
+      "note": "横杀动机不能确认。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "water-two-accounts"
+      ],
+      "note": "占卜预雪与令撤未在已核史料确认，保留说明。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "water-two-accounts"
+      ],
+      "note": "撤兵卜辞未核，不加对白。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "water-two-accounts"
+      ],
+      "note": "留下速不台围汴并北还承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "water-two-accounts"
+      ],
+      "note": "窝阔台五月不豫六月甚实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "water-two-accounts"
+      ],
+      "note": "秘史巫解释山川神发怒有据。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "water-two-accounts"
+      ],
+      "note": "山川神背景写入，不推广所有树神教义。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "water-two-accounts"
+      ],
+      "note": "秘史杀掠毁城触神解释明确文本归属。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "water-two-accounts"
+      ],
+      "note": "咒水仪式实写，未核烧纸符不补。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "water-two-accounts"
+      ],
+      "note": "代兄说据秘史呈现，不编颤手过滤对白。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "water-two-accounts"
+      ],
+      "note": "数日兄愈与九月弟薨区分；秘史即死列异述。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "family-after-death"
+      ],
+      "note": "家族延续和后世追尊实写，要什么给什么不概括。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "family-after-death"
+      ],
+      "note": "未收走全部权力，死因不能以装病推定。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-needed",
+      "assessment": "uncertain",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "family-after-death"
+      ],
+      "note": "装病演戏无证，保留推测。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-needed",
+      "assessment": "uncertain",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "family-after-death"
+      ],
+      "note": "杀机类比不是确认的宫廷计划。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "merit-and-modesty",
+        "family-after-death"
+      ],
+      "note": "军功和称汗关系承接，物理消灭动机未核。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-needed",
+      "assessment": "uncertain",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "family-after-death"
+      ],
+      "note": "水成分及自导自演无法查明。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-needed",
+      "assessment": "uncertain",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "water-two-accounts",
+        "family-after-death"
+      ],
+      "note": "巫者亲人代受叙述与后人怀疑分开。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-needed",
+      "assessment": "uncertain",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "family-after-death"
+      ],
+      "note": "招聘比喻不作证，保持候选。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "merit-and-modesty"
+      ],
+      "note": "战功影响为编辑解读，不判窝阔台无任何战功。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-needed",
+      "assessment": "uncertain",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "family-after-death"
+      ],
+      "note": "看穿谋杀自愿死属推演。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "jin-tolui-succession",
+      "sectionIds": [
+        "family-after-death"
+      ],
+      "note": "托付家属有秘史，协议求死无证；转场不重写。"
+    }
+  ]
+}

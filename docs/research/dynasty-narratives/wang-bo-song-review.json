@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-30",
+  "method": "完整复读指定原段，逐段对照正文和已列史源；史料、文学辑录、节目解释分开，未回听音频。",
+  "counts": {
+    "partial": 5,
+    "covered": 4,
+    "corrected": 2
+  },
+  "rows": [
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "wang-bo-song",
+      "sectionIds": [
+        "grain-before-war"
+      ],
+      "note": "展开征辽备战时养马运粮及民力损失；原段所回顾的运河、营宫先前负担未在本篇详细展开，保留partial。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wang-bo-song",
+      "sectionIds": [
+        "grain-before-war"
+      ],
+      "note": "承接运送负担的举例，明确节目几百斤为比方，另给两人三石的史源而非把比方判为史实讹误。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-bo-song",
+      "sectionIds": [
+        "grain-before-war"
+      ],
+      "note": "官吏侵渔、口粮耗尽、无可输与惧罪逃亡已展开；未核普遍必死的法律条款，未逐项证实收粮人员情境对白。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wang-bo-song",
+      "sectionIds": [
+        "grain-before-war",
+        "zhishilang"
+      ],
+      "note": "承接原段已说明的大业七至八年征战与起事并行，补611年编年定位；节目为叙事顺序稍后讲义军，未说起事迟至败军回来后，不作不存在的纠错。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-bo-song",
+      "sectionIds": [
+        "zhishilang"
+      ],
+      "note": "承接山东长白山而非东北同名山、邹平王薄；未在正文细化原段今章丘东北的现代方位，保留地域细节缺口。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wang-bo-song",
+      "sectionIds": [
+        "zhishilang",
+        "after-the-song"
+      ],
+      "note": "原段已经说明薄厚之薄、不同于诗人王勃，正文规范转写；展开遭镇压的连续战事并补619年归唐，原段没有断言王薄死亡，不作不存在的纠错。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wang-bo-song",
+      "sectionIds": [
+        "zhishilang",
+        "the-song",
+        "spears-and-legends"
+      ],
+      "note": "核歌名、知世郎自号与长槊唱词，正文展示所用辑本完整十句并标后世辑录。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-bo-song",
+      "sectionIds": [
+        "spears-and-legends"
+      ],
+      "note": "以程咬金/知节善马槊与秦琼负枪分清演义和史籍；罗成、宇文成都等故事版本与各兵器未逐一考证。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wang-bo-song",
+      "sectionIds": [
+        "the-song",
+        "spears-and-legends"
+      ],
+      "note": "补山林牛羊唱词；据去槊刃记载纠正只是一根大木棍的说明。原段说大多数用马槊，尚无同口径兵器统计可支持这一比例，不改写成原段说全员。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-bo-song",
+      "sectionIds": [
+        "the-song",
+        "after-the-song"
+      ],
+      "note": "展开迎官军与辽东死亡的歌辞对比；官军只来抓人征粮属节目推演，未认定为具体史事。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "wang-bo-song",
+      "sectionIds": [
+        "the-song",
+        "after-the-song"
+      ],
+      "note": "承接无路可走与起兵动员，补张须陀赈济及镇压的复杂处境，不将极端选择解释成逐人的已证心理。"
+    }
+  ]
+}

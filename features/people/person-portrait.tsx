@@ -21,14 +21,19 @@ export function PersonPortrait({
   const isAvatar = variant === "avatar";
 
   if (!portrait) {
-    return <span className={cn("block text-center text-[10px] opacity-70", className)}>画像未收录</span>;
+    return <span className={cn("block text-center", isAvatar && "w-16 shrink-0", className)}>
+      <span aria-hidden="true" className={cn("relative grid place-items-center overflow-hidden border border-current/15 bg-mist/60 font-serif text-current/60", isAvatar ? "size-16 rounded-full text-2xl" : "aspect-[3/4] rounded-xl text-5xl")}>
+        <span className={cn("border-y border-current/20 py-5 tracking-[0.12em]", !isAvatar && "[writing-mode:vertical-rl]")}>{isAvatar ? person.name.slice(0, 1) : person.name}</span>
+      </span>
+      <span className="mt-2 block text-[10px] leading-4 opacity-70">画像未收录</span>
+    </span>;
   }
 
   const detailContent = portrait.kind === "referenced" ? (
     <a href={portrait.source.url} target="_blank" rel="noreferrer" className="block underline decoration-current/40 underline-offset-4 hover:decoration-current focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-current">
       参考画像：{portrait.source.title}
     </a>
-  ) : <span className="block">本次未找到可靠参考画像，依据已知年龄、身份与生平作艺术想象。</span>;
+  ) : <span className="block">本幅未采用传世本人肖像，依据年龄设定、身份与生平作艺术想象。</span>;
   const description = <span className="mt-3 block space-y-2 text-xs leading-6">
     {detailContent}
     <span className="block opacity-75">{portrait.note.split(/(https?:\/\/[^\s\u3000-\u303f\uff00-\uffef)]+)/g).map((part, index) => /^https?:\/\//.test(part) ? (

@@ -14,16 +14,20 @@ const subscribe = () => () => {};
 const browserOrigin = () => window.location.origin;
 const serverOrigin = () => "";
 export const FIELD_READY_TIMEOUT_MS = 15_000;
+export const UNITY_READY_TIMEOUT_MS = 120_000;
+const desktopRequired = () => /Android|iPhone|iPad|iPod/i.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
 
 export function FieldContainer({ config }: { config: FieldConfig }) {
   const origin = useSyncExternalStore(subscribe, browserOrigin, serverOrigin);
+  const mobile = useSyncExternalStore(subscribe, desktopRequired, () => false);
   const player = origin ? resolveFieldPlayer(config, origin) : null;
-  return <main className="mx-auto max-w-[1440px] px-4 py-10 sm:px-8">
-    <p className="text-xs tracking-widest text-cinnabar">FIELD / 001</p>
-    <h1 className="mt-4 font-serif text-3xl sm:text-5xl">李静训墓 · 现场</h1>
-    <p className="mt-4 text-sm leading-7 text-muted">现场负责发现，档案负责理解。已保存的调查记录会在返回档案后继续保留。</p>
+  return <main className="mx-auto max-w-[1440px] px-4 py-4 sm:px-8">
+    <p className="shrink-0 text-xs tracking-widest text-cinnabar">FIELD / 001</p>
+    <h1 className="mt-2 shrink-0 font-serif text-2xl sm:text-3xl">李静训墓 · 现场</h1>
+    <p className="mt-2 shrink-0 text-sm leading-6 text-muted">现场负责发现，档案负责理解。已保存的调查记录会在返回档案后继续保留。</p>
     {config.mode === "disabled" ? <div className="my-8 border border-ink/20 p-8"><h2 className="font-serif text-2xl">现场版本准备中</h2><p className="mt-3 text-muted">当前尚未开放现场体验，可以继续阅读调查档案。</p><Link href="/archive/li-jingxun" className="mt-6 inline-block text-cinnabar underline">返回调查档案</Link></div>
       : !origin ? <p role="status" className="my-8">正在准备现场容器…</p>
+      : config.mode === "webgl" && mobile ? <div className="my-8 border border-ink/20 p-8"><h2 className="font-serif text-2xl">现场探索建议使用桌面浏览器</h2><p className="mt-3 text-muted">本版需要键盘、鼠标与 WebGL 2。调查档案可在手机上继续阅读。</p><Link href="/archive/li-jingxun" className="mt-6 inline-block text-cinnabar underline">返回调查档案</Link></div>
       : player ? <PlayerSession key={player.url} player={player} mock={config.mode === "mock"} />
       : <div className="my-8"><p role="alert">现场地址未配置或未获准加载。</p><Link href="/archive/li-jingxun" className="mt-5 inline-block text-cinnabar underline">返回调查档案</Link></div>}
   </main>;
@@ -38,9 +42,10 @@ function PlayerSession({ player, mock }: { player: { url: string; origin: string
   const loadCount = useRef(0);
   const readyDocument = useRef<Document | null>(null);
   const dirty = useRef(false);
+  const loaderFailed = useRef(false);
   const timer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const [attempt, setAttempt] = useState(0);
-  const [status, setStatus] = useState("正在加载现场，等待 READY…");
+  const [status, setStatus] = useState(mock ? "正在加载现场，等待 READY…" : "Loading Unity · 正在下载场景，首次加载可能需要一至两分钟…");
   const [error, setError] = useState("");
   const stopTimer = useCallback(() => { if (timer.current) clearTimeout(timer.current); }, []);
 
@@ -69,9 +74,22 @@ function PlayerSession({ player, mock }: { player: { url: string; origin: string
 
   useEffect(() => {
     ready.current = false;
-    timer.current = setTimeout(() => failPlayer("现场加载超时或未发送 READY。可以重试加载，或返回档案。"), FIELD_READY_TIMEOUT_MS);
+    loaderFailed.current = false;
+    timer.current = setTimeout(() => failPlayer("现场加载超时或未发送 READY。可以重试加载，或返回档案。"), mock ? FIELD_READY_TIMEOUT_MS : UNITY_READY_TIMEOUT_MS);
+    // Same-origin loader UI only; game messages still use the unchanged contract.
+    const loading = !mock && player.origin === window.location.origin ? setInterval(() => {
+      const loader = frame.current?.contentDocument?.getElementById("history-field-loader");
+      if (loader?.dataset.state === "failed") {
+        loaderFailed.current = true;
+        failPlayer("Unity 加载失败。请重试加载，或返回档案。");
+        clearInterval(loading!);
+      } else if (!ready.current && loader?.dataset.state === "loading") {
+        setStatus(`Loading Unity · ${loader.textContent ?? "正在加载…"}`);
+      }
+    }, 500) : null;
     function receive(event: MessageEvent) {
       if (event.source !== frame.current?.contentWindow || event.origin !== player.origin) return;
+      if (loaderFailed.current) return;
       const message = parseGameMessage(event.data);
       if (!message) return;
       if (message.type === "HISTORY_GAME_READY") {
@@ -108,24 +126,25 @@ function PlayerSession({ player, mock }: { player: { url: string; origin: string
     window.addEventListener("beforeunload", beforeUnload);
     return () => {
       stopTimer();
+      if (loading) clearInterval(loading);
       window.removeEventListener("message", receive);
       window.removeEventListener("messageerror", malformed);
       window.removeEventListener("beforeunload", beforeUnload);
     };
-  }, [attempt, player.origin, exit, failPlayer, persist, stopTimer]);
+  }, [attempt, player.origin, mock, exit, failPlayer, persist, stopTimer]);
 
-  return <section aria-label="现场容器" className="mt-8">
-    {mock && <p className="mb-4 border-l-2 border-cinnabar pl-4 text-sm leading-7 text-muted">开发 Mock · 仅验证 Web 通信与记录保存，不是正式游戏。这里的操作会写入本机调查档案。</p>}
-    <div className="mb-4 flex flex-wrap items-center justify-between gap-4">
+  return <section aria-label="现场容器" className="mt-4">
+    {mock && <p className="mb-4 shrink-0 border-l-2 border-cinnabar pl-4 text-sm leading-7 text-muted">开发 Mock · 仅验证 Web 通信与记录保存，不是正式游戏。这里的操作会写入本机调查档案。</p>}
+    <div className="mb-3 flex shrink-0 flex-wrap items-center justify-between gap-3">
       <p role="status" aria-live="polite" className="text-sm text-muted">{status}</p>
       <button type="button" onClick={exit} className="min-h-11 border border-ink/25 px-5 text-sm hover:border-cinnabar">保存并返回档案</button>
     </div>
-    {error && <div className="mb-4 border border-cinnabar/30 bg-cinnabar/5 p-4"><p role="alert" className="text-sm leading-7 text-cinnabar">{error}</p><button type="button" onClick={() => {
+    {error && <div className="mb-4 shrink-0 border border-cinnabar/30 bg-cinnabar/5 p-4"><p role="alert" className="text-sm leading-7 text-cinnabar">{error}</p><button type="button" onClick={() => {
       if (dirty.current && !persist()) return;
       loadCount.current = 0; ready.current = false;
       setError(""); setStatus("正在重新加载现场，等待 READY…"); setAttempt((value) => value + 1);
     }} className="mt-3 min-h-11 border border-ink/25 px-4 text-sm">重试加载</button></div>}
-    <iframe key={attempt} ref={frame} src={player.url} title="李静训墓现场 Player" sandbox="allow-scripts allow-same-origin" referrerPolicy="no-referrer" className="h-[620px] w-full rounded-xl border border-ink/20 bg-paper sm:h-[660px]" onError={() => failPlayer("现场加载失败。请重试或返回档案。")} onLoad={() => {
+    <iframe key={attempt} ref={frame} src={player.url} title="李静训墓现场 Player" sandbox="allow-scripts allow-same-origin allow-pointer-lock" allow="fullscreen" referrerPolicy="no-referrer" className="block h-[calc(100dvh-2rem)] w-full rounded-xl border border-ink/20 bg-paper" onError={() => failPlayer("现场加载失败。请重试或返回档案。")} onLoad={() => {
       if (loadCount.current++ > 0 && ready.current) {
         const document = frame.current?.contentDocument;
         if (document && document !== readyDocument.current) failPlayer("现场页面已重新加载或离开，连接已中断。请重新发送 READY 或重试加载。");

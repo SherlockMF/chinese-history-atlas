@@ -1,0 +1,507 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11收尾独立复核：逐读指定原P、现正文及所用原典；实义评价以编辑解读承接，未证心理、比例和全称判断明确研究结案；未回听音频。",
+  "counts": {
+    "partial": 28,
+    "corrected": 6,
+    "not-needed": 2,
+    "covered": 9
+  },
+  "rows": [
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "march-north"
+      ],
+      "note": "平北汉后乘胜攻幽州实承接，太祖两愿望和太宗轻辽内心概括未证。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "march-north"
+      ],
+      "note": "留守与帝四时行营实承接；979西京未升，纠正完整五京制度前移；使者口音笑谈未写。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "march-north"
+      ],
+      "note": "留守与帝四时行营实承接；979西京未升，纠正完整五京制度前移；使者口音笑谈未写。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [],
+      "note": "口音玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P183",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "march-north"
+      ],
+      "note": "疲乏、希赏与不愿行均按长编实写；996类比不采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P184",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "march-north"
+      ],
+      "note": "疲乏、希赏与不愿行均按长编实写；996类比不采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "march-north",
+        "afterthoughts"
+      ],
+      "note": "避锐击惰的分析放末节；军队不愿再行及赵延溥谏惩罚有源；监军原拟建议与威胁对白未证，不算史实完整消费。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P186",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "march-north",
+        "afterthoughts"
+      ],
+      "note": "避锐击惰的分析放末节；军队不愿再行及赵延溥谏惩罚有源；监军原拟建议与威胁对白未证，不算史实完整消费。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P187",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "march-north"
+      ],
+      "note": "行程从太原经镇州往幽州写明，原数值不是汴梁至幽州；未核600公里实际道路数，不硬写。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P188",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "march-north"
+      ],
+      "note": "易涿归降实写刘禹、刘原德与先行战事；不证民族即可解释谁来都行。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P189",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "siege-and-relief"
+      ],
+      "note": "韩德让守城、奚底讨古战败，增加学古守御的史载夜袭具体情节。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P190",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "siege-and-relief"
+      ],
+      "note": "韩德让守城、奚底讨古战败，增加学古守御的史载夜袭具体情节。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P191",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "siege-and-relief"
+      ],
+      "note": "两位援将实写；分守兵少因而必败的兵力配置无精确据，未全采。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "siege-and-relief"
+      ],
+      "note": "奚底等本传退屯清河北，非确定沙河上京归路；休哥当时惕隐非南院大王亦非第一个于越；斜轸与休哥分清。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P193",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "siege-and-relief"
+      ],
+      "note": "该段实际讲曷鲁孙斜轸与思温荐，经辽83重新确认恢复，不再错按休哥家谱排除。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P194",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "siege-and-relief"
+      ],
+      "note": "援将接手背景与青旗计实写；沙河跪罪、军风宽容与慰语未采，不以注明演绎算全覆盖。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P195",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "siege-and-relief"
+      ],
+      "note": "取奚底青帜在得胜口诱敌是辽83斜轸传真情节，恢复且正归斜轸，不再说辽史无载。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P196",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "siege-and-relief"
+      ],
+      "note": "宋穴地进与学古守御有辽83据，韩德让守城有辽82据；瓮听/反挖到宋军背后未证，未具体采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P197",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "siege-and-relief"
+      ],
+      "note": "青旗诱来敌争赴、背后反击和守城配合实写；自掘坟墓比喻不采。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P198",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "gaolianghe-battle"
+      ],
+      "note": "分翼合击实承接，清河北原败军与斜轸得胜口有记，不能证休哥赢后驻清河及宋分兵比例。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P199",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "siege-and-relief"
+      ],
+      "note": "释鲁祖、绾思父实写；纠正旧台账误把本段也说曷鲁孙，第三于越排序不采，本役尚未980拜于越。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P200",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "gaolianghe-battle"
+      ],
+      "note": "沙稍却、休哥斜轸翼击实写；沙在今北京西北确切驻地及一人制定三面包围未核。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P201",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "gaolianghe-battle"
+      ],
+      "note": "决战高梁河承接，二万/五千老弱/一万五千分兵组合未核；江休复五千弱兵指原守军，与诱敌计不能拼合。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P202",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "gaolianghe-battle"
+      ],
+      "note": "决战高梁河承接，二万/五千老弱/一万五千分兵组合未核；江休复五千弱兵指原守军，与诱敌计不能拼合。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P203",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "gaolianghe-battle"
+      ],
+      "note": "各部参战及太宗临城有源，三人私下商议包围、战争狂人内心评价不采。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P204",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "gaolianghe-battle"
+      ],
+      "note": "休哥三创与太宗两箭分别引辽83/默记，守城与邀击另引学古及韩德让传；两箭保留宋后人转述层。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P205",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "gaolianghe-battle"
+      ],
+      "note": "追击真实记载，双炬作为江休复异说进兵而非追击；不确定双手均持炬不用缰绳。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P206",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "gaolianghe-battle"
+      ],
+      "note": "双炬异说保留，不证宋方见火把翻倍心理；马陷泥潭和仰叹未采。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P207",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "afterthoughts"
+      ],
+      "note": "research-closed：明确承接亲征使君主身处远前线的安全风险，并以柴荣高平胜、太宗高梁河败限定全称判断；不采用所有亲征皆败或此战皇帝已被俘的夸张。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P208",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "the-legend-of-yang-ye"
+      ],
+      "note": "明确该场为戏剧化讲史改编，未复述皇帝莫慌对白；有与后段相连的叙事功能，不再标纯无须。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P209",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "the-legend-of-yang-ye"
+      ],
+      "note": "杨业刚归宋与后来代州边防有史；杨父子高梁救驾未证，不当作980以后将职可倒推979。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P210",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "the-legend-of-yang-ye"
+      ],
+      "note": "会师/让马/换车完整改编概括保留，未造原拟对白；腿上箭以默记单独分层，不足证杨业现场换车。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P211",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "the-legend-of-yang-ye"
+      ],
+      "note": "会师/让马/换车完整改编概括保留，未造原拟对白；腿上箭以默记单独分层，不足证杨业现场换车。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P212",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "the-legend-of-yang-ye"
+      ],
+      "note": "会师/让马/换车完整改编概括保留，未造原拟对白；腿上箭以默记单独分层，不足证杨业现场换车。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P213",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "the-legend-of-yang-ye"
+      ],
+      "note": "会师/让马/换车完整改编概括保留，未造原拟对白；腿上箭以默记单独分层，不足证杨业现场换车。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P214",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "afterthoughts"
+      ],
+      "note": "战败返回及辽南京保住实写，河染红堵塞与太宗心理阴影未当确证。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P215",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "afterthoughts"
+      ],
+      "note": "疲乏与败因实际分析，未由一次失利断定太宗永远不会打仗。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P216",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "afterthoughts"
+      ],
+      "note": "北上清河沙河先阻援的替代战法实展开，限定未演练和后勤反应不明，现代公交/产业园笑谈不采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P217",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "afterthoughts"
+      ],
+      "note": "北上清河沙河先阻援的替代战法实展开，限定未演练和后勤反应不明，现代公交/产业园笑谈不采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P218",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "afterthoughts"
+      ],
+      "note": "帝亲征激励及压住反对的双面分析、城攻不能靠锐气承接；600公里数与人人膨胀必然心理未证。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P219",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "afterthoughts"
+      ],
+      "note": "帝亲征激励及压住反对的双面分析、城攻不能靠锐气承接；600公里数与人人膨胀必然心理未证。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P220",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "afterthoughts"
+      ],
+      "note": "坚城与阻援分工实写；所有守军必不野战的泛论未采用，辽奚底先出战即反例。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P221",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [],
+      "note": "攻北京城玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P222",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "afterthoughts"
+      ],
+      "note": "城外地名定位承接；金中都后扩辽城，不能说两城范围相同。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P223",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gaolianghe-relief",
+      "sectionIds": [
+        "afterthoughts"
+      ],
+      "note": "辽城位今城西南/丰台相关定位有文物源，地下宋军工程不能精确到现代家具城和丽泽，现代现场地图笑谈不采。"
+    }
+  ],
+  "independentReview": "complete",
+  "independentReport": "final-unadopted-liao-wudai-independent.md"
+}

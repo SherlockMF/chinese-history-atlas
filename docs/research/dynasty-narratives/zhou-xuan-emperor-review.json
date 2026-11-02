@@ -1,0 +1,347 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读北周P048—P071及P085—P090共30段，逐项对读周书7/8/9/12/40、通鉴173/174；区分可核事件、节目对白、转写、评价和心理因果，未回听音频。既有baseline原判照录；未证的榜样自述、具体死因及跨朝人格评价不因正文省略就算校正。",
+  "counts": {
+    "partial": 12,
+    "covered": 9,
+    "corrected": 5,
+    "uncertain": 2,
+    "not-needed": 2
+  },
+  "rows": [
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "crown-prince"
+      ],
+      "note": "补武帝长子、572年立太子与578年继位的身份前史，展开禁酒、礼数、责打和按月记录；未核到名为大周朝太子日常行为规范准则的文书，不把节目拟名当古代篇名。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "crown-prince"
+      ],
+      "note": "明确杨丽华是随国公杨坚长女、武帝为太子所纳太子妃，后来立后；乘龙快婿等接话不另作史实。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "crown-prince"
+      ],
+      "note": "写东宫官属记录言行动作、每月奏闻，武帝以废太子和其他儿子继位相警告；保留严教事实，未将现代虎爸称谓作史料引文。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "crown-prince"
+      ],
+      "note": "武帝因太子过失施以责打与禁酒已具体呈现；姜文、挨打健身等现代戏谑不属于新增史事。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "crown-prince",
+        "wang-gui"
+      ],
+      "note": "展开王轨、宇文孝伯等人的储君警告、师友建议及后来遭忌；太子畏父掩饰与即位后报复有记载，但把所有行为直接归为严教反弹的心理因果仍未证实。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "mourning",
+        "wang-gui"
+      ],
+      "note": "用王轨、孝伯、神举、尉迟运的不同结局替代全杀概括；分清次日即位与葬后除服，说明一概须先守一个月再登基不是此事礼制。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "mourning"
+      ],
+      "note": "以丁酉卒、次日戊戌即位、同月己未葬后除服核正十日守孝说；保留通鉴所载杖痕与死晚之语的来源层次，没有补写登基庆祝对白。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [],
+      "note": "本段把高纬写为宇文赟自称的榜样，已读宣帝纪、相关传记及通鉴未见这段自述；奢欲行为相似不能反证其明确模仿动机，正文未当史实采用。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [],
+      "note": "纯插科、节目串话与要求剪掉的接话，无可单列历史主张。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "eight-remonstrances",
+        "five-empresses"
+      ],
+      "note": "补嗜酒、搜选女子及仪同以上官员之女不得自行出嫁的明确范围，并辨各后身份；一日三饮、择偶毫无标准及刘聪三后的比较未在本篇核实或铺写。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "eight-remonstrances",
+        "five-empresses"
+      ],
+      "note": "五后人数、分次册立及后宫多日不出已承接；为了超过刘聪而立五后、因妻妾多所以顾家不出门的动机未证，不把它们当成史料结论。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "eight-remonstrances"
+      ],
+      "note": "以乐运第三、五、六失与宣帝纪写奏事经宦官传递、宫殿营造和徭役负担；并保留皇帝自己独断事务的事实，避免把传话渠道误作完全交出决策权。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "eight-remonstrances",
+        "after-the-restraint"
+      ],
+      "note": "写上书字误获罪、群臣言行受监视及杖责；字迹只是写歪也获罪的具体尺度未核，自己受打所以必然以同样方式报复下属的单一因果只作有限讨论。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "qi-prince",
+        "wang-gui"
+      ],
+      "note": "宇文宪之死展开告谋、单独召入及株连；再分写王轨、孝伯、神举、尉迟运，承接清除旧臣与人才受损。武帝出征时随行数十名宇文氏的具体人数未核，本篇未用几位人名替代该数量主张。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "qi-prince",
+        "wang-gui",
+        "after-the-restraint"
+      ],
+      "note": "以赵陈越代滕五王仍在及579年前往封国反证宇文氏已全被杀净；旧怨和猜忌分人说明，未把人物概括为沉默中发病。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "wang-gui",
+        "after-the-restraint"
+      ],
+      "note": "杖痕追问、郑译指认与杀王轨提供旧怨报复的具体承接；把一切行为归于全心仇恨、所有不许之事必逐一反做属于未证的内心总括。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "eight-remonstrances"
+      ],
+      "note": "明确京兆郡丞乐运与舆榇诣朝堂，展开进谏所冒风险，不沿用未具名官员。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "eight-remonstrances"
+      ],
+      "note": "核明乐运八失及内史元岩的救援，补八项政务内容与皇帝欲杀的处置；转写不清的人物已据原典辨认，未将节目演绎对白当逐字引文。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "eight-remonstrances"
+      ],
+      "note": "呈现元岩从杀人反成全谏者身后名声切入、宣帝作罢及次日认其忠臣；原段其余调侃不独立计缺口。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "eight-remonstrances",
+        "tianyuan"
+      ],
+      "note": "写乐运获免、次日赐御食，继而另节展开579年传位；未将赐食当所有谏言已经实行，也未声称进谏直接造成退位。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "tianyuan"
+      ],
+      "note": "补579年正月大成、二月大象、传位长子宇文衍（后改阐）、天元皇帝及两宫官署，说明传位后仍掌权。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "tianyuan"
+      ],
+      "note": "杨丽华天元皇后、天台、580年天制诏和天敕依本纪核名；朝见礼为致斋三日、清身一日，非仅笼统沐浴三日。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [],
+      "note": "天台后的洗衣粉等接话，无独立历史事件。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "five-empresses",
+        "after-the-restraint"
+      ],
+      "note": "承接五后、游乐与580年患病早亡；帝纪未提供确诊死因，无法把纵欲过度导致身体败坏作为已核因果。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "after-the-restraint"
+      ],
+      "note": "承接严教、伪饰行为与继位后旧怨反扑，并引周书史臣对责打教子的批评；人物全部性格必由父亲造成的决定论未获证明。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "after-the-restraint"
+      ],
+      "note": "将家庭教育的反思保留为明确的解释层：服从出于理解还是恐惧、教养怎样对待个体；没有把拧绳比喻升级成历史事实或必然心理规律。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "crown-prince",
+        "after-the-restraint"
+      ],
+      "note": "武帝担忧储君不堪承嗣、其他儿子条件不足有原典承接，并讨论是否要求继承人复制父亲；其心中认定所有儿子都必须像自己一样能干的完整内心独白未核。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "after-the-restraint"
+      ],
+      "note": "展开父子关系怎样进入帝制权力交接、战功不能自动传给继承人的评价；中国长期稳定盛世极少以及继承人是否能干纯靠命的跨时代总括未加量化核证。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [],
+      "note": "本段转述私人谈话中的康熙人格与邻家老人比喻，没有可定位的具体史事或来源；不以本篇的普遍教养讨论冒充康熙评价已获验证，也不归为纯插话。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "zhou-xuan-emperor",
+      "sectionIds": [
+        "after-the-restraint"
+      ],
+      "note": "接住评价帝王人格与个体尊重的问题，作为价值讨论说明材料界限；本段开头继续承接上一段对康熙性格的具体感慨，未据本篇材料核实，不以一般反思替代这一对象评价。"
+    }
+  ]
+}

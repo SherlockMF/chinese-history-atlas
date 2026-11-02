@@ -1,0 +1,131 @@
+import type { HistorySeriesConfig } from "@/types/series";
+
+/** Lightweight route ownership; kept in sync by the content integrity test. */
+const jinPeriodEventIds = [
+  "jin-conquers-wu",
+  "jin-hui-succeeds",
+  "jin-jia-coup",
+  "jin-jia-falls",
+  "jin-princes-war",
+  "jin-li-te",
+  "jin-han-zhao-founded",
+  "jin-cheng-founded",
+  "jin-rui-south",
+  "jin-luoyang-falls",
+  "jin-southward-migration",
+  "jin-zu-ti",
+  "jin-liang-hereditary",
+  "jin-dai-founded",
+  "jin-changan-falls",
+  "jin-eastern-founded",
+  "jin-two-zhaos",
+  "jin-wang-dun",
+  "jin-su-jun",
+  "jin-zhao-unifies",
+  "jin-former-yan-founded",
+  "jin-huan-conquers-cheng",
+  "jin-zhao-collapse",
+  "jin-ran-wei",
+  "jin-former-qin-founded",
+  "jin-yan-takes-ye",
+  "jin-huan-guanzhong",
+  "jin-huan-luoyang",
+  "jin-fu-jian-rules",
+  "jin-huan-fangtou",
+  "jin-qin-conquers-yan",
+  "jin-qin-takes-shu",
+  "jin-qin-liang-dai",
+  "jin-northern-headquarters",
+  "jin-qin-takes-xiangyang",
+  "jin-fei-river",
+  "jin-qin-fragments",
+  "jin-xie-xuan-north",
+  "jin-fu-jian-death",
+  "jin-western-qin-founded",
+  "jin-later-liang-founded",
+  "jin-later-yan-conquers-western-yan",
+  "jin-former-qin-falls",
+  "jin-canhebei",
+  "jin-liang-splits",
+  "jin-southern-yan-founded",
+  "jin-sun-en",
+  "jin-western-liang-founded",
+  "jin-liu-yu-rises",
+  "jin-later-liang-falls",
+  "jin-qiao-shu",
+  "jin-xia-founded",
+  "jin-northern-yan-founded",
+  "jin-liu-yu-southern-yan",
+  "jin-western-qin-restored",
+  "jin-lu-xun",
+  "jin-qiao-shu-falls",
+  "jin-southern-liang-falls",
+  "jin-liu-yu-later-qin",
+  "jin-guanzhong-lost",
+  "jin-western-liang-falls",
+  "jin-wei-tongwan",
+  "jin-western-qin-xia-fall",
+  "jin-northern-yan-falls",
+] as const;
+
+export const westernJinEventIds = ["western-jin-founded", ...jinPeriodEventIds.slice(0, 6)];
+export const easternJinEventIds = ["jin-eastern-founded", "jin-wang-dun", "jin-su-jun", "jin-northern-headquarters", "jin-sun-en", "jin-liu-yu-rises", "jin-lu-xun"];
+export const jinSixteenEventIds: readonly string[] = jinPeriodEventIds.filter(id => !westernJinEventIds.includes(id) && !easternJinEventIds.includes(id));
+export const westernJinSharedEventIds = ["jin-han-zhao-founded", "jin-cheng-founded", "jin-rui-south", "jin-luoyang-falls", "jin-southward-migration", "jin-zu-ti", "jin-dai-founded", "jin-changan-falls"];
+export const easternJinSharedEventIds = ["jin-two-zhaos", "jin-zhao-unifies", "jin-huan-conquers-cheng", "jin-huan-guanzhong", "jin-huan-luoyang", "jin-huan-fangtou", "jin-qin-conquers-yan", "jin-qin-liang-dai", "jin-qin-takes-shu", "jin-qin-takes-xiangyang", "jin-fei-river", "jin-qin-fragments", "jin-xie-xuan-north", "jin-qiao-shu", "jin-liu-yu-southern-yan", "jin-qiao-shu-falls", "jin-liu-yu-later-qin", "jin-guanzhong-lost", "liu-song-founded"];
+export const jinSixteenSharedEventIds = [...easternJinEventIds, "wei-founded", "wei-capital-pingcheng", "wei-unifies-north", "liu-song-founded"];
+
+export const jinSixteenConfig: HistorySeriesConfig = {
+  id: "jin-sixteen-kingdoms",
+  slug: "jin-sixteen-kingdoms",
+  title: "五胡十六国",
+  subtitle: "从刘渊、李雄建政，到北魏统一北方",
+  featuredPersonId: "fu-jian",
+  featuredEventId: "jin-fei-river",
+  timelineMinYear: 304,
+  timelineMaxYear: 439,
+  mapMinYear: 280,
+  mapMaxYear: 449,
+  defaultYear: 382,
+  mapMode: "snapshot",
+  trackIds: ["jin-southward", "jin-contest", "jin-fei", "jin-north-south", "wei-rise", "southern-song"],
+  tracks: [
+    { id: "jin-southward", label: "诸国初起", description: "汉赵、成汉兴起，西晋崩解与二赵争衡" },
+    { id: "jin-contest", label: "并立与兼并", description: "东晋北伐、北方诸国与前秦扩张" },
+    { id: "jin-fei", label: "淝水与再分裂", description: "淝水转折、诸国复起与慕容拓跋竞争" },
+    { id: "jin-north-south", label: "走向南北朝", description: "河西诸国、刘裕北伐与北方整合" },
+    { id: "wei-rise", label: "北魏兴起", description: "与北魏专题共享的建国、定都和统一节点" },
+    { id: "southern-song", label: "刘宋建立", description: "与南朝专题共享的代晋建宋节点" },
+  ],
+  polityGroups: [
+    { id: "sixteen-kingdoms", label: "传统十六国", dynastyIds: ["han-zhao", "later-zhao", "cheng-han", "former-liang", "former-yan", "former-qin", "later-yan", "later-qin", "western-qin", "later-liang-sixteen", "southern-liang-sixteen", "southern-yan", "western-liang-sixteen", "northern-liang", "northern-yan", "hu-xia"] },
+    { id: "two-jin", label: "同时代晋廷", dynastyIds: ["western-jin", "eastern-jin"] },
+    { id: "related-regimes", label: "相关政权", dynastyIds: ["dai", "ran-wei", "western-yan", "qiao-shu", "qiu-chi"] },
+    { id: "southern-northern-transition", label: "衔接南北朝", dynastyIds: ["northern-wei", "liu-song"] },
+  ],
+};
+
+export const westernJinConfig: HistorySeriesConfig = {
+  id: "western-jin", slug: "western-jin", title: "西晋", subtitle: "从代魏统一，到八王之乱与两京失守",
+  timelineMinYear: 265, timelineMaxYear: 316, defaultYear: 280, mapMode: "snapshot",
+  featuredPersonId: "sima-yan", featuredEventId: "jin-conquers-wu",
+  trackIds: ["jin-order", "jin-southward"],
+  tracks: [
+    { id: "jin-order", label: "统一与内乱", description: "代魏建晋、灭吴统一与八王之乱" },
+    { id: "jin-southward", label: "分裂与崩解", description: "地方建政、两京失陷与南渡" },
+  ],
+};
+
+export const easternJinConfig: HistorySeriesConfig = {
+  id: "eastern-jin", slug: "eastern-jin", title: "东晋", subtitle: "江南立国、门阀政治与北伐",
+  timelineMinYear: 317, timelineMaxYear: 420, defaultYear: 383, mapMode: "snapshot",
+  featuredPersonId: "sima-rui", featuredEventId: "jin-eastern-founded",
+  trackIds: ["jin-southward", "jin-contest", "jin-fei", "jin-north-south", "southern-song"],
+  tracks: [
+    { id: "jin-southward", label: "江左建政", description: "东晋建立与王敦、苏峻之乱" },
+    { id: "jin-contest", label: "门阀与北伐", description: "桓温的军功与朝廷权力" },
+    { id: "jin-fei", label: "北府与淝水", description: "谢氏、北府军与秦晋战争" },
+    { id: "jin-north-south", label: "东晋末局", description: "孙恩卢循、刘裕北伐与权力重组" },
+    { id: "southern-song", label: "代晋建宋", description: "东晋结束与南朝开端" },
+  ],
+};

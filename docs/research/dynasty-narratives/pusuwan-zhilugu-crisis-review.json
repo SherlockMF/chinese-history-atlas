@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-11",
+  "method": "起草后由根代理独立逐段对读原逐字稿、正文、定位与相关史源；按实际内容保留partial/uncertain，不回听音频。见cross-review-l45-l52.md。",
+  "counts": {
+    "covered": 6,
+    "partial": 5,
+    "uncertain": 1,
+    "corrected": 3
+  },
+  "rows": [
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pusuwan-zhilugu-crisis",
+      "sectionIds": [
+        "palace-arrows"
+      ],
+      "note": "后半萧朵鲁不为斡里剌子及婚姻承接，前半迁置另入L48。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pusuwan-zhilugu-crisis",
+      "sectionIds": [
+        "palace-arrows"
+      ],
+      "note": "与夫弟私通及人物关系承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pusuwan-zhilugu-crisis",
+      "sectionIds": [
+        "palace-arrows",
+        "tribute-breaks"
+      ],
+      "note": "萧朴古只沙里姓名与花剌子模扩张承接；丈夫专心事业、情爱心理无史源。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pusuwan-zhilugu-crisis",
+      "sectionIds": [
+        "tribute-breaks"
+      ],
+      "note": "花剌子模与宗主反复冲突有记；丈夫每次率军即平、忽视爱情的具体叙事未核。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "pusuwan-zhilugu-crisis",
+      "sectionIds": [
+        "palace-arrows"
+      ],
+      "note": "派丈夫出征以便私会的动机及对白无史源，正文明确不采用。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "pusuwan-zhilugu-crisis",
+      "sectionIds": [
+        "palace-arrows"
+      ],
+      "note": "辽史记罗织罪杀夫，未记毒药及丈夫忽返，不能补成现场。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "pusuwan-zhilugu-crisis",
+      "sectionIds": [
+        "palace-arrows"
+      ],
+      "note": "害夫激怒夫父、亲属关系承接；斡里剌百岁与生卒无确证。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pusuwan-zhilugu-crisis",
+      "sectionIds": [
+        "palace-arrows"
+      ],
+      "note": "斡里剌围宫射杀两人据辽史承接；怒斥对白为节目戏拟。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pusuwan-zhilugu-crisis",
+      "sectionIds": [
+        "palace-arrows"
+      ],
+      "note": "政治军事作用及私暴力代价承接，斡里剌随后必死无据。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "pusuwan-zhilugu-crisis",
+      "sectionIds": [
+        "tribute-breaks",
+        "capital-turns-against-army"
+      ],
+      "note": "长在位及政治困局承接，不写天祚基因决定爱猎。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pusuwan-zhilugu-crisis",
+      "sectionIds": [
+        "tribute-breaks",
+        "capital-turns-against-army"
+      ],
+      "note": "摩诃末扩张、贡赋抵抗与军队破坏地方关系承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pusuwan-zhilugu-crisis",
+      "sectionIds": [
+        "tribute-breaks",
+        "capital-turns-against-army"
+      ],
+      "note": "中央与属国疏离机制通过索贡与河中反叛实事承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "pusuwan-zhilugu-crisis",
+      "sectionIds": [
+        "tribute-breaks",
+        "capital-turns-against-army"
+      ],
+      "note": "宗主权在花剌子模崛起下受挑战承接，补都城闭门事件。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pusuwan-zhilugu-crisis",
+      "sectionIds": [
+        "palace-arrows"
+      ],
+      "note": "评价人物治理及私暴力并列，不以爱情抹去全政绩。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P193",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pusuwan-zhilugu-crisis",
+      "sectionIds": [
+        "palace-arrows"
+      ],
+      "note": "普速完宫变责任承接，迁置立功细节另L48，不证明解决一切葛逻禄反抗。"
+    }
+  ]
+}

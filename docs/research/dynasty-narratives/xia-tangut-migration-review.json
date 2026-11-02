@@ -1,0 +1,689 @@
+{
+  "date": "2026-10-11",
+  "method": "根代理独立逐P对读原逐字稿、正文和相应原典；实读核实内容补回，异载、文学传统、转写疑点不强行消除。见cross-review-j17-j21.md，未回听音频。",
+  "counts": {
+    "partial": 27,
+    "corrected": 9,
+    "covered": 21,
+    "not-needed": 2,
+    "uncertain": 2
+  },
+  "rows": [
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "mountain-life"
+      ],
+      "note": "中古西羌分类实写，不确证黄帝世系或马腾关联。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "mountain-life"
+      ],
+      "note": "唐书汉西羌别种的历史归类，非汉代已有党项全部记录；小说战力不证。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "mountain-life"
+      ],
+      "note": "高原山谷生活与畜牧来源承接。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "mountain-life"
+      ],
+      "note": "不耕时代限定，语言分类候选不倒推同一族。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [],
+      "note": "主持人草原族外貌联想无独立史事。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "mountain-life"
+      ],
+      "note": "松州至吐谷浑山谷写入，外貌推断不采。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "mountain-life"
+      ],
+      "note": "按姓分部和聚战、隋骑数写入。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "mountain-life"
+      ],
+      "note": "畜牧草木记时祭天承接，不补无学能力。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "revenge-and-surnames"
+      ],
+      "note": "冲突复仇习俗按史书，不定全族性格。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "revenge-and-surnames"
+      ],
+      "note": "蓬垢赤足蔬食至复仇实写。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "revenge-and-surnames"
+      ],
+      "note": "杀仇复常承接，吃肉动力调侃不事实化。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [],
+      "note": "运动员类比不作传承证。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "revenge-and-surnames",
+        "mountain-life"
+      ],
+      "note": "周边不同政治力量解释，不采头像党项遗风。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "tibet-and-relocation"
+      ],
+      "note": "吐蕃役属有据，不概括始终所有部只受奴役。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "sui-to-tang"
+      ],
+      "note": "584千余家归附实写，动机对白不编。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "sui-to-tang",
+        "revenge-and-surnames"
+      ],
+      "note": "宁丛原典核得但未回听；拓跋世系不定。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "revenge-and-surnames"
+      ],
+      "note": "史籍来源差异边界写入，未据此裁北魏世系。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "mountain-life"
+      ],
+      "note": "土著与畜牧并存，不以猪单证。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "revenge-and-surnames"
+      ],
+      "note": "火葬等不足作否定世系单证。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "revenge-and-surnames",
+        "sui-to-tang"
+      ],
+      "note": "姓部与归唐引入承接。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "revenge-and-surnames"
+      ],
+      "note": "八姓实列，不相统一非固定同契丹联盟。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "revenge-and-surnames",
+        "sui-to-tang"
+      ],
+      "note": "拓跋强及羁縻承接，具体普遍通婚网未核。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "sui-to-tang",
+        "tibet-and-relocation"
+      ],
+      "note": "唐蕃夹缝解释，不编民族格言。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "sui-to-tang"
+      ],
+      "note": "细封步赖先内附、轨州刺史实写。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "sui-to-tang"
+      ],
+      "note": "在其地设州为主，州名按典不是口述凤盐等。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "sui-to-tang"
+      ],
+      "note": "632各羌数字与赤辞后三十二州分开，非635三十四万。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "chici-decision"
+      ],
+      "note": "吐谷浑伏允引入，慕容复小说不补同源。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "chici-decision"
+      ],
+      "note": "两唐书仅记结婚，写成姻亲，不确断岳婿方向。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "chici-decision"
+      ],
+      "note": "攻吐谷浑时赤辞抗唐实写。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "chici-decision"
+      ],
+      "note": "亲厚守约原因据传，不补岳父征令口语。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "chici-decision"
+      ],
+      "note": "李靖主帅有据，哪吒父笑谈不作史事。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "chici-decision"
+      ],
+      "note": "军攻与招谕并用，亲自心理不编。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "sui-to-tang"
+      ],
+      "note": "原地设州首领刺史关系明确。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "chici-decision",
+        "sui-to-tang"
+      ],
+      "note": "争取与击败交替，不简单封吐蕃地给人。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "chici-decision"
+      ],
+      "note": "洛生轻骑破赤辞补全。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "broken-promise"
+      ],
+      "note": "李靖亲到毫无准备未核，正文呈诸将盟约。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "broken-promise"
+      ],
+      "note": "亲营见面与私密对白未核，不编。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "broken-promise"
+      ],
+      "note": "约供粮借路有据，拜把对白不采。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "broken-promise"
+      ],
+      "note": "诸将盟赤辞有据，不明书面识字或歃血结义。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "broken-promise"
+      ],
+      "note": "向导供粮与分路攻吐谷浑承接。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "broken-promise"
+      ],
+      "note": "失信是李道彦无备袭掠，不采未获战功杀友冒首动机。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "broken-promise"
+      ],
+      "note": "原典为抢牛羊与党项反击，无首级算账场景。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "broken-promise"
+      ],
+      "note": "减死流边有据，但无查首级冒功，正文按掠牛羊、反击败退纠正。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "chici-decision",
+        "broken-promise"
+      ],
+      "note": "归唐过程有据，非一场误会便全接受。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "chici-decision"
+      ],
+      "note": "都督赐李有据，平西公未核。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "tibet-and-relocation"
+      ],
+      "note": "吐蕃逼迁夺旧地承接。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "tibet-and-relocation"
+      ],
+      "note": "692内附置州写入，不定原全部人地都失。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "tibet-and-relocation"
+      ],
+      "note": "安史后唐蕃与仆固怀恩引入。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "tibet-and-relocation"
+      ],
+      "note": "仆固怀恩铁勒出身补据本传；铁勒全族贝加尔湖地理及苏武类比未采。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "tibet-and-relocation"
+      ],
+      "note": "平乱、女嫁登里、归国护送与辛云京及骆奉先失和补据新唐224上；对白省略。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "tibet-and-relocation"
+      ],
+      "note": "引党项等入寇与郭子仪退敌承接，不能将全部族群选择化为被冤单因。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "tibet-and-relocation"
+      ],
+      "note": "近吐蕃易相脅的迁置理由实写。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "tibet-and-relocation"
+      ],
+      "note": "自盐庆部分府至银北夏东，不是一次从青海全迁。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "mountain-life",
+        "tibet-and-relocation"
+      ],
+      "note": "迁居影响解释，不同宗等同现代族。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "tibet-and-relocation"
+      ],
+      "note": "多代迁移艰难为编辑解释，不假设每人路线。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "tibet-and-relocation"
+      ],
+      "note": "平夏东山和不同阶段实写。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "tibet-and-relocation"
+      ],
+      "note": "平夏起家夏州承接，赫连后续另篇。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "mountain-life"
+      ],
+      "note": "山谷来源与后来草原印象分开。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "mountain-life",
+        "tibet-and-relocation"
+      ],
+      "note": "融合与多阶段迁解释，外貌和同族不定。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "tibet-and-relocation"
+      ],
+      "note": "家园由迁居政治过程形成。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tangut-migration",
+      "sectionIds": [
+        "tibet-and-relocation"
+      ],
+      "note": "陕北新家园与原地差别写入，非全族均单次强迁。"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读19原段与全文，亲读辽5全编年、77屋质/吼/安抟/洼完整传与72李胡、71述律；补黥面，纠屋质双边责问、P196跨节和P198错误uncertain，亲缘、假报、扣军属、筹交涉有史源；音频未回听。",
+  "counts": {
+    "covered": 10,
+    "not-needed": 1,
+    "partial": 4,
+    "corrected": 4
+  },
+  "rows": [
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "a-ruler-before-the-return"
+      ],
+      "note": "德光死、皇太弟李胡与军中精锐的继承焦虑开场。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [],
+      "note": "插话，无需承接。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "a-ruler-before-the-return"
+      ],
+      "note": "补辽72黥面投水火的残酷，李胡确任军职并攻寰州，酒囊饭袋只为评价；将士普遍恐太后再逼殉的拟想未证。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P183",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "a-ruler-before-the-return"
+      ],
+      "note": "军中想起倍之子耶律阮采用。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P184",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "a-ruler-before-the-return"
+      ],
+      "note": "辽5随太宗伐晋、永康王军中名分已用；父亲已一轮灌输他应继位的心理/对白没有现源。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "a-ruler-before-the-return",
+        "hostages-across-the-river"
+      ],
+      "note": "拥立北归、太后反应已承接；太后曾反对连年用兵有国志3，但军中每人因她反对而惧报复无证。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P186",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "hostages-across-the-river"
+      ],
+      "note": "太后命李胡讨逆采用。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P187",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "hostages-across-the-river"
+      ],
+      "note": "李胡败于泰德泉、太后亲征与横渡对峙采用。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P188",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "hostages-across-the-river",
+        "speaking-to-both-camps"
+      ],
+      "note": "辽77潢河横渡、屋质同为太祖子孙劝和实用；现代老哈河汇流点精定位未核，不凭口述定点。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P189",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "speaking-to-both-camps"
+      ],
+      "note": "屋质请行、对双方说和采用。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P190",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "the-tallies-on-the-table"
+      ],
+      "note": "见面互责与屋质先问太后采用。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P191",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "the-tallies-on-the-table"
+      ],
+      "note": "辽77屋质责母偏爱托遗旨，同时责倍舍父母国；纠原稿单方面责母逼倍、杀臣长段拟话，不造反应细节。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "the-tallies-on-the-table"
+      ],
+      "note": "责阮不禀尊长与双方各执一词采用。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P193",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "the-tallies-on-the-table"
+      ],
+      "note": "辽77掷筹促速交战和人心/骨肉风险均已用；动作迫双方面对代价属明确编辑解释，非真实鼓励战。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P194",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "one-tally-in-each-hand"
+      ],
+      "note": "述律想到诸弟之乱采用。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P195",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "one-tally-in-each-hand"
+      ],
+      "note": "双方取筹与阮的顾虑采用。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P196",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "one-tally-in-each-hand",
+        "peace-was-not-the-end"
+      ],
+      "note": "李胡抗议、太后承认阮有辽77/72，祖州禁出入有辽72；跨节分开和约与后告异谋迁祖州。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P197",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "peace-was-not-the-end"
+      ],
+      "note": "李胡结局按辽史校正：穆宗时因喜隐案牵连狱死，不改写为世宗朝处置。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P198",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yelu-wuzhi-hengdu",
+      "sectionIds": [
+        "peace-was-not-the-end"
+      ],
+      "note": "结尾不是未知承接：已有正文明确否定从此内争结束，用948/949反与951弑作反证；音频未听不等于文本语义不能判。"
+    }
+  ],
+  "independentReview": "completed"
+}

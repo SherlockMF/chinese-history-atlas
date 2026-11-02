@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读北齐P082–P101共20段，对读北齐书3/4/9/11、北史5/14、通鉴160/162及乐府杂录；未回听音频，异文与节目演绎逐项区别。",
+  "counts": {
+    "corrected": 14,
+    "partial": 3,
+    "covered": 3
+  },
+  "rows": [
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "young-regent"
+      ],
+      "note": "十几岁入辅、选官和追尊帝号分清，能力与侵暴不以遗传精神病解释。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "young-regent"
+      ],
+      "note": "补选官、崔暹纠劾与侯景/颍川战事；不沿用向西不能打遂打北方匈奴的总括，北征各役未在本篇展开。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "young-regent",
+        "wine-and-poem"
+      ],
+      "note": "高澄未即帝位、已掌军政与君臣宴饮背景实写，后续禅代谋划在lan-jing。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "wine-and-poem"
+      ],
+      "note": "元善见劝酒受辱言语依史书转述，纠正混称元子攸。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "wine-and-poem"
+      ],
+      "note": "崔季舒奉命殴帝，不用精神疾病和酒精中毒猜测解释行为。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "wine-and-poem"
+      ],
+      "note": "三拳、拂衣而去与次日遣慰依记载，纠正当场悔悟并把再饮合于一事。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "wine-and-poem",
+        "tunnel"
+      ],
+      "note": "分开受辱后的慰问与地道事发后的酣饮，密谋诛高澄而非仅独自逃亡。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "tunnel"
+      ],
+      "note": "千秋门听见地下声、高澄勒兵入宫问反，不是守洞口等皇帝出洞。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "tunnel"
+      ],
+      "note": "还原元善见反驳、澄叩头与三日后幽禁，人物纠正，不收神经病的节目归因。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "family-power"
+      ],
+      "note": "李祖娥正为高洋妻；郑大车与柔然公主分别核写，所有父妾及大尔朱氏被高澄占有仍无据未收。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "family-power",
+        "east-hall"
+      ],
+      "note": "弟妇指控标明出自高洋后来的报复自述，不能据为弟无反应；二十九岁遇刺不作天罚解释。 本段另称大尔朱氏被高澄占有，未核，未作事实。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "lan-jing",
+        "east-hall"
+      ],
+      "note": "兰京名、厨役身份与杀高澄经过已写。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "lan-jing"
+      ],
+      "note": "兰钦为梁将、兰京被俘配厨；父请赎与本人申诉被杖有据，敢死队/种田对白剔除。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "lan-jing"
+      ],
+      "note": "东柏堂商议禅代、送食被斥与杀奴威胁据原典，清蒸鱼/敲门/辱其父不写为事实。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "lan-jing"
+      ],
+      "note": "兰京六名同谋、食盘藏刀，盘内/盘下异文注明，不添加即席情绪和武艺教育。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "east-hall"
+      ],
+      "note": "高澄跌落伤足藏床仍被杀，陈元康护主身死及高洋接权过程实写。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "east-hall",
+        "faces-and-judgments"
+      ],
+      "note": "高洋迅速赶来定乱秘丧赴晋阳，联系外貌评价与实际掌权的区别。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "faces-and-judgments"
+      ],
+      "note": "兰陵王为高澄第四子高长恭，齐书免胄示面与乐书假面分层，不收现代四大美男排行。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "faces-and-judgments"
+      ],
+      "note": "高澄俊爽有本人传记依据，不据孙貌推高欢全家遗传相同，娄昭君选择在前篇另有行动证据。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "faces-and-judgments"
+      ],
+      "note": "高洋体貌与高澄嗤笑作史传评价；高欢实际赏识，不把鳞身诊断牛皮癣或声称全家不待见。"
+    }
+  ]
+}

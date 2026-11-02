@@ -1,0 +1,310 @@
+{
+  "date": "2026-09-30",
+  "method": "人工完整通读北魏03 P031–P050、P052、P055、P057–P060共26段，对读魏书卷3、4上、24、35、103和通鉴卷119，并核六镇名称与建置分期。每段按正文实际命题登记；仍缺的诗句、现代镇址及旁支细节保留partial，不以整段引用范围代替覆盖。未回听音频。",
+  "counts": {
+    "corrected": 13,
+    "partial": 8,
+    "covered": 5
+  },
+  "rows": [
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "court"
+      ],
+      "note": "承接明元帝十四年在位、任用燕凤等经史之士与北疆用兵；补出燕凤讲经议政职任，不把他只归作占卜师。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "court"
+      ],
+      "note": "承接柔然是北边主要对手及南北并立背景，明确柔然、鲜卑、高车同时活动，限制匈奴退场后鲜卑再退场、民族依次取代的图景。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "court"
+      ],
+      "note": "明确当时后秦、夏、北燕、北凉仍据不同地区，北魏尚未统一北方；南边东晋至刘宋有先后，宋齐梁陈并非此时并存。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "court",
+        "niuchuan"
+      ],
+      "note": "北柔然南晋宋、410年正月嵩出兵和五月回军均已写；魏纪仅记自漠还，不把五月回程擅写成已经取得胜利。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "niuchuan"
+      ],
+      "note": "写牛川被围、嗣亲自北援、柔然闻讯退走，并分清援军解围与现场血战；牛川等同今呼和浩特的精确定位尚未核定，未照写。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "niuchuan",
+        "wall"
+      ],
+      "note": "写反复北征和防务，补追军遇寒雪伤亡，限制多次交战都胜及北疆已稳才转向南方的顺序。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "court",
+        "niuchuan",
+        "south"
+      ],
+      "note": "写东晋转刘宋、都建康及追击受距离天气限制；不把建业作为当时都城名称，也不将南征归因于南人两条腿跑不过骑兵。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "niuchuan",
+        "wall",
+        "south"
+      ],
+      "note": "承接远距离追逐、对手退去不等于北疆已定；原段占地意义不大的普遍评价未在本篇全面论证，未据此认作全部已用。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "wall"
+      ],
+      "note": "正文写423年在长川南筑长城并配置戍卫，以及筑墙、驻兵和出塞共同承担防守。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "wall"
+      ],
+      "note": "承接赤城至五原长城、戍卫与六镇军事作用；保留二千余里的古计量，明确423年筑墙记载不能证明六镇同年一次设齐，不机械折算公里或逐点等同今县。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "wall"
+      ],
+      "note": "六镇名称、东西次序及大体区域已写，并订正转写字形；原段各镇逐一对应的现代县市尚未全面核定，未声称这些定位已采用。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "wall"
+      ],
+      "note": "承接六镇防柔然、拱卫平城，以及后来动乱将改变政局的伏笔，区分后期变化与明元时期防务。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "south"
+      ],
+      "note": "补416年晋军入滑台及既有黄河交战，明确不是北伐获胜到河南后才首次接壤；写422年刘裕死后实际南征决策。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "south",
+        "cities"
+      ],
+      "note": "写奚斤伐宋围滑台，补乘丧、敌国内部形势与先城后略地争论，限制仅凭自认正统、疆域庞大便决定出兵的单因叙述。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "south",
+        "cities"
+      ],
+      "note": "久攻、嗣南行声援、王景度逃、置刺史驻守及河南扩张均已写；滑台今滑县与瓦岗山地理旁引未在正文核写。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "cities"
+      ],
+      "note": "承接入青兖、得河南要地与虎牢，补东阳未克和双方疫病；不将魏军进入某州及设置刺史视为取得全州，也不视渡过黄河为河流失去军事作用。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "cities"
+      ],
+      "note": "正文限制首次接壤、只余长江天堑的判断，说明城池与运补仍有层次；本篇未据资料重建拓跋焘饮马长江的人生志愿，该主张不按已承接计算。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "heir",
+        "last-orders"
+      ],
+      "note": "423年嗣病卒已写，以史书所记寒食散药发限定积劳成疾说；完颜亮及立马吴山诗句旁引尚未在本篇核写。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "last-orders"
+      ],
+      "note": "写423年十一月西宫卒、三十二岁、奚斤军实按等级赐臣卒和人口构成扩大；不把这条遗诏扩为历年全部战利品皆不入库。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "court",
+        "last-orders"
+      ],
+      "note": "明元帝与太宗称谓、儿子继位、征战及汉地居民和诸部来附已承接，补治理与赋役面向；原段逐一枚举匈奴、羯、氐、羌等族属未逐项核写。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "heir",
+        "last-orders"
+      ],
+      "note": "明确拓跋焘为嗣长子、后来太武帝，接过父亲军政事务并继续扩大征战。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "heir"
+      ],
+      "note": "承接408年出生、祖父仍在和魏纪体貌异常叙述；开头佛狸祠与元嘉故事为后文预告，未将预告视为本段新增诗文阐释。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "heir"
+      ],
+      "note": "承接祖父欣喜，明确史书体貌异常不能解为出生体重；口头逗趣不当成体格事实。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "heir"
+      ],
+      "note": "祖父继承事业的赞语及长子关系已写；拓跋珪晚得子、三十余岁为祖父、三十九岁卒等旁支年龄命题未在本篇核写。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "court",
+        "heir"
+      ],
+      "note": "写嗣继位、焘受封与422年监国，按史书归源服散病状；不由赞孙推定不满儿子，也不以幼年哭泣解释疾病或继承安排。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "mingyuan-frontiers",
+      "sectionIds": [
+        "heir",
+        "last-orders"
+      ],
+      "note": "承接太子决事受认可、423年平稳继位，并写父亲观察、六辅臣与预先执政的具体安排，补足顺利交接的制度过程。"
+    }
+  ]
+}

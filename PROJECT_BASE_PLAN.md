@@ -3,11 +3,11 @@
 
 > 建议存放：`D:\OPC\wudaishiguo\PROJECT_BASE_PLAN.md`
 >
-> GitHub：`SherlockMF/five-dynasties-ten-kingdoms`
+> GitHub：`SherlockMF/chinese-history-atlas`
 >
 > 角色：本仓库长期“项目宪章 + 开发路线 + Agent上下文”。Codex/其他 Agent 开始大任务前必须先阅读本文件，再阅读对应阶段 spec。
 >
-> 最后整理：2026-09
+> 最后整理：2026-11-02（仓库命名、主分支与现状同步）
 
 ---
 
@@ -33,7 +33,7 @@
 - 本地问史
 - 人物对话实验
 
-未来不再为每个朝代新建独立网站，而是把本仓库升级成 **多历史专题平台（History Series Platform）**。
+本仓库现已扩展为 **多历史专题平台（History Series Platform）**，不同朝代共享实体、组件与来源规则，不为每个朝代新建独立网站。当前 11 个专题与入口见 README。
 
 ---
 
@@ -91,35 +91,16 @@ GitHub：`SherlockMF/history-field`
 
 ## 4. 当前仓库状态
 
-本地：
-`D:\OPC\wudaishiguo`
+GitHub canonical repo：`SherlockMF/chinese-history-atlas`
 
-GitHub canonical repo：
-`SherlockMF/five-dynasties-ten-kingdoms`
+本地工作区仍可使用 `D:\OPC\wudaishiguo`，无需随仓库改名移动目录。Remote 使用：
+`https://github.com/SherlockMF/chinese-history-atlas.git`
 
-历史上本地 Remote 曾使用：
-`https://github.com/SherlockMF/wudaishiguo.git`
-该地址仍会重定向到同一仓库。
+唯一长期主分支为 `master`。原稳定分支 `feat/continuous-atlas`、开发分支 `feat/multi-series` 及地图修订历史已归入主线。小红书独立小工具通过 `xhs-contest-2026-09-06` 标签保存，不覆盖主站实现。
 
-当前重要分支：
-- `feat/continuous-atlas`
-- `feat/multi-series`
+现有专题包括西晋、东晋、五胡十六国、北魏、南朝、北齐北周—隋、五代十国、辽与西辽、西夏、金与金中都、南诏与大理，已具备专题地图、人物、叙事和来源入口。李静训档案和现场容器保留；真实 Unity 实玩验收限制见 `docs/field-webgl-integration-status.md`。
 
-定义：
-
-### `feat/continuous-atlas`
-当前稳定五代十国版本。
-- 保留已完成功能
-- 修 Bug / 维护
-- 不承担大型多专题重构
-
-### `feat/multi-series`
-当前正式开发分支。
-- Series 多专题架构
-- 北齐 / 北周 → 隋
-- 李静训调查档案
-- `/field/...` 游戏容器
-- Discovery 联动
+下文架构原则继续适用；标明 V1 的范围、数量和阶段清单是原始路线，不应误读为当前内容总量或全部已验收。当前实际能力以 README、数据与测试为准。
 
 ---
 
@@ -168,7 +149,7 @@ GitHub canonical repo：
 ## 7. 目标目录结构
 
 ```text
-wudaishiguo/
+chinese-history-atlas/
 ├─ app/
 │  ├─ series/[seriesSlug]/
 │  ├─ archive/[siteSlug]/
@@ -483,8 +464,8 @@ Codex 开始大任务前：
 
 当前：
 ```text
-稳定：feat/continuous-atlas
-开发：feat/multi-series
+主分支：master
+独立小工具归档：xhs-contest-2026-09-06（标签）
 ```
 
 原则：
@@ -494,7 +475,7 @@ Codex 开始大任务前：
 - 及时 push
 - 大架构变更前跑 tests
 
-暂不为了“标准化”强制改成 main/develop。
+统一使用现有 `master`，不额外保留 main/develop 等长期分支。临时功能分支合并并确认已保存后清理。
 
 ---
 
@@ -556,7 +537,7 @@ Codex 开始大任务前：
 - 经纬
 - 现场
 
-正式品牌尚未锁定，因此代码使用中性技术名，避免大规模硬编码品牌。
+GitHub 仓库使用描述性名称 `chinese-history-atlas`（中国历史图谱）以表达内容范围；“经纬 / 现场”保留为产品线工作标签。现有页面中的品牌文案不因仓库改名自动更换，后续产品命名另行决定。
 
 ---
 

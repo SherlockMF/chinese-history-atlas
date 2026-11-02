@@ -1,5 +1,7 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
+import { narrativeCatalog } from "@/data/narratives/catalog";
+import { findSeriesBySlug } from "@/data/series";
 
 import { MockLlmProvider } from "@/lib/ai/mock-provider";
 import { aiAnswerSchema } from "@/lib/ai/validate-answer";
@@ -32,11 +34,20 @@ const SERVER_TIMEOUT_MS = 5_000;
 const requestSchema = z.object({
   message: z.string().trim().min(1).max(1000),
   context: z.object({
-    currentYear: z.number().int().min(TIMELINE_MIN_YEAR).max(MAX_YEAR),
+    currentYear: z.number().int(),
     selectedDynasty: z.string().optional(),
     selectedPerson: z.string().optional(),
     selectedEvent: z.string().optional(),
     currentPage: z.string().max(200),
+  }).superRefine((context, validation) => {
+    const route = context.currentPage.match(/^\/series\/([a-z0-9-]+)\/stories\/([a-z0-9-]+)\/?(?:#[a-z0-9-]+)?$/);
+    const series = route ? findSeriesBySlug(route[1]) : null;
+    const registeredStory = series && narrativeCatalog.some(story => story.seriesId === series.id && story.slug === route![2]);
+    const minimum = registeredStory ? series!.timelineMinYear : TIMELINE_MIN_YEAR;
+    const maximum = registeredStory ? series!.timelineMaxYear : MAX_YEAR;
+    if (context.currentYear < minimum || context.currentYear > maximum) {
+      validation.addIssue({ code: "custom", path: ["currentYear"], message: "Current year is outside the supported series range" });
+    }
   }),
   allowGeneralKnowledge: z.boolean().optional(),
 });
@@ -95,10 +106,13 @@ function boundRetrievedEvidence(
     const matchedText = item.matchedEvidence?.text
       .trim()
       .slice(0, MAX_EVIDENCE_TEXT_LENGTH);
+    const story = item.story && [item.story.seriesId, item.story.slug, item.story.sectionId].every(value => /^[a-z0-9-]{1,80}$/.test(value))
+      ? { ...item.story, period: item.story.period.slice(0, 100) } : undefined;
     return [
       {
         eventId,
-        sourceId: `history-event:${eventId}`,
+        sourceId: story ? `narrative:${story.seriesId}:${story.slug}:${story.sectionId}` : `history-event:${eventId}`,
+        ...(story ? { story } : {}),
         title,
         year: item.year,
         summary,

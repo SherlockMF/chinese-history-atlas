@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-30",
+  "method": "完整复读指定原段，逐段对照正文和已列史源；史料、文学辑录、节目解释分开，未回听音频。",
+  "counts": {
+    "covered": 4,
+    "partial": 1,
+    "corrected": 1
+  },
+  "rows": [
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-imperial-tours",
+      "sectionIds": [
+        "three-journeys"
+      ],
+      "note": "分别展开605、610、616三赴江都与607、608北巡，保留行程而不以现代旅行代入。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-imperial-tours",
+      "sectionIds": [
+        "three-journeys",
+        "who-pays-for-motion"
+      ],
+      "note": "承接统一后的跨区巡行与节目对帝王心态的解释；未展开节目所引元代诗句及其具体篇名。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-imperial-tours",
+      "sectionIds": [
+        "palaces-along-the-road"
+      ],
+      "note": "承接巡游与营宫的连结，以离宫供应展开皇帝行旅和平民出行的差别；节目酒店笑谈不另作史实。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-imperial-tours",
+      "sectionIds": [
+        "palaces-along-the-road"
+      ],
+      "note": "显人校作显仁；补江都、临江宫来源，临江宴集年次异文未强定。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-imperial-tours",
+      "sectionIds": [
+        "palaces-along-the-road",
+        "two-hundred-li"
+      ],
+      "note": "补607年诏营晋阳宫、牵挽船队及地方承担的人力物资，承接巡游营宫伤民力的核心。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-imperial-tours",
+      "sectionIds": [
+        "two-hundred-li",
+        "who-pays-for-motion"
+      ],
+      "note": "展开二百余里船队与五百里供食的不同口径；结尾下一站的过渡问话无独立遗漏情节。"
+    }
+  ]
+}

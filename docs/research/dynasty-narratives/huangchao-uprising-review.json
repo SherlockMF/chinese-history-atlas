@@ -1,0 +1,488 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核完整重读44条原段及全部正文，亲读新唐书225下、兵志50、旧唐书200下、通鉴252、五代史62/63/65/68相关段、贵耳集咏菊、坚瓠首集菊花诗与全唐诗733；校正错归、计年、制度与诗文异文，逐行重判真实部分覆盖。音频未回听。",
+  "counts": {
+    "covered": 21,
+    "not-needed": 6,
+    "corrected": 13,
+    "partial": 4
+  },
+  "rows": [
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "parallel-worlds"
+      ],
+      "note": "907—979口径与960年口径并存呈现；979年灭北汉作结的叙事选择注明。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [],
+      "note": "听友互动与算年份玩笑，无实质命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-needed",
+      "assessment": "corrected",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "parallel-worlds"
+      ],
+      "note": "相隔72年与首尾计年73年的不同口径明确，907至960相隔53年；不把数字当无实质命题的玩笑略去。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "parallel-worlds"
+      ],
+      "note": "960年北宋建立的另一种统计口径已并列。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "parallel-worlds"
+      ],
+      "note": "六集篇幅与故事线起止说明为节目导览，口径选择理由承接。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "parallel-worlds"
+      ],
+      "note": "五代次序、53年口径、军政网络延续与冯道的处境均实质承接；集团分截仅为编辑解释，不充作正式分期。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "parallel-worlds"
+      ],
+      "note": "五代次序、53年口径、军政网络延续与冯道的处境均实质承接；集团分截仅为编辑解释，不充作正式分期。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "parallel-worlds"
+      ],
+      "note": "五代次序、53年口径、军政网络延续与冯道的处境均实质承接；集团分截仅为编辑解释，不充作正式分期。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "parallel-worlds"
+      ],
+      "note": "禅让过场化的评论承接为概括层；《太平年》电视剧话题为节目闲谈不展开。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [],
+      "note": "电视剧观看情况闲聊，无实质命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "parallel-worlds"
+      ],
+      "note": "五代次序、53年口径、军政网络延续与冯道的处境均实质承接；集团分截仅为编辑解释，不充作正式分期。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "parallel-worlds"
+      ],
+      "note": "禅让与三让之礼的玩笑概括承接，黄袍加身留给后篇。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "parallel-worlds"
+      ],
+      "note": "军事集团内部取主的框架比喻承接为理解框架。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "ten-kingdoms-pattern"
+      ],
+      "note": "十国分布（北汉在北、其余在南方）承接。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "ten-kingdoms-pattern"
+      ],
+      "note": "各国称帝称臣有阶段差异：刘氏早受梁封后称帝、闽王受封后其继承者称帝；不把十国全部归为附属或全部排除册封。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "ten-kingdoms-pattern"
+      ],
+      "note": "各国称帝称臣有阶段差异：刘氏早受梁封后称帝、闽王受封后其继承者称帝；不把十国全部归为附属或全部排除册封。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "ten-kingdoms-pattern"
+      ],
+      "note": "五代开疆北拒契丹的概括承接，方向性保留。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "ten-kingdoms-pattern"
+      ],
+      "note": "保境安民概括承接，吴越事大与北汉引援的反例注明。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "ten-kingdoms-pattern"
+      ],
+      "note": "各国称帝称臣有阶段差异：刘氏早受梁封后称帝、闽王受封后其继承者称帝；不把十国全部归为附属或全部排除册封。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "late-tang-cracks"
+      ],
+      "note": "安史之乱与节度使作为转折点承接。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "late-tang-cracks"
+      ],
+      "note": "河北藩镇与中央紧张已承接；宗室、五姓七望的具体关系留后篇，不能称本段全覆盖。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "late-tang-cracks"
+      ],
+      "note": "财赋来源与区域差异承接为背景。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "late-tang-cracks"
+      ],
+      "note": "兵志记开元番役衰废、天宝八载无兵可交，不能把府兵瓦解全部归给安史之乱，也不把战争单归为新制度恶果。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "late-tang-cracks"
+      ],
+      "note": "饥荒重赋背景承接；隋唐暖期、吐蕃兴起因果未由本次亲读史源确证，解释栏明确限度，不虚报气候部分完成。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "late-tang-cracks"
+      ],
+      "note": "饥荒重赋背景承接；隋唐暖期、吐蕃兴起因果未由本次亲读史源确证，解释栏明确限度，不虚报气候部分完成。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "late-tang-cracks"
+      ],
+      "note": "乱事成分不全是农民的判断承接，接出盐贩亡命群体。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "huangchao-background"
+      ],
+      "note": "曹州冤句依新唐书；不把古代冤句与今日曹县直接等同。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [],
+      "note": "曹县网络玩笑，无实质命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "huangchao-background"
+      ],
+      "note": "盐商家庭出身的既有定义承接，转入节目辨析。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "huangchao-background"
+      ],
+      "note": "通鉴明载黄巢、王仙芝少时贩私盐，比新唐书世鬻盐更具体；不宣称所有卖盐都非法。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "huangchao-background"
+      ],
+      "note": "家财与人手的动员逻辑承接；具体控制运河与经营路线未核实，不将推测升为事实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [],
+      "note": "投靠逻辑的水浒设问，无新增史实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [],
+      "note": "晁盖保正类比，作为节目比喻不写进正文层。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "huangchao-background"
+      ],
+      "note": "骑射与喜养亡命明确承接，地方武装基础属于注明的编辑解释。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "keju-and-poems"
+      ],
+      "note": "通鉴记屡举进士不第；缺乏门路不等于非士族无应举资格，考试、荐引不能推出盐户无法求仕；李白轶事不采事实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "keju-and-poems"
+      ],
+      "note": "通鉴记屡举进士不第；缺乏门路不等于非士族无应举资格，考试、荐引不能推出盐户无法求仕；李白轶事不采事实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "keju-and-poems"
+      ],
+      "note": "通鉴记屡举进士不第；缺乏门路不等于非士族无应举资格，考试、荐引不能推出盐户无法求仕；李白轶事不采事实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "keju-and-poems",
+        "chrysanthemum-tradition"
+      ],
+      "note": "屡举不第正确归通鉴252，旧唐书开篇无此句；落第赋诗通过坚瓠所引清暇录及全唐诗呈现，不将考试与诗文归属合并。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "keju-and-poems",
+        "chrysanthemum-tradition"
+      ],
+      "note": "屡举不第正确归通鉴252，旧唐书开篇无此句；落第赋诗通过坚瓠所引清暇录及全唐诗呈现，不将考试与诗文归属合并。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "chrysanthemum-tradition"
+      ],
+      "note": "贵耳集追记五岁与翁父咏菊、父欲击之及总首赭黄衣两句；明确宋人笔记预兆叙事不等于童年实证。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "chrysanthemum-tradition"
+      ],
+      "note": "贵耳集追记五岁与翁父咏菊、父欲击之及总首赭黄衣两句；明确宋人笔记预兆叙事不等于童年实证。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [],
+      "note": "伦理玩笑段，无实质命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "chrysanthemum-tradition"
+      ],
+      "note": "补全题菊花四句；全唐诗报与与亲读贵耳集移共的异文交代，不能声称报与即该贵耳集读本原文。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-uprising",
+      "sectionIds": [
+        "keju-and-poems",
+        "chrysanthemum-tradition"
+      ],
+      "note": "童年咏菊属流传节，875年响应王仙芝属历史节，单段跨节分别承接。"
+    }
+  ],
+  "independentReview": "completed"
+}

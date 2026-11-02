@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-30",
+  "method": "通读南朝01 P105–P108共4段，对读宋书1/47/48、晋书100、通鉴115/116，区分407遣军408败归与413成功，展开密函和实际攻坚。宋书朱龄石传十年年次与其他纪年有异，依晋书、通鉴系413；未回听音频，个人动机与原稿玩笑不当史料。 已由独立复核者完整对读原段、正文和判定，并回核通鉴、宋书、晋书相关材料，维持现有覆盖等级。",
+  "counts": {
+    "partial": 1,
+    "corrected": 2,
+    "covered": 1
+  },
+  "rows": [
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-shu-campaign",
+      "sectionIds": [
+        "a-state-upstream",
+        "chengdu-and-surrender"
+      ],
+      "note": "校乔蜀桥纵为谯蜀谯纵，补405军变及向后秦请桓谦，给上游威胁以具体依据；所有对手都逃蜀、所以必须灭之的唯一心理因果未照搬。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-shu-campaign",
+      "sectionIds": [
+        "a-state-upstream",
+        "stopped-at-huanghu"
+      ],
+      "note": "补刘牢之之子刘敬宣、五千军、内水主力与外水示形、黄虎粮疫失利；407遣军408退在409伐燕之前，不按节目顺序误放南燕灭后，第二次413另分。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "liu-yu-shu-campaign",
+      "sectionIds": [
+        "stopped-at-huanghu",
+        "the-sealed-letter"
+      ],
+      "note": "实质展开刘裕据上次内水失败推测守军会重防内水、主力真走外水、密函到白帝开及内水疑兵；不只复述猜拳比喻。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-shu-campaign",
+      "sectionIds": [
+        "the-sealed-letter",
+        "two-banks-at-pingmo",
+        "chengdu-and-surrender"
+      ],
+      "note": "补413平模两岸战斗、刘锺催战、北城优先与舍舟进成都，纠正敌人直到主力已到成都才发现；补谯纵自缢与降后处置，不让选路计策替代实际攻坚。"
+    }
+  ]
+}

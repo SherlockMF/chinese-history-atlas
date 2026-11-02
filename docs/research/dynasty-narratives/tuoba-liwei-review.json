@@ -1,0 +1,325 @@
+{
+  "date": "2026-09-30",
+  "method": "人工通读北魏01 P049–P076共28段，对照序纪、后妃传及谱系材料与六节正文。未采用的独立命题保留partial；称谓、时序和动机按来源层次处理。未回听音频。",
+  "counts": {
+    "covered": 11,
+    "partial": 6,
+    "corrected": 11
+  },
+  "rows": [
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "ancestor"
+      ],
+      "note": "说明后世追尊及先世谱系，承接由族源转入人物的实质内容。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "ancestor"
+      ],
+      "note": "说明序纪先世名单与力微具体叙事的区别，不逐一抄列无独立故事的帝名。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "ancestor"
+      ],
+      "note": "力微活动置于汉末、曹魏和西晋，区分与386年北魏建立。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "ancestor"
+      ],
+      "note": "174生、277卒依史书岁数及纪年推算的层次已说明；汉献帝退位年份的旁支未写入正文。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "ancestor"
+      ],
+      "note": "保留一百零四岁为史书记载，不据此认定最长寿领导者；始祖为后世尊号。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "ancestor"
+      ],
+      "note": "长寿记载的证据限度已承接；七十古稀与古人寿命的泛论未专题展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "horse",
+        "ancestor"
+      ],
+      "note": "弱小依附已展开；正文明确英叡、雄杰之度为才识气度赞词，不能直接推定所有行为品德高尚。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "horse",
+        "marriage"
+      ],
+      "note": "没鹿回部与窦宾依附关系、称谓已展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "horse",
+        "marriage"
+      ],
+      "note": "窦宾身份及汉姓不能证明全部族属已承接；没鹿回的读音争论未核写。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "marriage"
+      ],
+      "note": "将汉家祖源放回后世谱系与改姓资料的层次，不径认窦太后后裔或按无路归拆字。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "horse"
+      ],
+      "note": "依附与共同作战已写，避免将先是事件都固定在220；草原不能农耕的泛论仍未专题处理。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "horse"
+      ],
+      "note": "写派人送骏马、败走与事后寻找，不据未即知名推断其名气。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "horse"
+      ],
+      "note": "重赏、隐而不言及迟后知晓保留；忠心自白不作实录。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "horse",
+        "marriage"
+      ],
+      "note": "知晓赠马者后欲分半部的报恩经过已展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "marriage"
+      ],
+      "note": "拒绝赠地已承接，不补对话解释其自认为应当尽忠。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "marriage"
+      ],
+      "note": "拒绝后联姻承接；三让之礼的文化类比与认义子支线不展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "marriage"
+      ],
+      "note": "嫁女、继续问其愿望的情节已展开，口语笑谈不另立段。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "marriage",
+        "changchuan"
+      ],
+      "note": "主动请居长川、得到同意及经营空间已写入。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "marriage"
+      ],
+      "note": "保留拒半部而求一地的政治结果，树敌或部众不服的心理未写成当事人已知计划。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "changchuan"
+      ],
+      "note": "迁居与十余年经营已展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "changchuan"
+      ],
+      "note": "旧部回归、窦宾病终纪年及速侯回题已写；248说明为序纪换算。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "changchuan",
+        "funeral"
+      ],
+      "note": "临终善事力微的嘱托保留，不扩写扶持兄弟的内心筹划。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "funeral"
+      ],
+      "note": "会丧阴谋、消息泄露已写；原文未载的明确拒赴过程不补作史实。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "funeral"
+      ],
+      "note": "以具体暴力行动讨论人物评价，不拟我对你们没有感情的对白或自动赞为果断。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "funeral"
+      ],
+      "note": "杀妻、报丧据北史与今本魏书后妃传；晨起佩刀与预置伏兵的细节明确归于今本魏书，并说明该卷补佚背景。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "funeral"
+      ],
+      "note": "报暴卒、兄弟赶来、被执杀均已展开，不增加二人未料到的心理。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "following"
+      ],
+      "note": "兼并其众与诸部归附保留；二十余万是控弦上马记数，不等同现代编制常备军。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tuoba-liwei",
+      "sectionIds": [
+        "following"
+      ],
+      "note": "区别单一部落人口与联合动员；牧场承载上限的具体论证未展开。"
+    }
+  ]
+}

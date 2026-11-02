@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-30",
+  "method": "通读指定原段、正文与所列史籍；按部落、时代与史源分开核对，未回听音频。",
+  "counts": {
+    "partial": 1,
+    "covered": 2,
+    "corrected": 1
+  },
+  "rows": [
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P202",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-japanese-envoys",
+      "sectionIds": [
+        "ships-before-the-tang"
+      ],
+      "note": "承接600年倭国来使与赤土出使，补常骏王君政607出航610归；新罗的具体使行尚未展开。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P203",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-japanese-envoys",
+      "sectionIds": [
+        "ships-before-the-tang",
+        "sunrise-and-sunset"
+      ],
+      "note": "承接607年求法、小野妹子使行、国书称号和杨广不悦，并明示使者姓名、王号来自不同史书；不倒填600年求法目的。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P204",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-japanese-envoys",
+      "sectionIds": [
+        "the-missing-letter",
+        "east-and-west"
+      ],
+      "note": "国书改写分别见两书，608九月随裴世清回程；纠正改称号即令杨广满意的虚拟对白，补失书与迎使情节。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P205",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-japanese-envoys",
+      "sectionIds": [
+        "ships-before-the-tang",
+        "the-missing-letter",
+        "east-and-west"
+      ],
+      "note": "承接608回访和外交范围，区别两书裴清/裴世清之名；以海上使团和留学者展开，联系不等于直接统治。"
+    }
+  ]
+}

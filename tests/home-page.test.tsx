@@ -25,8 +25,18 @@ describe("HomePageContent", () => {
 
     expect(screen.getByRole("link", { name: "进入 936 年" })).toHaveAttribute(
       "href",
-      "/map?year=936",
+      "/timeline?year=936#timeline",
     );
+  });
+
+  it("offers only years with recorded events on the homepage", () => {
+    render(<HomePageContent dynasties={dynasties} events={events} people={people} regions={regions} />);
+    const options = [...screen.getByLabelText("选择探索年份").querySelectorAll("option")];
+    expect(options.length).toBeGreaterThan(0);
+    for (const option of options) {
+      const year = Number(option.value);
+      expect(events.some(event => event.startYear <= year && year <= (event.endYear ?? event.startYear))).toBe(true);
+    }
   });
 
   it("offers every primary exploration path", () => {

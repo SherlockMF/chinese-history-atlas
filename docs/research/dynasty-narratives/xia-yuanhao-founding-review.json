@@ -1,0 +1,599 @@
+{
+  "date": "2026-10-11",
+  "method": "逐条独立重读本篇所列原稿、全部正文与对应史源实际段落，核对每个P的具体承接及舍弃理由；保留baselineVerdict。未回听音频，转写候选不认定为音频结论。",
+  "counts": {
+    "partial": 26,
+    "covered": 11,
+    "not-needed": 1,
+    "corrected": 15
+  },
+  "rows": [
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "red-robe"
+      ],
+      "note": "已补元昊外观形象；赵云类比和帅的反复评价不是可核形貌，不据此判全。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "red-robe"
+      ],
+      "note": "绯衣黑冠与才识实补，去现代修身审美。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "red-robe"
+      ],
+      "note": "献马及回赐补入；不把进贡、互市完全等同一种交换。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "red-robe"
+      ],
+      "note": "亏赐欲杀经办、元昊劝止的掌故实补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "red-robe"
+      ],
+      "note": "保留马为重要资源的劝父主题；生产资料与具体猎马论证非所核史料对白。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "red-robe"
+      ],
+      "note": "取用马换不急物的记述；不扩成元昊原话里通外国。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "red-robe"
+      ],
+      "note": "杀人后无人供使的关键理由补入。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "red-robe"
+      ],
+      "note": "传世史料状况是主持的泛论，不构成独立故事行动；正文未据此宣称仅有宋人记录，red-robe的interpretation说明诸书材料层次。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "red-robe"
+      ],
+      "note": "兵书校为太乙金鉴诀并补两书。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "red-robe"
+      ],
+      "note": "曹玮观画像掌故已补；扔画动作未核，保留不纳。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-needed",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "red-robe"
+      ],
+      "note": "真英物评价指向预知边患，不作迷弟单纯夸帅。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "two-patents"
+      ],
+      "note": "甘州战功、1032继位补；宋封西平王，非夏国公；德明称帝准备断言不采。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "two-patents"
+      ],
+      "note": "元昊对宋使臣服仪据富弼补；德明具体换袍情节未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "emperor",
+        "two-patents"
+      ],
+      "note": "帝号外交冲突及册封补，非称帝必然立即引起周围战争。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "two-patents"
+      ],
+      "note": "按杨告朱允中受册记述重写迟迎遥立及拜起言，不写打猎拒册，并补辽册封。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "two-patents"
+      ],
+      "note": "显道改元与避德明名补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "two-patents"
+      ],
+      "note": "二套年号说明政治试探；不把受册地区径直称宋直接版图统治。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "western-rivers",
+        "two-patents"
+      ],
+      "note": "承接改元与西征；继迁战伤不补鼻子这一未经核定细节。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "western-rivers"
+      ],
+      "note": "河湟对手与进攻背景补；杀先王复仇动机及潘部全灭合归未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "western-rivers"
+      ],
+      "note": "猫牛/牦牛异写、先将失败亲围不下补；米脂地名候选未回听仍留。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "western-rivers"
+      ],
+      "note": "提出和议骗开城门补；结拜歃血与淳朴心理未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "western-rivers"
+      ],
+      "note": "开门后夏兵入城杀戮及河湟战场实补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "western-rivers"
+      ],
+      "note": "河道不熟与宗哥败归、移旗诱溺两个层次补；不写自然水变动造成全部损失。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "western-rivers"
+      ],
+      "note": "唃厮啰反复退夏及仍能攻凉州，纠正已压制强邻后无患。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "name-hair"
+      ],
+      "note": "吐蕃仍能作战；建国名字安排实补，七件事情不据主持归纳当固定诏次。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "name-hair"
+      ],
+      "note": "唐宋赐姓与拒依附政治意味补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "name-hair"
+      ],
+      "note": "嵬名与北魏谱系自称补；元氏党项发音直等尚未证。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "name-hair"
+      ],
+      "note": "曩霄改名置1043议和，不提前称帝前。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "name-hair"
+      ],
+      "note": "髡发令主题补；具体中间剃光四周留图式未以现有文本确认。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "name-hair"
+      ],
+      "note": "三日、诛杀与重环垂耳实补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "name-hair"
+      ],
+      "note": "文官幞头靴笏紫绯、民青绿，去黑灰及秃头误转。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "name-hair"
+      ],
+      "note": "兴州德明所居、1033兴庆扩城分清，非德明已用兴庆府。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "offices-and-ritual",
+        "name-hair"
+      ],
+      "note": "皇城官制补；具体仿长安汴梁逐宫设计未核；不等同辽两院。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "offices-and-ritual"
+      ],
+      "note": "不分蕃汉任用及九拜改三拜补，不把宋说成三跪九叩。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "offices-and-ritual"
+      ],
+      "note": "礼乐应用与重新定制主题补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "offices-and-ritual"
+      ],
+      "note": "五音改一音有异说，不能断为仅一首主打歌；文字过渡接下节。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "new-writing"
+      ],
+      "note": "方整繁画与形似汉字实补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "new-writing"
+      ],
+      "note": "野利仁荣演绎国字、政治作用补；民族血性具体对白不虚构。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "new-writing"
+      ],
+      "note": "后世河北保定文字遗存补；三年时间及河北山西大量碑笼统判断未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "new-writing"
+      ],
+      "note": "双语字书助释读补；宁夏馆具体展碑与全释断言未证。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "new-writing"
+      ],
+      "note": "形音义研究与对音补，不一字一汉字或声读全无从知。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "army-tools"
+      ],
+      "note": "三千重骑与擒生军实补；铁林别名与固定赎金流程未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "army-tools"
+      ],
+      "note": "六班直五千宿卫和泼喜补；普通民固定奴卖流程未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "army-tools"
+      ],
+      "note": "二百投石手拳石驼鞍实补，不断言仅夏习惯城居其他诸政权皆无。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "army-tools"
+      ],
+      "note": "汉人勇者前军撞令郎补；全部战俘与攻城必先死伤大半未证。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "emperor"
+      ],
+      "note": "1038称帝补；卫慕母子另J23，此条不自动全覆盖。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "emperor"
+      ],
+      "note": "大夏确名补；白高大夏国与邦泥释名仍待专核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "emperor"
+      ],
+      "note": "继迁德明追尊及帝王世系意味补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "wall-signature"
+      ],
+      "note": "张元吴昊投效与士人背景补；固定四汉两蕃六人名单不成立为已核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "wall-signature"
+      ],
+      "note": "酒肆饮酒题壁掌故补；刻意等候元昊与高消费动机未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "wall-signature"
+      ],
+      "note": "墙上所书是姓名饮此，而非可确定墙诗；鹰诗另说明归于张元。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "wall-signature"
+      ],
+      "note": "犯讳被拘、答姓名与得释重用掌故补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yuanhao-founding",
+      "sectionIds": [
+        "wall-signature"
+      ],
+      "note": "优恤招回与羁置家属实补；接归用谍者伪诏，不是派兵卷掳。"
+    }
+  ],
+  "independentReview": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "yuwen-tai",
+  "name": "宇文泰",
+  "representativeAge": 48,
+  "prompt": "第一张输入为本人的传世肖像参考，第二张为朱温画风样图。参考第一张的脸型、眉眼、鼻形与髭须特征重新创作；只描绘本人，不保留原图侍从。第二张仅参考画法、配色、纸感与构图，不复制朱温面容。人物为宇文泰，身份：西魏实际执政者。生平依据：主导西魏军政，556年去世前将后事托付宇文护。北周在其死后建立。本画代表年龄约48岁，年龄及以下造型均为创作设定：男性，沉稳威严，北朝统帅气质，深褐色北朝交领袍、朴素冠帽；表现西魏执政者身份，不戴皇帝冕冠。服饰取北朝至隋的时代语汇，避免五代宋明清服饰及夸张影视造型。采用输入朱温样图的统一原创国风手绘插画风格：自然写实人体比例，面部立体光影、细腻水彩笔触与纸绢质感，低饱和朱砂、墨绿、赭色及少量金色，简洁暖纸白背景。竖幅3:4，单人半身胸像，身体略侧、脸朝向观者；头顶留白，头饰完整，面部清晰且适合缩小为圆形头像，无文字、无印章、无边框。",
+  "reference": "docs/research/portraits/series/references/yuwen-tai.jpg",
+  "source": {
+    "title": "《北史演义》宇文泰绣像（1793年，后世小说插图）",
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%AE%87%E6%96%87%E4%B8%9E%E7%9B%B8%E9%BB%91%E7%8D%BA%EF%BC%88%E5%8C%97%E5%8F%B2%E6%BC%94%E7%BE%A9%EF%BC%89.jpg"
+  },
+  "note": "依据传世肖像重新创作；画中约48岁，年龄、光影与部分细节为艺术处理。参考为后世小说绣像，不作为真实容貌依据。",
+  "generator": "built-in image_gen",
+  "original": "C:\\Users\\84754\\.codex\\generated_images\\01a0c47c-b25c-7471-bb2c-f64d1bc8dc5e\\exec-c06b7a16-dfc8-4955-b9fd-111acb2c1328.png",
+  "asset": "public/portraits/series/yuwen-tai.webp",
+  "width": 1086,
+  "height": 1448
+}

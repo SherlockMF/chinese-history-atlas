@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-30",
+  "method": "完整读取隋（上）P009–017、P020–028十八段，再对照隋书、周书、北史与两汉史传写作。家世采用史书自述层，出生神异与相术标记为文学传统；未完成现代谱系论争专门考订，未回听乱码音频，原段各自保留未落实之处。",
+  "counts": {
+    "corrected": 5,
+    "covered": 7,
+    "partial": 6
+  },
+  "rows": [
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "hongnong-pedigree"
+      ],
+      "note": "以诏令争夺、地方用兵和宗室清洗明确限制夺政非常简单的说法；本篇给入口，详细经过由相接的取代北周篇展开，不把简短入口冒充全部战史。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "hongnong-pedigree",
+        "early-office"
+      ],
+      "note": "弘农华阴世系与北周任职承接，但把确定出身名门的口吻限定为隋书、北史所保存的皇室谱系，未据共同世系证明真实血缘。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "hongnong-pedigree",
+        "yang-zhen"
+      ],
+      "note": "杨震、十四世孙与自述性质均承接，明确两书采用共同谱系不是独立验证；将杨震放回东汉安帝时期。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "hongnong-pedigree",
+        "yang-zhong"
+      ],
+      "note": "承接杨忠追随宇文泰、沙苑战功，纠正杨坚541出生不能同在537战场，以及宇文泰北周称号是追尊；宇文泰为杨家证明弘农远祖谱系的说法未查得依据，未写作确定事实；草坑纵火旧战术未在本篇复述。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "hongnong-pedigree",
+        "yang-zhen"
+      ],
+      "note": "家世须保留证据界限、杨敞任丞相及与司马迁翁婿关系落地，并说明家谱还上溯杨喜，不能泛称杨敞为全族始祖；陈寅恪等人的具体论证未独立核定，姓名转写未回听。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "yang-zhen"
+      ],
+      "note": "杨震安帝朝名臣、太尉、关西孔子和正直品格均展开，以夜金四知、反对近幸营建和直谏作具体支撑。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "yang-zhen",
+        "yang-zhong"
+      ],
+      "note": "饮鸩之前的弹劾、被诬、免官逐归过程与四世太尉杨震杨秉杨赐杨彪均承接，父亲杨忠军功另述；乱码姓名直接据后汉书另行写出，不称已复原音频。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "yang-zhong",
+        "names-and-portents"
+      ],
+      "note": "赐普六如/普六茹、杨坚承用及西魏恭帝纪年和宇文泰实际掌权均落实；原段把赐姓具体归因于笼络民心、培养关陇势力的制度论证未展开，不能凭制度存在即算动机已核。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "names-and-portents"
+      ],
+      "note": "北史小名那罗延承接，辨明它有佛教大力神语义，不能当作鲜卑语小字；解释与金刚坚固之身的联系而不简单等号为金刚不坏，赐姓与小名来源分别说明。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "yang-zhong",
+        "early-office"
+      ],
+      "note": "杨忠高级勋位、大司空与随国公、568卒及杨坚袭爵、因地位上升而受猜忌落实；今湖北随州的现代地理定位未专门展开，个人能力的概括用后文具体仕途说明。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "early-office",
+        "two-physiognomists"
+      ],
+      "note": "宇文宪、王轨向武帝提出相貌非常或反相的警告与杨坚处境承接，才能评价另以军政履历呈现；相貌预言只作当时言论，不当实际谋反证据。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "two-physiognomists"
+      ],
+      "note": "武帝因疑虑询问来和及来和的身份、575至576两次答话按其开皇末自述展开；不把节目中的琢磨干部扩写成实录对白。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "two-physiognomists",
+        "campaigns-and-marriage"
+      ],
+      "note": "来和为杨坚说守节、可镇一方、为将制胜承接，并保留事后回述与获赏背景；原段特指派往对陈作战未见于该相言，留后路的内心判断不能作确定事实。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "two-physiognomists",
+        "campaigns-and-marriage"
+      ],
+      "note": "明确相士推举不能推出武帝派杨坚送死或故意两头获利的内心计划；以有记载的灭齐战功和两次问相替代戏拟因果，未把战死计划当实事。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "two-physiognomists"
+      ],
+      "note": "赵昭看相改置明帝时期，不能作武帝继来和之后第二次派人；对皇帝的答语是柱国，非大将军，私告天下君的预言按史书传统呈现，不证实人格魅力。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "two-physiognomists",
+        "campaigns-and-marriage"
+      ],
+      "note": "相言的安抚效果、武帝未采除坚建议与杨坚仍被任用承接；从此不听任何打报告的全称断言未核，不能由几条记载推成普遍事实。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "two-physiognomists",
+        "campaigns-and-marriage"
+      ],
+      "note": "武帝以天命有在将若之何回应王轨的言论和仍用杨坚承接，后面的假设性心理对白没有另当实录；保留相言不能证明命定登基的界限。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [
+        "early-office",
+        "campaigns-and-marriage"
+      ],
+      "note": "578武帝卒、宣帝继位、杨丽华先为太子妃后立皇后、杨坚以后父被征任上柱国大司马均明确，个人命运与婚姻关系相接。"
+    }
+  ]
+}

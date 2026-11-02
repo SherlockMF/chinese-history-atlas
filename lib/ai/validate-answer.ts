@@ -14,6 +14,7 @@ export const aiAnswerSchema = z.object({
       title: z.string(),
       episode: z.string().optional(),
       references: z.array(z.string()).optional(),
+      href: z.string().regex(/^\/series\/[a-z0-9-]+\/stories\/[a-z0-9-]+#[a-z0-9-]+$/).optional(),
     }),
   ),
 });

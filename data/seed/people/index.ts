@@ -1,4 +1,5 @@
 import { northernQiZhouSuiPeople } from "./northern-qi-zhou-sui";
+import { expansionPeople } from "@/data/series/expansion";
 import { northernPeople } from "./northern";
 import { liaoSongPeople } from "./liao-song";
 import { southernPeople } from "./southern";
@@ -24,4 +25,4 @@ export const fiveDynastiesPeople = [...northernPeople, ...southernPeople, ...lia
     (featuredRank.get(right.id) ?? Number.MAX_SAFE_INTEGER),
 );
 
-export const people = [...fiveDynastiesPeople, ...northernQiZhouSuiPeople];
+export const people = [...fiveDynastiesPeople, ...northernQiZhouSuiPeople, ...expansionPeople];

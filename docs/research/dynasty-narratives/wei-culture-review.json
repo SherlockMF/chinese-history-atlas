@@ -1,0 +1,137 @@
+{
+  "date": "2026-09-30",
+  "method": "人工通读BW02指定11段，对照六节正文与歌辞、史书、馆藏和遗产说明逐项判断。市场器物仍未确认，文学人物与史实分开；未回听音频。",
+  "counts": {
+    "corrected": 7,
+    "covered": 3,
+    "partial": 1
+  },
+  "rows": [
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-culture",
+      "sectionIds": [
+        "caves",
+        "waterways"
+      ],
+      "note": "保留北魏石窟与郦道元入口，区分龙门北魏、唐代等阶段；补撰注水经四十卷与地理阅读。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-culture",
+      "sectionIds": [
+        "mulan"
+      ],
+      "note": "展开代父出征、思亲、辞官归乡；原古辞无花姓，年代未定，不认定为北魏真人。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-culture",
+      "sectionIds": [
+        "mulan"
+      ],
+      "note": "可汗、天子与胡骑保留为背景线索，不锁定皇帝、柔然或具体战役。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-culture",
+      "sectionIds": [
+        "inscriptions"
+      ],
+      "note": "承接嘎仙洞刻石与魏碑观感，补载体、书刻差异及供养题记，避免民族审美定性。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-culture",
+      "sectionIds": [
+        "writing",
+        "inscriptions"
+      ],
+      "note": "承接魏碑学习与书体演变，将唐楷成就单独归于魏碑的因果收紧。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-culture",
+      "sectionIds": [
+        "votive-image"
+      ],
+      "note": "明确太平真君是北魏太武帝年号。南征串场不另立内容。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-culture",
+      "sectionIds": [
+        "votive-image"
+      ],
+      "note": "校正年号所属和450年换算，并以443年馆藏立像承接佛像兴趣；原稿未具名市场器物未鉴定，仍保留缺口。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-culture",
+      "sectionIds": [
+        "writing",
+        "inscriptions"
+      ],
+      "note": "区分太武帝文字整理诏与北朝长期形成的刻石传统。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-culture",
+      "sectionIds": [
+        "writing"
+      ],
+      "note": "据425年诏令纠正创造楷书、全国公文只能用楷书两项误解；楷式为规范。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-culture",
+      "sectionIds": [
+        "writing",
+        "inscriptions"
+      ],
+      "note": "唐代书法成就不归于一人命令，个人喜好作为观感保留，不当作历史因果。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-culture",
+      "sectionIds": [
+        "inscriptions",
+        "caves"
+      ],
+      "note": "将原稿留待读者了解的艺术入口具体化，补魏碑载体、造像题记与石窟营造阶段。"
+    }
+  ]
+}

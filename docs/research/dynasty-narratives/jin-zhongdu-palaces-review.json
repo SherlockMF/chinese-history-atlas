@@ -1,0 +1,396 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：J03：金01 P106–138。通读原段与揽辔录进城入觐全文，校金史地理舆服记载，并读西厢工程与太液池考古回顾对应上下文。 已完整阅读所列原稿并查核所引史源；未回听音频，辽组非起草代理已完成原段全文、正文、逐段台账与引文上下文的独立交叉复核；页面待主代理批验。原始基线不变。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "partial": 15,
+    "corrected": 9,
+    "uncertain": 5,
+    "covered": 2,
+    "not-needed": 1,
+    "not-covered": 1
+  },
+  "rows": [
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "capital-shape"
+      ],
+      "note": "补都城宫门道路秩序；与明清相似仅作比较，不判形制完全相同。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "capital-shape"
+      ],
+      "note": "承接轴线和层次，纠正不分时代把长安概括两个正方体的比喻。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "capital-shape"
+      ],
+      "note": "辽南京基础扩建已证；金直接唯一示范元明清的谱系尚未展开证明。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "capital-shape",
+        "fish-pond"
+      ],
+      "note": "承接园池地位与太液池名，未拿现代中南海比喻当精确范围。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "capital-shape",
+        "fish-pond"
+      ],
+      "note": "辽井与分期湖岸说明早层活动；并非证明湖岸原形早于金。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "partial",
+      "assessment": "uncertain",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "fish-pond"
+      ],
+      "note": "民国水位、棚户区及录音当时围墙现状未有本次可复核一手连续资料。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "fish-pond"
+      ],
+      "note": "别墅开发和未入住状态未获现况文件，不把旧见闻写为现在。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "fish-pond"
+      ],
+      "note": "待开发状态、法律处理与未来开放仍待时点明确的官方文件。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "fish-pond"
+      ],
+      "note": "以金史鱼藻池赐宴张浩代替皇帝或曾散步的虚拟场面，承接园林生活。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "palaces-underground"
+      ],
+      "note": "核1990西厢工程宫殿区夯土发现；保留大安殿判断而非整殿埋地下。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "capital-shape",
+        "inside-renzheng"
+      ],
+      "note": "纠正宫城仅三主要殿可一一套故宫的说法，补多种功能空间。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "inside-renzheng"
+      ],
+      "note": "独立复核补《金史》卷8大定二十八年十一月仁政殿辽时所建、如旧原条，辽殿沿用已承接；昭明殿寝殿仍未证，不能升为全段覆盖。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "inside-renzheng",
+        "capital-shape"
+      ],
+      "note": "仁政常朝可证；以此殿为中心且北城完全不扩的细部规划未核。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "partial",
+      "assessment": "uncertain",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "inside-renzheng"
+      ],
+      "note": "前殿大安与常朝仁政可证，十一间和三层汉白玉台基未证；十一楹明确属于应天门。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "capital-shape",
+        "inside-renzheng"
+      ],
+      "note": "承接扩建及前殿后殿区别；简单旧殿夹新殿的版本演进未采信。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "palaces-underground"
+      ],
+      "note": "承接1990宫殿区发现与地上建筑已失，避免完整殿体仍存错觉。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [],
+      "note": "城市随处掘墓与西安修地铁一百年的笑谈不补为事实。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "palaces-underground"
+      ],
+      "note": "不能依今日南北城概括地下文物时代；具体层位决定断代。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "palaces-underground"
+      ],
+      "note": "回应个人挖沟观察的证据边界，未证所见碎瓷具体出土点。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "palaces-underground"
+      ],
+      "note": "辽金遗存现实已承接；所述个人砖瓷发现及古蓟城层仍无点位可复核。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [],
+      "note": "原段是主播个人征集工作与老先生口述，既无可查征集档号，也未交代实物藏所；石鹅/石额转写未回听。不得伪造来源、改写为考古发现，作为私人见闻不采用，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "palaces-underground"
+      ],
+      "note": "善果桥地下保存口述未有实际考古，正文不确认完整桥体。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "palaces-underground"
+      ],
+      "note": "承接城市地下历史的感受，桥存在和完整性仍不升级。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "envoys-route"
+      ],
+      "note": "补御廊、太庙及宫城路线；廊西六部精确布局未据本次原典确认。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "envoys-route"
+      ],
+      "note": "右社指社坛，不是六部机构；不能说与明清格局一模一样。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "envoys-route"
+      ],
+      "note": "明确现代建筑对应只是类比，不作为金代左祖右社配置的证据。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "clothing-and-distance"
+      ],
+      "note": "共同文化资源已写，不据此断所有居民语言习俗全同。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "clothing-and-distance"
+      ],
+      "note": "补刘筈仕辽入金参与来使礼仪的具体例证，承接不同出身者共同服务主题；原段所说全部迁都人员的渤海、宋、辽履历未在本节逐一展开。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "clothing-and-distance"
+      ],
+      "note": "交流和政治界限并陈，不替所有人为宋金战争预设纠结心理。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "envoys-route",
+        "clothing-and-distance"
+      ],
+      "note": "会同馆接待功能可证，纠正端礼门名动机望文生义与宋金一贯平等。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "envoys-route",
+        "clothing-and-distance"
+      ],
+      "note": "馆舍不等于常驻大使馆；唐人穿越无感仅想象而非城市未变。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "clothing-and-distance"
+      ],
+      "note": "不凭未注明年代版本帝像直接证全部服发，以制度和亲见文字互校。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-zhongdu-palaces",
+      "sectionIds": [
+        "clothing-and-distance"
+      ],
+      "note": "说明礼服常服各异；原稿两侧辫发的具体画像未指明，未确认该细节。"
+    }
+  ],
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "金01_clean_v1.md",
+        "paragraph": "P126",
+        "resolution": "research-closed"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

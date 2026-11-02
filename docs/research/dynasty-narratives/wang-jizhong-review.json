@@ -1,0 +1,191 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核：亲读本篇台账全部对应原段、正文与列明原典；2026-10-11逐P校验实际sectionIds与transcripts，修正未核片段评估；未回听音频。史源缓存output/research-source-cache。",
+  "counts": {
+    "partial": 5,
+    "corrected": 2,
+    "not-needed": 5,
+    "covered": 5
+  },
+  "rows": [
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [
+        "wakiao-1004"
+      ],
+      "note": "承接1004南征与瓦桥关战略地位；“辽北面被燕山堵死/只有此通道”未获史源支持，不保留绝对地理结论。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [
+        "wakiao-1004",
+        "the-veteran-of-two-courts"
+      ],
+      "note": "1003望都被擒先于1004南征；《宋史》确有领云州观察使，不将此官名一概纠错；屯定州与领云州官衔分开。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [],
+      "note": "王继忠名字现代感的闲聊，无实质命题。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [],
+      "note": "起名玩笑延续，无实质命题。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [
+        "the-veteran-of-two-courts"
+      ],
+      "note": "两朝为官的引入承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [
+        "the-veteran-of-two-courts"
+      ],
+      "note": "真宗潜邸旧臣按《宋史》“真宗在藩邸，得给事左右，以谨厚被亲信”承接；高俅类比不进史文层。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [
+        "the-veteran-of-two-courts"
+      ],
+      "note": "潜邸概念与近臣身份承接；辽史记“仕宋为郓州刺史、殿前都虞候”补入。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [],
+      "note": "算命先生寒暄玩笑，无实质命题。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [
+        "the-veteran-of-two-courts"
+      ],
+      "note": "保留两朝任职事实；预言与太子朝算命对白未证，仅在解释中限定，不标实际发生。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [],
+      "note": "吓尿与辩白玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [
+        "the-veteran-of-two-courts"
+      ],
+      "note": "宋史领云州观察使、俄徙定州亲核；官衔不等于守云州，算命人收束对白不作史实。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [
+        "wangdu-capture"
+      ],
+      "note": "康村力战“自日昳至乙夜”与王超等“畏缩退师，竟不赴援”按《宋史》逐字承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [],
+      "note": "梆子戏玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [
+        "wangdu-capture"
+      ],
+      "note": "按兵不动＝不赴援的澄清承接；“服饰稍异，契丹识之，围数十重”“至白城，遂陷于契丹”逐字补入；辽方“遇南府宰相耶律奴瓜等，获之”并陈。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [
+        "wangdu-capture"
+      ],
+      "note": "追赠大同军节度、厚赙、官四子落实；先誓不降/绝食未见两传，不能以追赠段覆盖未证行动。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [
+        "new-life-in-liao"
+      ],
+      "note": "康默记族女赐婚落实；以老婆孩子劝降及改口投降对白未证。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-jizhong",
+      "sectionIds": [
+        "new-life-in-liao"
+      ],
+      "note": "赐婚、仕辽与宋方李陵类比及通使恩礼落实；立即随军南下等动作未由两传确认。"
+    }
+  ],
+  "independentReview": "completed"
+}

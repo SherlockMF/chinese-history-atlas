@@ -1,0 +1,292 @@
+{
+  "date": "2026-10-02",
+  "method": "L06：辽组子代理完整阅读列出原段、检索并阅读所列原典后逐段自审；未回听音频，独立交叉复核待主代理完成，原基线不变。",
+  "counts": {
+    "covered": 7,
+    "partial": 14,
+    "corrected": 4
+  },
+  "rows": [
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "the-last-eastern-campaign"
+      ],
+      "note": "925末亲征渤海与926进军完整承接。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "the-last-eastern-campaign"
+      ],
+      "note": "倍德光从征、926改东丹；东边契丹仅通俗释义。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "the-last-eastern-campaign",
+        "a-farewell-and-a-death"
+      ],
+      "note": "人皇王治理东丹、父子告别有传记依据，去掉许诺未来全国的补白。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "a-farewell-and-a-death"
+      ],
+      "note": "东征后病卒、史记55及分别承接；与成吉思汗死亡类比不采用。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "a-farewell-and-a-death"
+      ],
+      "note": "长子太子、次子战功资格；大元帅授922，不是916同时。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "three-bundles-of-firewood"
+      ],
+      "note": "三子出自述律后，采薪故事按列传呈现。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "three-bundles-of-firewood"
+      ],
+      "note": "干柴束归和德光先归有据，折成等长等细节不加。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "three-bundles-of-firewood"
+      ],
+      "note": "采薪表现与长巧次成少不及原评。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "three-bundles-of-firewood",
+        "power-in-mourning"
+      ],
+      "note": "皇后立德光意图有据，不把汉化程度高定为唯一动机。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "three-bundles-of-firewood"
+      ],
+      "note": "继承资格复杂，采薪不作为正式选立程序，火柴笑谈不入。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "a-farewell-and-a-death"
+      ],
+      "note": "太祖本纪记德光讨诸州后赴行在、倍继至，非简单德光原已随柩倍独赶回。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "a-farewell-and-a-death",
+        "power-in-mourning"
+      ],
+      "note": "皇后随征后奉柩非在家等待；辽史77确有叠里坚持立东丹王而受刑死的具体个案，但不证全部功臣一致反对立德光。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "power-in-mourning"
+      ],
+      "note": "殉葬清洗与控制局势有据，个人心情因果不作确定事实。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "power-in-mourning"
+      ],
+      "note": "问思先帝命从死按通鉴；另补辽史77叠里因立嗣主张被杀，不把每名殉者都补成同一朝堂对白。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "power-in-mourning",
+        "the-emperor-awaits-burial"
+      ],
+      "note": "殉葬与停殡承接，旧葬俗与太祖葬法分开。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "the-emperor-awaits-burial"
+      ],
+      "note": "新五代史树置及收骨有据，天地归还心理推断不作统一信仰解释。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "the-emperor-awaits-burial"
+      ],
+      "note": "926至927停殡入葬及石室研究承接；晾尸石房精确定位仍为研究推断。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "power-in-mourning",
+        "the-emperor-awaits-burial",
+        "the-severed-wrist"
+      ],
+      "note": "赵思温受逼殉故事保留，不采用死者全上树等拼接。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "the-severed-wrist"
+      ],
+      "note": "赵思温以亲近关系反问核心原典有据。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "the-severed-wrist"
+      ],
+      "note": "皇后何不行的反诘完整承接。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "the-severed-wrist"
+      ],
+      "note": "子幼国多故为史书内皇后说辞，不扩写28岁还是孩子对白。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "the-severed-wrist"
+      ],
+      "note": "断腕两种史源并列；右腕来自辽史，不认定当朝亲自挥刀所有细节。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "the-severed-wrist"
+      ],
+      "note": "赵获释可证，不能推此后不再逼殉；去除恐惧笑谈。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "choose-the-reins"
+      ],
+      "note": "选立与皇后意图承接，不将众意纯归为断手威吓。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "shulu-regency",
+      "sectionIds": [
+        "choose-the-reins"
+      ],
+      "note": "执辔发生帐前而非城院，注明通鉴926/辽史927纪年分歧。"
+    }
+  ]
+}

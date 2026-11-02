@@ -1,0 +1,193 @@
+{
+  "date": "2026-09-30",
+  "method": "通读本项全部原段并核对所列原始史籍，按正文的实际承接逐段登记；未回听音频。",
+  "counts": {
+    "partial": 7,
+    "covered": 2,
+    "corrected": 7
+  },
+  "rows": [
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "many-beliefs"
+      ],
+      "note": "以崔浩、寇谦之及具体宫廷人物展开信仰差别，不代言全部汉人士族；原稿第一次出现多种认知之说未作全历史比较。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "many-beliefs"
+      ],
+      "note": "张陵、张衡、张鲁传承和五斗米道组织已补；曹操平汉中后的具体迁民与信仰传播路线未研究完。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "many-beliefs"
+      ],
+      "note": "写王羲之与王氏奉道、崔浩事寇谦之；从汉中迁民到晋代各士族的传播链未逐项承接。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "many-beliefs",
+        "restoration"
+      ],
+      "note": "以具体人物说明宫廷与士族内部的信仰差别，不将族属等同信仰；写太武早期礼佛及文成朝昙曜开窟，原段所提后来龙门石窟未在本篇展开。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "many-beliefs"
+      ],
+      "note": "崔浩上疏支持寇谦之、道场建立与太武态度变化已经展开，不把想法虚构为当面对白。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "faguo"
+      ],
+      "note": "法国校法果，拓跋珪好黄老且览佛经并存，不写成只能二选一或一人改变全部信仰。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "faguo"
+      ],
+      "note": "按赵郡法果征召与道人统职责落笔，限制整个南方佛教蔑视王权的概括；不编造皇帝向他提问的场面。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "faguo"
+      ],
+      "note": "写法果自述礼佛而非拜天子及皇权解释，和拓跋珪直接问答的节目形式分开。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "temple-and-state",
+        "restoration"
+      ],
+      "note": "开窟者校为文成朝昙曜；政治凝聚作为解释角度，不当法果开窟或开国政策的证明。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "temple-and-state",
+        "restoration"
+      ],
+      "note": "功能解释被限定为读史角度，不说所有人被要求只信佛教；恢复佛法仍伴人数资格管理。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "temple-and-state"
+      ],
+      "note": "以昙摩谶与沮渠蒙逊咨询国事、术数预言为具体例证，说明宗教权威与统治关系。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "temple-and-state"
+      ],
+      "note": "人口控制与寺院寄财等已有具体史料承接，全国寺产财富增幅与数量未完成经济史核算。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "temple-and-state",
+        "edict"
+      ],
+      "note": "太武禁佛与僧众控制、反对滥杀已写，不沿用青壮年全部出家；三武一宗的其余三次禁佛未在本篇展开。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "temple-and-state",
+        "edict"
+      ],
+      "note": "不以信佛失去血性解释军力，不把一寺财物等同全国寺院免税总账；补诏令中的政教诉求及其立场。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "changan"
+      ],
+      "note": "445年杏城起兵、响应与太武亲征已写，盖吴最后败亡及各路平定过程仍未细写。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-buddhism",
+      "sectionIds": [
+        "changan",
+        "edict"
+      ],
+      "note": "弓矢矛盾、皇帝通谋判断、崔浩进言和扩大诏令分开；不把全体僧人参乱或全部鲜卑贵族支持佛教定为事实。"
+    }
+  ]
+}

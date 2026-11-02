@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读北齐P145–P157共13段，对读北齐书8/11/50、北史14、通鉴172/173和李商隐北齐二首；未回听音频，诗歌、史事、节目对白逐项区别。",
+  "counts": {
+    "corrected": 6,
+    "covered": 2,
+    "partial": 3,
+    "not-needed": 1,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "gao-wei-poems",
+      "sectionIds": [
+        "young-emperor",
+        "judgment"
+      ],
+      "note": "补高纬继位与权力移交、隔绝朝臣及具体决策，不把家族概括为遗传精神疾病。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-wei-poems",
+      "sectionIds": [
+        "young-emperor",
+        "favorites"
+      ],
+      "note": "565传位、568高湛去世，纠正两年说；文学兴趣、573文林馆与亲近者控制分开叙述。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-wei-poems",
+      "sectionIds": [
+        "favorites"
+      ],
+      "note": "校何时开为和士开，区分高湛宠信、胡氏私情与未证双向恋爱关系；列明后来三贵。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gao-wei-poems",
+      "sectionIds": [
+        "feng-xiaolian"
+      ],
+      "note": "实写冯小怜参与田猎/停攻情节及战机延误；同时指出下命令的高纬承担统治责任，评价展开不另计事实校正。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-wei-poems",
+      "sectionIds": [
+        "feng-xiaolian",
+        "poetic-judgment"
+      ],
+      "note": "补冯小怜出身与受宠；节目夸张容貌及帝向群臣设问的对白未核，不作为史实补造。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "gao-wei-poems",
+      "sectionIds": [],
+      "note": "反复追问多好看的接话，本段无独立史事情节。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "gao-wei-poems",
+      "sectionIds": [
+        "poetic-judgment"
+      ],
+      "note": "本段核心为脱衣召群臣围观的完整场景，尚无可靠史源可证；正文只说明李诗不足以证实，不把P152的诗句覆盖归给本段。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gao-wei-poems",
+      "sectionIds": [
+        "poetic-judgment"
+      ],
+      "note": "展示李商隐《北齐二首》其一全文、作者与翻译，解释玉体横陈的文学图景；小怜/已报字样依诗集。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-wei-poems",
+      "sectionIds": [
+        "favorites",
+        "last-throne",
+        "judgment"
+      ],
+      "note": "纠正和士开仍活到亡国与家族疾病诊断，具体统治责任实写；高欢父辈身世的独立比较未在本篇展开（另见高欢篇），不计本篇完整承接。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-wei-poems",
+      "sectionIds": [
+        "lanling",
+        "last-throne"
+      ],
+      "note": "高长恭姓名、宗族位置、战功与573赐毒实写，含家事之语和受赇自污；末期仍有兵将可用，不把美貌当确定杀因。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-wei-poems",
+      "sectionIds": [
+        "last-throne",
+        "judgment"
+      ],
+      "note": "写高纬弃守、东逃、被俘与死亡；金末皇帝、天祚与耶律大石的跨朝比较未展开。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "gao-wei-poems",
+      "sectionIds": [
+        "last-throne",
+        "judgment"
+      ],
+      "note": "高恒继位、八岁为传统计龄，550至577为首尾二十八纪年；纠正高氏仅两辈与遗传诊断，不以荒淫之最为公认定论。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-wei-poems",
+      "sectionIds": [
+        "feng-xiaolian",
+        "judgment"
+      ],
+      "note": "以文林馆、救济与巡抚诏令纠正无一正事的绝对说法；前线失误择要叙述，战争细节接平阳篇。"
+    }
+  ]
+}

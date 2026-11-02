@@ -1,0 +1,177 @@
+{
+  "date": "2026-09-30",
+  "method": "完整读完指定原段，对照古籍本纪、列传与通鉴逐段核实正文。兵数、战果及败因异文保留史源口径；无据对白、同伏地点和反事实不冒充覆盖。未回听录音。",
+  "counts": {
+    "corrected": 9,
+    "partial": 3,
+    "covered": 2
+  },
+  "rows": [
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shayuan-battle",
+      "sectionIds": [
+        "grain-and-advance"
+      ],
+      "note": "二十万与周书十万并列口径，高敖曹三万仍另一路；弘农就粮与围城、薛琡阻粮劝不渡河校正为实际部署，不说高欢只走一路围一座宇文泰私粮仓。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shayuan-battle",
+      "sectionIds": [
+        "grain-and-advance",
+        "three-days-grain"
+      ],
+      "note": "不听薛琡侯景建议、宇文泰退关与主动渡渭均具体写出；忿兵明确是宇文深评价，不把高家神经质或高欢报仇独白当史实。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shayuan-battle",
+      "sectionIds": [
+        "three-days-grain",
+        "reeds-and-fire"
+      ],
+      "note": "宇文泰沙苑迎敌、李弼建议渭曲并背水列阵，以预定部署纠正弃城逃入草地藏身。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shayuan-battle",
+      "sectionIds": [
+        "reeds-and-fire"
+      ],
+      "note": "高欢问火攻、侯景在场身份及建议均承接；网上宇宙大将军称呼未考证来源，也不作一生有勇有谋的无差别评价。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shayuan-battle",
+      "sectionIds": [
+        "reeds-and-fire"
+      ],
+      "note": "侯景主张生擒宇文泰示众、恐烧死难信的理由依通鉴保留，作为记载的战前意见。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shayuan-battle",
+      "sectionIds": [
+        "reeds-and-fire"
+      ],
+      "note": "火攻议在当日下午交锋前，随后采彭乐进攻建议；纠正计划夜烧、推迟到次日及所有将官一致求活捉的场景。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shayuan-battle",
+      "sectionIds": [
+        "three-days-grain",
+        "reeds-and-fire",
+        "families-after-battle"
+      ],
+      "note": "没有实施火攻及后续将领话题已承接；全军因分不到功劳而反对、熬过一夜等援兵的心理链未采用，相关缺口不算覆盖。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shayuan-battle",
+      "sectionIds": [
+        "families-after-battle"
+      ],
+      "note": "李虎为李渊祖、杨忠为杨坚父正名核实，杨忠参加沙苑有本传明文；李虎与宇文泰同在某草坑未核，火烧则无隋唐的反事实不作定论。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shayuan-battle",
+      "sectionIds": [
+        "families-after-battle"
+      ],
+      "note": "明确后来八柱国有李虎，杨忠在十二大将军名单，形成有先后，不把二人均列沙苑时的八柱国。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shayuan-battle",
+      "sectionIds": [
+        "grain-and-advance",
+        "three-days-grain",
+        "cavalry-across"
+      ],
+      "note": "侯景两军前后接应建议发生渡河前且未被采纳；横击为既在阵中的李弼，诸州兵战后才到，纠正次日援兵救场。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shayuan-battle",
+      "sectionIds": [
+        "cavalry-across",
+        "empty-camps",
+        "families-after-battle"
+      ],
+      "note": "李弼右军横截使东魏中断、败退过程具体承接；李密为曾孙非儿子、父李宽；李弼不是从外赶来的援军。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shayuan-battle",
+      "sectionIds": [
+        "cavalry-across",
+        "empty-camps"
+      ],
+      "note": "阵线被截、行列混乱与张华原持册点名无人应的具体记载承接失去组织的问题；不补全体士卒跟跑的共同内心。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shayuan-battle",
+      "sectionIds": [
+        "reeds-and-fire",
+        "empty-camps",
+        "families-after-battle"
+      ],
+      "note": "火攻没有实施，结果不能预判，去除明明一烧必胜和命数定论，以实际交锋、撤退与后来家世分别解释。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shayuan-battle",
+      "sectionIds": [
+        "empty-camps",
+        "war-continues"
+      ],
+      "note": "沙苑扩大战果及东魏尚有资源保留；补538河桥与543邙山西魏挫败，纠正每战西胜与东魏一直单向下降的结论。"
+    }
+  ]
+}

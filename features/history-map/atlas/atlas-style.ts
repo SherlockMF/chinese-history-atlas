@@ -60,7 +60,11 @@ const REALM_COLOR: ExpressionSpecification = [
   "#9f4036",
 ];
 
-function createPhysicalBasemapLayers(): LayerSpecification[] {
+export function realmFillOpacity(muted = false): ExpressionSpecification {
+  return ["*", ["coalesce", ["get", "coverageOpacity"], 1], muted ? 0.12 : ["match", ["get", "boundaryKind"], "influence", 0.16, 0.34]];
+}
+
+export function createPhysicalBasemapLayers(): LayerSpecification[] {
   return layers("protomaps", LIGHT)
     .filter((layer) => {
       if (FORBIDDEN_MODERN_LAYER.test(layer.id)) {
@@ -141,15 +145,9 @@ function createHistoricalLayers(): LayerSpecification[] {
       type: "fill",
       source: "realms",
       paint: {
-        "fill-color": REALM_COLOR,
+        "fill-color": ["coalesce", ["get", "color"], REALM_COLOR],
         "fill-antialias": false,
-        "fill-opacity": [
-          "match",
-          ["get", "boundaryKind"],
-            "influence",
-            0.16,
-          0.34,
-        ],
+        "fill-opacity": realmFillOpacity(),
       },
     },
     {
@@ -177,9 +175,9 @@ function createHistoricalLayers(): LayerSpecification[] {
       type: "line",
       source: "boundaries",
       filter: [
-        "in",
-        ["get", "accuracyLevel"],
-        ["literal", ["approximate", "illustrative"]],
+        "all",
+        ["in", ["get", "accuracyLevel"], ["literal", ["approximate", "illustrative"]]],
+        ["!=", ["get", "supplement"], true],
       ],
       paint: {
         "line-color": "#697269",
@@ -288,6 +286,36 @@ function createHistoricalLayers(): LayerSpecification[] {
       },
     },
     {
+      id: "atlas-context-labels",
+      type: "symbol",
+      source: "places",
+      filter: ["==", ["get", "placeKind"], "landmark"],
+      layout: {
+        "text-field": ["get", "name"],
+        "text-font": ["Noto Sans Regular"],
+        "text-size": ["interpolate", ["linear"], ["zoom"], 2, 10, 6, 13],
+        "text-letter-spacing": 0.06,
+      },
+      paint: {
+        "text-color": "#58615b",
+        "text-halo-color": "rgba(243, 240, 231, 0.94)",
+        "text-halo-width": 1.2,
+      },
+    },
+    {
+      id: "atlas-realms-supplement-line",
+      type: "line",
+      source: "boundaries",
+      filter: ["==", ["get", "supplement"], true],
+      layout: { "line-cap": "round" },
+      paint: {
+        "line-color": "#887454",
+        "line-dasharray": [0.6, 3.2],
+        "line-opacity": 0.8,
+        "line-width": ["interpolate", ["linear"], ["zoom"], 3, 1.1, 7, 2.2],
+      },
+    },
+    {
       id: "atlas-capital-labels",
       type: "symbol",
       source: "places",
@@ -315,6 +343,11 @@ export function createAtlasStyle(): StyleSpecification {
     glyphs:
       "https://protomaps.github.io/basemaps-assets/fonts/{fontstack}/{range}.pbf",
     sources: {
+      extendedLand: {
+        type: "geojson",
+        data: "/maps/base/atlas-land-context.geojson",
+        attribution: '<a href="https://www.naturalearthdata.com">Natural Earth</a> · Public domain',
+      },
       protomaps: {
         type: "vector",
         url: `pmtiles://${PROTOMAPS_ARCHIVE_URL}`,
@@ -333,6 +366,8 @@ export function createAtlasStyle(): StyleSpecification {
       realms: {
         type: "geojson",
         data: EMPTY_FEATURE_COLLECTION,
+        // Keep adjacent coverage bands on identical vertices when tiling.
+        tolerance: 0,
       },
       realmLabels: {
         type: "geojson",
@@ -354,7 +389,9 @@ export function createAtlasStyle(): StyleSpecification {
       },
     },
     layers: [
-      ...createPhysicalBasemapLayers(),
+      ...createPhysicalBasemapLayers().flatMap((layer): LayerSpecification[] => layer.type === "background"
+        ? [layer, { id: "atlas-extended-land", type: "fill", source: "extendedLand", paint: { "fill-color": "#ebe4d4" } }]
+        : [layer]),
       ...createHistoricalLayers().flatMap((layer) => layer.id === "atlas-prefectures"
         ? [...createPhysicalBasemapLayers().filter((physical) => physical.type === "fill" && "source-layer" in physical && physical["source-layer"] === "water").map((water) => ({ ...water, id: `atlas-coast-mask-${water.id}` })), layer]
         : [layer]),

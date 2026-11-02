@@ -1,0 +1,384 @@
+{
+  "date": "2026-09-30",
+  "method": "通读南朝01 P089–P104及P109–P124共32段，核宋书1/2/48/50/61、晋书128、通鉴115至118，复用现有晋专题的事件骨架并展开战事、供粮、外交与关中失守；辛弃疾词据已有全文与原作入口。未回听音频；种族归附定律、六项目标表、战事排名、技术来源与私人心理不以相似主题充作核定。 已由独立复核者完整对读原段、正文和判定，并回核通鉴、宋书、晋书相关材料，维持现有覆盖等级。",
+  "counts": {
+    "corrected": 13,
+    "partial": 16,
+    "covered": 3
+  },
+  "rows": [
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "a-raid-for-musicians"
+      ],
+      "note": "校慕容超继位为405而非409，409为掠晋补乐工、引发此次战争；王语嫣等插科不充作史实。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "a-raid-for-musicians"
+      ],
+      "note": "具体写宿豫、济南侵掠与掳人充乐工，避免以游牧民族天然战斗思想概括全部族群，也不据新官上任推定唯一动机。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "a-raid-for-musicians",
+        "linqu-and-the-road"
+      ],
+      "note": "承接刘裕决定伐南燕、公孙五楼等应战及布阵，六个指标为节目串讲方式，不当作刘裕自订计划；最擅长水步配合的跨生涯排名没有全面证明。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "linqu-and-the-road"
+      ],
+      "note": "补刘裕与慕容超亲临、下邳水转陆与临朐作战；未以蔡瑁张允、陆逊玩笑确定军事传承，也不把临朐全役简化为今天弥河一点。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "linqu-and-the-road"
+      ],
+      "note": "补四千车分两翼与轻骑、步军，以及胡藩建议攻取临朐城、斩旗的具体行动；不是只笼统截断后路，刘毅转写校刘裕，攻击在正面未分胜负时发生。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "linqu-and-the-road"
+      ],
+      "note": "还原城陷后慕容超先奔段晖、再败退广固，正面进击和夺城相接；骑兵只要主将逃便必散、一定能重聚等兵种通论未实证承接，自保心理不添独白。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "linqu-and-the-road",
+        "grain-beyond-the-walls"
+      ],
+      "note": "校临朐大败后尚有广固内城围困至410，不写为南燕主动归还整个青州；分别说明外城与内城失守及控制变化。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "linqu-and-the-road",
+        "grain-beyond-the-walls"
+      ],
+      "note": "补乘胜追至广固、围城与抚纳地方的连续行动；必须不停追击的内心对白及同族天然先天优势没有当作已核史实。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "grain-beyond-the-walls"
+      ],
+      "note": "实写齐地供粮、停江淮转运、接纳任用降人；据宋书华戎欢悦等记录纠正单一汉族亲缘必然解释，不为所有居民补同一种对白。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "grain-beyond-the-walls",
+        "the-relief-that-did-not-come"
+      ],
+      "note": "补广固内城与乞援、姚强率步骑一万将会姚绍；不是单一一万骑兵，宋书不敢遣与通鉴欲援后撤分别呈现。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-relief-that-did-not-come"
+      ],
+      "note": "补十万屯洛阳威胁、刘裕判断虚张声势及刘穆之担忧；赫连勃勃确牵制后秦，但原稿替刘裕设计的即时内心粗口与推理原话未采。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-relief-that-did-not-come"
+      ],
+      "note": "承接援军实力与后秦自保压力，区分宣传数字与出兵记载；非亲兄弟所以不会全力救援的现代口语因果和虚构对话未证。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-relief-that-did-not-come"
+      ],
+      "note": "按通鉴具体补姚兴败于赫连勃勃后追回姚强、韩范转而降晋，交代慕容超的援救期待为何落空；大王插话不列史事。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-price-of-guanggu"
+      ],
+      "note": "补割地称藩不许、悦寿开城、慕容超突围被获与建康处死；杀王公以下三千、没入家口万余按通鉴原范围，不扩作已证全部单一鲜卑族属，保留韩范阻止尽坑。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-price-of-guanggu",
+        "a-city-lost"
+      ],
+      "note": "展开屠戮与招纳的张力及司马光批评，承接逐次军功扩大威望的背景；威慑就是屠杀唯一动机、预防北方最后赢家等意图与贪吃蛇类比未当史料。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-price-of-guanggu",
+        "the-road-to-qin",
+        "a-city-lost"
+      ],
+      "note": "以南燕战后回师和北伐之间的南方战事作过渡，入蜀另有专篇；六味地黄丸指标及刘裕预定次序未史实化，也未在本篇重讲桓玄逃蜀全程。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-road-to-qin"
+      ],
+      "note": "承接后秦曾关联南燕与姚兴病逝后的新时机；三项四项目标排名为节目结构，不认定早已制定，入蜀艰难的全程见独立篇。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-road-to-qin",
+        "at-changans-north-gate"
+      ],
+      "note": "补416姚泓继位、内乱与刘裕出兵，区分多路陆军和水军推进，不将收复洛阳长安的全部部队说成统一渡过黄河再西行。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-road-to-qin",
+        "carts-against-the-riders",
+        "a-city-lost"
+      ],
+      "note": "准确接辛弃疾怀古词与刘裕进取气势，补北魏实际干预；从南打北一般都比反向困难的绝对军事定律未全面证明。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-road-to-qin",
+        "carts-against-the-riders"
+      ],
+      "note": "补417沿黄河上行与北魏骑兵并行、假道争论；主力舟师并非全军先渡河站到北岸再一直西走，魏廷动机也不只阻止继续向北。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "carts-against-the-riders"
+      ],
+      "note": "实质补北岸截杀牵挽人员、却月阵、弩射与近战、朱超石反复战斗；未把原段含糊的全程损失非常惨重转成有精确证据的晋军总损失统计。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "carts-against-the-riders",
+        "a-city-lost"
+      ],
+      "note": "补魏军一次败退不等于永久退出、夏仍强大的政治格局；蜀地匠人导致弩具的猜测明留缺，未因两件事先后发生就认定技术传承。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "carts-against-the-riders",
+        "at-changans-north-gate",
+        "the-man-left-in-jiankang"
+      ],
+      "note": "补洛阳、长安取得与父老挽留、继续经略考虑；诸葛连弩和蜀匠来源未核，长安是一切正朔的绝对心理没有代刘裕断言。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-road-to-qin",
+        "the-man-left-in-jiankang"
+      ],
+      "note": "具体补刘裕出征时建康留府安排、刘穆之实际总摄及朝政和军需的联系，说明前线与根本之依赖；未用节目设想的另一次政变当已经发生。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-road-to-qin",
+        "the-man-left-in-jiankang"
+      ],
+      "note": "补刘穆之作为留任核心、刘裕驻长安经略北方的考虑；分享胜利等私人对白不造，笼统还要吃掉谁未虚拟具体未记方案。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-man-left-in-jiankang"
+      ],
+      "note": "据宋书和通鉴承接长安经略计划、刘穆之卒、刘裕惊恸与根本无托而决归，并写徐羡之接任仍需北咨。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-man-left-in-jiankang"
+      ],
+      "note": "承接东还与继续经略的取舍、将佐久役思归；绝大多数人把死讯解释天示警没有找到相应材料，不写为史籍共同意见。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-man-left-in-jiankang",
+        "three-killings"
+      ],
+      "note": "补十二岁刘义真、王修长史、王镇恶司马及沈田子等留守，夏军随后进攻；不称只是惧北魏强大才退，校王振等专名，保留政治和归愿因素。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "at-changans-north-gate",
+        "the-man-left-in-jiankang",
+        "three-killings"
+      ],
+      "note": "校王买德与王镇恶姓名，展开王买德分断道路、沈田子使宗人杀镇恶、王修诛田子、义真左右怨修导致杀修的顺序；王修为长史不泛称前线猛将。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-retreat-with-carts"
+      ],
+      "note": "补朱龄石替任与刘裕要求轻装速归、守不住可同归，未写朱到先大败夏军才换防；刘义真留镇十二据史，不在叙述里无据改十岁。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "the-retreat-with-carts"
+      ],
+      "note": "补掠财口、缓行与傅弘之建议、青泥败俘；义真草中由段宏寻救，朱龄石另奔潼关曹公垒、断水被俘后遇害，不写他救义真战死或义真独骑一路逃回。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yu-northern-campaigns",
+      "sectionIds": [
+        "three-killings",
+        "the-retreat-with-carts",
+        "a-city-lost"
+      ],
+      "note": "以指挥系统、外战和幼子职责共同说明失守，不全责幼童；以闻败欲再伐、北望泣纠正丢长安便心安说法。晋宋夺位展开由建宋篇承担，此篇未详写四帝排名与登极全过程。"
+    }
+  ]
+}

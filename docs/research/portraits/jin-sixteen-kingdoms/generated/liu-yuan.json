@@ -1,0 +1,13 @@
+{
+  "id": "liu-yuan",
+  "name": "刘渊",
+  "representativeAge": 55,
+  "prompt": "Use case: historical-scene\nAsset type: 中国历史网站人物独立画像\nPrimary request: 创作刘渊的艺术想象肖像，画中约55岁。成年男子，方阔脸，厚眉、眼角细纹、浓密灰黑胡须，暗赭色交领长袍、简洁黑色冠帽，稳重深思。\nStyle/medium: 细腻水彩与墨线手绘，参考本站已有画像的温润纸纹、写实面部和柔和晕染质感；这是一张全新独立面孔，不复制他人面容。\nComposition/framing: 竖幅3:4，一位成年人物，胸部以上半身像，轻微三分之四侧身，脸部和完整头饰清楚，头顶留白，人物占画面约八成，背景为朴素暖米色纸面。\nColor palette: 克制的朱砂、赭石、青灰、墨黑。\nConstraints: 服装轮廓谨慎参考中国三至五世纪，避开明清式冠服、辫发和戏曲盔甲；容貌与服饰细节均为艺术想象，不宣称真实复原；无文字、题款、边框、标志、水印、旁人、道具或场景。",
+  "reference": null,
+  "note": "画中约55岁，为创作设定；未采用传世本人肖像，容貌、神态及服饰细节为艺术想象。",
+  "generator": "built-in image_gen",
+  "original": "C:/Users/84754/.codex/generated_images/01a0de1c-6589-7070-84b0-bc1880b1e620/exec-7d603360-c9b7-4397-aacf-627319952b7f.png",
+  "asset": "public/portraits/jin-sixteen-kingdoms/liu-yuan.webp",
+  "width": 1086,
+  "height": 1448
+}

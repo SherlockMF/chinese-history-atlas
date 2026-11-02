@@ -1,0 +1,293 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：S19：已完整阅读本篇所列原段，对照正文及列明原典逐段自审；子代理起草，主代理已独立阅读全文原段、原典与逐段台账并完成交叉复核；页面验证待补。未回听音频；基线保持不变。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "partial": 12,
+    "not-needed": 4,
+    "corrected": 5,
+    "covered": 1,
+    "uncertain": 1,
+    "not-covered": 1
+  },
+  "rows": [
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "a-writing-court"
+      ],
+      "note": "具体写宫廷赋诗与交游，不从皇帝爱诗推成百姓全写诗。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [],
+      "note": "陈树湘、段正淳等节目回忆未作为萧衍诗歌论据。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "a-writing-court",
+        "different-voices"
+      ],
+      "note": "承接诗歌偏好作为鉴赏问题，段正淳玩笑不写。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "different-voices"
+      ],
+      "note": "保留曹操比较作为个人审美，不列帝王诗人固定排名。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [],
+      "note": "曹操私人魅力及遗嘱真假未展开，非本篇诗作论证。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [],
+      "note": "遗物分赠与喝酒论英雄玩笑不承接。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "different-voices"
+      ],
+      "note": "引用观沧海和短歌行正确文本，校周公吐哺天下归心。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "different-voices"
+      ],
+      "note": "承接以景寄志和开阔气象的文本分析。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [],
+      "note": "滚雪真迹、见于四川博物馆和乾隆六万首没有核实，不纳正文；未回听。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "different-voices"
+      ],
+      "note": "承接比较偏好，乾隆即席引诗及质量排名不作事实。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "you-suo-si",
+        "different-voices"
+      ],
+      "note": "展开柔婉情态，不把有无帝王气当客观文学等级。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "you-suo-si",
+        "mochou",
+        "ziye"
+      ],
+      "note": "校有所思并录全诗，非仅两句；河中之水歌与子夜歌准确归题。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "mochou",
+        "ziye",
+        "fragrant-tree"
+      ],
+      "note": "校恃爱如欲进为子夜歌，芳树为一叶度春风；并说明莫愁末句版本异文。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "fragrant-tree"
+      ],
+      "note": "以具体物象分析承接观察细部，未将李清照生平简化为在家见物即写。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "you-suo-si",
+        "mochou",
+        "fragrant-tree"
+      ],
+      "note": "完整读四首并展示类别差异；现存八十余首统计口径未另核。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "ziye",
+        "different-voices"
+      ],
+      "note": "保留曹操与萧衍写法差别，未引未核海陵王诗句作等级标准。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [],
+      "note": "放下、节目接梗不需独立承接。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "a-writing-court",
+        "different-voices"
+      ],
+      "note": "写萧氏文学圈及七言实践，校萧统，未称首创七言或等同唐新乐府。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "different-voices"
+      ],
+      "note": "说明七言早已存在，萧衍不是独力为盛唐铺垫。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "different-voices"
+      ],
+      "note": "说明个人细微情感非萧衍时代才出现；不用欧洲文艺复兴强行解释。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [],
+      "note": "欧洲绘画从宗教到现实主义的单线过场与南朝诗文不属同一证据链，也不能断言以前皆只画神。为避免把此泛论当比较美术史结论，整段类比不采用，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "fragrant-tree",
+        "different-voices"
+      ],
+      "note": "保留感官观察的文学解释，欧洲光线论未采为历史事实。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "different-voices"
+      ],
+      "note": "承认创作变化同时置回同题传统，未称前无个人情感诗。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-poetry",
+      "sectionIds": [
+        "different-voices"
+      ],
+      "note": "承接皇帝能写普通情绪的观察，不虚构皇帝无需再写政治抱负的内心。"
+    }
+  ],
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "南朝04_clean_v1.md",
+        "paragraph": "P120",
+        "resolution": "research-closed"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

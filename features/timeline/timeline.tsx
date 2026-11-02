@@ -1,6 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import Link from "next/link";
 
 import {
   useHistoryStore,
@@ -22,7 +23,7 @@ import { TimelinePlayer } from "./timeline-player";
 import { TimelineTrack } from "./timeline-track";
 import { getTimelineEventsByYear } from "./timeline-years";
 
-export function Timeline({ events, mode = "full", series = fiveDynastiesConfig }: { events: HistoricalEvent[]; mode?: "full" | "preview"; series?: HistorySeriesConfig }) {
+export function Timeline({ events, mode = "full", series = fiveDynastiesConfig, mapYears = [] }: { events: HistoricalEvent[]; mode?: "full" | "preview"; series?: HistorySeriesConfig; mapYears?: readonly number[] }) {
   const tracks = getSeriesTracks(series);
   const currentYear = useHistoryStore((state) => state.currentYear);
   const [selectedTracks, setSelectedTracks] = useState<Set<SubjectTrack>>(
@@ -33,6 +34,12 @@ export function Timeline({ events, mode = "full", series = fiveDynastiesConfig }
     [events, selectedTracks, series],
   );
   const currentYearEvents = eventsByYear.get(currentYear) ?? [];
+  const playbackYears = useMemo(() => [...eventsByYear].filter(([, events]) => events.length).map(([year]) => year), [eventsByYear]);
+  const sortedMapYears = useMemo(() => [...mapYears].sort((a, b) => a - b), [mapYears]);
+  // Match the map page's preceding-stage selection and label the actual date.
+  const mapYear = series.mapMode === "snapshot" ? sortedMapYears.findLast(year => year <= currentYear) ?? sortedMapYears[0]
+    : series.mapMode === "annual" && currentYear >= (series.mapMinYear ?? series.timelineMinYear) && currentYear <= (series.mapMaxYear ?? series.timelineMaxYear) ? currentYear : undefined;
+  const routePrefix = series.id === "five-dynasties" ? "" : `/series/${series.slug}`;
   const subjectTracksEmpty =
     selectedTracks.size === 0 && (!series.prehistory || currentYear > series.prehistory.endYear);
 
@@ -41,9 +48,9 @@ export function Timeline({ events, mode = "full", series = fiveDynastiesConfig }
       <div className="flex flex-col gap-4 border-y border-ink/15 py-5 sm:flex-row sm:items-center sm:justify-between">
         <div className="grid gap-2">
           <TimelinePeriodLabel year={currentYear} series={series} />
-          <MobileYearStepper series={series} />
+          <MobileYearStepper series={series} years={playbackYears} />
         </div>
-        {mode === "full" ? <TimelinePlayer /> : null}
+        {mode === "full" ? <TimelinePlayer years={playbackYears} /> : null}
       </div>
       <TimelineFilters tracks={tracks} selected={selectedTracks} onChange={setSelectedTracks} />
       {series.prehistory && currentYear <= series.prehistory.endYear ? (
@@ -52,14 +59,15 @@ export function Timeline({ events, mode = "full", series = fiveDynastiesConfig }
         </p>
       ) : null}
       <TimelineTrack eventsByYear={eventsByYear} series={series} />
-      <p className="mt-2 text-xs leading-6 text-muted">连续暂无收录事件的年份已合并，时间轨间距不代表实际年数；可用上方年份选择逐年查看。</p>
+      <p className="mt-2 text-xs leading-6 text-muted">下拉选择与播放仅包含当前筛选下有事件的年份。时间轨保留“暂无收录”区间，间距不代表实际年数。</p>
+      {mapYear !== undefined ? <Link href={`${routePrefix}/map?year=${mapYear}`} className="mt-4 inline-flex min-h-11 items-center gap-2 border-b border-cinnabar/40 text-sm text-cinnabar">{mapYear === currentYear ? `${mapYear} 年 · 对应年代地图示意` : `参考 ${mapYear} 年地图示意（非本年）`} <span aria-hidden="true">↗</span></Link> : null}
       <div className="mt-6 flex flex-wrap gap-x-5 gap-y-2 text-[10px] tracking-[0.1em] text-muted">
         {Object.entries(typeMeta).filter(([key]) => key !== "biographical" || events.some((event) => event.eventType === key)).map(([key, meta]) => <span key={key}>{meta.label}</span>)}
       </div>
-      <div className="mt-6 grid gap-3 sm:grid-cols-2 xl:grid-cols-3" aria-live="polite">
+      <div key={currentYear} className="timeline-year-enter mt-6 grid min-h-48 content-start gap-3 sm:grid-cols-2 xl:grid-cols-3" aria-live="polite">
         {currentYearEvents.length ? (
           currentYearEvents.map((event) => (
-            <TimelineEventNode key={event.id} event={event} currentYear={currentYear} />
+            <TimelineEventNode key={event.id} event={event} currentYear={currentYear} seriesSlug={series.slug} />
           ))
         ) : (
           <div className="sm:col-span-2 xl:col-span-3">

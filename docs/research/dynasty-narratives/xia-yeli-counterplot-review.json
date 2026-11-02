@@ -1,0 +1,347 @@
+{
+  "date": "2026-10-11",
+  "method": "逐条独立重读本篇所列原稿、全部正文与对应史源实际段落，核对每个P的具体承接及舍弃理由；保留baselineVerdict。未回听音频，转写候选不认定为音频结论。",
+  "counts": {
+    "partial": 15,
+    "corrected": 6,
+    "covered": 9
+  },
+  "rows": [
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "two-generals"
+      ],
+      "note": "将领左右统军与称号补，明堂及精确左右配属异述不强定。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "two-generals"
+      ],
+      "note": "正文写为皇后亲族，不接受两人都是皇后同胞哥哥；清18记遇乞为从父，旺荣兄妹关系亦有异记，刚浪陵称名差异见two-generals。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "two-generals"
+      ],
+      "note": "婚姻兵权相连以编辑解读补，不预设实际结党。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "two-generals",
+        "dispute"
+      ],
+      "note": "宋欲离间与疑忌补，野利后跋扈心理不证，二计成功结论分版本。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "monk"
+      ],
+      "note": "本僧王光信熟路骑射引军补，花和尚酒色性格无证。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "monk"
+      ],
+      "note": "东都61酒后试刑补；宾礼再宴拍桌诬通现场未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "monk"
+      ],
+      "note": "史名王嵩改自王光信，非王松赐松；音频候选仍待回听。诬通式苦肉改明确试刑。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "monk"
+      ],
+      "note": "数百鞭不屈有据，求死后堂治伤无据。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "monk",
+        "letter"
+      ],
+      "note": "受命入夏、衲衣藏另一书补，回僧装先宣布计划对白未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "monk",
+        "letter"
+      ],
+      "note": "耐刑试验有据，假旧约信补；声称以前议事不作已证。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "letter"
+      ],
+      "note": "蜡书附枣画龟和衲衣第二信分来源，不混一种藏法。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "letter"
+      ],
+      "note": "将军识破笑儿戏送君补，先投效遭将军毒打无据。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "letter"
+      ],
+      "note": "送元昊并囚井实补，另一来源多次审问保留版本。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "letter"
+      ],
+      "note": "四库本东都61帘后拟杀、大号未办完将军事、追回并取衲衣第二信实补；已校正“不了将军事”非“与将军无关”。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "letter"
+      ],
+      "note": "东都实际取衲衣书非一直没有搜到，宋地窖囚另述。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "envoy"
+      ],
+      "note": "李文贵来往与奉将意通和实补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "envoy"
+      ],
+      "note": "通和密信来使补，假装家人身份未见据。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "envoy",
+        "dispute"
+      ],
+      "note": "庞籍留使与放归分史源，问家事识假杀将替换为可核往返及异因。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "funeral"
+      ],
+      "note": "清17元昊赐刀和苏吃囊父子补：父受将信任，儿借此盗刀；不说刀原在父亲手上，刀刻君名无据。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "funeral"
+      ],
+      "note": "父为将信任、儿受赏盗刀补，醉酒场景不证。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "funeral"
+      ],
+      "note": "清17写盗刀为假降信物，并散布遇乞已为白妪谗死的假消息；元昊原先疑而未发，实际赐死发生在祭物送回后，已收紧时序。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "funeral"
+      ],
+      "note": "边界设祭木板与故意退走实补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "funeral"
+      ],
+      "note": "银器千余两非泛说千金；木板祭文写假约补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "funeral"
+      ],
+      "note": "烧币祭文实补，僧水陆大会场景未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "funeral"
+      ],
+      "note": "夏人来宋方急退实补，和尚骑马飞逃不补戏。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "funeral"
+      ],
+      "note": "赐刀留祭具被发现补，明确清版独有。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "funeral"
+      ],
+      "note": "残字木板取归实补，非只完整祭文。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "funeral"
+      ],
+      "note": "刀及残祭文献君后，清17明确夺遇乞兵权赐死；已纠正正文误写旺荣，保留版本性质。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "funeral",
+        "dispute"
+      ],
+      "note": "怀疑夺兵赐死见清版，先兄死再弟必叛心理与单定年次不证。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-yeli-counterplot",
+      "sectionIds": [
+        "dispute"
+      ],
+      "note": "兄弟死与宫廷废后异说实补，深腹失联解释非可靠唯因。"
+    }
+  ],
+  "independentReview": "complete"
+}

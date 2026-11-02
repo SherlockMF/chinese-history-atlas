@@ -1,0 +1,183 @@
+{
+  "date": "2026-09-30",
+  "method": "通读北齐P007–P018、P079–P081全部15段，核北齐书1/9、周书1、北史14及通鉴156后逐段登记；未回听音频。",
+  "counts": {
+    "covered": 3,
+    "corrected": 9,
+    "partial": 2,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "gao-huan-yuwen-tai",
+      "sectionIds": [
+        "erzhu-camp"
+      ],
+      "note": "尔朱集团、高欢进入军谋及参与拥立元子攸已实写，接上北魏前事。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-huan-yuwen-tai",
+      "sectionIds": [
+        "huai-shuo"
+      ],
+      "note": "罪徙怀朔者校正为祖父高谧，分别说明家族旧籍贯与长期北边习俗。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-huan-yuwen-tai",
+      "sectionIds": [
+        "huai-shuo"
+      ],
+      "note": "统治环境与生活习俗改变的主题由高家具体经历承接；辽金西夏的独立比较未展开。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-huan-yuwen-tai",
+      "sectionIds": [
+        "huai-shuo"
+      ],
+      "note": "区分家族祖系、军镇习俗与生产方式，纠正父亲囚犯及种田/放牧自动决定族属。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-huan-yuwen-tai",
+      "sectionIds": [
+        "huai-shuo",
+        "lou-zhaojun",
+        "erzhu-camp"
+      ],
+      "note": "传记外貌描述有署属，娄主动资助、政治参与与高欢军中经营均展开，不以长得帅概括所有原因。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-huan-yuwen-tai",
+      "sectionIds": [
+        "lou-zhaojun"
+      ],
+      "note": "婚姻资助后始有马任队主，校正父为囚犯及直接获战马发动起兵的跃迁。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-huan-yuwen-tai",
+      "sectionIds": [
+        "lou-zhaojun",
+        "yuwen-family"
+      ],
+      "note": "娄氏资助与宇文泰军中出身已讲；两人具体年龄差尚未在正文展开，保留缺口。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "gao-huan-yuwen-tai",
+      "sectionIds": [],
+      "note": "围绕小混混、是否当过的自嘲与插话，实质家世由前后段处理，不新增史事。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-huan-yuwen-tai",
+      "sectionIds": [
+        "yuwen-family"
+      ],
+      "note": "宇文肱乡里组织、入军、战死与宇文泰随军任将帅已写，不用无人管的小混混代替。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-huan-yuwen-tai",
+      "sectionIds": [
+        "yuwen-family",
+        "two-armies"
+      ],
+      "note": "兄洛生被尔朱荣杀及宇文泰自理家冤记在前，后来随贺拔岳仍属尔朱体系，不写立即最先叛逃。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-huan-yuwen-tai",
+      "sectionIds": [
+        "yuwen-family",
+        "two-armies"
+      ],
+      "note": "分开向尔朱荣申冤与后来对高欢陈说脱身；随贺拔岳入关、532夺长安、534岳被侯莫陈悦害后接掌皆明写。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "gao-huan-yuwen-tai",
+      "sectionIds": [
+        "erzhu-camp",
+        "two-armies"
+      ],
+      "note": "关中建势与高欢自尔朱荣死后向山东移军、信都起兵按过程展开，不让元修在532被立之前已有亲政调停情节。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gao-huan-yuwen-tai",
+      "sectionIds": [
+        "erzhu-camp",
+        "two-armies",
+        "marriages"
+      ],
+      "note": "人物才能与权力经营、婚姻转入高氏下一代均有实质承接，曹操比喻不单列历史同一判断。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-huan-yuwen-tai",
+      "sectionIds": [
+        "marriages"
+      ],
+      "note": "逐人区分大、小尔朱身份与高欢婚配关系，不说尔朱荣所有妻子均被接收；加入强纳游氏说明权力。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gao-huan-yuwen-tai",
+      "sectionIds": [
+        "marriages"
+      ],
+      "note": "大、小尔朱的原身份及高家诸子的长辈关系、继承冲突过渡已写，细部宫廷事件另篇续接。"
+    }
+  ]
+}

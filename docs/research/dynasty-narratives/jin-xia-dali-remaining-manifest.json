@@ -1,0 +1,230 @@
+[
+  {
+    "queueIds": [
+      "J01"
+    ],
+    "slug": "jin-beijing-origins",
+    "exportName": "jinBeijingOrigins",
+    "summary": {
+      "slug": "jin-beijing-origins",
+      "seriesId": "jin",
+      "title": "北京：城比帝都更早",
+      "subtitle": "蓟、燕与辽南京，怎样走到金中都门前",
+      "summary": "从琉璃河青铜铭文、蓟丘旧说和辽朝五京，分清北京建城与建都的不同起点。",
+      "period": "西周—1153",
+      "category": "城邑 · 地理",
+      "eventIds": [
+        "jin-moves-zhongdu"
+      ],
+      "personIds": []
+    },
+    "recordCount": 40,
+    "independentReview": "root-completed"
+  },
+  {
+    "queueIds": [
+      "J02"
+    ],
+    "slug": "hailing-moves-zhongdu",
+    "exportName": "hailingMovesZhongdu",
+    "summary": {
+      "slug": "hailing-moves-zhongdu",
+      "seriesId": "jin",
+      "title": "完颜亮：把祖宗也带到新都",
+      "subtitle": "一场夺位之后，宫城、宗室与陵墓相继南移",
+      "summary": "从寝殿政变到燕京营建，追索完颜亮迁都的行动、阻力、诗歌形象与代价。",
+      "period": "1149—1157",
+      "category": "宫廷 · 城邑 · 诗词",
+      "eventIds": [
+        "jin-moves-zhongdu"
+      ],
+      "personIds": [
+        "wanyan-liang",
+        "zhang-hao-jin"
+      ]
+    },
+    "recordCount": 38,
+    "independentReview": "root-completed"
+  },
+  {
+    "queueIds": [
+      "J03"
+    ],
+    "slug": "jin-zhongdu-palaces",
+    "exportName": "jinZhongduPalaces",
+    "summary": {
+      "slug": "jin-zhongdu-palaces",
+      "seriesId": "jin",
+      "title": "金中都：使臣走过的宫门",
+      "subtitle": "沿范成大的脚步，辨认大安殿、仁政殿与鱼藻池",
+      "summary": "用使金行记、制度记载和考古发现复原宫城生活，分清礼制、旧湖与后世传闻。",
+      "period": "1153—1188及近现代考古",
+      "category": "城邑 · 礼仪",
+      "eventIds": [
+        "jin-moves-zhongdu"
+      ],
+      "personIds": [
+        "wanyan-liang",
+        "wanyan-dading"
+      ]
+    },
+    "recordCount": 33,
+    "independentReview": "liao-agent-completed"
+  },
+  {
+    "queueIds": [
+      "J04"
+    ],
+    "slug": "jin-meng-an-farms-gardens",
+    "exportName": "jinMengAnFarmsGardens",
+    "summary": {
+      "slug": "jin-meng-an-farms-gardens",
+      "seriesId": "jin",
+      "title": "金世宗：有田的人为什么仍然穷",
+      "subtitle": "猛安谋克的生计、旧俗与京郊山水",
+      "summary": "从军户租田与肥瘠不均讲起，走到世宗的语言政策和金代行宫园林。",
+      "period": "1153—1208",
+      "category": "制度 · 生计 · 园林",
+      "eventIds": [
+        "jin-moves-zhongdu"
+      ],
+      "personIds": [
+        "wanyan-dading",
+        "wanyan-liang"
+      ]
+    },
+    "recordCount": 29,
+    "independentReview": "liao-agent-completed"
+  },
+  {
+    "queueIds": [
+      "J05"
+    ],
+    "slug": "jin-streets-and-memory",
+    "exportName": "jinStreetsAndMemory",
+    "summary": {
+      "slug": "jin-streets-and-memory",
+      "seriesId": "jin",
+      "title": "金中都：街名记住了什么",
+      "subtitle": "从南横街、潘家河沿走到燕角楼",
+      "summary": "沿北京西南部街巷辨认辽金旧城的线索，也分清地名、考古遗迹与后来的生活记忆。",
+      "period": "辽金至今",
+      "category": "城市 · 街巷 · 记忆",
+      "eventIds": [
+        "jin-moves-zhongdu",
+        "jin-zhongdu-falls"
+      ],
+      "personIds": []
+    },
+    "recordCount": 21,
+    "independentReview": "liao-agent-completed"
+  },
+  {
+    "queueIds": [
+      "J06"
+    ],
+    "slug": "hailing-shizong-succession",
+    "exportName": "hailingShizongSuccession",
+    "summary": {
+      "slug": "hailing-shizong-succession",
+      "seriesId": "jin",
+      "title": "海陵与世宗：江北营帐和东京皇城",
+      "subtitle": "南征的终点，守成的开端",
+      "summary": "从海陵南征与瓜洲兵变写到世宗恢复秩序、女真语言教育及太孙继承，纠正两次歌宴的混叙。",
+      "period": "1161—1189",
+      "category": "战争 · 继承 · 旧俗",
+      "eventIds": [
+        "jin-hailing-southern-war",
+        "jin-longxing-treaty"
+      ],
+      "personIds": [
+        "wanyan-liang",
+        "wanyan-dading"
+      ]
+    },
+    "recordCount": 30,
+    "independentReview": "complete",
+    "counts": {
+      "partial": 9,
+      "covered": 5,
+      "corrected": 11,
+      "not-needed": 3,
+      "uncertain": 2
+    }
+  },
+  {
+    "queueIds": [
+      "J07"
+    ],
+    "slug": "li-shier-zhangzong-court",
+    "exportName": "liShierZhangzongCourt",
+    "summary": {
+      "slug": "li-shier-zhangzong-court",
+      "seriesId": "jin",
+      "title": "李师儿：青纱之后，宫门之内",
+      "subtitle": "才学、外戚与没有等到的继承人",
+      "summary": "写李师儿隔纱受教、联句传说、立后争议与外戚政治，再追到章宗遗诏和随后翻覆的宫廷案件。",
+      "period": "1180年代末—1213",
+      "category": "宫廷 · 文学 · 继承",
+      "eventIds": [],
+      "personIds": [
+        "wanyan-jing"
+      ]
+    },
+    "recordCount": 39,
+    "independentReview": "complete",
+    "counts": {
+      "partial": 14,
+      "not-needed": 6,
+      "covered": 8,
+      "corrected": 11
+    }
+  },
+  {
+    "queueIds": [
+      "J08"
+    ],
+    "slug": "jin-mongol-yehuling",
+    "exportName": "jinMongolYehuling",
+    "summary": {
+      "slug": "jin-mongol-yehuling",
+      "seriesId": "jin",
+      "title": "从朝贡使者到野狐岭",
+      "subtitle": "一场轻慢，几条战线，两种失去先机的办法",
+      "summary": "从女真生计与蒙金朝贡关系写到乌沙堡、野狐岭和会河川，分辨不同史书的时序、主将与兵数，补足临阵决策的具体过程。",
+      "period": "金代前期—1212",
+      "category": "战役 · 外交 · 决策",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 40,
+    "independentReview": "complete",
+    "supersededBy": "finish-jin-xia-dali-manifest.json#J08"
+  },
+  {
+    "queueIds": [
+      "J09"
+    ],
+    "slug": "hushahu-court-coup",
+    "exportName": "hushahuCourtCoup",
+    "summary": {
+      "slug": "hushahu-court-coup",
+      "seriesId": "jin",
+      "title": "胡沙虎：军队回到宫门前",
+      "subtitle": "逃将、弑君者与另一次兵变",
+      "summary": "追写纥石烈执中从西京退回中都、重新掌兵、攻入宫城、拥立宣宗，直到被术虎高琪杀死的过程，并分开蒙古历次突破居庸的战事。",
+      "period": "1206—1213",
+      "category": "宫廷 · 战役 · 政变",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 34,
+    "independentReview": "complete",
+    "counts": {
+      "partial": 14,
+      "corrected": 11,
+      "not-needed": 6,
+      "covered": 3
+    }
+  }
+]

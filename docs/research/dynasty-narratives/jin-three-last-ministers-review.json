@@ -1,0 +1,858 @@
+{
+  "date": "2026-10-11",
+  "method": "主代理独立复读金03 P141—217全部77段，逐节对读金史113白撒传、115奴申/崔立/李琦传、116女鲁欢/官奴传及18本纪；核时序、姓名、兵马、竹材、楼橹、照碧堂地点与论赞层次。未回听原音。",
+  "counts": {
+    "covered": 43,
+    "corrected": 14,
+    "partial": 18,
+    "not-needed": 2
+  },
+  "rows": [
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "baisa-west"
+      ],
+      "note": "名承裔、白撒误国的史评引入实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "baisa-west"
+      ],
+      "note": "世祖诸孙非太祖玄孙；战绩写出，现代大通定位不定。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "baisa-west"
+      ],
+      "note": "正大五年入朝为相承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "baisa-west"
+      ],
+      "note": "部将战功及家膳有据，不补具体菜食。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "water-and-bamboo"
+      ],
+      "note": "卫州据点与弃守承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "water-and-bamboo"
+      ],
+      "note": "杨居仁请出击，1232并非宋蒙联军。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "water-and-bamboo"
+      ],
+      "note": "决水固京的未成工程，万民夫遭袭；非挖壕围卫州。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "water-and-bamboo"
+      ],
+      "note": "西南急攻、竹护帘实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "water-and-bamboo"
+      ],
+      "note": "竹材在白撒本人府，不泛指别官藏料。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "water-and-bamboo"
+      ],
+      "note": "三百两金非银；兵退免职后复起有中间过程。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "weizhou-return"
+      ],
+      "note": "北取大名东平恢复河朔建议实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "weizhou-return"
+      ],
+      "note": "豪杰响应预期，不预设所有民已拥护。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "weizhou-return"
+      ],
+      "note": "驻归德与经略东平完整，不简为南方近便。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "weizhou-return"
+      ],
+      "note": "黄陵冈与猪儿有本传，未回听音频。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "weizhou-return"
+      ],
+      "note": "渡河风起追击与猪儿战死实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "weizhou-return"
+      ],
+      "note": "官奴查粮、皇帝选卫、白撒受命承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "weizhou-return"
+      ],
+      "note": "据金史113补居民筑墙塞户与官奴、白撒军纪对照；原述皇帝被短墙困住未获支持。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "weizhou-return"
+      ],
+      "note": "八日无攻具、三日不克、撤退承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "weizhou-return"
+      ],
+      "note": "狱七日饿死，攻卫归责还存异议。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "baisa-west",
+        "weizhou-return"
+      ],
+      "note": "名承裔与末帝兄关系实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-coup"
+      ],
+      "note": "将陵出身背钹鼓据传。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-coup"
+      ],
+      "note": "投军履历与升阶实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-coup"
+      ],
+      "note": "求入仕遭选曹驳承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-coup"
+      ],
+      "note": "怨未三品、两留守姓名职责核正。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-coup"
+      ],
+      "note": "西帅招药安国，药已出狱而非在狱为党。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-coup"
+      ],
+      "note": "健啖日饱以鱼实写，不补电影笑谈。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-coup"
+      ],
+      "note": "谋变杀二相有据，内心守不住对白不编。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-coup"
+      ],
+      "note": "二百甲卒入省杀官与对外理由实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-coup"
+      ],
+      "note": "梁王监国、百姓初欢呼实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-coup"
+      ],
+      "note": "公主妹在蒙古与拥立理由据传。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-coup"
+      ],
+      "note": "自号郑王非镇王，头衔党羽承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "surrender-and-abuse"
+      ],
+      "note": "御衣仪卫见帅以父礼实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "surrender-and-abuse"
+      ],
+      "note": "傀儡刘豫愿望按论赞，不编求封对话。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [],
+      "note": "相声式对白无独立史实。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [],
+      "note": "羊上树闲谈无独立史实。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "surrender-and-abuse"
+      ],
+      "note": "焚的是城防楼橹，非全部房屋。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "surrender-and-abuse"
+      ],
+      "note": "投降取信过程承接，设伏心理不臆断。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "surrender-and-abuse"
+      ],
+      "note": "索官眷集中省中承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "surrender-and-abuse"
+      ],
+      "note": "暴行私宅及蒙古取其家产实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "surrender-and-abuse"
+      ],
+      "note": "痛哭及权力失控实写，不加爸爸心理。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-death"
+      ],
+      "note": "崔立欲夺李琦妻未得，折希颜辱琦非已奸妻。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-death"
+      ],
+      "note": "李伯渊刺杀、制造门火、拖尸实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P183",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-death"
+      ],
+      "note": "民应及元朝史臣不效金的立场实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P184",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-death"
+      ],
+      "note": "俘主帝臣的论赞对照明确归属。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "cui-death"
+      ],
+      "note": "历史报应论保留史评而非客观天意。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P186",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-return"
+      ],
+      "note": "被俘入狱后归金的身份实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P187",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-return"
+      ],
+      "note": "逃狱杀回纥取财收忠孝军据传。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P188",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-return"
+      ],
+      "note": "三峰败走襄阳承接，各主将非同场全死。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P189",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-return"
+      ],
+      "note": "游说取邓州及宴饮信任实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P190",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-return"
+      ],
+      "note": "留哥传计划、粘合欲擒有具体过程。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P191",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-return"
+      ],
+      "note": "回宋借五百骑与牛羊取信实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-return"
+      ],
+      "note": "袭宋获三百马留邓州，非三百兵。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P193",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-return"
+      ],
+      "note": "移书辨屈直、留马承接，不编口语。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P194",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-return"
+      ],
+      "note": "姬旺冒唐州太守被绑沿营供给实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P195",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-return",
+        "weizhou-return",
+        "guannu-coup"
+      ],
+      "note": "重用功绩、查粮与归德知府引入核名。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P196",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-coup"
+      ],
+      "note": "兵众食少有据，兼写知府守城供粮。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P197",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-coup"
+      ],
+      "note": "徐宿陈就食承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P198",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-coup"
+      ],
+      "note": "马用非马毅，七百与本纪二百八十余异记。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P199",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-coup"
+      ],
+      "note": "皇帝和解两軍实写，非全国只余千人。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P200",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-coup"
+      ],
+      "note": "宴后撤备、乘夜袭击承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P201",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-coup"
+      ],
+      "note": "马用败死及官奴控制行宫实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P202",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-coup"
+      ],
+      "note": "海州与再北渡恢复建议实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P203",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-coup"
+      ],
+      "note": "女鲁欢沮北渡，哀宗等死对白不实录化。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P204",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "guannu-coup"
+      ],
+      "note": "杀女鲁欢诬反有据，非单次议事趁手杀。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P205",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "fire-and-palace"
+      ],
+      "note": "利用被俘母关系请和实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P206",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "fire-and-palace"
+      ],
+      "note": "密谋劫上降与还母有据。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P207",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "fire-and-palace"
+      ],
+      "note": "母归后筹夜袭承接，不称蒙人傻。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P208",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "fire-and-palace"
+      ],
+      "note": "忠孝军围宅反对献主实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P209",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "fire-and-palace"
+      ],
+      "note": "以母为质和士兵不赦身份补足。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P210",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "fire-and-palace"
+      ],
+      "note": "王家寺舟袭火枪胜写足；萨吉斯不花斩杀未核。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P211",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "fire-and-palace"
+      ],
+      "note": "胜后升相赐御马承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P212",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "fire-and-palace"
+      ],
+      "note": "官奴往亳州与皇帝留归德分开。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P213",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "fire-and-palace"
+      ],
+      "note": "照碧堂在归德，尚未蔡州。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P214",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "fire-and-palace"
+      ],
+      "note": "无敢奏对与悲泣原因实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P215",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "fire-and-palace"
+      ],
+      "note": "反对幸蔡与召回设伏实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P216",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "fire-and-palace"
+      ],
+      "note": "完出刺肋、皇帝拔剑斫据传。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P217",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-three-last-ministers",
+      "sectionIds": [
+        "fire-and-palace"
+      ],
+      "note": "伤逃追杀、安抚忠孝军及后悔警告承接。"
+    }
+  ]
+}

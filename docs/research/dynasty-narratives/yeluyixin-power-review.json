@@ -1,0 +1,337 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读辽04各原段、正文与所列原典，纠正源文、年代和叙事层级；逐条说明实际承接。音频未回听，不以转写之外的对白补写。",
+  "counts": {
+    "partial": 13,
+    "covered": 9,
+    "corrected": 5,
+    "not-needed": 3
+  },
+  "rows": [
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-famous-villain"
+      ],
+      "note": "保留奸臣传首位与具体危害，童年书目排行未核不采用。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-dreams"
+      ],
+      "note": "父疊剌家贫、母公羊梦明确承接。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-dreams"
+      ],
+      "note": "羊王拆字限定谶梦，谁编造不可证。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-dreams"
+      ],
+      "note": "美风仪、文班吏掌印至皇后笔砚吏具体路径，纠仅靠脸。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [],
+      "note": "明星发型闲聊段，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [],
+      "note": "发型闲聊延续段，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-shepherd-story"
+      ],
+      "note": "家贫童年牧羊承接，兄姐帮工本人懒的额外故事无据。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-shepherd-story"
+      ],
+      "note": "牧羊睡觉被父触醒明载，丢羊踹醒对白不补。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-shepherd-story"
+      ],
+      "note": "已食月啖日方半据辽110，不是太阳尚未开始；父跪无源。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-shepherd-story"
+      ],
+      "note": "父不令牧羊真实，按王爷培训无证。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "protecting-renxian"
+      ],
+      "note": "入仕后升至北院枢密使的概述承接。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "protecting-renxian"
+      ],
+      "note": "重元党欲先贬仁先的谋划承接。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "protecting-renxian"
+      ],
+      "note": "乙辛保先帝旧臣留朝建议实际入文。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "protecting-renxian"
+      ],
+      "note": "收益确有，靠山沽名动机只作可能解释。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "protecting-renxian"
+      ],
+      "note": "魏王平乱功臣号和仁先合作入文。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "pushing-out-renxian"
+      ],
+      "note": "辽96仁先抑不法而乙辛见忌具体原因恢复。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "pushing-out-renxian"
+      ],
+      "note": "仁先1068卒前又任西北招讨平阻卜，非死南京留守任上。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "pushing-out-renxian"
+      ],
+      "note": "少年与后来差异分析保留，不反推早年全是假。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "pushing-out-renxian"
+      ],
+      "note": "环境教育解释保留，身边全奸臣没证据不写。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "pushing-out-renxian"
+      ],
+      "note": "恭维分析保留，无人敢管的绝对断言不采。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "pushing-out-renxian"
+      ],
+      "note": "成长分析保留，北院魏王在平乱后已得不能设在仁先死后才升。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-clique"
+      ],
+      "note": "党羽张孝杰萧十三明确，萧十三驸马及全非旧贵族无证不采。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-clique"
+      ],
+      "note": "便宜军事荐斥忠直入文，全体忠良屠杀殆尽不作精确统计。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-clique"
+      ],
+      "note": "黍离原诗校正完整，秋猎赋诗宴背景也恢复。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-clique"
+      ],
+      "note": "张孝杰何忧何求奉承据辽110。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-clique"
+      ],
+      "note": "百万两是贪财口号非500万实有财产；白帖子源后世谚汇注明转引层级。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-clique"
+      ],
+      "note": "白帖谚有限定来源，乙辛未称帝不解释成永无称帝意。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-clique"
+      ],
+      "note": "忠直被斥与贿赂明载，民众每天盼帝死拟想不采。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [],
+      "note": "识字与否玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yeluyixin-power",
+      "sectionIds": [
+        "the-clique"
+      ],
+      "note": "太子预政法度修明后乙辛谋诬后再害子，据辽110而非仅拟动机。"
+    }
+  ],
+  "independentReview": "completed"
+}

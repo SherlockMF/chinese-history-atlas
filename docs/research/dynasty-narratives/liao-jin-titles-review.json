@@ -1,0 +1,305 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11 主代理逐读本批150条原段、故事正文与原有逐段note；亲读辽史27—30、71、98，金史2、3、74，宋史335、357，北盟7、10、11及契丹国志相应段落；修正文妃诗、交涉与战役时序、刘延庆指挥评价、大石系绳引路青冢及林牙官称，不以引用范围或关键字命中代替语义对应；未回听音频。",
+  "counts": {
+    "partial": 15,
+    "not-needed": 3,
+    "corrected": 8,
+    "covered": 1
+  },
+  "rows": [
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "first-defeats"
+      ],
+      "note": "宁江州警报与援兵承接；萧兀纳预警据列传补入，不采倾国动员。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "first-defeats"
+      ],
+      "note": "正文承接萧兀纳预警、朝廷轻视以及奉先为弟求赦；倾国动员建议和奉先派小军拟对白未据所核文本落实。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [],
+      "note": "臆测萧奉先嫌战争添工作，不作历史事件。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "first-defeats"
+      ],
+      "note": "高仙寿渤海军、宁江失利承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "campaign-and-rebellion",
+        "titles-and-brothers"
+      ],
+      "note": "1115建金与国号转入名分节，东京陷落时序另校。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "campaign-and-rebellion",
+        "titles-and-brothers"
+      ],
+      "note": "亲征与镔铁国号承接；不采用相克迷信解释。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "campaign-and-rebellion"
+      ],
+      "note": "正月诏、八月趋军分别登记，未断言全部时间只在打猎。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "campaign-and-rebellion"
+      ],
+      "note": "辽方使者招降与议和承接，百万威吓未用。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "campaign-and-rebellion"
+      ],
+      "note": "直斥名字有纪文，粗口及确定文字程序未用。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [],
+      "note": "说唱和音频格式玩笑。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [],
+      "note": "骂人文化程度闲聊。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "campaign-and-rebellion"
+      ],
+      "note": "九月黄龙府失陷承接，画家同名插话略。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "campaign-and-rebellion"
+      ],
+      "note": "农安地望和亲征承接，东京1116失陷；未称东北已全丢。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "campaign-and-rebellion"
+      ],
+      "note": "内乱、掉头与金追击补入，原稿单一临阵脱逃说受限定。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "campaign-and-rebellion"
+      ],
+      "note": "护步答冈失利承接，装备笑话略；失陷范围校正。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "titles-and-brothers"
+      ],
+      "note": "杨朴劝求封册与帝号交涉承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "titles-and-brothers"
+      ],
+      "note": "大金、兄事与册封要求承接，“大圣大明”不混作一次定案。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "titles-and-brothers"
+      ],
+      "note": "“东怀”据1119册书，非口述东淮；帝号不等于仍只称诸侯。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "titles-and-brothers"
+      ],
+      "note": "礼仪与疆土共同解释，单凭心理推测的满足东北说未采用。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "titles-and-brothers"
+      ],
+      "note": "议和破裂及疆土扩张承接，全部逃亡路线不重复列。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "horses-and-people"
+      ],
+      "note": "正文写四时捺钵与军政功能；五京具体名称及关系在下一篇亡京时序展开，本节不冒称已全承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "horses-and-people"
+      ],
+      "note": "移动制度与逃亡区分，直升机笑话略。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "horses-and-people"
+      ],
+      "note": "国志三百五十里快马自述作为传世叙事承接，不作实测。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "horses-and-people"
+      ],
+      "note": "兄弟舅甥与富贵自述承接，亲笔真伪未证。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "horses-and-people"
+      ],
+      "note": "宋人叙事中君民责任批评承接，旁观者不概括为全民。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "horses-and-people"
+      ],
+      "note": "失位后外交名分不能保证庇护的分析承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liao-jin-titles",
+      "sectionIds": [
+        "first-defeats"
+      ],
+      "note": "战死退生军谚恢复1114出河店语境，未当作此时新发言。"
+    }
+  ]
+}

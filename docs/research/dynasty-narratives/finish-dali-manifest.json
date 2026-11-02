@@ -1,0 +1,303 @@
+[
+  {
+    "queueIds": [
+      "J44"
+    ],
+    "slug": "nanzhao-names-frontiers",
+    "exportName": "nanzhaoNamesFrontiers",
+    "summary": {
+      "slug": "nanzhao-names-frontiers",
+      "seriesId": "dali",
+      "title": "先认出南诏，再看见大理",
+      "subtitle": "山川、王名与一场让位传说",
+      "summary": "洱海边的王国并不只占今天的大理市。它的都城、边界和统治家族不断变化；一串看似绕口的王名，则把父子、兄弟和王权传承连在一起。南诏的起点，还有一个愿意让出天下的老人。",
+      "period": "7—8世纪",
+      "category": "人物与王国",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 41,
+    "reviewFile": "nanzhao-names-frontiers-review.json",
+    "counts": {
+      "partial": 14,
+      "not-needed": 10,
+      "corrected": 3,
+      "covered": 10,
+      "uncertain": 4
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J45"
+    ],
+    "slug": "piluoge-six-zhao",
+    "exportName": "piluogeSixZhao",
+    "summary": {
+      "slug": "piluoge-six-zhao",
+      "seriesId": "dali",
+      "title": "统一六诏，岂是一夜大火",
+      "subtitle": "质子、三浪与慈善夫人的铁镯",
+      "summary": "皮逻阁争取唐廷许可，也利用邻诏的继承危机和战争扩大领土。地方传说把漫长的兼并压成松明楼的一夜大火；正史留下的，却是一场延续到下一代甚至更晚的抵抗。",
+      "period": "8世纪",
+      "category": "人物与王国",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 39,
+    "reviewFile": "piluoge-six-zhao-review.json",
+    "counts": {
+      "covered": 12,
+      "partial": 17,
+      "corrected": 8,
+      "not-needed": 2
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J46"
+    ],
+    "slug": "nanzhao-tang-tibet-turns",
+    "exportName": "nanzhaoTangTibetTurns",
+    "summary": {
+      "slug": "nanzhao-tang-tibet-turns",
+      "seriesId": "dali",
+      "title": "一块碑，留给尚未归唐的后人",
+      "subtitle": "天宝战争与神川铁桥的逆转",
+      "summary": "阁逻凤击败唐军，转向吐蕃，又立碑申说自己为何走到这一步。几十年后，异牟寻在吐蕃的征发与军事压力中再次选择唐朝。盟誓写在纸上，决裂则落实在雪山下的一场突袭。",
+      "period": "750—794年",
+      "category": "人物与王国",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 27,
+    "reviewFile": "nanzhao-tang-tibet-turns-review.json",
+    "counts": {
+      "corrected": 5,
+      "covered": 13,
+      "partial": 8,
+      "not-needed": 1
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J47"
+    ],
+    "slug": "wang-cuodian-court-war",
+    "exportName": "wangCuodianCourtWar",
+    "summary": {
+      "slug": "wang-cuodian-court-war",
+      "seriesId": "dali",
+      "title": "从扶王到杀王，四十余年",
+      "subtitle": "王嵯巅、成都工匠与三尊金佛",
+      "summary": "王嵯巅杀死一位君主，扶起下一位，又长期掌兵。当他的军队把成都的工匠带过大渡河，南诏获得新的技术，俘虏却面对失去故乡的痛苦。地方史最终把这位权臣的死，安排在三尊金佛之前。",
+      "period": "809—859年",
+      "category": "人物与王国",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 53,
+    "reviewFile": "wang-cuodian-court-war-review.json",
+    "counts": {
+      "covered": 12,
+      "partial": 31,
+      "corrected": 8,
+      "not-needed": 2
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J48"
+    ],
+    "slug": "nanzhao-last-kings",
+    "exportName": "nanzhaoLastKings",
+    "summary": {
+      "slug": "nanzhao-last-kings",
+      "seriesId": "dali",
+      "title": "王朝的名字换了，战事没有停",
+      "subtitle": "世隆、隆舜与郑买嗣",
+      "summary": "世隆称帝以后，南诏与唐的战争反复扩大。隆舜求和亲，却失去前往迎亲的重臣；到舜化贞身后，掌政者郑买嗣取代蒙氏。接下来的郑、赵、杨三姓也没能使王位安稳下来。",
+      "period": "859—937年",
+      "category": "人物与王国",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 13,
+    "reviewFile": "nanzhao-last-kings-review.json",
+    "counts": {
+      "corrected": 5,
+      "covered": 3,
+      "partial": 2,
+      "uncertain": 3
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J49"
+    ],
+    "slug": "dali-fields-temples-memory",
+    "exportName": "daliFieldsTemplesMemory",
+    "summary": {
+      "slug": "dali-fields-temples-memory",
+      "seriesId": "dali",
+      "title": "寺塔之间，也有人种田吃饭",
+      "subtitle": "南诏大理的生活与保存下来的记忆",
+      "summary": "王统与战争之外，古书留下了田作、鱼食、寺院和学校。看见这些生活细节，也要看清记录者来自何时、材料能证明到哪一步：一件佛像不能包办一个社会，一串族名不能化成不变的血统。",
+      "period": "唐至元",
+      "category": "人物与王国",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 15,
+    "reviewFile": "dali-fields-temples-memory-review.json",
+    "counts": {
+      "partial": 8,
+      "corrected": 5,
+      "not-needed": 1,
+      "covered": 1
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J50"
+    ],
+    "slug": "duan-siping-founding",
+    "exportName": "duanSipingFounding",
+    "summary": {
+      "slug": "duan-siping-founding",
+      "seriesId": "dali",
+      "title": "梦碎了，却被解作天命",
+      "subtitle": "段思平、董迦罗与三十七部",
+      "summary": "段思平取得王位的故事，一边是借兵、结盟与分封，一边是神戟、神马和三场怪梦。把这两条线分开，既能看见地方记忆如何为开国者解释天命，也能看见大理国靠哪些人站稳脚跟。",
+      "period": "937—944年",
+      "category": "人物与王国",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 35,
+    "reviewFile": "duan-siping-founding-review.json",
+    "counts": {
+      "partial": 29,
+      "covered": 5,
+      "uncertain": 1
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J51"
+    ],
+    "slug": "dali-early-kings-gao-rise",
+    "exportName": "daliEarlyKingsGaoRise",
+    "summary": {
+      "slug": "dali-early-kings-gao-rise",
+      "seriesId": "dali",
+      "title": "花开时，王位也会换人",
+      "subtitle": "前理诸王、僧人学校与高智升",
+      "summary": "开国君主之后，叔侄继位、僧衣与宫苑反复出现在地方史中。段素兴的春日宴游最终接到废立，段思廉则在平乱中抬升高智升。看似平缓的王统之下，执政家族与地方兵力正在改变。",
+      "period": "944—1075年",
+      "category": "人物与王国",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 74,
+    "reviewFile": "dali-early-kings-gao-rise-review.json",
+    "counts": {
+      "covered": 7,
+      "partial": 48,
+      "corrected": 11,
+      "not-covered": 2,
+      "uncertain": 2,
+      "not-needed": 4
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J52"
+    ],
+    "slug": "dali-yang-revolt-gao-return",
+    "exportName": "daliYangRevoltGaoReturn",
+    "summary": {
+      "slug": "dali-yang-revolt-gao-return",
+      "seriesId": "dali",
+      "title": "灭了篡王的人，也可以另立国号",
+      "subtitle": "杨义贞之乱、大中国与后理",
+      "summary": "杨义贞弑君后只维持短暂统治，高氏父子平乱，却没有把政权交回一条安稳的继承轨道。十四年间，寿辉、正明、高升泰接连坐上王位；高氏最终还政段氏，仍掌着王国的权力。",
+      "period": "1075—1108年",
+      "category": "人物与王国",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 38,
+    "reviewFile": "dali-yang-revolt-gao-return-review.json",
+    "counts": {
+      "covered": 11,
+      "partial": 11,
+      "corrected": 2,
+      "not-needed": 3,
+      "uncertain": 11
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J53"
+    ],
+    "slug": "duan-zhengyan-later-kings",
+    "exportName": "duanZhengyanLaterKings",
+    "summary": {
+      "slug": "duan-zhengyan-later-kings",
+      "seriesId": "dali",
+      "title": "他宽赦刺客，也没解开王位之争",
+      "subtitle": "段和誉与后理诸王",
+      "summary": "宋廷册封段和誉，地方史又记他宽赦替高氏子弟复仇的刺客。外部封号、内部部落和相国家族各有力量；四十年王位的终点，仍是诸子争位与避位为僧。后来的王国，也不只是一条越来越衰弱的直线。",
+      "period": "1108—1251年",
+      "category": "人物与王国",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 20,
+    "reviewFile": "duan-zhengyan-later-kings-review.json",
+    "counts": {
+      "uncertain": 2,
+      "corrected": 6,
+      "partial": 9,
+      "covered": 2,
+      "not-needed": 1
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "J54"
+    ],
+    "slug": "dali-conquest-governors",
+    "exportName": "daliConquestGovernors",
+    "summary": {
+      "slug": "dali-conquest-governors",
+      "seriesId": "dali",
+      "title": "王国失去以后，段氏仍在",
+      "subtitle": "三路征服、革囊渡江与地方总管",
+      "summary": "1253年蒙古军越过山河，杀使、抵抗与地方归附交错发生。大理都城陷落，段兴智后来被俘；但段氏并未从政治舞台消失。他们率旧部协助征讨，又在行省建置后继续治理大理。",
+      "period": "1244—1276年",
+      "category": "人物与王国",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 30,
+    "reviewFile": "dali-conquest-governors-review.json",
+    "counts": {
+      "partial": 13,
+      "not-needed": 2,
+      "corrected": 10,
+      "covered": 5
+    },
+    "independentReview": "complete"
+  }
+]

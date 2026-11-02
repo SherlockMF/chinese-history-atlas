@@ -16,6 +16,7 @@ from pyproj import Transformer
 from shapely import coverage_simplify, make_valid
 from shapely.geometry import Polygon, MultiPolygon, LineString, Point, box, shape, mapping
 from shapely.ops import unary_union, split, transform
+from projection_geometry import projection_safe
 
 ROOT = Path(__file__).resolve().parents[2]
 GIS = ROOT / 'gis/continuous'
@@ -238,7 +239,7 @@ def boundary_collection(features, water=Polygon()):
     return fc(result)
 
 
-def validate(features, coverage, land):
+def validate(features, coverage, land, projection_delta=0):
     shapes = [shape(f['geometry']) for f in features]
     assert all(g.is_valid and not g.is_empty for g in shapes), 'invalid/empty geometry'
     assert all(g.contains(Point(f['properties']['labelLongitude'], f['properties']['labelLatitude'])) for f,g in zip(features,shapes)), 'label outside polygon'
@@ -249,7 +250,9 @@ def validate(features, coverage, land):
     assert overlap < 1e-7, f'overlap {overlap}'
     assert gap < 1e-7, f'gap {gap}'
     assert offshore < 1e-7, f'offshore {offshore}'
+    assert projection_delta < 1e-7, f'projection repair changed coverage: {projection_delta}'
     return {'valid': True, 'overlapDegrees2': max(0,overlap), 'gapDegrees2': gap, 'offshoreDegrees2': offshore,
+            'projectionRepairDegrees2': projection_delta,
             'polities': sorted({f['properties']['dynastyId'] for f in features})}
 
 
@@ -338,14 +341,20 @@ def main():
                 props['boundaryKind'] = 'influence'
             features.append(labelled(polygonal(unary_union(gs)),props))
         active_coverage = unary_union([g for unit,g in units.items() if owner(unit,start,table)['polityId'] is not None])
-        check = validate(features,active_coverage,land)
+        projection_delta = 0
+        for item in features:
+            original = shape(item['geometry'])
+            safe = projection_safe(original)
+            projection_delta += original.symmetric_difference(safe).area
+            item['geometry'] = mapping(safe)
+        check = validate(features,active_coverage,land,projection_delta)
         check['omittedUnits'] = omitted
         folder = ROOT/f'public/maps/continuous/{id}'
         write(folder/'realms.geojson',fc(features))
         write(folder/'boundaries.geojson',boundary_collection(features,water))
         write(folder/'outlines.geojson',outline_collection(features,water))
         check['realmsSha256'] = hashlib.sha256((folder/'realms.geojson').read_bytes()).hexdigest()
-        manifest = dict(id=id,anchorYear=943,validFromYear=start,validToYearExclusive=end,version='fixed-943.5',bbox=list(active_coverage.bounds),
+        manifest = dict(id=id,anchorYear=943,validFromYear=start,validToYearExclusive=end,version='fixed-943.6',bbox=list(active_coverage.bounds),
             files=dict(realms=f'/maps/continuous/{id}/realms.geojson',boundaries=f'/maps/continuous/{id}/boundaries.geojson',outlines=f'/maps/continuous/{id}/outlines.geojson',sources='/maps/continuous/sources.json'),
             sourceRefs=sorted({'continuous-method','atlas-943-fixed-master','natural-earth-land-10m','natural-earth-lakes-10m'} |
                 {ref for f in features for ref in f['properties']['sourceRefs']}),

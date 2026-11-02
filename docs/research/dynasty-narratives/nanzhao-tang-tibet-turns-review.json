@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核：逐读台账所列原P、正文全部节与对应原典缓存，核查实际承接并纠正错位；未回听音频，不把候选计为全覆盖。",
+  "audioReviewed": false,
+  "counts": {
+    "corrected": 5,
+    "covered": 13,
+    "partial": 8,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "tianbao"
+      ],
+      "note": "两爨扩张作为前情，皇帝按玄宗纠正宣宗口误。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "tianbao"
+      ],
+      "note": "阁逻凤承接爨地扩展并与姚州官员冲突。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "tianbao"
+      ],
+      "note": "天宝时期阁逻凤、姚州唐官与战争时序落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "tianbao"
+      ],
+      "note": "唐书妻女指控与碑文边政申诉分层，不确立私情为唯一原因。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "tianbao"
+      ],
+      "note": "751鮮于仲通败承接；口述白居易新丰折臂翁的诗句尚未逐句核入，保留partial，不虚称兵力已写。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "tianbao"
+      ],
+      "note": "求罪返俘、可能投蕃的交涉发生在大战前，不移到战胜后。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "tianbao"
+      ],
+      "note": "鲜于囚使拒绝请求、继续进军的具体行动落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "tianbao"
+      ],
+      "note": "以751、754两主战展开，不机械认三次同样全军覆没。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "tianbao"
+      ],
+      "note": "保留改投吐蕃后果，不采用只信唐的心理绝对判断。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "stone"
+      ],
+      "note": "德化碑政治自述落实；高度宽度未依据实物核定。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "stone"
+      ],
+      "note": "碑文收尸祭葬有直接文字；将来归唐指碑自辩为新唐书所转述阁逻凤之言，不误称碑文直接告诫。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "stone"
+      ],
+      "note": "碑文收尸祭葬有直接文字；将来归唐指碑自辩为新唐书所转述阁逻凤之言，不误称碑文直接告诫。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "stone"
+      ],
+      "note": "公开称赞吐蕃又解释奉唐经历，强调多重读者而非秘密信息。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "stone"
+      ],
+      "note": "不以吐蕃不识汉字解释碑的保存，碑本身公开赞普。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [],
+      "note": "君臣关于偷偷立碑的拟对白没有材料依据。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "stone"
+      ],
+      "note": "779唐蕃南诏战事与唐军反击入文。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "stone"
+      ],
+      "note": "李晟等唐军胜利以结果承接，不照录夸张伤亡为现代统计。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "stone"
+      ],
+      "note": "盟军受挫后的压力入文，南诏因败被责的细密对白不编造。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "stone"
+      ],
+      "note": "赞普钟称号与投蕃关系进入正文。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "日东王封号及吐蕃宗主压力承接。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "征兵徭役与险地控制的压力落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "盟友地位变化入文，帝国全部内心算盘未作事实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "压力促成转向的行动链条落实，不只用一场败战解释。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "郑回唐县令被俘、教王族与任清平官落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "郑回政治作用进入正文，不把清平官人数固定为历来六人。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "韦皋联络、崔佐时来使与794点苍山盟誓落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "nanzhao-tang-tibet-turns",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "交吐蕃印与神川铁桥袭击连接外交和实际决裂。"
+    }
+  ],
+  "independentReview": {
+    "reviewer": "finish_jin_xia_dali",
+    "status": "complete",
+    "paragraphCount": 27,
+    "audioReviewed": false
+  }
+}

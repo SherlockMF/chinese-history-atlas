@@ -1,0 +1,561 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐段复核南朝06 P092—P143，亲读隋书1、陈书6/31、南史10、通鉴176/177、乐府22相关原文；修正误标覆盖、纸数、同日渡江、妻事材料层次，补诗及结尾编辑解读。原音未回听。",
+  "counts": {
+    "covered": 14,
+    "partial": 18,
+    "corrected": 8,
+    "not-needed": 12
+  },
+  "rows": [
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "grand-notice"
+      ],
+      "note": "补581建隋、582即位与撤军，隋书1实核。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "grand-notice"
+      ],
+      "note": "补后主即位背景；侯景后全南方破败的泛论不能由本篇伐陈材料支持，仍保留部分覆盖。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "grand-notice"
+      ],
+      "note": "588年下诏伐陈与杨坚的统一意图写成正文。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "grand-notice"
+      ],
+      "note": "罪状二十恶、诏书三十万纸据南史10与通鉴176校正，不再因隋书未载而删纸数。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "grand-notice"
+      ],
+      "note": "南史10公开讨伐与保密建议的对话已核并转述。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "grand-notice"
+      ],
+      "note": "南史10若能改过便无所求的说法已纳入，同时标明进攻者政治宣示。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "grand-notice"
+      ],
+      "note": "晋王广、秦王俊、清河公杨素为行军元帅按隋书卷2采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "grand-notice"
+      ],
+      "note": "总管九十、兵五十一万八千与多路进军采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "grand-notice"
+      ],
+      "note": "通鉴176明确587大皇寺塔火，并补袁宪、萧摩诃支持樊毅增戍；灾异不作预言。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "grand-notice"
+      ],
+      "note": "齐兵三来、周师再至按通鉴原语校正转写。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "grand-notice"
+      ],
+      "note": "孔范长江天堑论采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "grand-notice",
+        "crossing"
+      ],
+      "note": "孔范马死笑谈与两路同日渡江分别定位，校正先后及人名。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "crossing"
+      ],
+      "note": "贺若弼换防麻痹采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "crossing"
+      ],
+      "note": "韩擒虎夜渡采石采用；其余转写混乱处不采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "crossing"
+      ],
+      "note": "补杨广驻六合桃叶山统军；武力值类评价不采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "blocked-orders"
+      ],
+      "note": "建康甲士十余万按通鉴177采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "blocked-orders"
+      ],
+      "note": "通鉴177昼夜啼泣与委政施文庆已有明确记载，补入正文。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "chen-falls",
+      "sectionIds": [],
+      "note": "插话，无需承接。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "blocked-orders"
+      ],
+      "note": "阻止出战有史据；功高赏薄等不能伪作原书对白，说明未采用部分。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "blocked-orders"
+      ],
+      "note": "萧摩诃请战被拒采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "blocked-orders"
+      ],
+      "note": "再次请战被拒与陈书卷31对读。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "chen-falls",
+      "sectionIds": [],
+      "note": "阵法闲话，无需承接。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "chen-falls",
+      "sectionIds": [],
+      "note": "阵法闲话，无需承接。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "array-and-well"
+      ],
+      "note": "白土冈布阵、鲁广达居南与二十里采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "array-and-well"
+      ],
+      "note": "首尾进退各不相知与孔范先溃采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "array-and-well"
+      ],
+      "note": "萧摩诃被俘分层：陈书卷31兼为妻子与被执，妻事归南史系统；鲁广达力战采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "array-and-well"
+      ],
+      "note": "任忠降引韩擒虎入朱雀门按通鉴177校正人名转写。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "array-and-well"
+      ],
+      "note": "井中被擒按通鉴177分层，原稿对白不采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "array-and-well"
+      ],
+      "note": "手书招降上游归属晋王杨广而非韩擒虎；统一收束承接。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "chen-falls",
+      "sectionIds": [],
+      "note": "收束感慨，不采用具体说法。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "partial",
+      "assessment": "not-needed",
+      "storySlug": "chen-falls",
+      "sectionIds": [],
+      "note": "收束感慨。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "chen-falls",
+      "sectionIds": [],
+      "note": "收束感慨。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "the-long-road"
+      ],
+      "note": "结局与代价的评价纳入编辑解读，个人偏好不作史实。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "the-long-road"
+      ],
+      "note": "刘裕等人的前期贡献与人物比较在收束展开；为后世奠定基础的泛论仍以编辑解读处理，不列为已证事实。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "the-long-road"
+      ],
+      "note": "战争代价的反思部分进入收束段。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "the-long-road"
+      ],
+      "note": "保留几代人的尺度，收紧原稿几十代等夸张量化。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "chen-falls",
+      "sectionIds": [],
+      "note": "现代生活对比插话。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "chen-falls",
+      "sectionIds": [],
+      "note": "现代生活对比插话。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "chen-falls",
+      "sectionIds": [],
+      "note": "假设性对话。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "chen-falls",
+      "sectionIds": [],
+      "note": "假设性对话。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "chen-falls",
+      "sectionIds": [],
+      "note": "假设性对话。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "the-long-road"
+      ],
+      "note": "保留跨朝人物比较的编辑入口；名臣社会关系和阶层矛盾未逐项展开，仍标部分覆盖。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "the-long-road"
+      ],
+      "note": "人物跨朝比较方法保留，未断言分裂自然成为试验。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "the-long-road"
+      ],
+      "note": "经验与失败议论展开，纠正所有经验皆失败的绝对结论。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "the-long-road"
+      ],
+      "note": "国家组织经验解释展开，未宣称后世已彻底解决所有继承问题。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "the-long-road"
+      ],
+      "note": "隋短促的收束保留，秦隋制度贡献不扩大成未经核源的逐项结论。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "the-long-road"
+      ],
+      "note": "冯太后、孝文帝等人物比较入口写入编辑解读，节目个人榜单不作事实。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "the-long-road"
+      ],
+      "note": "刘裕、萧衍前期、陈霸先比较保留，收紧无条件褒贬。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "the-long-road"
+      ],
+      "note": "衣冠南渡、被迫迁徙与交流保留为跨篇思考，不虚构迁徙统计。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "the-long-road"
+      ],
+      "note": "族群交流保留，纠正界限完全不重要的绝对说法。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "chen-falls",
+      "sectionIds": [],
+      "note": "收尾插话。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "uncertain",
+      "assessment": "partial",
+      "storySlug": "chen-falls",
+      "sectionIds": [
+        "captive-and-poem"
+      ],
+      "note": "已核乐府22传本文字、作者与文学层次并补诗；原音未回听，保留音频层面的待核。"
+    }
+  ]
+}

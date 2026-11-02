@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-11",
+  "method": "主代理独立复读金03 P218—222、P251—254及金02 P187—191全部14段，对读金史18围蔡/传位/自缢/哭奠、113兄弟关系、107高汝砺军户土地与财政、17哭笑男子及县令考核、106贾益谦评价原文。未回听原音，不精算在位时长或反事实。",
+  "counts": {
+    "corrected": 5,
+    "covered": 4,
+    "partial": 5
+  },
+  "rows": [
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P218",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-caizhou-last-transfer",
+      "sectionIds": [
+        "last-transfer"
+      ],
+      "note": "官奴死后尚有守将，宋蒙到蔡分期，非再无大臣。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P219",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-caizhou-last-transfer",
+      "sectionIds": [
+        "last-transfer"
+      ],
+      "note": "承麟与白撒兄弟关系及肥重不便驰突理由实写。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P220",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-caizhou-last-transfer",
+      "sectionIds": [
+        "last-transfer"
+      ],
+      "note": "传位坚辞与延祚可能写足。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P221",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-caizhou-last-transfer",
+      "sectionIds": [
+        "last-transfer"
+      ],
+      "note": "即位御敌、哀死、哭奠未毕、乱兵杀先后；不算不足一时辰。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P222",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "jin-caizhou-last-transfer",
+      "sectionIds": [
+        "last-transfer"
+      ],
+      "note": "百余年亡国承接，不精确写120整年。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P251",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-caizhou-last-transfer",
+      "sectionIds": [
+        "last-ruler"
+      ],
+      "note": "拒俘选择和死法分开，不说哀自缢也是一线战死。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P252",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-caizhou-last-transfer",
+      "sectionIds": [
+        "last-ruler"
+      ],
+      "note": "拒辱决意实写，未核仅交土就获放的议和条件。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P253",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-caizhou-last-transfer",
+      "sectionIds": [
+        "military-households"
+      ],
+      "note": "用人、军户地与货币压力实际联系。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P254",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-caizhou-last-transfer",
+      "sectionIds": [
+        "military-households"
+      ],
+      "note": "河南有官田但已有租耕，拟分荒牧后罢，一半折价不是全供无地。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P187",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-caizhou-last-transfer",
+      "sectionIds": [
+        "ruler-note"
+      ],
+      "note": "贾益谦正面评价确有传文，补拒迎合饰罪的语境，不能转为君主客观排名；容错反事实不定。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P188",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-caizhou-last-transfer",
+      "sectionIds": [
+        "ruler-note"
+      ],
+      "note": "1224男子哭笑有本纪，非末次到汴才发生。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P189",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-caizhou-last-transfer",
+      "sectionIds": [
+        "ruler-note"
+      ],
+      "note": "上拒重罪仍重杖遣，不能说毫无处罚。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P190",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-caizhou-last-transfer",
+      "sectionIds": [
+        "ruler-note"
+      ],
+      "note": "考县令与名将承接，不推广全基层廉能极高。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P191",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-caizhou-last-transfer",
+      "sectionIds": [
+        "ruler-note"
+      ],
+      "note": "蒙古几代扩张，欧洲战事不全归成吉思汗个人。"
+    }
+  ]
+}

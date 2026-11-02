@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核：逐读台账所列原P、正文全部节与对应原典缓存，核查实际承接并纠正错位；未回听音频，不把候选计为全覆盖。",
+  "audioReviewed": false,
+  "counts": {
+    "partial": 8,
+    "corrected": 5,
+    "not-needed": 1,
+    "covered": 1
+  },
+  "rows": [
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P201",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "dali-fields-temples-memory",
+      "sectionIds": [
+        "faith"
+      ],
+      "note": "佛像与佛教生活关系承接，衣袍不推所有人的实际服饰。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P202",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-fields-temples-memory",
+      "sectionIds": [
+        "faith"
+      ],
+      "note": "佛教与文字教育相交承接；单线南传直接来自印度的断言未核。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P203",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-fields-temples-memory",
+      "sectionIds": [
+        "food"
+      ],
+      "note": "亲核蛮书7稻麦轮作、鱼禽与唐书鱼胡瓜椒调和；菱芡逐一物种未核。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P204",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dali-fields-temples-memory",
+      "sectionIds": [
+        "food"
+      ],
+      "note": "古书物产不证明全部经济与宋各地相等，明确量化证据边界。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P205",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dali-fields-temples-memory",
+      "sectionIds": [
+        "food"
+      ],
+      "note": "蛮书7明确稻田收后种大麦、冈陵种小麦，云南志略多水田，纠正只种麦。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P206",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "dali-fields-temples-memory",
+      "sectionIds": [
+        "faith"
+      ],
+      "note": "寺院与本主信仰并存入文；800大寺3000小寺数量未核不抄。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P207",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "dali-fields-temples-memory",
+      "sectionIds": [
+        "faith"
+      ],
+      "note": "石钟山材料入口保留，具体窟号造像年代未声称已逐件释读。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P208",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dali-fields-temples-memory",
+      "sectionIds": [
+        "memory"
+      ],
+      "note": "白乌蛮等古类名与现代民族不一一固定对应。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P209",
+      "baselineVerdict": "not-needed",
+      "assessment": "corrected",
+      "storySlug": "dali-fields-temples-memory",
+      "sectionIds": [
+        "memory"
+      ],
+      "note": "不承认南诏直接等于傣族及越析全等纳西；跨海征服未恢复。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P210",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "dali-fields-temples-memory",
+      "sectionIds": [
+        "memory"
+      ],
+      "note": "地方世界中心观作为叙述视角，不作地理事实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P211",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "dali-fields-temples-memory",
+      "sectionIds": [],
+      "note": "小说与游览玩笑无独立生活史信息。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P212",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dali-fields-temples-memory",
+      "sectionIds": [
+        "faith"
+      ],
+      "note": "正史碑记文物地方书各自承担不同记忆，材料链落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P213",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dali-fields-temples-memory",
+      "sectionIds": [
+        "faith"
+      ],
+      "note": "战争造成散佚但文字没有全部灭失，纠正无材料绝对说法。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P214",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-fields-temples-memory",
+      "sectionIds": [
+        "faith"
+      ],
+      "note": "僧教童与官员教育据李京观察，不能换算全民识字率。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P215",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-fields-temples-memory",
+      "sectionIds": [
+        "memory"
+      ],
+      "note": "龙子传统有认同研究意义，不作真实生物族谱。"
+    }
+  ],
+  "independentReview": {
+    "reviewer": "finish_jin_xia_dali",
+    "status": "complete",
+    "paragraphCount": 15,
+    "audioReviewed": false
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读隋上P140–157十八段，校读隋书51/84及通鉴176；按人物、汗号、年次与引语语境逐项承接，未回听音频。",
+  "counts": {
+    "partial": 5,
+    "corrected": 11,
+    "covered": 2
+  },
+  "rows": [
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "many-khagans"
+      ],
+      "note": "突厥取代柔然成为隋北方强邻已写；北魏六镇设置与六镇起义的详细因果未在本篇复述。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "many-khagans"
+      ],
+      "note": "实写庵罗让位摄图及第二可汗，其他势力非固定四级属官架构。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "many-khagans"
+      ],
+      "note": "大逻便阿波、玷厥达头与贪汗名称和所部已承接；谐音插话不构成历史叙事。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "many-khagans"
+      ],
+      "note": "校正处罗侯有突利设号与受猜忌的关系，不以未封小汗立即投隋替代密交长孙晟。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "envoy-observes"
+      ],
+      "note": "财物、婚姻维系关系及不以送礼判软弱已写；具体澶渊盟约的跨朝比较未展开。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "envoy-observes"
+      ],
+      "note": "改不再送礼为减礼并列千金公主、高宝宁等成因；长孙留竟岁与观察交往实写。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "envoy-observes"
+      ],
+      "note": "补长孙晟奏议中通达头说合阿波、引处罗侯及奚霫以牵制沙钵略左右；明确计划与已实施使路不等同，校正原段将二者混写。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "war-and-rift"
+      ],
+      "note": "582入侵与583隋反击、白道/凉州战事已写；原稿武威天水延安完整范围未逐地复原，游牧者仅为劫掠的泛论不作史实。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "war-and-rift"
+      ],
+      "note": "说明沙袭阿波北牙杀母、阿波奔达头及互攻，校正沙已被推翻的事件次序。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "war-and-rift",
+        "kinsman-and-subject"
+      ],
+      "note": "限制一概拒援在当时阶段，补585杨广援沙与物资支持，584请求婚亲及行礼区分于简单投降。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "uncertain",
+      "assessment": "corrected",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "kinsman-and-subject"
+      ],
+      "note": "以史源重述翁婿和称臣，不擅补音频残句；沙587死于还猎后而非战死，雍虞闾让叔有据。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "kinsman-and-subject",
+        "flags-and-poem"
+      ],
+      "note": "处罗侯在两传分别称莫何/叶护而非木杆，受隋旗鼓援助明确。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "flags-and-poem"
+      ],
+      "note": "阿波部众误认隋军来援而归降的过程实写，区别赐旗与隋实际授兵权。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "kinsman-and-subject",
+        "flags-and-poem",
+        "four-beacons",
+        "city-and-pastures"
+      ],
+      "note": "处罗侯死后雍虞闾继位与染干父系分别说明；597婚盟、599败逃及大利城承接，不混为兄弟。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "four-beacons",
+        "city-and-pastures"
+      ],
+      "note": "校正全号意智健之意，朔州大利与后迁五原分开，畜牧未停；不凭汉字解释为启民智。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "city-and-pastures",
+        "whose-salutation"
+      ],
+      "note": "实写重集部众与援护、603局势变化，圣人莫缘可汗据启民表，区分后来的处罗祝词。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "city-and-pastures",
+        "whose-salutation"
+      ],
+      "note": "精确校正引文为612处罗向炀帝祝寿，与启民表分开；李世民天可汗的取得及比较未展开，仍部分承接。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-turk-diplomacy",
+      "sectionIds": [
+        "city-and-pastures",
+        "whose-salutation"
+      ],
+      "note": "用臣礼/政治依赖解释尊号含义，首例及孝文帝心理推测无充分材料，未据此定论。"
+    }
+  ]
+}

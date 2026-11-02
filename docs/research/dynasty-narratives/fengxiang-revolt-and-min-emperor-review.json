@@ -1,0 +1,534 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读49原段、全文及新五代7、通鉴278—279相关；重核易月丧礼、母子被掠收养、四镇宣命、凤翔索赏、召石与卫州事件，保留拟对白未采用部分；音频未回听。",
+  "counts": {
+    "corrected": 6,
+    "not-needed": 9,
+    "covered": 22,
+    "partial": 12
+  },
+  "rows": [
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "transfer-order"
+      ],
+      "note": "补易月行丧与读贞观政要，十二月已听政不能推成满27日才处理国政；愍帝排行新史与口述不同，不据转写定第三。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "transfer-order"
+      ],
+      "note": "通鉴278宽柔少断、279仁厚兄弟无嫌与朱孟横生猜间，改过度多疑归因，具体近臣换镇承接。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [],
+      "note": "对继承人紧张的闲谈与残缺亲戚比对，无独立事件。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "transfer-order"
+      ],
+      "note": "亲读新五代7明宗掠得寡母魏氏及十余岁阿三，后养赐从珂，不将关系写成自愿改嫁。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "transfer-order"
+      ],
+      "note": "明确王姓、十余岁阿三与收养背景，各种义儿关系不一，不简单等同生父子。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "transfer-order"
+      ],
+      "note": "女婿石敬瑭、养子从珂及强镇对新主的压力已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "transfer-order"
+      ],
+      "note": "旧日从珂不准回父身边背景在W13承接，本篇只保留军镇关联，不重复庄宗对白。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "transfer-order"
+      ],
+      "note": "四镇调任与抽离原镇军权已用，具体调任名单已核。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "transfer-order"
+      ],
+      "note": "四镇联动的办法已用；空降领导、故意伪装不针对的心理不虚定。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [],
+      "note": "没有一个好东西的全称品评不当五代人物事实。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [],
+      "note": "人人前人能我也能的拟心理，无可独立承接史事。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "transfer-order"
+      ],
+      "note": "无正式制书而枢密宣命的程序问题已用，不能只当现代结果导向口号。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [],
+      "note": "主播自拟心生一计的过场。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [],
+      "note": "对四帅厚此薄彼、驱虎吞狼是主播建议，不当少帝实际执行。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [],
+      "note": "德械美械的现代比喻不入唐代军备叙事。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "transfer-order"
+      ],
+      "note": "从珂拒赴河东、惧从璋代镇与部将劝反已用；不是已证明每个节帅都反。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "transfer-order"
+      ],
+      "note": "石敬瑭与从珂实力使新主顾忌已用；先帝最能打排序未虚定。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "transfer-order"
+      ],
+      "note": "清君侧起兵的名义与诸将推动已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "transfer-order"
+      ],
+      "note": "檄指朱弘昭冯赟离间骨肉已用，去骂语与千秋万代拟誓。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "siege-turns"
+      ],
+      "note": "王思同主帅药彦稠副及诸镇围凤翔已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "siege-turns"
+      ],
+      "note": "城低壕浅、关城破与凤翔危局已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [],
+      "note": "小柯歌手、儿化音笑谈，无独立战役行动。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "siege-turns"
+      ],
+      "note": "从珂哭诉少年随明宗百战的原典核心已用；灭梁回忆长篇拟演讲不当逐字实录。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "siege-turns"
+      ],
+      "note": "伤痕与无罪受诛的哭诉已用；兔死狗烹格言未当此刻原话。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "siege-turns"
+      ],
+      "note": "百战伤痕与朝臣无罪诛功的说辞已用；命每个士兵脱衣互看伤痕未核不补。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "siege-turns"
+      ],
+      "note": "登城痛哭已用，补张虔钊逼登士卒反攻的实际触发，不只以哭成胜。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "siege-turns"
+      ],
+      "note": "杨思权率军解甲入城及官赏承诺已用，军士投降有具体领将。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "siege-turns"
+      ],
+      "note": "尹晖喊受赏、其他军争降已用；官兵学习演讲下次反的心理删去。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "siege-turns"
+      ],
+      "note": "围解后东进长安、以城中物估赏已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [],
+      "note": "造反蛊惑性与同理心的主播解释不充当人物已证心理。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "eastward-collapse"
+      ],
+      "note": "少帝愿亲迎让位及朝中无措已用；将责任全怪旧臣的评断不虚定。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "eastward-collapse"
+      ],
+      "note": "主动愿让位的决定已用；条汉子、投降派的评语仅口述不照录。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [],
+      "note": "穆宗耶律屋质的辽代类比，无新后唐行动。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "eastward-collapse"
+      ],
+      "note": "通鉴279明确帝遣使召石敬瑭欲令将兵拒之，正文补召与抗潞王目的。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "eastward-collapse"
+      ],
+      "note": "康义诚请领禁军西进、实谋以迎降取功已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "eastward-collapse"
+      ],
+      "note": "朱洪实反对宿卫出城、固守洛阳已用；姓名不沿用朱弘实。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "eastward-collapse"
+      ],
+      "note": "御前争辩、少帝不辨而斩朱洪实已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "eastward-collapse"
+      ],
+      "note": "斩洪实军怒与厚赏禁军已用；少帝自觉杀错与军士整段心声不编。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "eastward-collapse"
+      ],
+      "note": "李重吉、女惠明被杀与军队东进已用；陕州是康思立以兵迎降而非此段攻陷，未沿用攻破陕。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "eastward-collapse"
+      ],
+      "note": "以清君侧安抚、康军路上离散到只余数十已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "eastward-collapse"
+      ],
+      "note": "康义诚解弓剑降、少帝急召朱弘昭已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "eastward-collapse"
+      ],
+      "note": "朱弘昭投井、冯赟被杀及都城失控已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "wei-prefecture"
+      ],
+      "note": "补50骑出玄武门打算赴魏、实际到卫，目的地与相遇地点分开。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "wei-prefecture"
+      ],
+      "note": "孟汉琼未接应而奔从珂、路被斩已用，逃主失其支援。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "wei-prefecture"
+      ],
+      "note": "卫州遇石敬瑭与侍卫危局已用，不以聊哭对白代替见面经过。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "wei-prefecture"
+      ],
+      "note": "沙守荣与陈晖斗死、刘知远杀随骑、少帝孤身及潞王入洛已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "wei-prefecture"
+      ],
+      "note": "太后废鄂王、从珂柩前即位、卫州缢杀已用；非魏州杀帝、非陵墓前称帝。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "wei-prefecture"
+      ],
+      "note": "石敬瑭未保少帝的行动由卫州杀近侍承接；不知其想不想管的心理不代言。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "fengxiang-revolt-and-min-emperor",
+      "sectionIds": [
+        "wei-prefecture"
+      ],
+      "note": "名号与兵权分离的政变总结已用；所有藩镇只要不动我都没事不作全称定论。"
+    }
+  ],
+  "independentReview": "completed"
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "year": 304,
+    "regions": 4,
+    "valid": true,
+    "overlapArea": 0,
+    "labelsInside": true
+  },
+  {
+    "year": 347,
+    "regions": 5,
+    "valid": true,
+    "overlapArea": 0,
+    "labelsInside": true
+  },
+  {
+    "year": 376,
+    "regions": 2,
+    "valid": true,
+    "overlapArea": 0,
+    "labelsInside": true
+  },
+  {
+    "year": 394,
+    "regions": 6,
+    "valid": true,
+    "overlapArea": 0,
+    "labelsInside": true
+  },
+  {
+    "year": 410,
+    "regions": 10,
+    "valid": true,
+    "overlapArea": 0,
+    "labelsInside": true
+  },
+  {
+    "year": 417,
+    "regions": 7,
+    "valid": true,
+    "overlapArea": 0,
+    "labelsInside": true
+  },
+  {
+    "year": 431,
+    "regions": 4,
+    "valid": true,
+    "overlapArea": 0,
+    "labelsInside": true
+  },
+  {
+    "year": 439,
+    "regions": 2,
+    "valid": true,
+    "overlapArea": 0,
+    "labelsInside": true
+  }
+]

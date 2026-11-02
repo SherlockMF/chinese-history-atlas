@@ -1,0 +1,407 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原稿并校读所列原典。正文与口述评价、转写疑点分层；没有回听音频。独立交叉复核待完成。",
+  "counts": {
+    "corrected": 6,
+    "covered": 15,
+    "not-needed": 6,
+    "partial": 10
+  },
+  "rows": [
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "xingzhou"
+      ],
+      "note": "养子与勇将身份已用；叛变驻地改为邢洺磁，竞争、诬指和求外援交代，不沿用因守潞州主力撤而叛。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "xingzhou"
+      ],
+      "note": "养子反叛的核心已用；为何变心仅保留有源争功与疑惧。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [],
+      "note": "主播干儿子、董卓吕布类比，不替代李克用家族事实。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "xingzhou"
+      ],
+      "note": "893李存孝联络王镕求援、邢州受围已用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "xingzhou"
+      ],
+      "note": "王镕与河东议和，援李存孝落空已用；纯孙子、出钱求别打拟对白舍弃。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "yan-break"
+      ],
+      "note": "刘仁恭获扶持守幽州已用，对应yan-break单段引用；乱成粥的感叹不需落事实。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "rescue-and-title"
+      ],
+      "note": "895去世者是王重盈；王珙王瑶与王珂继承争端按通鉴261改写，不沿用王重荣两个儿子同争。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "rescue-and-title"
+      ],
+      "note": "三帅入京及昭宗受迫已用；优柔寡断评价不作为唯一原因。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "rescue-and-title"
+      ],
+      "note": "李克用南下勤王、三帅撤回本镇已用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [],
+      "note": "圈踢与打便宜手比喻缺独立事件，不落实具体参与者。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "rescue-and-title"
+      ],
+      "note": "同州乱兵卷入已用；王行约弃镇、王行实京中动作分开，不沿用王行瑜一人进入同州及京城。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "rescue-and-title"
+      ],
+      "note": "煽动播迁的恐吓已承接；十万称帝是假言煽动，不能作河东真实目的。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "rescue-and-title"
+      ],
+      "note": "争取皇帝去邠州或凤翔的冲突已用，凤翔将领按李继鹏核定；李继徽转写不沿用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "rescue-and-title"
+      ],
+      "note": "昭宗求援、河东围华州邠宁已用；主动塑造正面历史形象的猜心删去。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "rescue-and-title"
+      ],
+      "note": "皇帝返京、王行瑜失败及河东封赏已用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "rescue-and-title"
+      ],
+      "note": "勤王获封、要求待遇的线索已用；要单字王的长拟对白未核，不保留。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "rescue-and-title"
+      ],
+      "note": "朝廷拒再攻凤翔、十二月授晋王已用，和解只是朝廷牵制过程之一。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "rescue-and-title"
+      ],
+      "note": "晋王封号与河东所在关联已用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "rescue-and-title"
+      ],
+      "note": "盖寓以人心未定、渡渭将惊京城劝止已用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "rescue-and-title"
+      ],
+      "note": "李克用接受盖寓劝说撤回，保住勤王名义已用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [],
+      "note": "主播喜欢曹操与评论区争论，是节目交流内容。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [],
+      "note": "曹操娶妇与资源整合的跨代评价，不纳此篇河东事实链。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "rescue-and-title"
+      ],
+      "note": "不挟天子而撤军的抉择已评价；以曹操路线必然避免后祸的反事实不承接。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [],
+      "note": "朱温对李克用单字封王不服的拟对白，未核独立原典。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "yan-break"
+      ],
+      "note": "896朱全忠荐张濬再相、李克用反对已用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "yan-break"
+      ],
+      "note": "任张濬即发兵京城的威胁与朝廷退让已用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "partial",
+      "assessment": "not-needed",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [],
+      "note": "黄巢大战将回忆及克用哥拟对白，无独立新事件。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "yan-break"
+      ],
+      "note": "刘仁恭拖延征兵、拘辱使者与联盟破裂已用；朱温由被动转主动的单一阶段划分不虚定。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "yan-break"
+      ],
+      "note": "897李克用攻幽州、木瓜涧战败及雾醉轻敌已用；仇恨种子是叙事比喻。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "jinyang-siege"
+      ],
+      "note": "899由土门马岭入河东抵榆次已用；不把青山反击通道当进军通道，不以现代县名替全战线。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "jinyang-siege"
+      ],
+      "note": "河东地盘缩减、潞州与河中失守已用；本篇未单列901梁王册封年月。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "jinyang-siege"
+      ],
+      "note": "同盟瓦解的具体实例已用；此消彼长及认怂笑谈非独立史实。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "jinyang-siege"
+      ],
+      "note": "李克用转求与朱温议和已用；认干爹笑话和笼统心理删去。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "jinyang-siege"
+      ],
+      "note": "重礼与书信求和已用；不编朱温看信取笑场景。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "jinyang-siege"
+      ],
+      "note": "来书辞气使议和不成、随后攻晋阳已用；怂就要弄的价值评断不照录。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "jinyang-siege"
+      ],
+      "note": "书辞傲慢主体为李克用来书，已改正；暴雨同时损墙、引病且有守军夜袭，不说天雨独救。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxiao-alliance-breaks",
+      "sectionIds": [
+        "jinyang-siege"
+      ],
+      "note": "901雨病撤军与902再围、守城劝止已用；后续到904的势力比较仅作概括。"
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "date": "2026-10-11",
+  "method": "末轮其他系列基线遗留复核：亲读38段原文（包括上下文有助辨明处），逐段对照实际已注册正文；两组诗文亲读原诗后新增。旧baseline所有原hash/verdict保持不变。本台账只代表这38段的实质复核，不代表重新读全部6926段；未回听音频。 2026-10-11 root独立逐读38原段全文和41承接节实质内容，另亲读蛮子朝/江南春原诗、宋书南齐书本纪名单；保留partial/uncertain及串场理由。",
+  "audioReviewed": false,
+  "independentReview": "root-completed",
+  "counts": {
+    "partial": 13,
+    "corrected": 10,
+    "not-needed": 12,
+    "covered": 2,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gao-cheng",
+      "sectionIds": [
+        "young-regent",
+        "faces-and-judgments"
+      ],
+      "note": "高欢未称帝、高澄547接掌魏臣权力及相貌材料已实质写入；不能把数位亲属的形貌与才能概括为全家的智商遗传，精神病家族诊断未采用。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "court-fear"
+      ],
+      "note": "正文已有暴行、酗酒与现代精神疾病诊断边界，纠正将北齐诸帝一律称精神病的讲述；混蛋排名与节目收束不是额外史实。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "feng-regency",
+      "sectionIds": [
+        "return-to-power",
+        "farewell"
+      ],
+      "note": "冯太后掌政、改革决断及评价已写入；女性政治家最高排名不作史实，片尾魏碑提示另在wei-culture碑刻节承接。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-schools-law",
+      "sectionIds": [
+        "school-gates",
+        "punishment-in-steps"
+      ],
+      "note": "兴学和减刑实质已写，校正兴学始于冯氏、一次废尽酷刑的泛称；农牧用地关系另在wei-households#pasture，不以本篇两项当全段三项全用。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "salary",
+        "debate",
+        "limits"
+      ],
+      "note": "官俸、三长议与改革利益冲突已有具体事件；贵族全盘垄断与所有改制者遭害的概括不补成事实。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wei-households",
+      "sectionIds": [
+        "debate",
+        "limits"
+      ],
+      "note": "冯太后支持三长及改制作用已有实质；硬实力只作议论，不能由成功推出全国均田都足额落实或未遇反对。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "moving-a-court",
+        "clothes-and-speech"
+      ],
+      "note": "迁洛、服制与朝廷语言已有实质；正文限定不同对象、时段及执行阻力，不采用全体鲜卑在一刻彻底去鲜卑化的概括。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [],
+      "note": "孝文帝篇结束、下期讲亡国的串场，秦皇汉武唐宗宋祖排名和天命感叹不提供独立北魏事件。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "yuan-ziyou",
+      "sectionIds": [],
+      "note": "哭一哭、真男人和天人的即兴赞叹，无新的元子攸事迹；正文aftermath已有明确编辑评价，不以这些感叹增加采用量。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "manzi-chao"
+      ],
+      "note": "新节以白居易原诗核正诗题、巂州、牂牁等转写，节选至西洱河枯骨；六万卒和全军没为诗句，不作独立战役统计。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "manzi-chao"
+      ],
+      "note": "西洱河箭孔刀痕满枯骨的末句、诗从使者道路回望战争的叙事效果已呈现；荷马史诗只是听者联想，不作体裁定论，也不采用现代听感证明不押韵。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "manzi-chao"
+      ],
+      "note": "正文区分唐人称名与今日评价、诗中的南诏与937年后的大理，不把蛮子当今人认可的族群称谓。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P001",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-last-kings",
+      "sectionIds": [
+        "usurpers"
+      ],
+      "note": "现有正文已写大长和、大天兴、大义宁到937大理的接续；因中原而覆灭不据一句开场断定因果，地方书纪年异文已有说明。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [],
+      "note": "大部为卖早点、吉他等闲话；1208年峰值七十二万平方公里的现代面积说未获所读史籍支持，未采用为疆域数字，保留无正文锚待核候选，不因插话而抹去这个主张。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "937段思平建国、洱海政治中心已承接；1208统计和现代云南贵州缅甸老挝越南拼成的固定疆域未采用，羊苴咩城都城沿革亦不由此单段完全复原。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "partial",
+      "assessment": "not-needed",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [],
+      "note": "重述南宋时期并预告蒙古军来袭，未提供新战役动作；正文first/river及前文已承担相应年代，不重复计一次独立采用。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shi-jingtang-khitan-bargain",
+      "sectionIds": [
+        "land-for-help",
+        "tent-and-tower"
+      ],
+      "note": "石敬瑭称臣父礼、外援和十六州代价已有实质；其余为倒回契丹起源的转场与代入笑话，未把主持人自述当年龄或割地对象。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "temples-in-poetry"
+      ],
+      "note": "杜牧南朝四百八十寺已以完整原诗及唐人回望的语境呈现；麻将数字和预告刘裕不产生额外历史主张。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [],
+      "note": "老王有钱、孩子写字与精神财富是概括感叹；相邻P140–142讨论门阀与财富，不能凭老王二字补造王羲之王献之等具体作品故事。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "a-new-dynasty"
+      ],
+      "note": "420–479相距五十九年、首尾六十年头，以及按宋书本纪名单计八帝已写入；武帝三卷只计一人，刘劭的二凶传不混入该计法。北齐祸害辐射面、精神病发作的比较不作事实。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "liu-song-palace-violence",
+      "sectionIds": [],
+      "note": "主持人解释节目删去骇人情节、评论价值观，无新姓名事件；不能以高刺激概括创造未在这一段说出的宫廷故事。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "another-abdication"
+      ],
+      "note": "正文明确479–502首尾跨二十四年，并依南齐书本纪姓名明列七帝，纠正二十七年口误；高帝上下两卷只计一人，平均在位年数不代替具体废立。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [],
+      "note": "比桀纣更残暴的排行榜与录节目天数属评语、串场，没有额外史事；具体杀戮和失去臣下支持已由本篇独立事件呈现。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [],
+      "note": "如果不是皇帝会怎样、家族混蛋孩子比例是反事实与道德感叹；没有可核的事件或统计，未以此作遗传论。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "temples-in-poetry"
+      ],
+      "note": "补原诗及寺院记忆；诗不能证明寺院全在梁、寒山寺创建于梁或当然属于480名单。相关个寺创建仍须独立证据，不假称此段所有主张已证。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "temples-in-poetry"
+      ],
+      "note": "正文明确480不能当建康及近郊实测寺数，也不能直接算整个南朝规模；信仰规模不由一个诗数证明。僧众普遍不受皇帝约束的泛称未采用。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "bodhidharma-story",
+        "first-two-offerings",
+        "last-two-offerings"
+      ],
+      "note": "正文已有达摩不以帝王造寺论功德的晚出故事，以及皇帝舍身、奉赎还宫的编年过程；南朝和尚一律说了算、北朝一律尊皇帝为佛的二分不作事实。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiangling-fall",
+      "sectionIds": [
+        "books-and-people",
+        "balance"
+      ],
+      "note": "人口与军事动员损耗、被掠者和亲属离散已有具体承接；没有此段可核的总体人口数字，不推算人口锐减比例。节目结束串场不计采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P001",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "northbound"
+      ],
+      "note": "侯景乱后的陈霸先北上勤王、与王僧辩协力已有实质；闻者惊心是感受，不能把梁亡各阶段压成一个事件。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "southern-campaign",
+        "northbound",
+        "unfinished-foundation"
+      ],
+      "note": "广州招兵、岭南起兵北上与557受禅建陈已写；陈霸先籍贯吴兴，不把部队南方起家写成皇帝生于广州，更不采用从未有岭南势力成功的绝对断言。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P001",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [],
+      "note": "严肃史实与演义不同、举秦叔宝为例的开场提示，没有本段独立人物行动；不由知名度扩写一套新的隋唐演义故事。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [],
+      "note": "续举尉迟恭、程咬金和疑似演义桥段，随后说明可能张冠李戴；无完整可核的事件，此处不根据秦兄卖马索武龙等转写补造台词或人物归属。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "yang-jian-origins",
+      "sectionIds": [],
+      "note": "关公战秦琼作为日常语言例子及开始讲隋的串场，未提出两人真的交战；不需补成历史战役或另辟唐将生平。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "after-capture",
+        "long-division"
+      ],
+      "note": "589年统一及此前分裂阶段已具体写入；二世而亡的简化在sui-jiangdu-coup#names-after-death已有不同末帝说明。秦始皇与杨坚高下不是此篇的史源结论。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "sui-jiangdu-coup",
+      "sectionIds": [],
+      "note": "杨坚不及秦始皇、杨广胜胡亥是未指定尺度的人物高下；没有新行为事迹，现有隋篇从治理、工程、战争和末局具体评价，不另添皇帝排行榜。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [],
+      "note": "矛盾综合体与精神病的玩笑没有新的李存勖事件；不作现代临床诊断，也不拿北齐作家族病对照。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "money-and-performers",
+        "guo-death",
+        "ye-mutiny"
+      ],
+      "note": "正文以军粮、伶官、诛功臣与兵变呈现后期问题，不写突然变坏的心理断言；早年战功已在潞州柏乡篇，不把前后半生各自绝对贤或恶当史实。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "later-han-and-guo-wei-rise",
+      "sectionIds": [
+        "yellow-flag"
+      ],
+      "note": "郭威称帝的黄旗撕披、拥呼南返已有实质，区别后来赵匡胤黄袍；末集预告和十国梳理感想不计独立采用。"
+    }
+  ]
+}

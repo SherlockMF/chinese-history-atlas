@@ -1,0 +1,466 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11收尾独立复核：逐读指定原P、现正文及所用原典；实义评价以编辑解读承接，未证心理、比例和全称判断明确研究结案；未回听音频。",
+  "counts": {
+    "corrected": 14,
+    "covered": 13,
+    "partial": 14
+  },
+  "rows": [
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "yongxi-decision"
+      ],
+      "note": "辽9景宗982崩，宋258北伐986，纠正刚死即伐的时序。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "yongxi-decision"
+      ],
+      "note": "宋258贺令图主少母专宠幸用事进言直接承接，非现代无源传闻。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "yongxi-decision"
+      ],
+      "note": "986雍熙三年/统和四年开战承接；转入阵图制度。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "yongxi-decision"
+      ],
+      "note": "阵图约束以宋257979实际事例介绍；不将所有作战动作都一律由图定作普遍事实。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "yongxi-decision"
+      ],
+      "note": "宋257李改图反获胜，纠正赢也一定受罪；控制欲/箭伤心理未证明不采。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "yongxi-decision"
+      ],
+      "note": "research-closed：以宋史太祖本纪的陈桥拥立补开国兵变背景，并分析皇帝目标与将领应变的张力；不把重文抑武简化为所有军事失败的唯一原因或永不杀士事实。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "yongxi-decision"
+      ],
+      "note": "research-closed：明确用岳飞秦桧作为跨时代比较问题，承接武将受皇权约束的讨论；不将南宋人物冒作986年证据，也不展开其案件为本役因果。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "three-routes"
+      ],
+      "note": "三路部署按《辽史》卷11“曹彬、崔彦进、米信由雄州道”逐字承接；口述曹斌更正曹彬。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "three-routes"
+      ],
+      "note": "田重进（口述田崇更正）、潘美杨业雁门道的部署承接；雄州今地注明。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "three-routes"
+      ],
+      "note": "雁门重要不等唯一，东部并非绝无河寨防守，正文限定原泛化。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "three-routes"
+      ],
+      "note": "东路缓行吸引、西路中路尖刀的设计承接为太宗方案概述；“岐沟、涿州、固安、新城皆陷”逐字补入。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "liao-response"
+      ],
+      "note": "休哥当东路、斜轸当西路的辽方部署承接；口述“耶律流哥”更正耶律休哥。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "liao-response"
+      ],
+      "note": "斜轸山西路/蔚飞反击有辽11/83；所有中路都由其单独分兵原提法未足确证。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "liao-response"
+      ],
+      "note": "休哥不接战、围涿州耗敌按卷83“休哥力寡，不敢出战”与设伏绝粮道承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "qigou-collapse"
+      ],
+      "note": "曹彬粮尽退白沟承接；白沟为界河的说明承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "qigou-collapse"
+      ],
+      "note": "宋258太宗止勿前、白沟会军养锐，旧强令复进正好倒置；正文恢复原命令。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "qigou-collapse"
+      ],
+      "note": "宋258部将争功致曹彬再进；辽83轻兵骚扰四日到涿，辽11春三四月太后驻军，纠正误引秋乙卯幸南京。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "qigou-collapse",
+        "postmortem"
+      ],
+      "note": "粮尽弃城与疲乏承接；裹涿州百姓细节尚未亲得直接史源，只在复盘限定，不伪covered。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "qigou-collapse"
+      ],
+      "note": "骑兵追步兵的阵营反转承接为分析层。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "qigou-collapse"
+      ],
+      "note": "宋257整军而还与安置散卒补回；未见死战断后不虚造，战役败有辽11。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "qigou-collapse"
+      ],
+      "note": "拒马与沙河追击分开；宋国王986，免拜不名/止宋儿啼989，不再全并986或写辽儿哭。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "zaisheng-ritual"
+      ],
+      "note": "辽53前一年季冬、三岐木产医等实流程替代臆造房床白衣。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "zaisheng-ritual"
+      ],
+      "note": "三岐木及击箙生男象征再生；辽53作者解释恢复孝心，不证佛教业障整套因果。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "zaisheng-ritual"
+      ],
+      "note": "该段包含健康重生实义，仪式重生象征承接，美容玩笑不采；不再整段not-needed。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "zaisheng-ritual"
+      ],
+      "note": "追加亲读辽12明确989三月宋国王行再生礼，恢复实赏；986辽11行礼为太后，时序不得合并。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "postmortem"
+      ],
+      "note": "东路军内部问题的复盘承接为分析层。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "postmortem"
+      ],
+      "note": "将领争功按宋258有文字；五十与四十老哥们年龄、曹彬衰老心理未照写。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "postmortem"
+      ],
+      "note": "议论蜂起与争功有源；不足作几乎哗变事实。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "postmortem"
+      ],
+      "note": "军议不统一、将骄难制的判断承接为分析层。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "postmortem"
+      ],
+      "note": "平原补给自然便利的假设被断粮现实纠正。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "postmortem"
+      ],
+      "note": "东西俱快之替代推演明确为编辑讨论并承认未知约束，非必胜结论。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "postmortem"
+      ],
+      "note": "东西俱快之替代推演明确为编辑讨论并承认未知约束，非必胜结论。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "postmortem"
+      ],
+      "note": "携民两难讨论承接；幽燕百姓自愿程度与涿州携民规模未亲核，不以议论冒充事实。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "postmortem"
+      ],
+      "note": "携民两难讨论承接；幽燕百姓自愿程度与涿州携民规模未亲核，不以议论冒充事实。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "postmortem"
+      ],
+      "note": "携民两难讨论承接；幽燕百姓自愿程度与涿州携民规模未亲核，不以议论冒充事实。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "postmortem"
+      ],
+      "note": "东路败改变西路局势承接；带民被咬死具体因果未确认。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "postmortem"
+      ],
+      "note": "东路败削弱西路协同承接；无重辎重闪电部队及菜刀锤子不照作事实。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "postmortem"
+      ],
+      "note": "败因第一条更正：把韩德让当男宠是误判，他是实绩辅臣；维持基线校正。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "postmortem"
+      ],
+      "note": "982崩986北伐，非刚死丧期，纠正道义论时间基础；不报丧泛例未展开。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "postmortem"
+      ],
+      "note": "协同/指挥讨论承接；不将阵图教条和兵力分散列为已定全部败因。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yongxi-eastern-route",
+      "sectionIds": [
+        "zaisheng-ritual",
+        "qigou-collapse"
+      ],
+      "note": "休哥封王986/再生989实源分年；对原总结分开承接，不再说无受礼记录。"
+    }
+  ],
+  "independentReview": "complete",
+  "independentReport": "final-unadopted-liao-wudai-independent.md"
+}

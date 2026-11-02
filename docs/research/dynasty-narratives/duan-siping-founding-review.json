@@ -1,0 +1,404 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核：逐读台账所列原P、正文全部节与对应原典缓存，核查实际承接并纠正错位；未回听音频，不把候选计为全覆盖。",
+  "audioReviewed": false,
+  "counts": {
+    "partial": 29,
+    "covered": 5,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "南诏段忠国祖源承接，未将晚出六世谱系视作逐环证实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "段俭魏战功赐名按地方记载，碑仅验证段忠国官名。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "清平官段忠国由当时碑证补强，个人全部战场功劳仍分层。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "六世传思平的族谱说法注明晚出，非碑直接证明。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "杨氏政权与段思平通海节度使背景落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "杨诏忌谶追捕按地方故事呈现，不作当时心理实录。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [],
+      "note": "牛马鸡说人话的具体预兆未在亲读本找到对应，未入文。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "追捕与避逃传统承接，奇兆不认作真实证据。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "杨诏与杨干贞身份分清，未编皇帝对话。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "避捕转结盟落实，九年躲藏的精确时长未强合年表。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "rewards"
+      ],
+      "note": "减役线索据免东方三十七部落实，全国减税半口号未证。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "rewards"
+      ],
+      "note": "政治支持与免部役相连，宽役三载未当兑现的全国法令。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies",
+        "rewards"
+      ],
+      "note": "借兵支持与事后免役落实，经济承诺范围严格限定。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "向东方爨部借兵进入allies正文；爨字读音的现代闲谈不作为补充史实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "dreams"
+      ],
+      "note": "犬换神戟、神马进入传说节，不作实物军备证据。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies",
+        "dreams"
+      ],
+      "note": "神戟、神马与937建国分别进入dreams和allies；神授依据仍属晚出传统。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies",
+        "dreams"
+      ],
+      "note": "大理国名、文德年号进入allies，国名传说进入dreams；南诏大礼与新大理的名号对比未全展开。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "dreams"
+      ],
+      "note": "渡江成功神授化的讲述保留，不确认预言发生。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "dreams"
+      ],
+      "note": "神异为王朝安排天命的意义入文，属于叙事解释。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "dreams"
+      ],
+      "note": "军师将凶梦解释为吉兆与信心相连，不杜撰真实内心。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "937政权接续落实，全部人心支持推测不作事实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "借爨部兵的具体政治行动承接，税率兑现未虚补。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "allies"
+      ],
+      "note": "结盟集兵与后出奇迹区分，不概括成单人夺国。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "rewards"
+      ],
+      "note": "董迦罗相国、高方岳侯的酬功职位落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "rewards"
+      ],
+      "note": "成纪巨桥分治明确，普宁现代地名对应未核不采用。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "rewards"
+      ],
+      "note": "爨判巴甸侯及东方免役承接。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "rewards"
+      ],
+      "note": "多方军力和利益形成开国联盟，股份公司比喻不作制度。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "rewards"
+      ],
+      "note": "君位与地方势力未必同集中进入解释，未估各家占比。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "rewards"
+      ],
+      "note": "政治重组与一日社会制度转变分开。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "rewards"
+      ],
+      "note": "国王头衔集中与地方军权并存的材料尺度明确。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "rewards"
+      ],
+      "note": "贵族部众关系作为后继冲突伏线，具体权重不杜撰。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "rewards"
+      ],
+      "note": "保留功臣职位与统治联盟，现代公司模拟舍弃。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "rewards"
+      ],
+      "note": "分封和免役的实际安排入文，不借比喻推出统一封建化日期。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "rewards"
+      ],
+      "note": "杨干贞僧/自杀异述明确，皇后支系未有核据不新增。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "duan-siping-founding",
+      "sectionIds": [
+        "rewards"
+      ],
+      "note": "开国联盟延续到后世继承问题，文明阶段绝对判断不采用。"
+    }
+  ],
+  "independentReview": {
+    "reviewer": "finish_jin_xia_dali",
+    "status": "complete",
+    "paragraphCount": 35,
+    "audioReviewed": false
+  }
+}

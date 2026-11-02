@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "covered": 3,
+    "partial": 7,
+    "corrected": 4
+  },
+  "rows": [
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-anquan-jin-war",
+      "sectionIds": [
+        "attack-jin"
+      ],
+      "note": "不援后转附蒙攻金概括有实际行动。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-anquan-jin-war",
+      "sectionIds": [
+        "attack-jin"
+      ],
+      "note": "1210开战与通使1212后逐断，十三年25次无统计定数。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-anquan-jin-war",
+      "sectionIds": [
+        "attack-jin"
+      ],
+      "note": "通使非玩过家家，非全十三年照旧贺节。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-anquan-jin-war",
+      "sectionIds": [
+        "people"
+      ],
+      "note": "1223陇安军掠民五千牲畜，待核音频不声称消除。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-anquan-jin-war",
+      "sectionIds": [
+        "people"
+      ],
+      "note": "互耗可据不单因灭亡，遵顼后期非安全全部。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-anquan-jin-war",
+      "sectionIds": [
+        "people"
+      ],
+      "note": "饥荒点兵困难据史，茶馆逃兵类比不作本朝证言。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-anquan-jin-war",
+      "sectionIds": [
+        "accession"
+      ],
+      "note": "彦宗宋/彦忠清；父早已卒不1211民变起义首领。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-anquan-jin-war",
+      "sectionIds": [
+        "accession"
+      ],
+      "note": "凉州父履历与子继位区分，无另都兵变战报。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-anquan-jin-war",
+      "sectionIds": [
+        "accession"
+      ],
+      "note": "遵顼先立安全后卒有据，攻城擒废过程未证。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-anquan-jin-war",
+      "sectionIds": [
+        "historian"
+      ],
+      "note": "清论安全嫡庶篡位纳女背金鲜耻寡恩校字意。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-anquan-jin-war",
+      "sectionIds": [
+        "historian"
+      ],
+      "note": "天讨是史臣观非确定天命证据。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-anquan-jin-war",
+      "sectionIds": [
+        "historian"
+      ],
+      "note": "外交与道德评价并读，不把恶行唯一因果。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-anquan-jin-war",
+      "sectionIds": [
+        "historian"
+      ],
+      "note": "第七君与转衰事件分明，私人爱情未强实。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-anquan-jin-war",
+      "sectionIds": [
+        "accession"
+      ],
+      "note": "遵顼后德旺末帝承接。"
+    }
+  ]
+}

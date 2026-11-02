@@ -1,0 +1,282 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读对应辽04/05原段、正文及所列原典；查明诗词、冤案与人名年代，逐条记录实际承接和舍弃。音频未回听。",
+  "counts": {
+    "covered": 9,
+    "partial": 10,
+    "corrected": 3,
+    "not-needed": 3
+  },
+  "rows": [
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P204",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "framing-the-crown-prince"
+      ],
+      "note": "两轮诬告与党羽审讯程序据辽110/72，非凭情理铺演。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P205",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "framing-the-crown-prince"
+      ],
+      "note": "燕哥是实际审讯者，太子储副尚何所求原话据辽72恢复。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P206",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "framing-the-crown-prince"
+      ],
+      "note": "易言款伏、押上京杀害、疾薨欺报明确，有原典非仅转述。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P207",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-princess-and-the-grandson"
+      ],
+      "note": "皇孙存活与太子妻灭口入文，虎毒及幼孙不反心理解释不实证。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P208",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-princess-and-the-grandson"
+      ],
+      "note": "保护皇孙后继位已叙，乙辛计划立即当皇帝没有直接证据。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P209",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-fall"
+      ],
+      "note": "官属随后招帝恶的具体触发入文，想先杀帝推演未采。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P210",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-fall"
+      ],
+      "note": "失宠出枢密有据，皇帝底线心理对白不能当史实。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P211",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-princess-and-the-grandson"
+      ],
+      "note": "出猎留孙事件真实，调映射至实际叙述节。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P212",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-princess-and-the-grandson"
+      ],
+      "note": "留皇孙请求与随驾实际承接，非只有笼统预告。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P213",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-princess-and-the-grandson"
+      ],
+      "note": "兀纳劝保护皇孙，原典角色明确。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P214",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-princess-and-the-grandson"
+      ],
+      "note": "辽98原语请侍左右逐字恢复，新增精确214范围。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P215",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-fall"
+      ],
+      "note": "削一字王混同王与张孝杰安肃州归乡，纠亲王郡王硬配和南京削民。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P216",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-fall"
+      ],
+      "note": "承接案责难题，帝怕认错的内心原因无直接证词。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P217",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-fall"
+      ],
+      "note": "禁物鬻外国法当死、八议减死具体恢复。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P218",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-fall"
+      ],
+      "note": "非走私不死，八议减死；谋奔宋被发无实际越狱细节。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P219",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-fall"
+      ],
+      "note": "谋逃藏甲事发缢杀，不编逃跑路上逮捕。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P220",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-grandson-throne"
+      ],
+      "note": "1075生1101继位成年，根据辽27补实源，年份差26。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P221",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-grandson-throne"
+      ],
+      "note": "直后果与晚后辽亡分开，不把乙辛唯一成因绝对化。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P222",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [],
+      "note": "节目期数闲谈段，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P223",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [],
+      "note": "李元昊西辽预告闲谈段，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P224",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-final-discussion"
+      ],
+      "note": "昏君奸臣关系改为审案决策责任，不复刻赵构秦桧类比。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P225",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-final-discussion"
+      ],
+      "note": "贪财之外官场司法危害明确，全忠良清空非统计事实。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P226",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-final-discussion"
+      ],
+      "note": "判断困难与帝责并列，不能以困难卸免。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P227",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [],
+      "note": "众口铄金玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P228",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "taizi-harmed",
+      "sectionIds": [
+        "the-final-discussion"
+      ],
+      "note": "气数属感慨，不替代具体机制结论。"
+    }
+  ],
+  "independentReview": "completed"
+}

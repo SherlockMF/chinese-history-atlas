@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-11",
+  "method": "起草后由根代理独立逐段对读原逐字稿、正文、定位与相关史源；按实际内容保留partial/uncertain，不回听音频。见cross-review-l45-l52.md。",
+  "counts": {
+    "covered": 4,
+    "corrected": 3
+  },
+  "rows": [
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "eastward-campaign-fails",
+      "sectionIds": [
+        "oath-and-orders"
+      ],
+      "note": "故国、复辽愿望通过史载誓词承接，不编心理对白。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "eastward-campaign-fails",
+      "sectionIds": [
+        "oath-and-orders"
+      ],
+      "note": "1134重建年表和萧斡里剌统帅承接，保留纪年重建性质。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "eastward-campaign-fails",
+      "sectionIds": [
+        "oath-and-orders"
+      ],
+      "note": "七万骑、四统帅及官职据辽30承接，数字标出处。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "eastward-campaign-fails",
+      "sectionIds": [
+        "oath-and-orders"
+      ],
+      "note": "青牛白马、万余里无所得及牛马多死承接；补给为分析。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "eastward-campaign-fails",
+      "sectionIds": [
+        "heaven-and-distance"
+      ],
+      "note": "誓后感叹校作皇天弗顺数也；彻底放弃不硬断。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "eastward-campaign-fails",
+      "sectionIds": [
+        "heaven-and-distance"
+      ],
+      "note": "熙宗末年酗酒与1134东征不得并时，正文重排金方追索年代。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "eastward-campaign-fails",
+      "sectionIds": [
+        "heaven-and-distance"
+      ],
+      "note": "1130余睹石家奴拔离速追索及1144遣使分开，非熙宗派粘罕同年对攻。"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-30",
+  "method": "人工通读北魏01 P112–P131共20段，对照魏书序纪、皇后列传及相关通鉴、晋书原文。逐段记录正文实质承接、明确校正与未采用命题；不以挂载来源代替语义覆盖。未回听音频。",
+  "counts": {
+    "covered": 6,
+    "partial": 2,
+    "corrected": 12
+  },
+  "rows": [
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "law"
+      ],
+      "note": "猗卢晚年明刑峻法、违命获罪及处罚可涉及全体部众已展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "law"
+      ],
+      "note": "后期受诛、家人相携赴死与路人询问均已写；八点开会、扣绩效属于现代讲述类比，不当作古代具体制度。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "law"
+      ],
+      "note": "严厉统治、六修为长子并镇新平城，以及晚年偏爱幼子造成继承焦虑已写。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "law"
+      ],
+      "note": "六修统南部、猗卢偏爱比延已展开；原段称创业初期即镇新平城未照录，正文只依313年营城与镇守记载，不扩大六修参加创业的年限。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "favoured-son"
+      ],
+      "note": "六修有骏马、猗卢夺给比延已展开；马与宝刀、鹰的文化比较、比延索马遭拒再向父告状的对白未复原，史据只支持父亲夺马相赠。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "favoured-son"
+      ],
+      "note": "见父亲步辇及随从而路旁伏拜已写；按通鉴交代六修来朝与猗卢令比延出游，不把事发地确定为六修所镇新平城。现代家庭类比不另录。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "law",
+        "favoured-son"
+      ],
+      "note": "发现辇上是弟弟、羞愤而去及父欲以幼子继承已写；依通鉴将宠幼欲嗣放在冲突背景中，不写成误拜以后才产生的决定。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "revolt"
+      ],
+      "note": "召而不至、父子冲突升级已展开，补猗卢亲自讨子且战败这一关键步骤；六修恐被杀和谋臣劝反的拟写对白未作为事实采用。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "revolt"
+      ],
+      "note": "六修弑父、普根为猗㐌之子及六修堂兄弟已写；对读魏书简记与通鉴明言弑父，来源注说明比延结局未载，不推定一并杀弟。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "revolt",
+        "infant"
+      ],
+      "note": "普根从外境赶回、攻灭六修、接掌后月余去世均已展开；节目为其拟写的讨伐宣言不作引文。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "infant"
+      ],
+      "note": "普根去世、儿子初生及死因不明已写；明确出面拥立的是普根母亲祁氏而非其妻，不据后事将死亡先行归为阴谋。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "infant"
+      ],
+      "note": "婴儿被立且同冬去世、祁氏为猗㐌妻及普根母均已写；区别参与拥立与郁律死后明确临朝的时期，不把中间数年一概写成太后独自掌权。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "infant",
+        "liu-kun"
+      ],
+      "note": "国人拥立弗之子郁律、与普根同为沙漠汗孙辈及其对刘虎战争已写；以两次战争接续下一段联军话题。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "liu-kun"
+      ],
+      "note": "刘琨与拓跋援军破刘虎、刘琨中山靖王之后已写；联军之役校为310年猗卢遣郁律，318年郁律接掌后战刘虎时刘琨已死，不能合并为郁律即位后奉西晋派遣。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "liu-kun"
+      ],
+      "note": "刘琨与祖逖闻鸡起舞、刘琨世系及郁律援刘琨已承接；依晋书写中夜闻鸡起舞而非清晨，不额外推定每日频率，也不把世系写成汉帝直接玄孙。刘备类比未展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "liu-kun",
+        "ambition"
+      ],
+      "note": "刘琨中山靖王之后、郁律扩张及闻晋愍帝死后中原无主之语已写；扩张方向依魏书东西两端记载，未把向西向北概括直接当作可复原的精确疆域。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "ambition"
+      ],
+      "note": "扩张带来进取意图、郁律谋求南下的核心已写，并补拒外来名号与治兵讲武的具体记载。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "ambition"
+      ],
+      "note": "扩张、得众心及祁氏忌惮已承接；以此前刘渊、刘聪的汉国明确纠正北方诸族此前没有进入中原争权先例的断言。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "infant",
+        "ambition"
+      ],
+      "note": "祁氏身份与对郁律威望的忌惮已写；正文明确不能由后来的杀郁律倒推她杀普根父子，也不复原主持人为其拟写的劝安享太后礼遇对白。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-succession",
+      "sectionIds": [
+        "ambition"
+      ],
+      "note": "祁氏恐不利己子、杀郁律并立贺傉临朝已展开；明确史籍没有毒药手段或郁律年龄，保留被害与继承结果，不将毒死、年纪很大写成定论。"
+    }
+  ]
+}

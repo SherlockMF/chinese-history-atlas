@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "partial": 10,
+    "covered": 3,
+    "corrected": 7,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "cities"
+      ],
+      "note": "仇质亲征河西黑水、浑垂避暑；10万清记不作精测，内奸设想不证。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "cities"
+      ],
+      "note": "肃久守屠令/106户及甘守亲父副36杀使具体。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "cities"
+      ],
+      "note": "甘城察罕止罪36非全城屠，父子民众差。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "succession",
+        "cities"
+      ],
+      "note": "西凉双帝卒岁庙号，抵抗全屠泛断校，卒月金清并异。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "succession",
+        "capital"
+      ],
+      "note": "侄清平子睍与末围，即位仅都错误；合葬未核候选未回听。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "capital"
+      ],
+      "note": "食尽病震宫多坏，不全塌/霉水病因确定。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "hunt"
+      ],
+      "note": "冬阿儿不合野马非六盘野猪。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "hunt",
+        "other-version"
+      ],
+      "note": "受伤发热与后死非唯一医因，秘丧版本汇编非元本纪直接引。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "other-version",
+        "hunt"
+      ],
+      "note": "两结局不同书脉，具体分源不统称正史一致。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "hunt"
+      ],
+      "note": "也遂报热、脱仑提回才群官同，不她独建议。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "hunt",
+        "secret-version"
+      ],
+      "note": "执进与夏使后战，门外行礼但树荫门阴未据。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "secret-version"
+      ],
+      "note": "恶心身体不适非嫌恶主，称名解释限。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "secret-version"
+      ],
+      "note": "改失都尔忽杀版本明，唯一诚信驯服译有限。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "secret-version"
+      ],
+      "note": "脱仑杀实传录，嫌看厌恶原因误。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "secret-version",
+        "other-version"
+      ],
+      "note": "饮食言已灭非每次再杀命令，死前死后分本。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "secret-version"
+      ],
+      "note": "违诺史叙与杀戮非正当因；赐名意义异评。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "other-version"
+      ],
+      "note": "察罕力谏止屠安民。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "other-version",
+        "end"
+      ],
+      "note": "也遂分民非免杀确定因，王室惟忠留养反全族绝对幸免；189年10帝。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "end"
+      ],
+      "note": "节度史长起点不未核346，感谢节目无需正文。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "end"
+      ],
+      "note": "主播准备前后认知回顾非夏史待补事实。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-last-cities-two-endings",
+      "sectionIds": [
+        "end"
+      ],
+      "note": "文学认知与成吉征程死实，个人感受编辑篇末。"
+    }
+  ]
+}

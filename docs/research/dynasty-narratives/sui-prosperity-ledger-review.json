@@ -1,0 +1,58 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读隋上P160–163四段，核隋书地理食货及相关列传、通典7；明确地图与户籍的年份口径，不将节目数字自动写为人口事实，未回听音频。",
+  "counts": {
+    "partial": 3,
+    "corrected": 1
+  },
+  "rows": [
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-prosperity-ledger",
+      "sectionIds": [
+        "unification-and-time",
+        "stores-and-lives"
+      ],
+      "note": "统一、积储、外交成果及短命反差承接；所有叛乱已解、人人都认为太平的全称判断不可从现有史料证明。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-prosperity-ledger",
+      "sectionIds": [
+        "unification-and-time"
+      ],
+      "note": "明确青海/西域四郡609属炀帝，北方臣礼与州县区别；原段东北辽河、阴山以北等完整文帝边线未逐地确定，保留部分。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-prosperity-ledger",
+      "sectionIds": [
+        "unification-and-time",
+        "southern-names",
+        "household-numbers"
+      ],
+      "note": "校正南宁同名误配、比景海阴林邑与象浦县、605建置、户口口径和唐未追上的绝对断言。七百余万户原统计时点未明，正文明确拒绝当开皇已核数，用有出处的大业约数对照。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-prosperity-ledger",
+      "sectionIds": [
+        "household-numbers",
+        "stores-and-lives"
+      ],
+      "note": "唐隋比较与首尾38纪年说明已写；人格改变不是短亡全因，原稿所待展开的具体转变留给宫廷后续故事。"
+    }
+  ]
+}

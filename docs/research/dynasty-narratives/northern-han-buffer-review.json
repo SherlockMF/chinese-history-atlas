@@ -1,0 +1,574 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11收尾检查补实义分析锚；未回听音频。",
+  "counts": {
+    "covered": 17,
+    "corrected": 10,
+    "partial": 24
+  },
+  "rows": [
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "zhou-pressures-han"
+      ],
+      "note": "郭威柴荣与后周攻汉、辽保北汉的框架承接；高平之战细节见下节。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "zhou-pressures-han"
+      ],
+      "note": "959三关瀛莫被取与幽州未失，柴荣退兵后病逝而非战场阵亡；据辽6与五代相关年纪。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "south-first"
+      ],
+      "note": "宋初立与攻汉、先易后难方略承接；开宝二年亲征与“骨头不好啃”按长编卷10补入。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "south-first"
+      ],
+      "note": "南北格局保留；改宋先960立国再陆续吞并，不沿用先统一才建立北宋。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "south-first"
+      ],
+      "note": "先攻北汉反论与先南后北理由实际写入末段编辑解读；不将辽帝昏聩等同辽军全失战力，不编赵匡胤内心独白。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "south-first"
+      ],
+      "note": "先攻北汉反论与先南后北理由实际写入末段编辑解读；不将辽帝昏聩等同辽军全失战力，不编赵匡胤内心独白。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "south-first"
+      ],
+      "note": "先攻北汉反论与先南后北理由实际写入末段编辑解读；不将辽帝昏聩等同辽军全失战力，不编赵匡胤内心独白。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "south-first"
+      ],
+      "note": "先攻北汉反论与先南后北理由实际写入末段编辑解读；不将辽帝昏聩等同辽军全失战力，不编赵匡胤内心独白。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "south-first"
+      ],
+      "note": "先攻北汉反论与先南后北理由实际写入末段编辑解读；不将辽帝昏聩等同辽军全失战力，不编赵匡胤内心独白。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "south-first"
+      ],
+      "note": "先攻北汉反论与先南后北理由实际写入末段编辑解读；不将辽帝昏聩等同辽军全失战力，不编赵匡胤内心独白。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "no-one-loves-war"
+      ],
+      "note": "动员与安稳生活作为分析承接；不证所有士兵都不愿作战，未采用猜下一帝更爱喝的笑谈。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "no-one-loves-war"
+      ],
+      "note": "动员与安稳生活作为分析承接；不证所有士兵都不愿作战，未采用猜下一帝更爱喝的笑谈。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "no-one-loves-war"
+      ],
+      "note": "等待内乱及整顿后方论作为解读；东吴仅提类比，不再把自行崩溃当普遍历史规律。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "no-one-loves-war"
+      ],
+      "note": "等待内乱及整顿后方论作为解读；东吴仅提类比，不再把自行崩溃当普遍历史规律。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "no-one-loves-war"
+      ],
+      "note": "频繁求援和军粮困难承接，未证辽宋群众普遍厌战或两年一次乱事；旧台账以北汉使节替代战争双方心理不成立。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "relief-and-letter"
+      ],
+      "note": "北汉尚在、宋已代周的时点承接。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "covered",
+      "assessment": "corrected",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "relief-and-letter"
+      ],
+      "note": "976时吴越/漳泉尚存，978才归宋；纠正已打完南方九国的叙述。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "relief-and-letter"
+      ],
+      "note": "research-closed：承接宋秦由分立走向更大统一的比较，说明宋先立国后并诸国及两种政权格局不同，不把六国与十国等同。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "relief-and-letter"
+      ],
+      "note": "976党进主帅、潘美都监与太原都城实写；末年杨光美等名册未全展开，无从复原口述不清人名，未回听。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "relief-and-letter"
+      ],
+      "note": "research-closed：按宋史潘美传并列平南汉、江南、太原与陈家谷受责，承接正名主张而不全盘免责；原稿口称潘文美不作为史姓名。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "relief-and-letter"
+      ],
+      "note": "976援汉与974涿州致书分开，按长编15和辽8纠正年代；姓名只列琮/昌术差异，不确认为同人异译。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "relief-and-letter"
+      ],
+      "note": "书信原文按《长编》卷15“契丹涿州刺史耶律琮致书于权知雄州、内园使孙全兴，其略云：两朝初无纤隙……不亦休哉”逐字承接；口述断句讹误已正。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "relief-and-letter"
+      ],
+      "note": "976援汉与974涿州致书分开，按长编15和辽8纠正年代；姓名只列琮/昌术差异，不确认为同人异译。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "relief-and-letter"
+      ],
+      "note": "research-closed：从实际国书的原无嫌隙、交战之害、休兵之利说明汉文修辞与劝谏层次；不采用以主播个人观感判断整个族群文学优劣。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "relief-and-letter"
+      ],
+      "note": "答书修好与太原志未改有史源；未认信件直接把太祖劝服放弃北汉，开国帝清醒的泛评未全写。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "relief-and-letter"
+      ],
+      "note": "暂留问题、内部情形及撑持时间的分析写入relief末段，补精准153—154引用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "relief-and-letter"
+      ],
+      "note": "耗持论承接于relief末段；老艺术家/郭德纲类比不采。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "three-yelus"
+      ],
+      "note": "976太祖去世太宗嗣位实际承接；血条类比和杯弓蛇影口误不采。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "three-yelus"
+      ],
+      "note": "太宗继位实写；与太祖水准差距的原稿人物褒贬未采，不再算完整覆盖。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "three-yelus"
+      ],
+      "note": "太原我必取之与之后幽州行动实写；草原自古不算其疆域及太祖两大恨的内心概括未确证。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "three-yelus"
+      ],
+      "note": "979亲征及北汉乞援实承接，统一公元时间标识；拟兄弟口语不当史实。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "three-yelus"
+      ],
+      "note": "979亲征及北汉乞援实承接，统一公元时间标识；拟兄弟口语不当史实。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "three-yelus"
+      ],
+      "note": "research-closed：实际补对景宗厌烦北汉的假说限制，以都统、监军、救援行动与渡涧分歧分析；不采用未证烦厌心理。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "three-yelus"
+      ],
+      "note": "research-closed：说明派兵名单不能证明不重视或故意不派精锐；承接救援配置及其证据界限，不留下空section的不确定映射。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "three-yelus"
+      ],
+      "note": "救援配置实际为沙都统、敌烈监军、斜轸及抹只，共四名，不编对方帝我只出相的内心。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "three-yelus"
+      ],
+      "note": "补四名辽将姓名，沙有先前救援功不属无用宰相，斜轸后有接应战功；纠正只三人且都没露脸。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "three-yelus"
+      ],
+      "note": "等待后军/急击争论承接，反对急战者为沙与诸将；具体比较宋军、契丹男儿/弟不如哥等拟对白未采。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "three-yelus"
+      ],
+      "note": "等待后军/急击争论承接，反对急战者为沙与诸将；具体比较宋军、契丹男儿/弟不如哥等拟对白未采。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "three-yelus"
+      ],
+      "note": "本传沙不能夺急战意见，并非他赞成赌功；不编大将赌气退出。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "three-yelus"
+      ],
+      "note": "先锋渡涧实际承接；没有亲核到谈判分兵、由一人另行断后的精确过程。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "three-yelus"
+      ],
+      "note": "先锋半渡遭击与斜轸后援实写；军败不归因于皇帝在后玩命，沙随后仍准备援太原。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "three-yelus"
+      ],
+      "note": "两万人不确证，长编数万骑；得城陷消息才返非先遗弃后汉亡；区分经过28与首尾计29年。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "envoy-and-buffer"
+      ],
+      "note": "灭汉后转攻幽州与两国交涉有实承接，但要求庆贺、威胁杀使及不斩来使对白亲核诸源未见，未采；不能把解释未采用当完整覆盖。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "envoy-and-buffer"
+      ],
+      "note": "灭汉后转攻幽州与两国交涉有实承接，但要求庆贺、威胁杀使及不斩来使对白亲核诸源未见，未采；不能把解释未采用当完整覆盖。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "envoy-and-buffer"
+      ],
+      "note": "灭汉后转攻幽州与两国交涉有实承接，但要求庆贺、威胁杀使及不斩来使对白亲核诸源未见，未采；不能把解释未采用当完整覆盖。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "envoy-and-buffer"
+      ],
+      "note": "灭汉后转攻幽州与两国交涉有实承接，但要求庆贺、威胁杀使及不斩来使对白亲核诸源未见，未采；不能把解释未采用当完整覆盖。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "envoy-and-buffer"
+      ],
+      "note": "不直接吞汉问题写入宗藩贡赋与缓冲位置的分析。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "envoy-and-buffer"
+      ],
+      "note": "921述律劝谏年份与条件实写；不能作景宗动机直证，契丹人口/不想扩疆诸心理由来未证。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "envoy-and-buffer"
+      ],
+      "note": "缓冲位置/宗藩贡赋保留为明确现代解读，不编史书政策文。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "envoy-and-buffer"
+      ],
+      "note": "缓冲位置/宗藩贡赋保留为明确现代解读，不编史书政策文。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "northern-han-buffer",
+      "sectionIds": [
+        "envoy-and-buffer"
+      ],
+      "note": "揣摩层和北汉亡后转战争实承接；太宗屯太原只简述军队后续方向，未展驻屯具体过程。"
+    }
+  ],
+  "independentReview": "complete",
+  "independentReport": "final-unadopted-liao-wudai-independent.md"
+}

@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>李静训墓 · Unity 现场</title>
+<style>
+  * { box-sizing: border-box; } body { margin: 0; background: #171816; color: #ede8dd; font: 15px/1.8 system-ui, sans-serif; }
+  canvas { display: block; width: 100vw; height: calc(100vh - 52px); background: #171816; }
+  footer { height: 52px; padding: 10px 20px; font-size: 13px; }
+  #history-field-loader { position: absolute; inset: 0 0 52px; display: grid; place-content: center; padding: 32px; text-align: center; background: #171816; }
+  #history-field-loader[data-state="running"] { display: none; }
+  progress { width: min(320px, 70vw); margin: 16px auto; accent-color: #bb795c; }
+  a { color: #edb694; }
+</style>
+<canvas id="unity-canvas" tabindex="0" aria-label="李静训墓三维场景"></canvas>
+<div id="history-field-loader" data-state="loading" role="status"><strong>Loading Unity</strong><span id="loading-text">正在准备场景…</span><progress max="1" value="0" aria-label="Unity 加载进度"></progress></div>
+<footer>点击场景开始 · WASD 移动 · 鼠标转向 · F 手电 · E 交互 · Esc 释放鼠标</footer>
+<script src="player.js"></script>
+</html>

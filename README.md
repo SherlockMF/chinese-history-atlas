@@ -1,41 +1,61 @@
-# 山河纪：五代十国互动历史探索
+# 中国历史图谱 · Chinese History Atlas
 
-一个以本地类型化数据驱动的 Next.js 历史探索站。当前内容覆盖 875—979：875—906 为“唐末前史”，907—979 为“五代十国主体”。
+中国历史互动图谱：历代疆域地图、时间线、人物关系与史料叙事。以本地类型化数据驱动的 Next.js 历史探索站，属于“经纬”Web 产品线，与独立的“现场”游戏项目通过调查档案协议联动。
 
-当前数据快照：84 个事件、52 位人物、35 个地点、17 个核心政权。数字用于描述本次发布快照，不是页面测试依赖的永久总量。
+**仓库：[SherlockMF/chinese-history-atlas](https://github.com/SherlockMF/chinese-history-atlas) · 主分支：`master`**
 
-## 版本与后续开发
+项目从五代十国扩展为多专题平台，现有 11 个专题，时间覆盖 265—1253 年之间的不同区间，不表示这段时期的中国历史已完整收录。
 
-**本分支 `feat/continuous-atlas` 是原版网页，也是后续开发的默认主线。** 小红书参赛版单独留存，不替代、不合并覆盖原版；本文下方的功能与运行说明均描述原版。
+## 历史专题
 
-| 版本 | 分支 | 维护定位 |
+| 专题 | 时间线范围 | 入口 |
 | --- | --- | --- |
-| 原版 Next.js 网页 | `feat/continuous-atlas` | 继续开发功能、交互与历史资料 |
-| 一卷山河 · 小红书离线小工具 | `codex/xhs-mini-tool` | 近期参赛版本，仅按需维护提交包 |
+| 西晋 | 265—316 | `/series/western-jin` |
+| 东晋 | 317—420 | `/series/eastern-jin` |
+| 五胡十六国 | 304—439 | `/series/jin-sixteen-kingdoms` |
+| 北魏 | 386—534 | `/series/northern-wei` |
+| 南朝 · 宋齐梁陈 | 420—589 | `/series/southern-dynasties` |
+| 北齐·北周 → 隋 | 534—618 | `/series/northern-qi-zhou-sui` |
+| 五代十国（含唐末前史） | 875—979 | `/series/five-dynasties` |
+| 辽与西辽 | 907—1218 | `/series/liao` |
+| 西夏 | 982—1227 | `/series/western-xia` |
+| 金与金中都 | 1114—1234 | `/series/jin` |
+| 南诏与大理 | 738—1253 | `/series/dali` |
 
-- [小红书版源码与维护说明](https://github.com/SherlockMF/wudaishiguo/tree/codex/xhs-mini-tool/mini-tool)：与主站是两套运行边界，小工具的离线限制不适用于原版开发。
-- [2026-09-06 固定参赛快照](https://github.com/SherlockMF/wudaishiguo/tree/xhs-contest-2026-09-06/mini-tool/releases/2026-09-06)：标签 `xhs-contest-2026-09-06` 保留 ZIP、图标、发布文案、截图和校验值；不覆盖，修订另建版本。
+时间线范围来自 `data/series/`，地图另有有效年份与阶段覆盖范围。各专题史料、地图和叙事的完整程度不同，具体以页面的来源与精度说明为准。
 
-继续日常开发时，先用 `git branch --show-current` 确认位于 `feat/continuous-atlas`，再按“本地运行”启动网页。需要切换版本时，先提交或另行保存工作区改动，再执行 `git switch <分支名>`，不要强制丢弃修改。原版新功能不自动同步到参赛快照。
+## 功能与入口
 
-## 功能
+- `/`、`/series`：专题总览；每个专题有独立年份、轨道、人物和导读。
+- `/series/[seriesSlug]/timeline`：时间线、事件播放及关联史事。
+- `/series/[seriesSlug]/map`：五代十国逐年地图，以及其他专题的阶段地图、地图叙事和部分都城专题。
+- `/series/[seriesSlug]/people`：人物生平、关系图谱、来源与人物对话。
+- `/series/[seriesSlug]/stories`：带来源的历史叙事，联动人物、事件和地图。
+- `/series/[seriesSlug]/sources`：专题史料与出处。
+- `/explore/[id]`：事件背景、过程、影响、因果联系与证据。
+- `/archive/li-jingxun`、`/field/li-jingxun`：李静训调查档案与现场容器。
+- 旧的 `/timeline`、`/map`、`/people` 等五代十国入口继续可用；`/notes` 保留校勘与方法说明。
 
-- 时间线：按年份查看事件，并筛选“五代主线、十国并立、辽与北方、宋初统一”四条轨道。
-- 地图：查看 907—979 年年末简化势力格局、事件 marker、政权详情、当年君主与疆域精度。
-- 人物：按政权类别和角色筛选，以人物为中心查看一度关系、简传、异说与来源；展开“与人物对话”，问历史或自由聊天，也可复制人物设定作为 prompt。
-- 事件详情：展示背景、过程、结果、影响、人物、政权、地点、因果链和参考书目。
-- 资料与校勘：`/notes` 是方法、出处与六集逐字稿校订入口，不是历史内容主体。
-- 问史：在当前页面和年份上下文中检索本地事件证据，明确区分“知识库”“未检索到”和“通用知识 · 非知识库”。
+## 分支与归档
 
-## 主题导读与证据
+日常开发统一到 `master`。原 `feat/continuous-atlas`、`feat/multi-series` 和地图修订分支的主站历史已归入主线，不再维持多个长期开发分支。
 
-首页提供“五代如何更替”“十国为何并立”“宋如何走向统一”三条导读。进入事件后使用上一站、下一站继续阅读；`path` 参数保留导读上下文。人物页增加全生平关联事件，可进入详情或当年地图，唐末事件明确提示地图尚未覆盖。
+小红书离线小工具有独立的运行与交付边界，通过标签保存，不将其专用改动混入主站：
 
-地图下方展示相较上一年的概括分区归属／政权身份变化，并单列当年事件；907年没有上一年基线。更名、建国和吞并不能混同，未记录变化也不表示当年没有史事。数据来自现有 `gis/continuous/ownership.json`。
+- [完整源码与维护说明](https://github.com/SherlockMF/chinese-history-atlas/tree/xhs-contest-2026-09-06/mini-tool)
+- [2026-09-06 固定参赛交付包](https://github.com/SherlockMF/chinese-history-atlas/tree/xhs-contest-2026-09-06/mini-tool/releases/2026-09-06)
 
-七个关键事件已补“史料怎么说”：后梁建立、前蜀建立、后晋建立、许割燕云、陈桥兵变、吴越纳土、北汉灭亡。每条提供卷次、短引文、白话解释、支持范围与公开原文链接；其余事件保留参考书目和未补节录说明。内容见 `data/event-evidence.ts`。
+标签 `xhs-contest-2026-09-06` 的内容与原 `codex/xhs-mini-tool` 分支一致，保留历史提交及交付物。不要覆盖该标签；需要修订时从标签创建临时分支。
 
-## 来源角标
+```bash
+git clone https://github.com/SherlockMF/chinese-history-atlas.git
+cd chinese-history-atlas
+git switch master
+```
+
+已有本地目录可以继续使用原名称，无需移动工作区。项目架构与跨产品边界见 [PROJECT_BASE_PLAN.md](PROJECT_BASE_PLAN.md)。
+
+## 五代十国来源角标
 
 - `¹`：六集主线，经外部史料核定。
 - `²`：六集未覆盖的史料扩展。
@@ -47,7 +67,7 @@
 ## 本地运行
 
 ```bash
-npm install
+npm ci
 npm run dev
 ```
 
@@ -93,12 +113,32 @@ Playwright 配置包含 desktop Chrome 与 Pixel 7 两个项目。CI 使用构�
 
 ## 地图精度
 
-地图展示所选年份的年末格局。当前 17 个疆域数据全部标为“示意”：依据史料概括绘制，不代表可精确复原的行政边界；35 个地点坐标也只作位置参照。站点不提供精确 GIS 历史国界、完整行军路线，也不为 875—906 绘制逐年疆界。
+五代十国地图展示 907—979 年年末格局；其他专题按已有阶段或关键年份地图展示，不通过插值伪造逐年疆界。地图包含概括区域、史料支持的边界和仅标名称的外围背景，具体精度由图层与来源说明界定；留白不表示无人统治。都城与地点用于理解空间关系，不代表精确考古复原。
+
+地图加工脚本位于 `scripts/maps/`，来源与生成资料位于 `gis/`、`data/maps/` 和 `docs/research/`。五代十国不为 875—906 绘制逐年疆界。
 
 ## 本地 RAG 边界
 
-问史检索只读取事实层事件的标题、年份、人物/政权/地点名称、摘要、背景、过程、结果、影响、书目与异说提示，单次最多提供 5 条证据。它不进行全文古籍搜索，不读取逐字稿校勘中的错误原句，不调用生产 embedding 或生产 LLM。没有本地证据时会明确显示“未检索到”；用户主动选择通用知识后，回答会标为非知识库内容。
+问史保留五代十国事实层事件检索，并加入跨专题历史叙事检索。事件证据来自标题、年份、人物/政权/地点名称、摘要、背景、过程、结果、影响、书目与异说提示；叙事证据来自已入库故事及其来源。它不进行全文古籍搜索，不读取逐字稿校勘中的错误原句，不调用生产 embedding 或生产 LLM。没有本地证据时会明确显示“未检索到”；用户主动选择通用知识后，回答会标为非知识库内容。
 
 ## 当前不包含
 
-账号、会员、评论、CMS、数据库内容发布、自动抓取史料、精确 GIS 边界和部署配置均不在本轮范围内。人物对话已提供模型接入；全局问史尚未改为生产 LLM。
+账号、会员、评论、CMS、数据库内容发布、运行时自动抓取史料和精确 GIS 边界不在当前范围内。人物对话已提供模型接入；全局问史尚未改为生产 LLM。
+
+## 现场容器与部署
+
+现场容器默认开发环境使用 mock，生产环境为 disabled。真实 Unity WebGL 构建从独立的 `history-field` 项目导入，二进制不入本仓库；只克隆本仓库不包含可运行的 Unity 现场。导入方法、已验证范围与仍待人工实玩的项目见 [WebGL 联调状态](docs/field-webgl-integration-status.md)，协议见 [现场容器 V1](docs/field-container-v1.md)。
+
+GitHub Actions 的 Quality checks 在推送时执行质量检查。Netlify 配置保留在 `netlify.toml` 和 `.github/workflows/netlify-deploy.yml`，部署仅通过 `workflow_dispatch` 手动触发，需要仓库中已配置的部署凭据。本次仓库整理不执行网站部署。
+
+## 目录
+
+- `app/`、`features/`、`components/`：页面、业务模块与共享组件。
+- `data/seed/`：共享历史实体；`data/series/`：专题组织；`data/narratives/`：叙事内容。
+- `data/maps/`、`gis/`、`public/maps/`：地图注册、来源资料与可发布图层。
+- `data/sites/`、`features/archive/`、`features/field/`：调查档案和现场协议。
+- `lib/`、`types/`：数据访问、检索、协议与类型。
+- `docs/research/`：来源台账与阶段核验记录；历史记录中的日期和验证结果只对应当次工作。
+- `scripts/`、`tests/`：资源处理和自动化验证。
+
+本地 `.env*`、研究下载临时文件 `.tmp-*`、构建产物和 `output/` 不提交。`.env.example` 仅保存占位配置。

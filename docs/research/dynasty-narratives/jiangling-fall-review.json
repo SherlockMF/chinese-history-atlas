@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-02",
+  "method": "S25：已完整阅读本篇所列原段，对照正文及列明原典逐段自审；子代理起草，主代理已独立阅读全文原段、原典与逐段台账并完成交叉复核；页面验证待补。未回听音频；基线保持不变。",
+  "counts": {
+    "partial": 6,
+    "corrected": 6
+  },
+  "rows": [
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jiangling-fall",
+      "sectionIds": [
+        "victory-without-peace"
+      ],
+      "note": "承接近四年战争破坏；王伟结局前半另由S24承接。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jiangling-fall",
+      "sectionIds": [
+        "victory-without-peace",
+        "books-and-people"
+      ],
+      "note": "写城市与人口损失，纠正侯景一人毁尽南方经济文化，纳平乱军抢掠及后来江陵灾难。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jiangling-fall",
+      "sectionIds": [
+        "victory-without-peace",
+        "books-and-people"
+      ],
+      "note": "不接受民族血统决定文化正宗；以文化迁徙与幸存者承接实际问题。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiangling-fall",
+      "sectionIds": [
+        "victory-without-peace",
+        "books-and-people"
+      ],
+      "note": "建筑与传承人的损失写实，不将战乱笼统赋予正面价值。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jiangling-fall",
+      "sectionIds": [
+        "victory-without-peace"
+      ],
+      "note": "士族受到重创非灭尽，族群或血液先天仇恨不作事实。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiangling-fall",
+      "sectionIds": [
+        "victory-without-peace",
+        "balance"
+      ],
+      "note": "士族元气与力量转变有承接，未经核实的北魏皇帝引语及此前南强北弱绝对判断不纳。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiangling-fall",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "经济人口天险等解释限定为条件变化，不声称全部优势一次丧失。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jiangling-fall",
+      "sectionIds": [
+        "brothers-and-shu",
+        "balance"
+      ],
+      "note": "萧绎552称帝、战争客观条件写明，杨坚高兴及统一使命不作史实。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jiangling-fall",
+      "sectionIds": [
+        "brothers-and-shu",
+        "jiangjin"
+      ],
+      "note": "外交不逊有原典，补西魏预谋、取蜀及地缘，非傲慢一因触发战争。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jiangling-fall",
+      "sectionIds": [
+        "jiangjin",
+        "books-and-people",
+        "two-liang-courts"
+      ],
+      "note": "围城后出降、萧察遣人土囊杀，不作阵前亲征被俘；方智承制及渊明插入写清。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jiangling-fall",
+      "sectionIds": [
+        "two-liang-courts"
+      ],
+      "note": "555正式即位557禅陈约二年，552平乱至557约五年；同年岁首计数与实际间隔不混。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiangling-fall",
+      "sectionIds": [
+        "two-liang-courts",
+        "balance"
+      ],
+      "note": "节目总结转为有界限的史观解释，不把每个人为统一完成使命当历史事实。"
+    }
+  ]
+}

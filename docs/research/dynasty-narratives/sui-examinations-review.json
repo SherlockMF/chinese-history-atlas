@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-30",
+  "method": "全文通读指定原段，逐条对照已核读史籍与正文；区分时代、工程和统计口径，未回听音频。",
+  "counts": {
+    "partial": 3,
+    "corrected": 3,
+    "covered": 1,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "sui-examinations",
+      "sectionIds": [
+        "a-beginning-without-one-date"
+      ],
+      "note": "说明进士科文献与成型尺度不同；九品中正废置详细年代与过程尚未专门展开。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-examinations",
+      "sectionIds": [
+        "before-jinshi",
+        "a-beginning-without-one-date"
+      ],
+      "note": "主动应举、稳定科目、定期等为判断尺度，唐后续规则分开；校正此前只荐不考。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-examinations",
+      "sectionIds": [
+        "before-jinshi"
+      ],
+      "note": "用汉代对策和北齐白屋可荐条纠正不用考试及普通人绝无入口，同时不夸大实际平等。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-examinations",
+      "sectionIds": [
+        "a-parrot-and-an-exam",
+        "a-beginning-without-one-date"
+      ],
+      "note": "承接书面才学考核、才学不等于操守与制度取士的主旨；杜正玄考较及唐代科目作扩展说明，不把原段未说过的仅考诗赋标作纠错。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "sui-examinations",
+      "sectionIds": [
+        "old-routes-remain"
+      ],
+      "note": "用605门荫、607十科荐人、610功勋承袭明确反驳废全部旧官和继承。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-examinations",
+      "sectionIds": [
+        "old-routes-remain",
+        "north-and-south"
+      ],
+      "note": "限制为南方寒门开门的单一动机，展示诏令不限南方；五教与孝经误称已在江南反叛篇另校，此处不重复；南北文风比较尚未展开。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "sui-examinations",
+      "sectionIds": [
+        "north-and-south"
+      ],
+      "note": "只说明会馆大小不能证明隋唐至清全时期南北录取；尚无长期分地区数据，原断言仍待核。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-examinations",
+      "sectionIds": [
+        "north-and-south"
+      ],
+      "note": "保留制度联系各地的结论，限制幽燕文化倒推；各省取士长期比较与十六州旁论未核。"
+    }
+  ]
+}

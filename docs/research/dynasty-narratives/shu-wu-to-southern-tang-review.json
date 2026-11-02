@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "corrected": 6,
+    "covered": 11,
+    "partial": 2
+  },
+  "rows": [
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "shu-new-house"
+      ],
+      "note": "妻为李克让女、李克用侄女核新五代64；934称帝当年卒，不几年后卒。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "shu-new-house"
+      ],
+      "note": "孟昶继位与934、947得秦凤等扩张已用，补先立后发丧。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "wu-founder"
+      ],
+      "note": "吴唐在江南并立、后蜀另处两川已用；中原割地背景在W20消费，不虚算本篇详讲。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "qi-becomes-tang"
+      ],
+      "note": "补955后周取秦成阶凤的反例；晋汉周国力一概远不及后唐不能只凭面积判定。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "qi-becomes-tang"
+      ],
+      "note": "补947契丹来聘、贾潭报聘原典；使团绕行的每次实际路线仍未核。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "wu-founder"
+      ],
+      "note": "吴唐在同一区域内部继承、对外继续作战已用，不止描作北方唯一威胁。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "wu-founder"
+      ],
+      "note": "902杨行密受吴王封、广陵基业已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "wu-founder"
+      ],
+      "note": "经营江淮、与朱氏交战与安新民已用，明确安民和扩张并存。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "wu-founder"
+      ],
+      "note": "钟传死后的906江西战属杨渥时期、秦裴取洪州，不记905已死行密亲取；今省全部面积未全核。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "wu-founder"
+      ],
+      "note": "908杨渥死、隆演立、徐温杀张颢掌吴、不奉梁正朔已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "wu-founder"
+      ],
+      "note": "919武义与宗庙百官、隆演仍吴王已用，改年号不直接等所有唐认同全断。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "xu-son-and-adopted-son"
+      ],
+      "note": "掌政辱王被朱瑾杀的是徐知训非徐温，徐知诰率润州军渡江；隆演尚非在生皇帝。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "xu-son-and-adopted-son"
+      ],
+      "note": "隆演忧饮少食病卒、徐知诰孝温掌政已用；不只用抑郁现代诊断写确切死因。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "qi-becomes-tang"
+      ],
+      "note": "杨溥继位927称帝、徐知诰宽刑惠民聚望已用；并非境内全员一致拥戴。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "qi-becomes-tang"
+      ],
+      "note": "937受禅建齐、杨氏置严监已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "qi-becomes-tang"
+      ],
+      "note": "齐都金陵与939改李唐已用，分清两年间前后。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "covered",
+      "assessment": "corrected",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "qi-becomes-tang"
+      ],
+      "note": "自称唐宪宗后裔为政治宣称，不当已证谱系；更名李昪唐国号已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "qi-becomes-tang"
+      ],
+      "note": "李昪宽刑接士休息、吴越火灾不趁攻已用；纳土归宋并不只单因唐灭。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shu-wu-to-southern-tang",
+      "sectionIds": [
+        "qi-becomes-tang"
+      ],
+      "note": "李璟取闽王氏、楚及与吴越淮南战争已用；没有把繁盛等完全占福建。"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-02",
+  "method": "S11：南朝03 P005–P028，核南齐书1/2/3、南史4及通鉴136/138。 完整阅读所列原段并对照原典后由主代理自审；未回听音频，2026-10-02独立子代理已逐段重读原稿、正文及原典完成交叉复核。基线不变。",
+  "counts": {
+    "corrected": 8,
+    "partial": 12,
+    "uncertain": 1,
+    "covered": 3
+  },
+  "rows": [
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "ancestry-and-service"
+      ],
+      "note": "保留南齐书萧何后裔自述，同时加入南史史论对谱系的质疑，不能无条件认定。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "ancestry-and-service"
+      ],
+      "note": "承接二十四世孙说与父辈军职；其家系作为记载而非确定连续血谱。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "ancestry-and-service"
+      ],
+      "note": "展开家世、军职与乱世机会；未把社会人物全为门阀后代的概括写作事实。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "ancestry-and-service"
+      ],
+      "note": "父名按南齐书校为萧承之，承接军职背景，容貌祥瑞归类为本纪叙述。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "ancestry-and-service"
+      ],
+      "note": "龙颡指额部；鳞文异相不推断为已确诊皮肤病。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "a-new-dynasty"
+      ],
+      "note": "承接齐公、齐王及称帝次序；没有采纳轻易发迹的全称比较。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "a-new-dynasty"
+      ],
+      "note": "校正入朝不拜为入朝不趋，解释三项殊礼。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "a-new-dynasty"
+      ],
+      "note": "解释殊礼到禅位的权力累积；未展开曹操、司马昭、刘裕各自全过程类比。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "a-new-dynasty"
+      ],
+      "note": "结合刘宋政局说明夺权过程及新朝清除旧宗室；忍辱程度的心理比较不作事实。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "partial",
+      "assessment": "uncertain",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "a-new-dynasty"
+      ],
+      "note": "核420至479首尾六十年；刻意等待吉利数字的动机未获原典支持。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "family-instructions"
+      ],
+      "note": "承接避免刘宋骨肉相残的家训，并补萧晃私携甲兵与萧嶷求情的具体考验。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "family-instructions"
+      ],
+      "note": "承接父子军事背景和遗训；父子同封的具体说法未在本篇核实，未采用老人印象判断。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "family-instructions"
+      ],
+      "note": "承接对继位者保持宗室亲情的叮嘱，说明遗训如何被援引。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "iron-and-jade"
+      ],
+      "note": "展开俭素及器物节省的具体史载。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "iron-and-jade"
+      ],
+      "note": "限定为宫中铜饰、栏槛和金花爪等，不写成所有金银器全国改铁。玉介导为命人打碎主衣所存，移除有人临时奉上的无据场面。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "iron-and-jade"
+      ],
+      "note": "补玉介导被打碎，未扩大为禁绝全国佩玉。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "iron-and-jade"
+      ],
+      "note": "保留黄金与土同价的志愿，区分愿望与实际物价。独立复核纠正转述主语，恢复使我治天下十年之语，非对后继者的泛指。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "iron-and-jade"
+      ],
+      "note": "承接建元治理、资源占用和户籍整顿；建元新政不作当时正式统一政策名称。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "iron-and-jade"
+      ],
+      "note": "479至482为四个年号年份，非在位足四整年；继位交接另节衔接。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "an-experienced-heir"
+      ],
+      "note": "承接同夜梦龙的史书记述及萧赜履历，祥瑞不视为事实原因。独立复核改梦龙入屋为屋上，并补小名龙儿。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "an-experienced-heir"
+      ],
+      "note": "以义嘉脱险、盆口守备说明经历，不把现代梯队类比当古制。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "yongming-life"
+      ],
+      "note": "本纪出游与通鉴游宴记述并读，不采用完全不喜游宴的单线人物形象。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "yongming-life"
+      ],
+      "note": "承接南北通使与相对安定；未把北魏冯太后摄政起点错置永明。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-founding-yongming",
+      "sectionIds": [
+        "yongming-life"
+      ],
+      "note": "以史论和政令呈现永明治理，未把经济稳定写成现代精确指标；注明483至493年。"
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读金02本项全部原段，重读现有正文并亲读所列原典相关段，修正文误读及逐P真实承接说明；未回听音频。",
+  "counts": {
+    "partial": 14,
+    "corrected": 11,
+    "not-needed": 6,
+    "covered": 3
+  },
+  "rows": [
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "xijing-retreat",
+        "juyong-lines"
+      ],
+      "note": "西京留守胡沙虎、蒙古攻取北部州县的战局有正文；原稿各路逐一地名没有全收，分路进攻又分清1211与1213。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "xijing-retreat"
+      ],
+      "note": "按金史卷132明确纥石烈执中本名胡沙虎，不沿用原段汉名女真名倒置或“湖”字拆写。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "xijing-retreat"
+      ],
+      "note": "对宋清口水陆协同、淮阴楚州与弃西京都采用；定安北七千兵战至暮而先退，纠正没打就跑，抹撚尽忠副将指代不贸然加入。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "juyong-lines"
+      ],
+      "note": "居庸北口防线、哲别入关及1213绕关进军写入；不推定蒙古全无攻城技术，关隘重要性作依赖道路与守军的具体解释。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "juyong-lines"
+      ],
+      "note": "按元史1211守将遁、哲别入关重写经过；老弱诱攻、丢马刀与两夜伏兵未得相应居庸史源，未转录为战术事实。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "juyong-lines"
+      ],
+      "note": "捡弃马开关中伏没有原典支持，正文以1211守将逃及1213紫荆绕关、献北口替代；圣武的引退驰袭属于东京，地点不能移花接木。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "juyong-lines"
+      ],
+      "note": "中都当次未陷、1211关防松动已有正文；蒙古未准备吞大国或只想试探属于节目推想，未写成撤军原因。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [],
+      "note": "探虚、道家与“我还没认真对方住院”的笑谈没有独立史事，不纳入故事。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "juyong-lines"
+      ],
+      "note": "1211掠群牧监战马、北境冬驻已补入；只为抢东西与因为冬天必返本土未获证，不写成成吉思汗确定动机。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "juyong-lines"
+      ],
+      "note": "分清1211冬驻金北境与1213留兵牵制居庸；原稿把第一次撤军与留守关口混并，正文未照写不占地的普遍结论。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "xijing-retreat",
+        "juyong-lines"
+      ],
+      "note": "胡沙虎退回中都确已写入，北部蒙古冬驻按元史说明；回蒙古老家过冬、过年养膘是未获证的扩写。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "xijing-retreat"
+      ],
+      "note": "返中都及朝廷不问、反升官有正文；“保存有生力量”是节目拟对白，金史仅见乞移军保兵之奏，不冒认两者同一谈话。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "xijing-retreat"
+      ],
+      "note": "朝廷未问弃守索财并升官有实际落点；此前定安已交战，不能照录不抵抗，永济为何未罚的心理没有推断。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "xijing-retreat"
+      ],
+      "note": "分清先迁右副元帅权左丞、再屯妫川、1212正月数十五罪罢归田里；不等同逃回即贬庶民。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [],
+      "note": "胡沙虎自信保存实力、内心记恨、自我催眠没有可证内心记录；本段核心是评语，未虚映给退军史事。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "juyong-lines"
+      ],
+      "note": "1211与1213两次进军在关防节分年叙述；1212再次进攻另见原典，本篇未铺开，吃完抢物再来的动机未采用。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [],
+      "note": "完颜卤煮、春节吃喝比喻不进入历史故事；再南下与复用将领的实际情节由相邻原段承接。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "hawk-and-gates"
+      ],
+      "note": "1213复召、张行信及徒单镒反对、近侍称誉、终于掌五千武卫军完整写入，复用并非一句荒诞评价。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [],
+      "note": "宗室全杀尽所以只剩胡沙虎及电视剧太庙对白是夸张、演绎；本篇写荐用与异议，不宣称金朝没有其他可用将领。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "hawk-and-gates"
+      ],
+      "note": "永济使人责其只顾驰猎、胡沙虎当时饲鹞已有正文；一次两次三次不来及现场皇帝对白未查得，不造召见次数。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "hawk-and-gates"
+      ],
+      "note": "按纥石烈执中传，怒掷杀的是鹞，皇帝来使未被鹰杀；随后假称南平父子谋反并拘福海，保留真实导火线。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [],
+      "note": "鹰砸使臣再次重复且已由P137纠正；恶魔城关卡及鹰更厉害属游戏比喻，不保留。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "hawk-and-gates"
+      ],
+      "note": "欲夺权、连夜分兵入城与虚报蒙古迫近已写；“三顾茅庐请来打中都”的拟对白未采用。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "hawk-and-gates",
+        "making-the-emperor"
+      ],
+      "note": "按金史写知大兴府徒单南平于广阳门西遭枪刺杀、其子没烈另被召杀；不是父子同时出迎。补鄯阳、石古乃为两名赴难者而非一人的籍贯。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "making-the-emperor"
+      ],
+      "note": "初逼永济出居卫邸，后遣李思忠弑于卫邸，分清废居与死亡次序；不照录刚回家就打的拟对白。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "making-the-emperor"
+      ],
+      "note": "张好礼阻异姓监国印、徒单镒劝迎彰德完颜珣及其章宗兄长身份写入；没有直接证据胡沙虎已自称皇帝，不写为称帝遭朝廷否决。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "making-the-emperor"
+      ],
+      "note": "宣宗登位后授胡沙虎太师尚书令都元帅、封泽王有正文；“除皇帝外历朝最大官”的宗弼排名比较未论证。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "making-the-emperor",
+        "gaoqi-turns-back"
+      ],
+      "note": "调边军进中都以自重、蒙古游骑临高桥、宰臣难绕胡沙虎及高琪出战情节均有落点，权力通过具体行动展现。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [],
+      "note": "术虎高琪名字字形、中二、能打的感叹无独立史事，名字已在下一段开头出现。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "gaoqi-turns-back"
+      ],
+      "note": "高琪抗蒙古屡战不利、胡沙虎以军法威胁写入；未扩大为生平从来没打赢，猛将否定属于节目评语。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "gaoqi-turns-back"
+      ],
+      "note": "按本传再出战无功即军法、败还自料不免这条行动链采用；卡牌与四川大学类比不收。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "gaoqi-turns-back"
+      ],
+      "note": "高琪带所将颭军围宅有正文，并补其再败自度不免、闻近侍谋除执中的依据；不是只靠陈胜式“等死也死”对白说明起意。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "gaoqi-turns-back"
+      ],
+      "note": "胡沙虎抵抗不胜后攀后墙逃走有实际正文；跳梁小丑、一身本领只会跑属于评价，未替代具体行动。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hushahu-court-coup",
+      "sectionIds": [
+        "gaoqi-turns-back"
+      ],
+      "note": "本传为衣挂坠墙伤股，士兵就杀，高琪持首待罪、宣宗赦为左副元帅；不写墙下伏兵等候围砍，狼虎比喻用其权位上升事实承接。"
+    }
+  ],
+  "independentReview": "complete",
+  "audioReplayed": false
+}

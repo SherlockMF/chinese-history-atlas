@@ -1,0 +1,273 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读指定原稿并对读所列一手文献，按正文实际承接逐段判断。未回听音频；无据数值、对白、心理与跨代比较不以主题相近视作覆盖，未承接余项在partial中保留。",
+  "counts": {
+    "corrected": 11,
+    "partial": 8,
+    "covered": 4
+  },
+  "rows": [
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "titles"
+      ],
+      "note": "以492降爵落实亲政后削减旧尊荣；宗室支持迁都与汉官谏阻南征并列，不把全部改革归结为针对整个鲜卑群体。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "titles"
+      ],
+      "note": "以任城王澄、李冲的具体立场承接治理需多方支持；未核全国人口比例，也不采用鲜卑只管武力、汉人只管文治的划分。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "titles"
+      ],
+      "note": "明确远支非道武帝后裔及异姓王降爵的范围与492年次，保留长孙观因祖功不降的例外，非一概消灭旧贵。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "titles"
+      ],
+      "note": "王公侯递降、子男不变、品秩仍旧均承接；区分爵与品，不据此宣称每家金钱待遇不变或套一至五品固定表。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "water-after-metal"
+      ],
+      "note": "用398年土德先例纠正孝文帝才开始采用五行德运，展示492争论的不同承统路线。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "water-after-metal"
+      ],
+      "note": "具体说明492朝廷选择承晋、金生水，并列高闾反对方案与最终决定。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "private-conversation",
+        "moving-a-court"
+      ],
+      "note": "迁都的重大影响与人口安置分期承接；平城百万人口未获可靠统计支持，不予认定。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "private-conversation"
+      ],
+      "note": "平城寒冷风沙据通鉴记载，作为帝迁都考虑，不写为唯一原因。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "private-conversation"
+      ],
+      "note": "帝以平城适用武、欲文治及中原经营承接首都选择；三面环山及由地形必然推出不适合大帝国未核，不写成定论。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "private-conversation"
+      ],
+      "note": "澄支持卜宅中土经略四海与帝迁宅中原愿望具体承接；不把战略判断写成北方都城绝不可能南征。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "rain-at-luoyang"
+      ],
+      "note": "展开南征迫选、官员不愿与迁移疏通；没有展开完颜亮毁陵故事及两位皇帝智慧温和排名。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "rain-at-luoyang"
+      ],
+      "note": "493借南伐齐发动迁都计划，保留出征路线与到洛阳后的选择。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "rain-at-luoyang",
+        "moving-a-court"
+      ],
+      "note": "替换一到洛阳单方宣布即告完成，写群臣马前劝阻、迁都换停战与其后多年营建；未称全国主力全部听令便迁完。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "rain-at-luoyang",
+        "moving-a-court"
+      ],
+      "note": "旧都遗址与石经可看不等于屋舍已备；以李冲谏宫室未成、邺暂居与迁户缺屋少粮纠正现成基础设施推断。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "private-conversation",
+        "rain-at-luoyang",
+        "moving-a-court"
+      ],
+      "note": "任城王澄在出发前反对南征而支持迁都；纠正其抵洛才反对迁都及房舍当然齐备的场景。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "private-conversation",
+        "rain-at-luoyang"
+      ],
+      "note": "清退众人私谈、北方用武与迁宅中原已依本传改正时地；未承接完颜亮假定会杀人的跨代心理比较。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "private-conversation"
+      ],
+      "note": "以帝的移风易俗、用武与文治之说承接国家方向，未把现代身份转换对白当逐字史文。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "private-conversation",
+        "rain-at-luoyang"
+      ],
+      "note": "保留澄赞同、被比作张良及实际劝导平城官员；命史官记录私谈的说法无已核出处，未写。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "covered",
+      "assessment": "corrected",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "moving-a-court",
+        "clothes-and-speech"
+      ],
+      "note": "493决策、494奉迁神主与到洛阳、494年末服制、495后续迁移分开，不把服制全系于493。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "moving-a-court",
+        "clothes-and-speech"
+      ],
+      "note": "服语改革改变交往规范并带来强制与不适；未把同衣同语即可消灭族群情感隔阂当已证因果。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "clothes-and-speech"
+      ],
+      "note": "495朝廷禁北语、违免官及议论中的30岁差别承接，限制具体场合，不扩大为全国即时禁语。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "new-surnames"
+      ],
+      "note": "496皇室拓跋改元、帝元宏与拔拔改长孙明确；拔拔字形依官氏志校勘，不保留源字误转。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xiaowen-luoyang",
+      "sectionIds": [
+        "new-surnames"
+      ],
+      "note": "改姓对应纠正为达奚奚、乙旃叔孙、步六孤陆、独孤刘；加入保留旧姓例外。唐皇室一半血脉未核，未作为本段全部承接。"
+    }
+  ]
+}

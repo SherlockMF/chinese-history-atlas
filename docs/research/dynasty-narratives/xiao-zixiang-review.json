@@ -1,0 +1,406 @@
+{
+  "date": "2026-10-02",
+  "method": "S13：南朝03 P053–P088，核南齐书40及通鉴137；书信愿望与实际死因、猿故事异文分开。 完整阅读所列原段并对照原典后由主代理自审；未回听音频，2026-10-02独立子代理已逐段重读原稿、正文及原典完成交叉复核。基线不变。",
+  "counts": {
+    "covered": 14,
+    "partial": 13,
+    "corrected": 8,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "a-prince-in-jingzhou"
+      ],
+      "note": "独立交叉复核：第四子、勇力及六十名带仗随从均有本传承接；带仗指持兵，不强写六十人均披甲。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "a-prince-in-jingzhou"
+      ],
+      "note": "注明489荆州刺史与州府权力；不以单一才能作为任命已证动机。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "a-prince-in-jingzhou"
+      ],
+      "note": "保留武事爱好与少年脾气，未确称内心单纯或无政治意图。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "a-prince-in-jingzhou"
+      ],
+      "note": "补亲供酒肉、招聚武勇与甲士随从。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "a-prince-in-jingzhou"
+      ],
+      "note": "补与当地蛮族首领交易背景；礼尚往来不是全部目的。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "a-prince-in-jingzhou"
+      ],
+      "note": "按本传写欲以锦袍等换取器仗，未写已经完成普通赠礼。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "a-prince-in-jingzhou"
+      ],
+      "note": "独立交叉复核：原段称送衣物后酋长馈武器，正文依本传改为欲以锦袍等交易器仗，未核具体交易已经完成。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "eight-officials"
+      ],
+      "note": "刘寅等属官密奏、皇子察觉及召集追问已承接。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "eight-officials"
+      ],
+      "note": "承接得知密奏，不把皇帝与来使的所有口语对白照写为实录。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "eight-officials"
+      ],
+      "note": "八官被杀及未署名的江愈亦死有对应原典。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "eight-officials"
+      ],
+      "note": "分清南齐书子响欲释江愈与通鉴父帝欲赦江悆两种叙述，不能拼成一事。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "an-order-with-an-exit"
+      ],
+      "note": "承接改萧子隆出镇及遣军前的选择。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "an-order-with-an-exit"
+      ],
+      "note": "戴僧静拒赴与替皇子辩护作为当事人立场，不据此免责。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "an-order-with-an-exit"
+      ],
+      "note": "胡谐之、尹略、茹法亮奉命西上已承接。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "an-order-with-an-exit"
+      ],
+      "note": "保留束手自归可全命的条件。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "an-order-with-an-exit"
+      ],
+      "note": "独立交叉复核：补张欣泰胜无名、负奇耻的顾虑，受利诱或威逼者不会自溃与停夏口宣祸福的方案；肉酒收买为讲述修饰，不作原话。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "an-order-with-an-exit"
+      ],
+      "note": "建议未被胡采纳；未写已接受后反复，酒肉收买对白不采用。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "wine-in-the-river"
+      ],
+      "note": "明确燕尾洲筑营的位置与军事信号。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "wine-in-the-river"
+      ],
+      "note": "白服登城、请求解释、愿单舸归请罪有据；未来继位可能的自述未证。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "wine-in-the-river"
+      ],
+      "note": "尹略隔江责备、无法面谈及牛酒送营已承接。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "wine-in-the-river"
+      ],
+      "note": "酒肉投江、扣使及茹法亮等不赴宴有据。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "wine-in-the-river"
+      ],
+      "note": "承接亲率百余登堤用弩、约二千州府兵攻营；不作万钧弩现代力量换算。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "wine-in-the-river"
+      ],
+      "note": "尹略死、胡谐之单艇逃的战果已承接。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "the-letter"
+      ],
+      "note": "独立交叉复核：太子密嘱是在萧顺之离建康时，不是得知子响已接近建康才临时设伏；子响沿流欲赴建康、遇顺之与射堂受杀分清。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "the-letter"
+      ],
+      "note": "独立交叉复核：通鉴仅记射堂缢杀、本传记白服降后赐死；没有具体记成临近建康路上被截，也不把求见父亲对白逐句实录化。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "the-letter"
+      ],
+      "note": "遗表保留求归及自愿死的计划，不当已经执行的事实。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "the-letter"
+      ],
+      "note": "独立交叉复核：正文补遗表对筑营拒见的申诉，同时承认攻战之罪；原表是束身投军后盼还天阙，非已经赴建康见父。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "the-letter"
+      ],
+      "note": "解释免父杀子讥与自身逆父谤的诉求。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "the-letter"
+      ],
+      "note": "临终书信被保存但送达时点不明，不写父已经收到仍明确拒绝全文请求。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "a-father-hears-an-ape"
+      ],
+      "note": "除宗籍、改姓蛸、降鱼复侯已承接。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "a-father-hears-an-ape"
+      ],
+      "note": "猿声触发悲伤分别标注南齐书和通鉴版本；不复原皇帝内心逐句对白。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "a-father-hears-an-ape"
+      ],
+      "note": "萧嶷请葬被拒及父亲流泪并存；不把没有意义作为已证帝语。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "the-letter"
+      ],
+      "note": "独立交叉复核：本段实际疑问为遗表是否送达及死因，并非猿故事。已指向书信节，保留送达时点未明，死亡依赐死／缢杀两书分述。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "the-letter"
+      ],
+      "note": "本传降赐死与通鉴缢杀均不能支持自行自杀的结局。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [],
+      "note": "逃跑路线与假设可活属于节目反事实插话，不放入历史进程。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-zixiang",
+      "sectionIds": [
+        "a-father-hears-an-ape"
+      ],
+      "note": "按南齐书记年二十二，纠正十几岁。"
+    }
+  ]
+}

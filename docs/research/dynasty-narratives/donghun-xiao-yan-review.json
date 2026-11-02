@@ -1,0 +1,228 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：S15：南朝03 P129–P146，核南齐书7/8/38、南史4/5、梁书1与通鉴142–144。 完整阅读所列原段并对照原典后由主代理自审；未回听音频，2026-10-02独立子代理已逐段重读原稿、正文及原典完成交叉复核。基线不变。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "partial": 5,
+    "not-covered": 1,
+    "corrected": 10,
+    "covered": 1,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "an-inherited-fear"
+      ],
+      "note": "承接498继位及父训，与前篇共用转场段；皇帝暴虐排行不作历史结论。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [],
+      "note": "刘子业与萧宝卷性癖、荒淫高低之比不是漏写的具体事件。正文依史书分别述行为，不作色情程度排名或人格诊断，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "an-inherited-fear"
+      ],
+      "note": "纠正北魏南征全为迁都掩护；明确499争夺雍州诸郡，不据潘妃传闻作性诊断。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "an-inherited-fear"
+      ],
+      "note": "493迁都部署与499实战区分，元宏不转写袁弘。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "lotus-and-market"
+      ],
+      "note": "区分后宫遭火后的营建与围城烧府署，不把火灾全认定皇帝纵火。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "lotus-and-market"
+      ],
+      "note": "步步生莲据南史注明记载层级，并补工匠寺饰及民间征取。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "lotus-and-market"
+      ],
+      "note": "由金莲故事不能确诊现代性偏好或认定历史排名，正文保留证据边界。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "lotus-and-market"
+      ],
+      "note": "宫市中潘妃为市令不等于接管国政；补原典歌谣及市场扮演。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "a-dead-minister"
+      ],
+      "note": "萧懿被害时尚书令；萧衍已任雍州刺史，非接替被杀雍州兄长的简化关系。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "a-dead-minister"
+      ],
+      "note": "说明襄阳事先准备与兄死刺激，不把事后叙述写成临时听闻才起兵。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "a-dead-minister",
+        "two-empty-letters"
+      ],
+      "note": "刘山阳奉命西上会同在荆州的萧颖胄；三千艘为史书记数，不等于同型大型战舰。独立复核将船三千艘对应到萧懿之死节，并扩原段引用到P139，纠正映射遗漏。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "two-empty-letters",
+        "the-river-campaign"
+      ],
+      "note": "补空函猜疑、王天虎被杀、刘山阳入伏及郢鲁围城；纠正无人可派便直抵都城。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "who-pays-for-defense"
+      ],
+      "note": "补围城与茹法珍叩请赏军，现代侍卫职业化对白不写作原话。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "who-pays-for-defense"
+      ],
+      "note": "保留拒赏原话；结局为王珍国张稷发难、张齐斩杀，非萧衍亲入活捉再废。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "the-river-campaign",
+        "another-abdication"
+      ],
+      "note": "齐和帝501江陵登位在东昏败亡前，502才禅位，非同一夜更朝。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "another-abdication"
+      ],
+      "note": "承接502齐梁更替，萧何世系说明南史已有质疑。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "another-abdication"
+      ],
+      "note": "梁书称萧顺之为高帝族弟；不推算未核实的五服世系距离。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "donghun-xiao-yan",
+      "sectionIds": [
+        "another-abdication"
+      ],
+      "note": "改国号说明新王朝正统，不能据改号直接断定血缘远近的确定因果。"
+    }
+  ],
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "南朝03_clean_v1.md",
+        "paragraph": "P130",
+        "resolution": "research-closed"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

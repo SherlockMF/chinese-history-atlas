@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-02",
+  "method": "L04：辽组子代理完整阅读列出原段、检索并阅读所列原典后逐段自审；未回听音频，root已完成原段全文与史源独立交叉复核，页面待批量验证，原基线不变。",
+  "counts": {
+    "partial": 12,
+    "corrected": 9,
+    "covered": 2,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "a-throne-that-could-move"
+      ],
+      "note": "承接推代传统，三年一会作为契丹国志版本，不泛化为固定任期法。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "a-throne-that-could-move"
+      ],
+      "note": "承接阿保机久任与亲弟挑战，不写内心对白为事实。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "a-throne-that-could-move"
+      ],
+      "note": "诸弟非朱棣，列实际兄弟姓名和911第一次。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "the-first-warning"
+      ],
+      "note": "告密者为安端妻粘睦姑，非寅底石妻；不采用抢烧柴绑定为实录。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "the-first-warning"
+      ],
+      "note": "承接告密使谋乱暴露，不复述未证成功率心理和点火竞赛。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "the-first-warning"
+      ],
+      "note": "登山刑牲立誓赦罪有据，家族需要作为分析不补现场对白。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "the-road-is-blocked"
+      ],
+      "note": "912剌葛攻平州后再反及卢龙对应。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "the-road-is-blocked"
+      ],
+      "note": "回程阻兵、南趋十七泺燔柴，非回上京抢火仪式。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "the-road-is-blocked"
+      ],
+      "note": "去除未证必先赴木叶山才能有效的议论，保留仪式作用。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "the-road-is-blocked"
+      ],
+      "note": "第二次受降与913初安抚，不下前两次全无武装冲突绝对结论。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "the-camp-in-flames"
+      ],
+      "note": "迭剌安端被拘非帝被绑，寅底石袭行宫非上京；行动逐项重排。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "the-camp-in-flames"
+      ],
+      "note": "后急遣救援救回旗鼓，区分剌葛后弃神帐；不写全部旗鼓被夺。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "the-camp-in-flames"
+      ],
+      "note": "思归策略有据，但仍有追击伏兵，不只围等投降。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "the-camp-in-flames",
+        "mercy-and-punishment"
+      ],
+      "note": "五月剌葛也被擒，赦免范围与此后处分分开，不全体宽赦。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "mercy-and-punishment"
+      ],
+      "note": "分级赦罚；补回通鉴270、旧五代30所见投晋收养、赐名授官，晋王是李存勖，非李嗣源。述律劝全杀仍无直接依据。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "mercy-and-punishment"
+      ],
+      "note": "补回胡柳之战后奔梁与923灭梁；晋方先败后胜不能概括全役晋败，灭梁者李存勖。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "mercy-and-punishment"
+      ],
+      "note": "通鉴272、旧五代30确有以背兄背晋为罪处死，并及妻子；改李嗣源为李存勖，以诏书叙述代替现场对白。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [],
+      "note": "继续投降的报应笑谈不并作事实。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "mercy-and-punishment",
+        "salt-and-a-feast"
+      ],
+      "note": "不把诸弟平定当作从此没有内争；盐池另一史源单列。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "salt-and-a-feast"
+      ],
+      "note": "交旗鼓退居为新五代史叙事，不补单挑七部打不过的心理。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "salt-and-a-feast"
+      ],
+      "note": "汉城盐铁不定位成后来上京临潢府，保留原典地理层次。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "salt-and-a-feast"
+      ],
+      "note": "诸部牛酒会盐池、伏兵尽杀按所引史书叙述。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "salt-and-a-feast"
+      ],
+      "note": "保留集权结果，不把盐池宴与三乱编年硬拼或定为标准事件名盐田之变。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "abaoji-brothers-salt-feast",
+      "sectionIds": [
+        "salt-and-a-feast"
+      ],
+      "note": "本篇承接916建元过渡；辽契丹名称变更解释转L05，不能视整P已覆盖。"
+    }
+  ]
+}

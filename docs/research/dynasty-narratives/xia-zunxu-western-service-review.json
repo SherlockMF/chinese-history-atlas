@@ -1,0 +1,490 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "covered": 9,
+    "corrected": 14,
+    "partial": 17,
+    "uncertain": 3
+  },
+  "rows": [
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "west"
+      ],
+      "note": "花剌中亚撒马尔与辽附背景。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "west"
+      ],
+      "note": "皇后普速完校女儿与妻塔不烟，摩诃末主君。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "west"
+      ],
+      "note": "东西统治者通商，阿拉伯国家泛称不采。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "west"
+      ],
+      "note": "穆斯林商旅与通商。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "west"
+      ],
+      "note": "交易实据，塔塔统阿单独推动未核。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "west"
+      ],
+      "note": "讹答剌拘商抢杀，母族不直断舅，剃须驱非事件全貌。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "west"
+      ],
+      "note": "杀使商重大，驱逐侮辱无亡命遗漏校。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "chucai"
+      ],
+      "note": "元146召见时金未亡，正文修为攻定中都后的雪辽金世仇；身份和弓匠问答有据，长檄仍未核。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "chucai"
+      ],
+      "note": "长檄桥段无本次所核原文，不以无载断伪；候选未听。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "chucai"
+      ],
+      "note": "汗审长檄改短对白未核不复演。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "chucai"
+      ],
+      "note": "五字檄文原文未核，保留候选不当确史。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "refusal"
+      ],
+      "note": "西征因杀使和臣属征兵，宁夏必经非据。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "refusal"
+      ],
+      "note": "今路线不能证昔必经；原出枪粮细目未尽核。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "uncertain",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "refusal"
+      ],
+      "note": "秘史阿沙与札合异人；未回听转写候选仍留。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "uncertain",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "refusal",
+        "alliance"
+      ],
+      "note": "王弟不是夏臣接使人，克烈背景另列。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "alliance"
+      ],
+      "note": "也速该安答王汗为父与初依附。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "alliance"
+      ],
+      "note": "狐皮校黑貂见公姑礼。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "alliance"
+      ],
+      "note": "献袄为父礼。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "alliance"
+      ],
+      "note": "收民诺与桑昆矛盾，不以蠢字认史。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "alliance"
+      ],
+      "note": "秘史6蒙力克劝止许婚宴，其后巴歹、乞失里黑告警围捕；两次危险、两组告警分开补入。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "alliance"
+      ],
+      "note": "父子结盟人物事，数次兄弟与临终主神汗位对白未核。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "alliance"
+      ],
+      "note": "竞争反目可据，谁当真内心不据。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "alliance"
+      ],
+      "note": "王汗亡桑昆流亡克烈败。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "uncertain",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "refusal"
+      ],
+      "note": "1219遵顼非安全，阿沙非王弟，无世仇接使证。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "refusal"
+      ],
+      "note": "索兵与态度事可据，世仇动机删。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "refusal"
+      ],
+      "note": "阿沙气力不能何帝言短转述，扩演来回不照录。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "refusal"
+      ],
+      "note": "回报帝怒，不补添油夸口对白。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "refusal",
+        "siege"
+      ],
+      "note": "怒先西征回讨，不先打即时。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "refusal",
+        "judgment"
+      ],
+      "note": "学业与政策解读分，傲气内心非实。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "refusal"
+      ],
+      "note": "故派难听接使为推想无证。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "refusal"
+      ],
+      "note": "世仇误人推理基础校，不作真实密谋。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "refusal"
+      ],
+      "note": "强硬表现有史，故让臣代骂无证。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "siege"
+      ],
+      "note": "围1217末1218早拒1219，非怒即时发夏。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "siege"
+      ],
+      "note": "多次攻夏背景有据，本次动机/第四即时次序不用。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "siege"
+      ],
+      "note": "中兴围留太子西凉。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "siege",
+        "refusal"
+      ],
+      "note": "撤围降返与西征怒誓不同年事件分。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "siege",
+        "refusal"
+      ],
+      "note": "回征夏誓在1219、返回中兴早，二事不合。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "retirement"
+      ],
+      "note": "木华黎施压与夏退参战，鲁鲁候选未听。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "retirement"
+      ],
+      "note": "1223传德旺上皇与责问。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "retirement"
+      ],
+      "note": "次德旺非太子德任；1226卒64神宗已补，金清卒月异；唯一状元/太上皇等绝对排行不据有限源。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "judgment"
+      ],
+      "note": "政策评论编辑，气话全部出口气难定。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "judgment"
+      ],
+      "note": "清两世耗民史评与边境多因，非单一句立刻战。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-western-service",
+      "sectionIds": [
+        "judgment"
+      ],
+      "note": "如奔走与君道清史评来源明确。"
+    }
+  ]
+}

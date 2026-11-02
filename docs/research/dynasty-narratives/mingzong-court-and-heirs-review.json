@@ -1,0 +1,176 @@
+{
+  "date": "2026-10-11",
+  "method": "独立重读15原段与正文；亲读旧五代35、新五代6、通鉴274—278相关编年，复核任安矛盾、上源救主、河中构陷、夏州粮运、从荣举兵与从厚抵洛；音频未回听。",
+  "counts": {
+    "corrected": 4,
+    "covered": 11
+  },
+  "rows": [
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "mingzong-court-and-heirs",
+      "sectionIds": [
+        "ren-and-an"
+      ],
+      "note": "新五代6无姓氏、本名邈佶烈及养赐名已明示；旧五代35救上源难明确，掌亲骑在事后，不能提前夜袭时职务。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "mingzong-court-and-heirs",
+      "sectionIds": [
+        "ren-and-an"
+      ],
+      "note": "旧五代35确有翼武皇逾垣脱难与自身流矢无伤，救主和后受猜忌均本篇承接。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "mingzong-court-and-heirs",
+      "sectionIds": [
+        "ren-and-an"
+      ],
+      "note": "926近六十承位、安任二臣矛盾已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "mingzong-court-and-heirs",
+      "sectionIds": [
+        "ren-and-an"
+      ],
+      "note": "任圜与安重诲不合、任辞退后赐死已用；姓安不吉的人名笑话舍弃。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "mingzong-court-and-heirs",
+      "sectionIds": [
+        "congke-and-an"
+      ],
+      "note": "安权重与930逐从珂军、欲罪从珂已用，補矫旨杨彦温及死后无法追查。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "mingzong-court-and-heirs",
+      "sectionIds": [
+        "congke-and-an"
+      ],
+      "note": "明宗保从珂闲居与931罢安枢密已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "mingzong-court-and-heirs",
+      "sectionIds": [
+        "congke-and-an"
+      ],
+      "note": "围府棒杀安及妻已用；李从璋为明宗侄，不写儿子；诬罪与未审分清。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "mingzong-court-and-heirs",
+      "sectionIds": [
+        "xia-failure"
+      ],
+      "note": "933换李彝超至延州、安从进赴夏州送任已用，非成熟西夏王国阶段。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "mingzong-court-and-heirs",
+      "sectionIds": [
+        "xia-failure"
+      ],
+      "note": "夏州城坚、党项断粮、撤军认彝超已用；族人服不服不作为帝王水平唯一衡量。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "mingzong-court-and-heirs",
+      "sectionIds": [
+        "qin-prince"
+      ],
+      "note": "补长子从璟先被绍荣杀、次子从荣秦王判六军；秦王不天然等正式太子，名分与兵权区分。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "mingzong-court-and-heirs",
+      "sectionIds": [
+        "qin-prince"
+      ],
+      "note": "河南尹判六军、军势与继承期待已用；秦王不天然等于已定储君。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "mingzong-court-and-heirs",
+      "sectionIds": [
+        "qin-prince"
+      ],
+      "note": "何泽请立、明宗忧归老已用，并补从荣本人反立太子怕夺兵权。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "mingzong-court-and-heirs",
+      "sectionIds": [
+        "qin-prince"
+      ],
+      "note": "不立储与皇帝老骥拟语改具体忧惧；不概括每个皇帝都因自觉不老拒立。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "mingzong-court-and-heirs",
+      "sectionIds": [
+        "qin-prince"
+      ],
+      "note": "大元帅、误认明宗死、千人天津桥举兵与近臣闭门已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "mingzong-court-and-heirs",
+      "sectionIds": [
+        "closed-gate"
+      ],
+      "note": "补雍和殿卒史记67岁、从厚卒后抵洛十二月朔发丧即位，不让他提前到城。"
+    }
+  ],
+  "independentReview": "completed"
+}

@@ -1,0 +1,313 @@
+{
+  "date": "2026-09-30",
+  "method": "人工完整通读北魏03 P061–P074、P084–P094共25段，对读魏书卷4上、35、103，通鉴卷121与周书卷50，并读2022 Cell阿瓦尔古基因组论文相关段及2025 Nature斯拉夫迁移论文相关正文。区分424、425、429、449与552、567—568，逐P判正文承接；次数、精确今址和未核汉代比较仍留partial。未回听音频。",
+  "counts": {
+    "corrected": 17,
+    "covered": 5,
+    "partial": 3
+  },
+  "rows": [
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "yunzhong"
+      ],
+      "note": "承接即位不久对柔然大檀用兵，明确423年即位与424年入塞，太武为后世谥号，不能凭谥号推定每战取胜。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "yunzhong"
+      ],
+      "note": "写六万骑入云中、盛乐宫失陷、帝疾行被围与于陟斤死后解围；按本纪区分将领战果，不将各次殊死作战或永远亲打最难一仗当作已证普遍规律。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "yunzhong"
+      ],
+      "note": "将退兵落实到史书中的临阵镇定、魏军射杀部帅等细节，不只归于皇帝不要命使敌恐惧；父亲幼年哭泣致病的笑谈未当作病因使用。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "yunzhong",
+        "two-fronts",
+        "after-victory"
+      ],
+      "note": "承接南北用兵的先后顾虑，补428、439等继续来袭，明确424解围不等于北方长期无事，也不能由此重建即位起始终固定的饮马长江计划。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "yunzhong",
+        "two-fronts",
+        "cui-hao"
+      ],
+      "note": "写北防仍可能被突破，以及主力南下会受柔然牵制；424与428战例和429讨论承接本段防线不能替代南北兵力安排的实质。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "two-fronts",
+        "cui-hao",
+        "after-victory"
+      ],
+      "note": "按429史文写先削弱柔然以免宋军来时腹背受敌，承接主动出击的战略考虑；口头汉武类比未扩为两场战争完全同构。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "two-fronts",
+        "cui-hao",
+        "after-victory"
+      ],
+      "note": "承接先北伐及群臣反对，将这场集中争论归回429年，不提前放在424年第一次反击。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "cui-hao"
+      ],
+      "note": "写崔浩是关键支持者，补前朝任职、太武初归第与后来被诛，限制陪伴太武帝一生的连续亲密印象；戏曲台词不作当时对白。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "cui-hao"
+      ],
+      "note": "承接崔浩支持北伐、群臣反对及后来死于太武帝手中，交代429年的具体论辩；原段第一次登场是节目叙次，不擅判为他此时才首次入朝。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "first-expeditions",
+        "cui-hao"
+      ],
+      "note": "写424年九月东郊备军，明确与429年崔浩、群臣争论属于不同出征，不将论辩后的决定与424集结直接相接。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "first-expeditions"
+      ],
+      "note": "写东郊整军与424年十二月至祚山，按本纪订正参合陂的地点混入。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "first-expeditions"
+      ],
+      "note": "杀数千、获马万余归回424年八月后反击，另写十二月行动与425年十月北伐；429春夏反例限制每次都在秋天出征。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "first-expeditions",
+        "cui-hao"
+      ],
+      "note": "保留原段为临场猜测的性质，正文以寒雪同样损魏、柔然并非入冬即无食及429夏季散牧论说明证据限度；未把草枯少掩体说采成史实。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "first-expeditions",
+        "after-victory"
+      ],
+      "note": "写425年五路到漠南、舍辎重携十五日粮轻骑北进、大檀惊散北退，以及受创但政权未灭。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "two-fronts",
+        "after-victory"
+      ],
+      "note": "写427取统万、428擒赫连昌后转向北边，但赫连定尚在，不能称已灭夏；以再袭与追击不及说明反复战争，不据族性解释。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "two-fronts",
+        "cui-hao",
+        "li-water",
+        "after-victory"
+      ],
+      "note": "428年八月大檀子万余骑袭边与429年四月再征均已写，补未追及、群臣论辩与出发条件。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "li-water",
+        "after-victory"
+      ],
+      "note": "承接黑山与大娥山两路、轻骑深入及大捷，并订正素水城为栗水水名；黑山等同今和林格尔、路线逐点定位今日蒙古国等地理断言尚未全面核定。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "li-water",
+        "after-victory",
+        "rouran-ending"
+      ],
+      "note": "429大捷及424—449反复交战已写，明确怖威北窜不是柔然永久退出历史；十三次统计口径、扩地千余里的量化命题与汉武帝比较未全面核写。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "after-victory",
+        "rouran-ending",
+        "avars"
+      ],
+      "note": "柔然并未因太武帝北征便全体西迁、后世阿瓦尔证据及年代均已补；汉武帝为中原王朝首次漠北击匈奴的比较命题未在本篇核写。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "rouran-ending",
+        "avars"
+      ],
+      "note": "按552柔然政权瓦解、567—568阿瓦尔进入喀尔巴阡盆地分开年代，以部分精英遗传联系限制所有柔然败兵赴欧同一身份说；补东罗马战事非一贯获胜。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "avars"
+      ],
+      "note": "承接阿瓦尔支配许多斯拉夫群体，依据迁移与混合研究限制全部斯拉夫均一次被掠往巴尔干，以及由此直接解释近代火药桶的单因叙述。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "avars"
+      ],
+      "note": "写阿瓦尔给东罗马军事压力及626围城失败，不将阿瓦尔一概等同太武时代柔然，也不以东汉以来练战推导东西战士固定优劣。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "li-water",
+        "rouran-ending",
+        "avars"
+      ],
+      "note": "说明逐水草、畜群、部落等限制及后世西迁的不同年代，不把地图上可北走西走当作已经证明的集体路线，也不以持续练战解释一切战果。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "li-water",
+        "after-victory",
+        "rouran-ending",
+        "avars"
+      ],
+      "note": "承接移动增加追击困难及太武战功，补追击停止的情报条件与柔然后来真正瓦解；阿瓦尔迁移另有发动者、时代与参与人群，不写成太武一战推动全世界。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "taiwu-rouran",
+      "sectionIds": [
+        "after-victory",
+        "rouran-ending"
+      ],
+      "note": "明确后来与刘宋战争展开时柔然仍然存在，将阶段性北边战果与彻底解决北方分开。"
+    }
+  ]
+}

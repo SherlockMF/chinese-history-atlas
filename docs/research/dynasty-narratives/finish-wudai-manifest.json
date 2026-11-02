@@ -1,0 +1,677 @@
+[
+  {
+    "queueIds": [
+      "W06"
+    ],
+    "slug": "tang-court-hedong-distrust",
+    "exportName": "tangCourtHedongDistrust",
+    "summary": {
+      "slug": "tang-court-hedong-distrust",
+      "seriesId": "five-dynasties",
+      "title": "勤王的人，也会逼走皇帝",
+      "subtitle": "李克用、盐池与唐廷的反复试探",
+      "summary": "河中盐池的收入引出一场调镇战争，长安的宫门随后几次打开、几次关闭。李克用既以唐臣自居，也以军队要求朝廷承认自己的利益；昭宗试图收回兵权，却把最后的精锐押进了一场失败的征讨。",
+      "period": "885—893年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 41,
+    "reviewFile": "tang-court-hedong-distrust-review.json",
+    "counts": {
+      "partial": 22,
+      "not-needed": 4,
+      "covered": 9,
+      "corrected": 6
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W07"
+    ],
+    "slug": "li-cunxiao-alliance-breaks",
+    "exportName": "liCunxiaoAllianceBreaks",
+    "summary": {
+      "slug": "li-cunxiao-alliance-breaks",
+      "seriesId": "five-dynasties",
+      "title": "义子与盟友，一个个离开河东",
+      "subtitle": "从邢州之围到晋阳城下",
+      "summary": "李存孝在猜忌中投向敌人，刘仁恭拿着河东给的幽州拒绝出兵，朱全忠则逼近晋阳。李克用多次保住自己的城，却逐渐失去城外的盟友；盖寓和刘夫人的劝谏，在不同危局里留下了作用。",
+      "period": "892—902年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 37,
+    "reviewFile": "li-cunxiao-alliance-breaks-review.json",
+    "counts": {
+      "corrected": 6,
+      "covered": 15,
+      "not-needed": 6,
+      "partial": 10
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W08"
+    ],
+    "slug": "zhu-wen-tang-end",
+    "exportName": "zhuWenTangEnd",
+    "summary": {
+      "slug": "zhu-wen-tang-end",
+      "seriesId": "five-dynasties",
+      "title": "从天祐到白马驿",
+      "subtitle": "朱全忠怎样把唐廷变成自己的朝廷",
+      "summary": "崔胤借汴兵除宦官，最终连自己也被汴兵除去。皇帝从长安迁往洛阳，近侍被替换、重臣被杀，禅让仪式随后在大梁举行；河东与幽州的旧仇，也暂时让位于共同的敌人。",
+      "period": "904—907年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 17,
+    "reviewFile": "zhu-wen-tang-end-review.json",
+    "counts": {
+      "not-needed": 3,
+      "covered": 10,
+      "partial": 4
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W09"
+    ],
+    "slug": "li-cunxu-luzhou-baixiang",
+    "exportName": "liCunxuLuzhouBaixiang",
+    "summary": {
+      "slug": "li-cunxu-luzhou-baixiang",
+      "seriesId": "five-dynasties",
+      "title": "接过河东，先救潞州",
+      "subtitle": "夹寨、柏乡与三箭故事的层次",
+      "summary": "李克用留下的是一座孤城和一场未解的围困。李存勖抢在梁军轻视新主时直取夹寨，又在柏乡学会接受老将的耐心；两场胜利之间，既有年轻主帅的果断，也有他必须听进的劝谏。",
+      "period": "908—912年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 22,
+    "reviewFile": "li-cunxu-luzhou-baixiang-review.json",
+    "counts": {
+      "covered": 5,
+      "partial": 6,
+      "corrected": 6,
+      "not-needed": 4,
+      "not-covered": 1
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W10"
+    ],
+    "slug": "liang-palace-coups",
+    "exportName": "liangPalaceCoups",
+    "summary": {
+      "slug": "liang-palace-coups",
+      "seriesId": "five-dynasties",
+      "title": "寝殿中的刀与东都的画像",
+      "subtitle": "朱友珪弑父，朱友贞夺位",
+      "summary": "朱温病重时，关于谁将继承的消息在后宫传播。朱友珪联合禁军先杀父兄，朱友贞再联合宿将与洛阳禁军，以为先帝报仇为号召夺位；宫中权力与军中不安，在不到一年里两次汇流。",
+      "period": "911—913年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 9,
+    "reviewFile": "liang-palace-coups-review.json",
+    "counts": {
+      "partial": 4,
+      "covered": 3,
+      "corrected": 1,
+      "not-needed": 1
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W11"
+    ],
+    "slug": "li-cunxu-conquers-yan",
+    "exportName": "liCunxuConquersYan",
+    "summary": {
+      "slug": "li-cunxu-conquers-yan",
+      "seriesId": "five-dynasties",
+      "title": "新晋王先平家事，再取幽州",
+      "subtitle": "李克宁的密谋与刘守光的帝号",
+      "summary": "李存勖继承时，握兵的养子和叔父并没有天然服从。稳定河东以后，他把目标转向幽州；刘守光在父子争权后自称皇帝，最终在田间被擒，旧盟友与新敌人一起走向俘虏的终局。",
+      "period": "895—914年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 37,
+    "reviewFile": "li-cunxu-conquers-yan-review.json",
+    "counts": {
+      "covered": 19,
+      "not-needed": 3,
+      "corrected": 7,
+      "partial": 8
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W12"
+    ],
+    "slug": "wei-bo-and-liang-conquest",
+    "exportName": "weiBoAndLiangConquest",
+    "summary": {
+      "slug": "wei-bo-and-liang-conquest",
+      "seriesId": "five-dynasties",
+      "title": "魏博归晋，河上还要打八年",
+      "subtitle": "从张彦兵变到开封城门",
+      "summary": "分镇使魏博军人害怕骨肉分离，降晋却先让兵变首领失去性命。河上此后不断筑城、决水、渡兵，契丹又在北面施压；923年李存勖终于决定绕过梁军主力，直取空虚的汴州。",
+      "period": "915—923年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 38,
+    "reviewFile": "wei-bo-and-liang-conquest-review.json",
+    "counts": {
+      "partial": 13,
+      "covered": 15,
+      "corrected": 9,
+      "not-needed": 1
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W13"
+    ],
+    "slug": "later-tang-shu-and-mutiny",
+    "exportName": "laterTangShuAndMutiny",
+    "summary": {
+      "slug": "later-tang-shu-and-mutiny",
+      "seriesId": "five-dynasties",
+      "title": "取成都的人，没能把军心带回来",
+      "subtitle": "平蜀、郭崇韬之死与兴教门兵变",
+      "summary": "李严带回蜀中情报，李继岌与郭崇韬率军七十日取成都。胜利以后，赏赐、财库与继承期待卷入互相猜忌；郭崇韬被杀，戍卒拒绝再远行，李存勖最后倒在自己宫门下。",
+      "period": "923—926年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 36,
+    "reviewFile": "later-tang-shu-and-mutiny-review.json",
+    "counts": {
+      "corrected": 10,
+      "partial": 9,
+      "not-needed": 3,
+      "covered": 14
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W14"
+    ],
+    "slug": "mingzong-court-and-heirs",
+    "exportName": "mingzongCourtAndHeirs",
+    "summary": {
+      "slug": "mingzong-court-and-heirs",
+      "seriesId": "five-dynasties",
+      "title": "近臣可以被杀，皇子也未必承位",
+      "subtitle": "安重诲、夏州与李从荣的三重危机",
+      "summary": "明宗靠熟悉的军人处理政事，又给文学之臣留出位置。安重诲的强势先伤害同僚与皇子，最后反噬自己；夏州换帅不能完成，秦王带兵入宫也失败，皇帝的继承安排在病榻旁突然改道。",
+      "period": "926—933年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 15,
+    "reviewFile": "mingzong-court-and-heirs-review.json",
+    "counts": {
+      "corrected": 4,
+      "covered": 11
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W15"
+    ],
+    "slug": "feng-dao-mingzong-order",
+    "exportName": "fengDaoMingzongOrder",
+    "summary": {
+      "slug": "feng-dao-mingzong-order",
+      "seriesId": "five-dynasties",
+      "title": "丰年里，也要听见农人的难处",
+      "subtitle": "冯道与明宗的秩序重建",
+      "summary": "明宗不以读写见长，却请文学官帮助处理奏议；冯道把一首田家诗带进宫廷，也把自己的生存带过了四姓十君。善政可以具体考察，忠贰的评价却因史家的提问而不同。",
+      "period": "926—954年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 17,
+    "reviewFile": "feng-dao-mingzong-order-review.json",
+    "counts": {
+      "covered": 7,
+      "partial": 5,
+      "uncertain": 1,
+      "corrected": 3,
+      "not-needed": 1
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W16"
+    ],
+    "slug": "fengxiang-revolt-and-min-emperor",
+    "exportName": "fengxiangRevoltAndMinEmperor",
+    "summary": {
+      "slug": "fengxiang-revolt-and-min-emperor",
+      "seriesId": "five-dynasties",
+      "title": "城头一哭，天下换主",
+      "subtitle": "四镇换防与李从厚的末路",
+      "summary": "934年的换防令想拆开几个大军镇，却把李从珂逼到凤翔城头。攻城军变成迎立军，禁军在东进路上自行散去；李从厚最后只剩五十骑，连求援也成为被解除护卫的开端。",
+      "period": "934年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 49,
+    "reviewFile": "fengxiang-revolt-and-min-emperor-review.json",
+    "counts": {
+      "corrected": 6,
+      "not-needed": 9,
+      "covered": 22,
+      "partial": 12
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W17"
+    ],
+    "slug": "last-tang-court-remonstrance",
+    "exportName": "lastTangCourtRemonstrance",
+    "summary": {
+      "slug": "last-tang-court-remonstrance",
+      "seriesId": "five-dynasties",
+      "title": "屏退侍卫以后，谁能出主意",
+      "subtitle": "卢文纪的延英请求与史在德的考试建议",
+      "summary": "李从珂从战场进了宫殿，发现宰相未必能替他解围。有人请求恢复密谈的朝见方式，有人要求把满朝文武重新考一遍；两场争论揭开了新皇帝、旧官僚与言路之间的张力。",
+      "period": "934—935年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 18,
+    "reviewFile": "last-tang-court-remonstrance-review.json",
+    "counts": {
+      "partial": 3,
+      "covered": 13,
+      "corrected": 2
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W18"
+    ],
+    "slug": "last-tang-army-reward-debt",
+    "exportName": "lastTangArmyRewardDebt",
+    "summary": {
+      "slug": "last-tang-army-reward-debt",
+      "seriesId": "five-dynasties",
+      "title": "许下百缗，洛阳却没有钱",
+      "subtitle": "一场兵变怎样把五个月房租变成救命钱",
+      "summary": "李从珂许军士入洛每人百缗，登位后才发现府库远不足数。官员转向民居，预借五个月租值，逼出满狱欠款与投井自缢；兑现拥立承诺，最终成了新政权自己的危机。",
+      "period": "934年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 20,
+    "reviewFile": "last-tang-army-reward-debt-review.json",
+    "counts": {
+      "partial": 4,
+      "covered": 10,
+      "corrected": 2,
+      "not-needed": 2,
+      "not-covered": 1,
+      "uncertain": 1
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W19"
+    ],
+    "slug": "shi-jingtang-khitan-bargain",
+    "exportName": "shiJingtangKhitanBargain",
+    "summary": {
+      "slug": "shi-jingtang-khitan-bargain",
+      "seriesId": "five-dynasties",
+      "title": "为活下来，许出十六州",
+      "subtitle": "桑维翰的帷帐之争与后唐的最后一年",
+      "summary": "936年，石敬瑭拒绝离开河东，向契丹递出称臣、以父礼事君及割地的条件。契丹骑兵打穿晋阳围军，桑维翰又在帐前守住拥立承诺；后唐亡国的最后一道火光，来自李从珂自焚的玄武楼。",
+      "period": "935—936年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 29,
+    "reviewFile": "shi-jingtang-khitan-bargain-review.json",
+    "counts": {
+      "corrected": 6,
+      "covered": 14,
+      "not-needed": 1,
+      "partial": 8
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W20"
+    ],
+    "slug": "sixteen-prefectures-strategic-cost",
+    "exportName": "sixteenPrefecturesStrategicCost",
+    "summary": {
+      "slug": "sixteen-prefectures-strategic-cost",
+      "seriesId": "five-dynasties",
+      "title": "十六州，不只是地图上的一条线",
+      "subtitle": "山前城镇、代北通道与后晋的外交账单",
+      "summary": "石敬瑭交出的十六州，把山地通道与农耕城镇一起纳入契丹。幽州和云州成为理解两翼地势的入口；这笔割让改变了双方的资源与防守位置，也让新朝的自主空间从建国之初就受到约束。",
+      "period": "936年及其后",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 24,
+    "reviewFile": "sixteen-prefectures-strategic-cost-review.json",
+    "counts": {
+      "partial": 12,
+      "covered": 3,
+      "corrected": 7,
+      "not-covered": 1,
+      "not-needed": 1
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W21"
+    ],
+    "slug": "jin-rebellions-and-grandson-letter",
+    "exportName": "jinRebellionsAndGrandsonLetter",
+    "summary": {
+      "slug": "jin-rebellions-and-grandson-letter",
+      "seriesId": "five-dynasties",
+      "title": "开国的救兵，变成继位的难题",
+      "subtitle": "石敬瑭的军镇危局与石重贵的外交转向",
+      "summary": "依靠契丹夺位，并未让石敬瑭的部将从此安分。范延光、李金全和安从进先后反叛；他死后，幼子被绕过，养子石重贵继位，以称孙而不称臣的文书开启了另一场危机。",
+      "period": "937—944年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 26,
+    "reviewFile": "jin-rebellions-and-grandson-letter-review.json",
+    "counts": {
+      "partial": 12,
+      "not-needed": 4,
+      "covered": 10
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W22"
+    ],
+    "slug": "jin-khitan-three-campaigns",
+    "exportName": "jinKhitanThreeCampaigns",
+    "summary": {
+      "slug": "jin-khitan-three-campaigns",
+      "seriesId": "five-dynasties",
+      "title": "赢了两次，为什么仍然亡国",
+      "subtitle": "从澶州、阳城到中度桥的后晋战争",
+      "summary": "后晋将领曾在河岸和风沙中两败契丹，却没能阻止最后一次全军投降。三次战争的胜负不是同一个场面的重复：禁军被调空、粮道切断、主将拒援，最终把战场失败变成了开封的陷落。",
+      "period": "943—947年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 66,
+    "reviewFile": "jin-khitan-three-campaigns-review.json",
+    "counts": {
+      "corrected": 11,
+      "partial": 15,
+      "covered": 35,
+      "not-needed": 4,
+      "uncertain": 1
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W23"
+    ],
+    "slug": "later-han-and-guo-wei-rise",
+    "exportName": "laterHanAndGuoWeiRise",
+    "summary": {
+      "slug": "later-han-and-guo-wei-rise",
+      "seriesId": "five-dynasties",
+      "title": "皇帝不许说话，将军不肯等死",
+      "subtitle": "刘知远建汉与郭威的黄旗",
+      "summary": "刘知远等契丹北返再进中原，李皇后阻止向百姓筹赏，后汉一度收拾了残局。可是严刑重敛与托孤大臣专权，又把年轻皇帝推向宫廷杀戮；一封密诏最终把郭威和朝廷推上相反的道路。",
+      "period": "947—951年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 33,
+    "reviewFile": "later-han-and-guo-wei-rise-review.json",
+    "counts": {
+      "covered": 17,
+      "corrected": 6,
+      "not-needed": 2,
+      "partial": 8
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W24"
+    ],
+    "slug": "shu-wu-to-southern-tang",
+    "exportName": "shuWuToSouthernTang",
+    "summary": {
+      "slug": "shu-wu-to-southern-tang",
+      "seriesId": "five-dynasties",
+      "title": "杨家的王位，徐家的继承",
+      "subtitle": "后蜀与吴唐之间的两条建国道路",
+      "summary": "孟知祥把后唐授予的西川经营成后蜀，杨行密的吴却逐渐落入徐氏手中。徐知训在酒席上羞辱吴王，养子徐知诰抢先平乱，后来又恢复李姓；江南的延续，发生在不断变换的主人之下。",
+      "period": "902—952年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 19,
+    "reviewFile": "shu-wu-to-southern-tang-review.json",
+    "counts": {
+      "corrected": 6,
+      "covered": 11,
+      "partial": 2
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W25"
+    ],
+    "slug": "ten-kingdoms-survival-routes",
+    "exportName": "tenKingdomsSurvivalRoutes",
+    "summary": {
+      "slug": "ten-kingdoms-survival-routes",
+      "seriesId": "five-dynasties",
+      "title": "海路、茶路与小国的生计",
+      "subtitle": "吴越、闽、荆南、楚和南汉的不同选择",
+      "summary": "十国并不是十个同样的偏安故事。吴越与闽把海路变成外交和贸易通道，楚用茶利经营兵农，荆南在狭小地盘上拦截贡使；岭南刘氏招揽文士，也把争位与杀戮带进宫门。",
+      "period": "907—958年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 24,
+    "reviewFile": "ten-kingdoms-survival-routes-review.json",
+    "counts": {
+      "covered": 15,
+      "corrected": 5,
+      "partial": 4
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W26"
+    ],
+    "slug": "guo-wei-chai-rong-reforms",
+    "exportName": "guoWeiChaiRongReforms",
+    "summary": {
+      "slug": "guo-wei-chai-rong-reforms",
+      "seriesId": "five-dynasties",
+      "title": "从纸衣遗命到高平军阵",
+      "subtitle": "郭威的节用与柴荣的整军",
+      "summary": "郭威留下不以金玉入葬的遗命，柴荣却接到一个随时会被军镇和北汉挑战的国家。高平战场上的逃兵、返乡农户的旧税和铸钱所需的铜，把文治与武功放在同一张账上。",
+      "period": "951—955年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 47,
+    "reviewFile": "guo-wei-chai-rong-reforms-review.json",
+    "counts": {
+      "covered": 16,
+      "not-needed": 5,
+      "partial": 16,
+      "corrected": 9,
+      "not-covered": 1
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W27"
+    ],
+    "slug": "chai-rong-expansion-and-last-march",
+    "exportName": "chaiRongExpansionAndLastMarch",
+    "summary": {
+      "slug": "chai-rong-expansion-and-last-march",
+      "seriesId": "five-dynasties",
+      "title": "越过淮水，止步瓦桥",
+      "subtitle": "柴荣的三次南征与最后一次北进",
+      "summary": "寿春不是一场冲锋就能攻下，长江也不是一句乘胜就能渡过。柴荣依靠围城、断援、水陆协同逐步取得江北，又在北进燕地时病倒，留下已到手的关南和未完成的战争。",
+      "period": "955—959年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 21,
+    "reviewFile": "chai-rong-expansion-and-last-march-review.json",
+    "counts": {
+      "covered": 6,
+      "partial": 4,
+      "corrected": 10,
+      "uncertain": 1
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W28"
+    ],
+    "slug": "chenqiao-and-song-power",
+    "exportName": "chenqiaoAndSongPower",
+    "summary": {
+      "slug": "chenqiao-and-song-power",
+      "seriesId": "five-dynasties",
+      "title": "黄袍之后，怎样守住兵权",
+      "subtitle": "陈桥兵变与宋初权力重新分配",
+      "summary": "赵匡胤亲历五代军队拥立君主的旧路。陈桥军队把他推到帝位，他随即约束入城军士，又逐步让精兵和钱谷归朝廷。成功夺位与避免再被夺位，是相连的两件事。",
+      "period": "960—973年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 43,
+    "reviewFile": "chenqiao-and-song-power-review.json",
+    "counts": {
+      "covered": 8,
+      "partial": 24,
+      "corrected": 8,
+      "not-needed": 3
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W29"
+    ],
+    "slug": "song-unification-campaigns",
+    "exportName": "songUnificationCampaigns",
+    "summary": {
+      "slug": "song-unification-campaigns",
+      "seriesId": "five-dynasties",
+      "title": "各国的终点，不是同一条路",
+      "subtitle": "荆湖、后蜀、南汉、南唐与北汉的归宋",
+      "summary": "借道、翻山、火攻、浮桥和纳土，是五代十国走向结束的不同方式。统一有战争的效率，也有杀降和毁城的代价；这场进程跨越宋太祖、太宗两朝，最后仍留下辽的燕地。",
+      "period": "963—979年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 42,
+    "reviewFile": "song-unification-campaigns-review.json",
+    "counts": {
+      "covered": 19,
+      "corrected": 10,
+      "partial": 12,
+      "not-needed": 1
+    },
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "W30"
+    ],
+    "slug": "li-yu-words-after-country",
+    "exportName": "liYuWordsAfterCountry",
+    "summary": {
+      "slug": "li-yu-words-after-country",
+      "seriesId": "five-dynasties",
+      "title": "词里留下的江山",
+      "subtitle": "李煜的守国、归宋与后世传闻",
+      "summary": "李煜的词让亡国之痛有了声音，却不能代替他作为君主所作的决定。把君主的困局、词人的感受与后世宫廷传闻分别读清楚，才不会让同情变成替失败消账，也不会把传闻当作确案。",
+      "period": "961—978年",
+      "category": "战役与人物",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 19,
+    "reviewFile": "li-yu-words-after-country-review.json",
+    "counts": {
+      "corrected": 5,
+      "partial": 9,
+      "covered": 4,
+      "not-needed": 1
+    },
+    "independentReview": "complete"
+  }
+]

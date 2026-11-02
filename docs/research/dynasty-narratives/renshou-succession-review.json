@@ -1,0 +1,171 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读隋中P098—P111共14段，逐项对读隋书2/3/36/45、通鉴180及考异、617年讨隋檄文和谥法；区分记录、指控与推断，不将争议死因写成确定谋杀。小说版本与部分谥法句式保留余项；未回听音频，baseline照录。",
+  "counts": {
+    "partial": 6,
+    "corrected": 5,
+    "covered": 2,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "renshou-succession",
+      "sectionIds": [
+        "after-dugu"
+      ],
+      "note": "承接602年独孤后去世、参与择储的背景；未将主持人关于当时信息足以证明择储对错的反事实评价改写为定论。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "renshou-succession",
+      "sectionIds": [
+        "after-dugu"
+      ],
+      "note": "写独孤后葬太陵及陈蔡二人受宠，规范容华夫人之名；陈氏在皇后生前已有宠，宣华称号到文帝病重才授，纠正皇后死后才出现二宠的时间压缩，不拟写无人管束的内心独白。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "renshou-succession",
+      "sectionIds": [
+        "after-dugu",
+        "sickbed-and-letter"
+      ],
+      "note": "承接晚年受宠、文帝病重、太子入侍及逼迫陈氏的传记叙事；发疾仅署为后妃传解释，不据此确认纵欲是具体病因，未写现代调情插话。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "renshou-succession",
+      "sectionIds": [
+        "sickbed-and-letter"
+      ],
+      "note": "承接陈氏受逼后告知文帝与信件误送；依通鉴明确误到文帝处的是杨素答复太子的回信，而非太子发给杨素的那封信，且信件内容不补作催促杀父。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "renshou-succession",
+      "sectionIds": [
+        "summon-yong"
+      ],
+      "note": "完整承接召我儿被误以为召太子、文帝点名杨勇，以及斥太子、怨独孤误己的叙事，明确来源为后妃传与通鉴。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "renshou-succession",
+      "sectionIds": [
+        "summon-yong"
+      ],
+      "note": "承接杨勇尚活、召勇未成、太子一方改换门禁与文帝死于仁寿宫的事件转折；以史书所记动作展开，没有拟写杨广阻拦的口语对白。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "renshou-succession",
+      "sectionIds": [
+        "different-records"
+      ],
+      "note": "承接死因没有可靠定论及正史和异说的分歧；具体对读本纪、后妃传与考异，但未核节目笼统所称各版隋唐演义，也不统计何说属于主流。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "renshou-succession",
+      "sectionIds": [
+        "different-records"
+      ],
+      "note": "正文区分演义完整情节与史料的不确定性，但原段未交代六款大罪出自哪一种隋唐演义/评书版本；鸩兄屠嫂、弑父夺权等具体句式和叙事版本仍未核定，不冒记文学情节已覆盖。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "renshou-succession",
+      "sectionIds": [
+        "summon-yong",
+        "different-records",
+        "new-reign"
+      ],
+      "note": "承接门禁被控制、大宝殿去世、年六十四及在位年数，区分实际二十三年余与首尾二十四纪年；控制宿卫只按通鉴记述，不把全宫消息绝对封锁和软禁状态升级为确证。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "renshou-succession",
+      "sectionIds": [
+        "accusation-in-617"
+      ],
+      "note": "以617年祖君彦为李密所作檄文第一罪明确反证反隋者无人提出弑父指控；同时指出政治檄文只能证明指控存在，不能证实毒杀。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "renshou-succession",
+      "sectionIds": [
+        "different-records",
+        "accusation-in-617",
+        "new-reign"
+      ],
+      "note": "明确无法确定杨广必定加速死亡或必定没有亲自动手；承接继位和大业天子，并校正604年即位、605年改元，仁寿元年为601年，不用宫名直接解释年号来源。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "renshou-succession",
+      "sectionIds": [
+        "new-reign"
+      ],
+      "note": "承接杨广接掌国家和评价争议的转场；关于其一生颇有作为的全面功过尚未在本篇展开，节目期待与代言人比喻未写为历史事实。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "renshou-succession",
+      "sectionIds": [
+        "posthumous-name"
+      ],
+      "note": "区分大业年号和炀帝谥称，解释去礼远众及胡注好内怠政、逆天虐民；没有把原段所有六种释语一并归为同一古籍原文，好大怠政、薄情寡义、离德荒国等具体出处仍未核齐。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "renshou-succession",
+      "sectionIds": [
+        "posthumous-name"
+      ],
+      "note": "承接炀字的贬义与沉溺内宠、怠政、虐民等解释，并说明谥法不能代替史实核验；原段薄情寡义等延伸释义未逐条补据，未作完整六条翻译。"
+    }
+  ]
+}

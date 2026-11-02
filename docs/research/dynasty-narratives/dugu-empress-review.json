@@ -1,0 +1,303 @@
+{
+  "date": "2026-09-30",
+  "method": "完整读隋（中）P007–P019、P027–P040，核周书16、旧唐书1、隋书36、45与通鉴178。逐条区分五子同母与后宫唯一、记录的政治评价与后人心理、史籍所载宫廷杀人与现代笑谈；通鉴与隋书有承袭关系，不当作两份独立目击材料。未回听录音，族群共情假设保留uncertain。",
+  "counts": {
+    "covered": 10,
+    "not-needed": 4,
+    "corrected": 5,
+    "partial": 7,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "the-promise-and-five-sons"
+      ],
+      "note": "原段已将唯一老婆收窄到生孩子的妻子；正文以五子同母实质承接，并进一步区分子女之母与后宫受宠女性，不误把原段判成断言从无别的女性。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "dugu-empress",
+      "sectionIds": [],
+      "note": "以晚年节操评语和提问引出人物，无新增可独立承接的历史内容；不把道德标签作为事实补写。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "a-family-across-dynasties"
+      ],
+      "note": "原段已说独孤信参与除宇文护且被其所杀，主干正确；正文依周书补临事制止赵贵、事泄免官及逼令自尽的顺序，属于展开而非纠正原段否认参与谋划。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "a-family-across-dynasties"
+      ],
+      "note": "写父家失势及三代外戚，校李虎为李昞，区分父子与追尊；不把三位女婿均写成生前皇帝。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "a-family-across-dynasties"
+      ],
+      "note": "十四岁成婚、杨忠之子与独孤氏父家受难均写；独孤信亲自择婿在史有据，不能由家难反推结婚发生在父亲死后或感情必因患难而起，该层因果保留。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "the-promise-and-five-sons"
+      ],
+      "note": "恢复无异生之子，用五子同母核实约定结果；明确不能把这句话直接扩展成一生没有任何其他亲密女性。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "the-promise-and-five-sons",
+        "beside-the-emperor"
+      ],
+      "note": "用辅政、进谏和同母继承解释夫妻关系不止惧内；原段独孤姓氏代表所有北方少数族贵族利益的宽泛论证未完成，故不判全覆盖。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "dugu-empress",
+      "sectionIds": [],
+      "note": "独孤氏比杨坚更能共情所有北方少数族贵族、代表共同关陇利益的心理与群体假设未获具体史料证明，未采为正文事实。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "beside-the-emperor"
+      ],
+      "note": "相伴退朝、支持辅政、匡谏及处置公私诸例，实质承接夫妻亲密与政治帮助。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "the-promise-and-five-sons"
+      ],
+      "note": "文四子传确记杨坚向群臣以五子同母对比前代内宠、嫡庶争竞，正文直接呈现此历史评价，不误作仅有现代讲者推断。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "the-promise-and-five-sons"
+      ],
+      "note": "写同母仍发生储位争夺；杨坚一定预知亲兄弟无法完全避免矛盾、依靠强势母亲调和的内心判断没有史文支持，不补作他的预见。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "the-promise-and-five-sons",
+        "beside-the-emperor"
+      ],
+      "note": "五个儿子姓名、同母关系及登基后帝后仍相伴的日常均有正文落点。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "beside-the-emperor"
+      ],
+      "note": "核陪辇至阁门、宦官传递朝政、退朝同返寝处，区别于皇后总在朝堂身边；厨房和热汤面玩笑未当作正式记载。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "a-woman-in-renshou"
+      ],
+      "note": "据往返记事改天天住而不回大兴城为数次前往仍往返；不写因新房而厌旧妻的心理，转入尉迟氏有史源的事件。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "a-woman-in-renshou"
+      ],
+      "note": "尉迟氏是尉迟迥孙女、先在或没入宫中、皇帝见悦得幸均已写，明确史书不曾记二人自由相爱的过程。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "a-woman-in-renshou"
+      ],
+      "note": "趁皇帝听朝杀尉迟氏已写；皇后因担心再生一子而杀人的即时心理及独孤谐音戏词无据，未计作全段事实已承接。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "dugu-empress",
+      "sectionIds": [],
+      "note": "节目中的应答、杀人双关和手段辛辣评语，没有独立展开的史实；述律后简短类比不延伸为新的历史论证。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "a-woman-in-renshou"
+      ],
+      "note": "尉迟氏被杀、杨坚得知后愤怒的主干进入正文；没有采一般皇帝都会如何处置皇后的假设性对白。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "twenty-li-into-the-hills"
+      ],
+      "note": "独骑出苑、不循正路入山谷已据史写入；因为感情深所以撕不下脸的唯一因果未得到史源明言，保留部分。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "twenty-li-into-the-hills"
+      ],
+      "note": "依史二十余里、高颎杨素追及、扣马苦谏完整写入，不将现代驾车时速比喻换算为骑行速度。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "dugu-empress",
+      "sectionIds": [],
+      "note": "主要是主持人离家出走和青春期插话，劝返是相邻段已完整展开的复述；不虚构老哥几个的随意对白。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "twenty-li-into-the-hills"
+      ],
+      "note": "引出高颎陛下岂以一妇人而轻天下的史载劝言，注明语境。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "twenty-li-into-the-hills"
+      ],
+      "note": "说明劝返将皇帝安危与天下秩序联系，也反映古代身份和性别观念；不将妇人贬称直接作为今天的价值判断。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "twenty-li-into-the-hills",
+        "reconciliation-and-its-shadow"
+      ],
+      "note": "驻马良久、半夜还宫、流涕拜谢及大臣调和补全；皇后心里认定自己做过了和我错了的逐字对白没有实录，保持部分承接。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "dugu-empress",
+      "sectionIds": [],
+      "note": "节目效果、录制时节与轻松闲聊的插话，无新增历史主张。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "reconciliation-and-its-shadow"
+      ],
+      "note": "写婚姻、嫡庶期待如何影响对子辈的判断；仅凭尉迟氏一事推断文帝所有原则松动的概括未完全采用，也不把杀人写成夫妻坚定的正面证明。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dugu-empress",
+      "sectionIds": [
+        "reconciliation-and-its-shadow"
+      ],
+      "note": "具体接到杨勇宠云氏、元妃去世、独孤皇后怀疑与杨广经营形象，承接父母以婚姻标准判断儿子的主线，不泛化为所有家庭规律。"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "date": "2026-10-02",
+  "method": "S26：已完整阅读本篇所列原段，对照正文及列明原典逐段自审；子代理起草，主代理已独立阅读全文原段、原典与逐段台账并完成交叉复核；页面验证待补。未回听音频；基线保持不变。",
+  "counts": {
+    "partial": 15,
+    "covered": 7,
+    "corrected": 7,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "unfinished-foundation"
+      ],
+      "note": "封陈公/陈王再建陈写出，不采用全历史唯一姓氏国号说。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "small-offices"
+      ],
+      "note": "出生地不在广州，明确吴兴长城。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "small-offices"
+      ],
+      "note": "古今地域写明；后半师友粽子话不纳。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "small-offices"
+      ],
+      "note": "南史自云谱系保留层级；不作比刘裕等更贫寒的不可比排名。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "small-offices"
+      ],
+      "note": "陈寔、陈群、颍川谱系背景承接。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "small-offices"
+      ],
+      "note": "梁上君子有完整小故事，自云层级明确；名气戏谑不纳。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "small-offices"
+      ],
+      "note": "贫寒与兵书写出，不猜攀附陈群更方便的主观动机。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "small-offices"
+      ],
+      "note": "503出生、史籍兵书术数武艺承接；非全部无助力单靠个人。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "small-offices",
+        "southern-campaign"
+      ],
+      "note": "萧映/暎按史名，先传教再吴兴赏识，不机械写微服访贤。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "small-offices"
+      ],
+      "note": "赏识与提携明确，游戏访将插话不写。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "southern-campaign"
+      ],
+      "note": "随萧映广州、招集士马及军职承接。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "southern-campaign"
+      ],
+      "note": "交州非胶州，今越南北部；545受命546战事非541起事即平。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "southern-campaign"
+      ],
+      "note": "交州司马在出征前任命非平定后始任；手不释卷不扩成战场每刻读书。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "small-offices",
+        "northbound"
+      ],
+      "note": "军功、兵学与侯景之乱机会有完整进程；未沿用完全没有依靠，正文保留萧映提携与部下支持。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "southern-campaign",
+        "northbound"
+      ],
+      "note": "地形远征困难及局势变化承接；太平则永远守边为反事实，不当史实。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "northbound"
+      ],
+      "note": "元景仲之后迎萧勃、萧勃阻北上及豪杰招集写清；食物笑话不纳。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "northbound"
+      ],
+      "note": "与王僧辩会师、资粮作战和镇京口承接。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "broken-alliance"
+      ],
+      "note": "元帝江陵遇害、两将下游势力写清；非萧绎阵前御驾被俘。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "broken-alliance"
+      ],
+      "note": "共同推方智以太宰承制，非当即皇帝。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "broken-alliance"
+      ],
+      "note": "王僧辩起初拒绝，东关败后接受，非原先即北齐代理；时间为西魏非北周。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "broken-alliance"
+      ],
+      "note": "江陵围城后萧绎出降非御驾亲征被逮；承制至正式登基分开。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "broken-alliance"
+      ],
+      "note": "渊明帝方智太子、陈反对写出；戏谑骂语不作对白。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "broken-alliance"
+      ],
+      "note": "王僧辩受齐压力与陈掌军权写具体，不虚构当时明确自言篡位野心。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "broken-alliance"
+      ],
+      "note": "徐度侯安都等密谋、袭杀和废立承接；陶渊明联想另属口播。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [],
+      "note": "陶渊明职场戏谑插话，无本篇陈霸先史实。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "broken-alliance"
+      ],
+      "note": "只承接废渊明立方智的结尾；陶渊明插话不纳。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "two-defenses"
+      ],
+      "note": "陈蒨协助平东境、供粮与朝局危机具体展开。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "two-defenses",
+        "unfinished-foundation"
+      ],
+      "note": "杜龛等反抗、萧勃起兵及将领割据逐项写。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "unfinished-foundation"
+      ],
+      "note": "王琳并未先败而后建陈；沌口陈军反败、萧庄立在558，王琳败走齐留下一篇。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chen-baxian-rise",
+      "sectionIds": [
+        "unfinished-foundation"
+      ],
+      "note": "558杀萧方智、559病逝，在位跨3年不足2整年；继承危机承接。"
+    }
+  ]
+}

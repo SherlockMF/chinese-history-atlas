@@ -87,6 +87,16 @@ describe("person chat route", () => {
     expect(fetchMock).not.toHaveBeenCalled();
   });
 
+  it("keeps out-of-series stories out of a configured legacy person prompt", async () => {
+    const fetchMock = vi.fn().mockResolvedValue(Response.json({ choices: [{ message: { content: "这件事没有站内五代依据。" } }] }));
+    vi.stubGlobal("fetch", fetchMock);
+    const response = await POST(request({ ...input, mode: "history", message: "玉树后庭花" }));
+    expect(response.status).toBe(200);
+    const payload = JSON.parse(fetchMock.mock.calls[0][1].body);
+    expect(payload.messages[0].content).not.toContain("[故事 chen-palace-coup");
+    expect((await response.json()).references.some((ref: string) => ref.includes("陈书"))).toBe(false);
+  });
+
   it("uses a configured model to combine local history, evidence, and follow-up turns", async () => {
     const fetchMock = vi.fn().mockResolvedValue(Response.json({ choices: [{ message: { content: "援助有代价，燕云正是其中之一。" } }] }));
     vi.stubGlobal("fetch", fetchMock);

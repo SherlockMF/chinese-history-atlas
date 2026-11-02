@@ -1,0 +1,430 @@
+{
+  "date": "2026-10-11",
+  "method": "独立重读38原段与正文；亲读通鉴269—272、新五代5/48相关段，补卢女婚怨及921劝进、洛阳罢郊，校不具名契丹王子，逐条复核真实消费；音频未回听。",
+  "counts": {
+    "partial": 13,
+    "covered": 15,
+    "corrected": 9,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "weibo-mutiny"
+      ],
+      "note": "补914开行台及唐名分；承制用唐名义任官制度本次未展开，不以923称帝代替本段。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "weibo-mutiny"
+      ],
+      "note": "六州镇与魏博地盘已用；魏博并非只两个州，现代聊城大名仅定位不替制度。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "weibo-mutiny"
+      ],
+      "note": "梁廷趁杨师厚卒削魏博的决策已用；皇帝自比安禄山的拟心理不留。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "weibo-mutiny"
+      ],
+      "note": "六州两镇、库兵各半与军人婚姻不愿迁已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "weibo-mutiny"
+      ],
+      "note": "张彦拘贺德伦、逼其向晋求援已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "weibo-mutiny"
+      ],
+      "note": "梁军镇转入晋及晋王疑诈已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "weibo-mutiny"
+      ],
+      "note": "杀张彦七党、纳五百银枪兵与宣示军纪已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "weibo-mutiny"
+      ],
+      "note": "直接纳兵、削首领独立性的效果已用；所有将领无用的晋王心声未证不写。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "weibo-mutiny"
+      ],
+      "note": "德澶及莘县刘鄩拉锯已用，915进军与916初决战分期，不沿用916七月混定。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "weibo-mutiny"
+      ],
+      "note": "李存勖假称西归、留李存审与回军夹击已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "weibo-mutiny"
+      ],
+      "note": "刘鄩出营追晋与故元城战败已用；黄河以北除黎阳全取的精确范围未一一列核。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "north-front"
+      ],
+      "note": "胜后仍有北面压力由north-front承接；不把即时灭梁当唯一正确必选。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "north-front"
+      ],
+      "note": "亲读新五代48，婚事方向原口述反了：存矩索卢文进女，卢不敢拒而怨，参与杀存矩后奔契丹；正文恢复有史细节。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "north-front"
+      ],
+      "note": "接上婚事拒不敢拒与权力关系，纠正不是卢上攀李氏，侯景跨朝类比不作事实。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "north-front"
+      ],
+      "note": "卢文进奔契丹、使契丹南侵的联系已用；具体辱婚对白未证舍弃。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "north-front"
+      ],
+      "note": "契丹917围幽州已用；五十万为号称，不能当实数，阿保机旧仇内心不写。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "north-front"
+      ],
+      "note": "周德威守幽州及援军越岭解围已用，补临时鹿角、烟尘分批作战。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "north-front"
+      ],
+      "note": "通鉴271确记922新城获契丹主之子而不具名；删正文亚里果确定说，不沿用李胡弟或庶子身份。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "north-front"
+      ],
+      "note": "北战延至922说明未一仗后契丹不来；草原创业心理概括不充当停兵原因。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "huliu"
+      ],
+      "note": "杨刘黄河要塞及917年底晋得已用，不能说一城落便再无阻碍。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "huliu"
+      ],
+      "note": "亲读通鉴270补洛阳郊礼罢归与敬翔劝，杨刘攻城和胡柳周德威父子死分为917与918不同战局。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "huliu"
+      ],
+      "note": "溃后收兵、占土山及阎宝劝攻已用；不是仅守山被围脱不了。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "huliu"
+      ],
+      "note": "胡柳反攻、重损已用；增三万魏博白丁营役与县令助战作真实普通人代价，不把口述南逃与广州人口比例当已证。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [],
+      "note": "两位主播自称狠劲后南逃的段子不入史实。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "huliu"
+      ],
+      "note": "战乱征发与迁徙的评价已用；不把所有北人都归客家、不凭节目人口数量。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "huliu",
+        "dingzhou"
+      ],
+      "note": "王镕遇害、张文礼叛镇及晋讨伐已用；新投地方势力不会自动归晋。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "river-decision"
+      ],
+      "note": "亲读通鉴271，921先以父遗言拒帝并流泪、后来买玉造法物和张承业劝谏均补入，不以923称帝覆盖先前选择。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "dingzhou"
+      ],
+      "note": "王处直联契丹、养子王都囚父归晋已用，补王郁继承利益。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "dingzhou"
+      ],
+      "note": "新城望都解围、晋王被围李嗣昭救及雪粮困辽已用；不是轻松捡便宜，地名高碑店不用替全战线。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "river-decision"
+      ],
+      "note": "923魏州称帝、唐国号与复唐身份已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "river-decision"
+      ],
+      "note": "三代追尊与唐四帝合七庙据新五代5已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "river-decision"
+      ],
+      "note": "先解决梁、资源不够久战的决策已用；契丹从此不南下的反事实不写。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "river-decision"
+      ],
+      "note": "河上杨刘防御与集中精兵南渡已用，留守魏杨军没有被一并抽空。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "river-decision"
+      ],
+      "note": "马家口新城、梁分数路与空汴已用；各路出师不直接等于再无回援。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "river-decision"
+      ],
+      "note": "兵力分散、滑州决河与汴防空虚已用，五指比喻舍弃。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "river-decision"
+      ],
+      "note": "河水阻回援有据，同时亦害唐与民众；不沿用皇帝故意关门不知后果的单一解释。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "river-decision"
+      ],
+      "note": "康延孝降提供空汴情报、郭崇韬议集中已用，补唐粮不足半年压力。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-bo-and-liang-conquest",
+      "sectionIds": [
+        "kaifeng"
+      ],
+      "note": "初九入汴与王瓒降已用；朱友贞让皇甫麟杀己后麟自杀，不简单记本人持刃自杀。"
+    }
+  ],
+  "independentReview": "completed"
+}

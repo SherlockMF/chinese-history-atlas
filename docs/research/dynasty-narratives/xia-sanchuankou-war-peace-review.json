@@ -1,0 +1,346 @@
+{
+  "date": "2026-10-11",
+  "method": "逐条独立重读本篇所列原稿、全部正文与对应史源实际段落，核对每个P的具体承接及舍弃理由；保留baselineVerdict。未回听音频，转写候选不认定为音频结论。",
+  "counts": {
+    "corrected": 7,
+    "covered": 11,
+    "partial": 11,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "jinming"
+      ],
+      "note": "目标校延州非盐州，并补进攻方向。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "jinming"
+      ],
+      "note": "范雍增兵与信款失备有史据，去姓名谐音判断；延州非盐州。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "jinming"
+      ],
+      "note": "李士彬统蕃兵与不同党项政治归属补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "jinming"
+      ],
+      "note": "诈弱、诈降诱松懈补；多次全用老弱和谋臣具体对白未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "jinming"
+      ],
+      "note": "请迁来降者南方、范雍不准补；族别歧视内心未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "jinming"
+      ],
+      "note": "天朝野蛮对白为主持归纳，无对应实录，不作事实。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "jinming"
+      ],
+      "note": "来降者聚集成内应补；木马类比无需当史实。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "jinming"
+      ],
+      "note": "内部捕士彬父子、元昊迫延州范雍呼援补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "relief"
+      ],
+      "note": "刘平石元孙援军据本传万余非五万。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "relief"
+      ],
+      "note": "魏泰假传范命分队单列，五十队非五万；队人数与整夜去向未证。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "relief"
+      ],
+      "note": "传令者失踪和受围补；不把已放全部队确定俘而无战。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "relief"
+      ],
+      "note": "兵法与伪令故事不拼成先全损五万再整军第二役。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "fighters"
+      ],
+      "note": "郭遵铁杵枪槊与刘平同军，黄九德校黄德和。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "fighters"
+      ],
+      "note": "三器共重九十、德和逃、郭死刘石俘补，不采1比8算。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "fighters"
+      ],
+      "note": "诬降、禁军围家、文彦博庞籍查真、德和刑实补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "fighters",
+        "city-and-three-battles"
+      ],
+      "note": "郭家四子赐名与延州未陷补；原因兼雪与侧击不单伤亡。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "city-and-three-battles"
+      ],
+      "note": "延州未取与三战时序分别实补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "city-and-three-battles"
+      ],
+      "note": "战后韩范守备与强敌关系实补，非同一参战现场。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "city-and-three-battles"
+      ],
+      "note": "战争改变应敌配置补；秀肌肉统一动机不作史证。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "markets",
+        "city-and-three-battles"
+      ],
+      "note": "征发伤亡财用损耗补；不凭必受攻推当然先战。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "markets"
+      ],
+      "note": "财政不能解释成整个夏境只有黄土高原，避地理概括。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "markets"
+      ],
+      "note": "互市、岁赐地界与盐要求谈判补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "markets",
+        "liao-third-player"
+      ],
+      "note": "妥协与姻亲背景补，盐并未全许，各要求非全可成。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "liao-third-player"
+      ],
+      "note": "婚姻之外独立利益与辽施压宋补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "liao-third-player"
+      ],
+      "note": "同时宋夏交兵辽索地增币的过程补。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "liao-third-player"
+      ],
+      "note": "兴宗宗真与宋仁宗时点补；两母背景属辽故事不重复。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "liao-third-player"
+      ],
+      "note": "辽单独谈宋及1044亲征补，部族边境原因说明。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "liao-third-player"
+      ],
+      "note": "公主卒不告病旧隙补；隐弑母灭口未核，兴宗姐公主排行不全证。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "liao-third-player"
+      ],
+      "note": "风沙迷眼见萧惠传实补；灭口动机与摸鼻戏谑台词未核。"
+    },
+    {
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-sanchuankou-war-peace",
+      "sectionIds": [
+        "liao-third-player"
+      ],
+      "note": "三方相制与战后关系实补，削将过渡转J25。"
+    }
+  ],
+  "independentReview": "complete"
+}

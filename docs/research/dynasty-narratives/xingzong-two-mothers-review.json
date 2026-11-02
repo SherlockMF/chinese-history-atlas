@@ -1,0 +1,663 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读辽04 P001—060、辽71/18及契丹国志8/13；音频未回听。",
+  "counts": {
+    "partial": 26,
+    "covered": 20,
+    "not-needed": 5,
+    "corrected": 9
+  },
+  "rows": [
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P001",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "仅承接兴宗朝转换，不将谐音盛衰论当客观因果。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "承接宗真接位；不据母后政治直接断国运。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "耶律宗真名讳与兴宗承接。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "承接圣宗遗留局面；文治武功细项互见前篇。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [],
+      "note": "好汉无好妻的闲聊引入，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "区分菩萨哥与姑辈萧绰，原名混淆不照录。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "“年十二，美而才，选入掖庭”“册为齐天皇后”逐字承接；无子的表述按“生皇子二，皆早卒”更正（生而未存）。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "承接皇子早夭和养宗真，幼年性事导致无子的医学推断不采。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "承接耨斤姓名，字义锄草说明未入正文。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [],
+      "note": "锄头玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "相貌按“黝面狠视”承接；泰森等类比不进史文层。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "保留史文容貌记录，不把择偶动机作已知事实。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "承接皇后外戚谱系；近亲与政治性格关联无证。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "承接拂榻得金鸡吞服，限定为史书传说。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "承接肤色光泽变化，仍属同一祥瑞叙事。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [],
+      "note": "生吞金鸡的惊吓闲聊，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "承接必有奇子的预言与兴宗出生，未作神迹事实。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "金柱登顶与仆从故事已叙；母后本人捏造之断言不能验证。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "承接兴宗重元出生与菩萨哥子早卒；不是从未生育。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-lockdown-and-slander"
+      ],
+      "note": "恢复草茎殿庑车乘造样，原典明确巧思。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-lockdown-and-slander"
+      ],
+      "note": "草茎造样及善音律琵琶分别据辽71与国志8，未虚构诗作。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-lockdown-and-slander"
+      ],
+      "note": "国志8真实番书寝帐、燕文显李睦文诬告，修正仅节目铺演判断。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-lockdown-and-slander"
+      ],
+      "note": "烧番书确有国志8根据；现代化的信件调侃不采。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-lockdown-and-slander"
+      ],
+      "note": "宗真由菩萨哥抚养承接（“宫人耨斤生兴宗，后养为子”）。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-lockdown-and-slander"
+      ],
+      "note": "承接母后摄政外戚取权，齐天在圣宗朝权势细项只作史书异述背景。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-lockdown-and-slander"
+      ],
+      "note": "国志8亲读匿遗命和帝护齐天；临终口头嘱托的额外对白未补。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-lockdown-and-slander"
+      ],
+      "note": "承接敌对关系；老物宠亦有既原语未放正文，不虚标全用。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-lockdown-and-slander"
+      ],
+      "note": "匿遗命源国志8，辽71只记自立；并非两书都写篡诏。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-lockdown-and-slander"
+      ],
+      "note": "承接嫡母与生母两宫竞争，临诏原对白不增写。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-purge-and-murder"
+      ],
+      "note": "正文记齐天与耨斤摄政，法天尊号时间辽18为1032，不把册号时点等同。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-purge-and-murder"
+      ],
+      "note": "恢复兴宗护母无子年老、侍奉四十年理由，据辽71。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-purge-and-murder"
+      ],
+      "note": "恢复帝反对杀齐天与太后虑后患的冲突，原典有据。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-purge-and-murder"
+      ],
+      "note": "清算齐天党羽、削弱外戚承接（萧浞卜、萧匹敌谋逆案）。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-purge-and-murder"
+      ],
+      "note": "辽18明确重熙元年春1032杀齐天，纠兴宗四年和旧账1031。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-purge-and-murder"
+      ],
+      "note": "承接未能保母；事后默认及法理推断没有直接证词。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-purge-and-murder"
+      ],
+      "note": "求沐浴后死真实；打扮更衣的具体铺陈无源不补。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-purge-and-murder"
+      ],
+      "note": "诸弟封王、国志13淫虐肆行刑政弛紊，恢复实际引文定位。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-quarrel-and-usurpation-attempt"
+      ],
+      "note": "记摄政被废，四年算时有版本差异，不把精确四年统一倒推。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-quarrel-and-usurpation-attempt"
+      ],
+      "note": "承接摄政束缚皇帝；与萧绰培养策略比较属编辑判断。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-quarrel-and-usurpation-attempt"
+      ],
+      "note": "国志8是上尊酒银带赏乐工，非猎后银餐具赏随从。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-quarrel-and-usurpation-attempt"
+      ],
+      "note": "恢复孟五哥被鞭、高庆郎被杀与皇帝答状，不保留否认赏赐的拟语。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-quarrel-and-usurpation-attempt"
+      ],
+      "note": "母后刑案牵及皇帝真实；侍卫血性厮打细节无据未采。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-quarrel-and-usurpation-attempt"
+      ],
+      "note": "帝与囚同答状的原典质问实际入文，呈现决裂。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-quarrel-and-usurpation-attempt"
+      ],
+      "note": "太后密议改立少子重元，辽71明载。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-quarrel-and-usurpation-attempt"
+      ],
+      "note": "承接改立，少子惊慌的心理对白不增写。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-quarrel-and-usurpation-attempt"
+      ],
+      "note": "重元把母后密议告帝，明确入文。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-quarrel-and-usurpation-attempt"
+      ],
+      "note": "收符玺庆州七括宫据辽71；500余人行动据国志13保留年份异文，诸舅死徙非皆赦。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "reporting-reconciliation"
+      ],
+      "note": "政治权利收回与迎回分节；国志报恩经由后段实际承接。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "reporting-reconciliation"
+      ],
+      "note": "辽71迎回1037、国志8迎回1039并列，恢复报恩经有源情节。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "reporting-reconciliation"
+      ],
+      "note": "恢复出入驻营分开，出猎必带母为额外概括未确证。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "reporting-reconciliation"
+      ],
+      "note": "国志8十数里阴为之备已恢复；在位年数背景无新增精确断言。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-cold-mother"
+      ],
+      "note": "史书年四十，与原稿三十九差一；不用未经核算的周岁解释硬合。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-cold-mother"
+      ],
+      "note": "“殊无戚容”与“汝年尚幼，何哀痛如是”逐字承接。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-cold-mother"
+      ],
+      "note": "正文比较生母与养母，断腕太后的特定故事没有本篇重述。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-cold-mother"
+      ],
+      "note": "保留对行为的伦理评价，无道义不写成可量测事实。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [],
+      "note": "冷无缺与网络梗段，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-cold-mother"
+      ],
+      "note": "保留行动评价，不把无情感的医学式判断作人物事实。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-cold-mother"
+      ],
+      "note": "外戚封王提拔清算入文；下作属评论而非史文结论。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [],
+      "note": "遗传学玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xingzong-two-mothers",
+      "sectionIds": [
+        "the-cold-mother"
+      ],
+      "note": "摄政与之后分开评价，未由四年直接断立即衰亡。"
+    }
+  ],
+  "independentReview": "completed"
+}

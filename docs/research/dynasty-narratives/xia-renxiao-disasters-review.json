@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "partial": 6,
+    "covered": 5,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-disasters",
+      "sectionIds": [
+        "sixteen"
+      ],
+      "note": "承接仁孝继位，原定评另J31，非遗漏。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-renxiao-disasters",
+      "sectionIds": [
+        "sixteen"
+      ],
+      "note": "曹贤妃生母、任后非生母、16岁继位写入。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-disasters",
+      "sectionIds": [
+        "sixteen"
+      ],
+      "note": "巅峰评价以处理实际难题支撑，不预称太平。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-renxiao-disasters",
+      "sectionIds": [
+        "sixteen",
+        "household-tax"
+      ],
+      "note": "无梁氏幼主垂帘、直接承担政務與灾荒写入。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-renxiao-disasters",
+      "sectionIds": [
+        "sixteen"
+      ],
+      "note": "金南宋夏局势明确，不重复主持词。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-disasters",
+      "sectionIds": [
+        "earthquake"
+      ],
+      "note": "1142百钱升米据清辑，宋本传饥年异注明，不把即位第三年当完整三周年。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-renxiao-disasters",
+      "sectionIds": [
+        "earthquake"
+      ],
+      "note": "王畿逾月、夏州黑沙林木民居分地区写足。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-renxiao-disasters",
+      "sectionIds": [
+        "household-tax",
+        "relief-force"
+      ],
+      "note": "饥乱后减税、赈济与任得敬兵抚两用。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-disasters",
+      "sectionIds": [
+        "household-tax"
+      ],
+      "note": "逐户死伤三二一年及有司修房城实写，不扩大到全人口所有生产资料。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-disasters",
+      "sectionIds": [
+        "household-tax"
+      ],
+      "note": "父奠基合理，国庫富足与金毫無兴趣因果未证。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-disasters",
+      "sectionIds": [
+        "household-tax"
+      ],
+      "note": "各州按视灾轻重实据，未攻不能证明没兴趣。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-renxiao-disasters",
+      "sectionIds": [],
+      "note": "亲读宋486及西夏书事35赈法、任得敬平乱，未见原段的具体查贪案，正文不虚补；原音未回听。"
+    }
+  ]
+}

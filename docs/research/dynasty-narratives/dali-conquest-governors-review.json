@@ -1,0 +1,346 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核：逐读台账所列原P、正文全部节与对应原典缓存，核查实际承接并纠正错位；未回听音频，不把候选计为全覆盖。",
+  "audioReviewed": false,
+  "counts": {
+    "partial": 13,
+    "not-needed": 2,
+    "corrected": 10,
+    "covered": 5
+  },
+  "rows": [
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "first"
+      ],
+      "note": "1244灵关来兵高禾迎敌按晚出地方史；九河地望未核不当确证。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [],
+      "note": "有关取名谐音的笑谈不承接前战史实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [],
+      "note": "节目玩笑没有独立战争过程。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "first"
+      ],
+      "note": "高禾战死进入正文；窝阔台1241卒纠正1244当年新丧退军解释，伤亡三千或九千仍未核。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "first"
+      ],
+      "note": "蒙古退军后喘息及宋往来有承接，返草原争汗位的即时因果未核。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "first"
+      ],
+      "note": "宋吊祭、1251祥兴卒兴智继位有源并补正文；九河塔、高禾塔具体遗迹未核。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "兴智为1253在位王明确，未用地方书矛盾称年强定继位细月。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "忽必烈奉蒙哥命，1253尚非元朝皇帝身份。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "兀良合台与忽必烈分兵关系落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "三路及白蛮摩娑归附有源，不写东三十七部全体立即降。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P183",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "革囊和筏渡金沙江的工具有本纪记载。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P184",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "水运实际承接，臆想抱马动作不当战术证明。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "渡江取都1253与行省建置分开。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P186",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "office"
+      ],
+      "note": "改善阐为中庆的建置补入，不把君主个人故乡情绪写成迁治原因。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P187",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "office"
+      ],
+      "note": "不沿用昆明在大理更北的错误方向，也不据此解释治所。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P188",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "office"
+      ],
+      "note": "大理路与中庆路分别建置有源；省级治所迁移单一动机未证。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P189",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "三使招降与杀使据元本纪落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P190",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "打郭寨抵抗、都城高祥败走补细节；不据本纪擅定杀使的全部宫廷决策过程。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P191",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "杀使有源，宫廷决定者内心对白不编造。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "打郭寨攻杀与抵抗进入正文，纠正近乎无抵抗概括。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P193",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "部分归附与部分抗战并陈，不估所有贵族选择比例。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P194",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "大理君相军政分别有力，未将全部军权抽象四等分。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P195",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "river"
+      ],
+      "note": "旧体制与抵抗结果联系，贵族集体恐惧心理不作实录。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P196",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "captivity"
+      ],
+      "note": "元本纪姚州斩高祥与地方五华楼不屈异述分层。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P197",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "captivity"
+      ],
+      "note": "段王后被俘与1253取都分开，1255入觐据元传。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P198",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "captivity",
+        "office"
+      ],
+      "note": "1255金符1256地图赐号与辅助征讨衔接。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P199",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "office"
+      ],
+      "note": "兴智率僰爨军助讨与道卒、段实接任落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P200",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "office"
+      ],
+      "note": "段实继承政治职掌承接，奶片等插话不进入正文。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P201",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "office"
+      ],
+      "note": "1261总领诸城与1274大理总管更定分别表述。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P202",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dali-conquest-governors",
+      "sectionIds": [
+        "office"
+      ],
+      "note": "1270合上下万户为大理路，非行省成立；1274传记更定与1276地理志立省改中庆分源呈现。"
+    }
+  ],
+  "independentReview": {
+    "reviewer": "finish_jin_xia_dali",
+    "status": "complete",
+    "paragraphCount": 30,
+    "audioReviewed": false
+  }
+}

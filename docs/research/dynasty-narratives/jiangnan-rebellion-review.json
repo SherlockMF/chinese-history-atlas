@@ -1,0 +1,147 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读隋上P127—P138共12段，逐段对读通鉴176/177、隋书45/48/80；分别核起因、徙民传言、皇子时序、水陆路线与冼夫人诸孙，保留户籍土地实施和笼统阶层屠杀未核项。未回听音频；baseline原判照录。",
+  "counts": {
+    "partial": 5,
+    "corrected": 3,
+    "uncertain": 1,
+    "not-needed": 1,
+    "covered": 2
+  },
+  "rows": [
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiangnan-rebellion",
+      "sectionIds": [
+        "new-orders"
+      ],
+      "note": "承接统一后新政权与南方旧有权势及地方治理发生摩擦；未把尉迟迥之乱直接定为关陇勋贵对山东门阀，也未证明南方起兵可由阶级不纯单因解释，这两项总括保留缺口。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jiangnan-rebellion",
+      "sectionIds": [
+        "new-orders"
+      ],
+      "note": "明确苏威作五教、使民无长幼悉诵，纠正杨坚令全国重背五经孝经；说明寒门在该段史料中是相对世族的门第关系，不直接等同现代贫富，并避免全体居民互鄙的概括。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiangnan-rebellion",
+      "sectionIds": [
+        "new-orders"
+      ],
+      "note": "承接强制诵读引起士民嗟怨、教令与接受者的冲突；大学教授被迫背小学课文属于节目比喻，萧衍文学与六镇文化高下及全体南方士人的心理未作史料结论。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiangnan-rebellion",
+      "sectionIds": [
+        "new-orders"
+      ],
+      "note": "承接通鉴所记平陈后地方治理改变及与诵读教令相伴的积怨；未核大量巡视官皆为关陇勋贵、所有旧制度一律废除，六镇去汉化与南方集体反应的因果也未证明。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jiangnan-rebellion",
+      "sectionIds": [
+        "new-orders"
+      ],
+      "note": "本段核心是隋统一后在南方一刀切推行大索貌阅和均田、对照南朝渐进改革；已核史源只概括牧民者更变，不能证明这些具体措施与实施范围。正文保留证据界限，没有把泛论改制算本段已补。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiangnan-rebellion",
+      "sectionIds": [
+        "princes-and-rumor"
+      ],
+      "note": "补杨坚五子姓名及杨勇、杨广、杨俊各自已知军政位置；全部五子都很能打的泛评没有逐人证明，戏拟武力恫吓不当作真实对白。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jiangnan-rebellion",
+      "sectionIds": [
+        "princes-and-rumor"
+      ],
+      "note": "保留杨勇参决军国政事与杨广杨俊伐陈，明确杨谅597出并州、598辽东遇疫退军，不能提前到统一时写成五子四处屡战皆捷；对杨坚内心独白明确不作已知史实。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jiangnan-rebellion",
+      "sectionIds": [
+        "princes-and-rumor"
+      ],
+      "note": "据通鉴改为民间讹言将徙民入关，并保留恐惧促使局势恶化；不是已查实的召南方贵族入京面圣诏书，也不等同必定处死。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jiangnan-rebellion",
+      "sectionIds": [],
+      "note": "纯角色分配与怎么办的主持人插话，没有新增历史主张。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiangnan-rebellion",
+      "sectionIds": [
+        "many-uprisings"
+      ],
+      "note": "写590年旧陈境内多地起兵、数万或数千、称帝设官及自立大都督等不同首领；列至泉州交州并在冼夫人部分接岭南，未把玩笑对白当真实密议。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiangnan-rebellion",
+      "sectionIds": [
+        "water-and-land",
+        "xian-recognition",
+        "xian-settlement"
+      ],
+      "note": "展开杨素京口—晋陵—无锡—苏州/松江及浙江、沿海、天台临海、泉州的具体水陆行动，并写高凉冼夫人的迎隋、拘暄遣盎、护裴矩；不以进入山区沿海的笼统方向取代路线。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiangnan-rebellion",
+      "sectionIds": [
+        "water-and-land",
+        "xian-settlement",
+        "cost-and-order"
+      ],
+      "note": "承接高智慧等败亡、杨素平叛与冼夫人合作、平定后治理仍有问题；给出诛首领、文士没奴、军法针对士卒等具体对象，未核大规模普遍屠杀士族大地主的断言，也不称地方抵抗从此永久清除。"
+    }
+  ]
+}

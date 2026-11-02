@@ -20,6 +20,19 @@ describe("useHistoryPlayer", () => {
     expect(useHistoryStore.getState().isPlaying).toBe(false);
   });
 
+  it("skips empty years and stops at the last filtered event", () => {
+    useHistoryStore.getState().reset({ currentYear: 923 });
+    const years = [923, 936, 960];
+    const { rerender } = renderHook(({ years }) => useHistoryPlayer(undefined, years), { initialProps: { years } });
+    act(() => useHistoryStore.getState().play());
+    act(() => vi.advanceTimersByTime(1200));
+    expect(useHistoryStore.getState().currentYear).toBe(936);
+    rerender({ years: [923, 936] });
+    expect(useHistoryStore.getState().isPlaying).toBe(false);
+    act(() => vi.advanceTimersByTime(2400));
+    expect(useHistoryStore.getState().currentYear).toBe(936);
+  });
+
   it("prepares the next map before advancing and cancels a pending advance on pause", async () => {
     useHistoryStore.getState().reset({ currentYear: 925 });
     let ready!: () => void;

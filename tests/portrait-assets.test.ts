@@ -1,16 +1,20 @@
 // @vitest-environment node
 import fs from "node:fs";
 import path from "node:path";
+import { createHash } from "node:crypto";
 import sharp from "sharp";
 import { describe, expect, it } from "vitest";
 
 import { portraits } from "@/data/portraits";
-import { people } from "@/data/seed/five-dynasties";
+import { people } from "@/data/seed";
 
 describe("published portrait assets", () => {
-  it("gives every person exactly one distinct portrait", () => {
+  it("ships a distinct portrait for every published person across all series", () => {
     expect(Object.keys(portraits).sort()).toEqual(people.map((person) => person.id).sort());
     expect(new Set(Object.values(portraits).map((portrait) => portrait.src)).size).toBe(people.length);
+    const hashes = Object.values(portraits).map(({ src }) => createHash("sha256")
+      .update(fs.readFileSync(path.join(process.cwd(), "public", src))).digest("hex"));
+    expect(new Set(hashes).size).toBe(people.length);
   });
 
   it("ships decodable WebP files matching their declared dimensions", async () => {
@@ -25,7 +29,11 @@ describe("published portrait assets", () => {
 
   it("matches the actual reference used for each generated image", () => {
     for (const [id, portrait] of Object.entries(portraits)) {
-      const record = JSON.parse(fs.readFileSync(`docs/research/portraits/series/generated/${id}.json`, "utf8"));
+      const collection = portrait.src.split("/")[2];
+      const record = JSON.parse(fs.readFileSync(`docs/research/portraits/${collection}/generated/${id}.json`, "utf8"));
+      expect(record.id).toBe(id);
+      expect(`/${record.asset.replace(/^public\//, "")}`).toBe(portrait.src);
+      expect([record.width, record.height]).toEqual([portrait.width, portrait.height]);
       expect(portrait.kind).toBe(record.reference ? "referenced" : "imagined");
       expect(portrait.note).toBe(record.note);
       if (portrait.kind === "referenced") {

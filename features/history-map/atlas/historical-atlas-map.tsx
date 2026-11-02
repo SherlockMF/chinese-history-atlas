@@ -53,6 +53,7 @@ export function HistoricalAtlasMap({
       >
         <MapLibreCanvas
           atlas={atlas}
+          fitToData
           year={yearRecord.year}
           selectedDynastyId={selectedDynastyId}
           onSelectRegion={onSelectRegion}

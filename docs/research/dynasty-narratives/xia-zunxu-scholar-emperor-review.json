@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "corrected": 3,
+    "partial": 9,
+    "covered": 8
+  },
+  "rows": [
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P001",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "scholar"
+      ],
+      "note": "彦宗宋彦忠清与父已卒校，不1211父率军。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "scholar"
+      ],
+      "note": "凉州早履不是父替子临都起义。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "scholar"
+      ],
+      "note": "状元与字音拼写，唯一历代排行不用有限源绝对断言。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "scholar"
+      ],
+      "note": "宗室进士/称帝事实，唯一绝对比较有限定。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "scholar"
+      ],
+      "note": "有爵亦学与书法实事，不泛宗室只读书玩。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "scholar"
+      ],
+      "note": "廷试第一材料写，不臆科举舞弊。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "scholar"
+      ],
+      "note": "1203与1211/49岁、博学工隶篆。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "scholar"
+      ],
+      "note": "教育与实际选择分，科举理念不保证圣君。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "dongsheng"
+      ],
+      "note": "继承攻金行为东胜首役。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "dongsheng"
+      ],
+      "note": "动机未证不是必反对战争才夺位。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "dongsheng"
+      ],
+      "note": "东胜围攻具体。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "dongsheng"
+      ],
+      "note": "纥石烈鹤寿救入解围，地近好攻未证。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "dongsheng",
+        "advice"
+      ],
+      "note": "双方力量与苏泣谏，无全金无错/夏疯狗。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "dongsheng"
+      ],
+      "note": "金亦侵边、和被拒，联合道理不化成简单巨兽体量。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "advice"
+      ],
+      "note": "德任金强不若和，父兰州不能复反问。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "advice"
+      ],
+      "note": "德任乞避位为僧、幽灵州、遣人代将。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "service"
+      ],
+      "note": "金1212册与蒙古臣礼矛盾具体。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "service"
+      ],
+      "note": "合作出兵可据，迷仆礼争显示非始终听话。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "limit"
+      ],
+      "note": "西征拒军留下一篇，烦心理未证。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-zunxu-scholar-emperor",
+      "sectionIds": [
+        "limit"
+      ],
+      "note": "婚姻继承关系非等同岳父，未证遵顼杀安全。"
+    }
+  ]
+}

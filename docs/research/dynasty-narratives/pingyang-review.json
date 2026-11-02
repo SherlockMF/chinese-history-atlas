@@ -1,0 +1,370 @@
+{
+  "date": "2026-10-11",
+  "method": "复制pilot-review.json中pingyang全部32条原行，保留其baselineVerdict与既有判断。 2026-10-11末轮：对本台账指定未采用段亲读原段和相关原典，逐项标research-closed；可证内容或明确编辑解读补入，拟对白及无证情节保留not-covered，未回听音频。新写部分待独立交叉复核。",
+  "counts": {
+    "covered": 15,
+    "corrected": 4,
+    "partial": 12,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch"
+      ],
+      "note": "梁士彦镇守平阳与一万精兵已有正文。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch"
+      ],
+      "note": "高纬与冯淑妃田猎已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch"
+      ],
+      "note": "按通鉴区分告急与陷城奏报，未沿用原稿混合的先后次序。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch"
+      ],
+      "note": "高阿那肱压下战报及淡化战事已有正文，口语对白改为有归属的转述。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch"
+      ],
+      "note": "陷城消息终于上报已承接；讲述中对高纬心理的模拟未照录。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch"
+      ],
+      "note": "再猎一围及高纬允诺已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch",
+        "speech"
+      ],
+      "note": "私人偏好压过责任的评价已承接；长期宿醉及自信重夺江山的猜测未采用。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch",
+        "breach"
+      ],
+      "note": "田猎后回军、开始围城已承接，插科打诨省略。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "breach"
+      ],
+      "note": "围城昼夜攻打和城墙危急已承接；十万主力数字没有在此确证。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "breach"
+      ],
+      "note": "梁士彦誓死先上的意思及守城困境已承接，年代玩笑省略。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "breach"
+      ],
+      "note": "守军奋战、攻军猛攻及城墙被破已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "breach"
+      ],
+      "note": "城墙陷落、欲乘势入城而被叫停已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "breach"
+      ],
+      "note": "高纬等待冯淑妃观战已承接，现代称呼未作为史料对白。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "breach"
+      ],
+      "note": "将观战等待与造远桥分开；桥为看石上遗迹，非高台观战。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "breach"
+      ],
+      "note": "保留这段富戏剧性的史籍记载，未将其升级为独立证实的现场事实。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision"
+      ],
+      "note": "周军援平阳及宇文宪察阵已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision"
+      ],
+      "note": "察阵后认为可以击破已承接；先破敌再吃饭的具体对白未展开。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision"
+      ],
+      "note": "周武帝巡阵呼名、慰勉将士已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "pingyang",
+      "sectionIds": [],
+      "note": "纯插话和玩笑，没有另设故事。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision"
+      ],
+      "note": "两军开始交战已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision"
+      ],
+      "note": "research-closed：新增战力比较的明确编辑解读，以575中潬、金墉守城和576据壕相持为具体依据，说明齐军仍能抵抗；不把这一点升级为双方人数、训练、补给等量，亦不沿用历代军力始终未变的断言。该比较问题已研究收口。",
+      "researchStatus": "research-closed"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision"
+      ],
+      "note": "局部稍退、冯淑妃惊呼、穆提婆催逃已有正文。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision"
+      ],
+      "note": "穆提婆劝逃已承接；陆令萱母子及电视剧对比未展开。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision",
+        "speech"
+      ],
+      "note": "皇帝出逃影响军心已承接；想象士卒回忆高氏祖先的心理未照录。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision"
+      ],
+      "note": "军队溃散及高延宗全军退回已写；战损数字和弃甲距离未展开。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "speech"
+      ],
+      "note": "尚有组织抵抗和动员机会已承接；三条现代口吻谏言未逐条作为史实采用。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "speech"
+      ],
+      "note": "斛律孝卿撰辞、希望慷慨流泪激励军心已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "speech"
+      ],
+      "note": "临众忘词已承接；紧张及演讲心理的现代模拟未采用。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "speech"
+      ],
+      "note": "高纬发笑、左右同笑、士卒失去战心已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "speech"
+      ],
+      "note": "军心失去信任已承接；自认天命不在的虚拟独白未采用。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "speech"
+      ],
+      "note": "幼主改为高恒，出逃地改为济州，577年邺陷与被俘已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "speech"
+      ],
+      "note": "政权失守与统治者责任评价已承接；高纬被杀年份尚未在样章展开。"
+    }
+  ],
+  "independentReview": "complete",
+  "audioReviewed": false,
+  "independentReport": "final-unadopted-north-independent.md",
+  "independentReviewScope": "末轮北朝15原段的逐段语义复核；所涉5份台账210行、235映射结构核验。"
+}

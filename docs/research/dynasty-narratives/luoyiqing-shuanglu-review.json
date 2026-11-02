@@ -1,0 +1,282 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读辽04各原段、正文与所列原典，纠正源文、年代和叙事层级；逐条说明实际承接。音频未回听，不以转写之外的对白补写。",
+  "counts": {
+    "covered": 6,
+    "partial": 14,
+    "corrected": 1,
+    "not-needed": 4
+  },
+  "rows": [
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "the-favored-jester"
+      ],
+      "note": "罗衣轻出场按《伶官传》“不知其乡里。滑稽通变，一时谐谑，多所规讽”承接。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "the-favored-jester"
+      ],
+      "note": "酒后许传位与太弟背景入文，许诺具体时点不硬定更早。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "shuanglu-bet"
+      ],
+      "note": "辽109前后数城，纠转写十几城。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "shuanglu-bet"
+      ],
+      "note": "棋语醒悟完整；交割税收的细节不凭推断作制度事实。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "the-nose-joke"
+      ],
+      "note": "随军南下与罗衣轻问鼻承接；单骑突出、劓鼻背景按《伶官传》补入。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "the-nose-joke"
+      ],
+      "note": "“且观鼻在否”逐字承接；兴宗怒的场面承接。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "the-nose-joke"
+      ],
+      "note": "太子求情承接（打诨底不是黄幡绰见下）。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "the-nose-joke"
+      ],
+      "note": "黄幡绰唐太宗原典答语恢复，未伪引不存在的新唐伶官传。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [],
+      "note": "击鼓骂曹与唐高祖猎类比闲聊，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "the-nose-joke"
+      ],
+      "note": "“上闻而释之”逐字承接；狮子老鼠鸡汤不采。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "the-layback"
+      ],
+      "note": "败战灰心只作解释，不定唯一原因。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "the-layback"
+      ],
+      "note": "圣宗功业比较承接；狱空史事互见前篇并非全朝无狱。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "the-layback"
+      ],
+      "note": "功业压力评论承接，开疆为唯一选择不可证明。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "the-layback"
+      ],
+      "note": "三国边境形势承接，败后从此躺平不作事实。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "the-layback"
+      ],
+      "note": "宠伶爵赏早有记载，不能把全部享乐定败后才开始。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "the-layback"
+      ],
+      "note": "恢复国志8具体宠伶爵赏，不引用未定位的纪纲原句或单一阶级决定论。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "the-layback"
+      ],
+      "note": "保留需查具体政务战事的评价，不由此倒推女真后来崛起唯一成因。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "counterfactual-banter"
+      ],
+      "note": "保留劝谏历史假设，西夏上供若干年的设想未写实际条约。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "counterfactual-banter"
+      ],
+      "note": "反事实争论没有新事实，正文不再用作者过程列举替代覆盖。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "counterfactual-banter"
+      ],
+      "note": "功业比较和听劝分析保留，心态无法直知。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [],
+      "note": "PUA玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "counterfactual-banter"
+      ],
+      "note": "保留贤臣假设，风沙真实史源在chongxi-tribute-war另篇，不能此篇虚称全用。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "counterfactual-banter"
+      ],
+      "note": "保留名臣假设，屋质个人没有本篇重述。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [
+        "counterfactual-banter"
+      ],
+      "note": "保留听劝假设，王继忠反事实及国运转折断言不全采。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "luoyiqing-shuanglu",
+      "sectionIds": [],
+      "note": "烧柴火谐音玩笑段，无实质命题。"
+    }
+  ],
+  "independentReview": "completed"
+}

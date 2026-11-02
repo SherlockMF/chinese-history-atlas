@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-02",
+  "method": "S28：已完整阅读本篇所列原段，对照正文及列明原典逐段自审；子代理起草，主代理已独立阅读全文原段、原典与逐段台账并完成交叉复核；页面验证待补。未回听音频；基线保持不变。",
+  "counts": {
+    "partial": 3,
+    "covered": 5,
+    "corrected": 1,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wu-mingche-northern-campaign",
+      "sectionIds": [
+        "choice"
+      ],
+      "note": "后半陈顼即位与太建北伐承接；其在位569–582跨十四年非十五年，前半伯宗年龄疑点见S27。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "wu-mingche-northern-campaign",
+      "sectionIds": [
+        "choice"
+      ],
+      "note": "正确年号太建，谐音太监笑话不纳。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "wu-mingche-northern-campaign",
+      "sectionIds": [
+        "choice",
+        "qin-commandery",
+        "shouyang"
+      ],
+      "note": "对北齐获胜写出战场过程，非仅一句胜了。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wu-mingche-northern-campaign",
+      "sectionIds": [
+        "choice"
+      ],
+      "note": "573太建五年明确，北齐弱点为条件非高纬可轻取的必胜论。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wu-mingche-northern-campaign",
+      "sectionIds": [
+        "choice"
+      ],
+      "note": "公卿异议、吴明彻请行和皇帝选帅展开，未把未见原话的三足平衡动机强加每位反对者。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wu-mingche-northern-campaign",
+      "sectionIds": [
+        "choice"
+      ],
+      "note": "淳于量众推、徐陵反对及淮左熟悉风俗明确姓名。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wu-mingche-northern-campaign",
+      "sectionIds": [
+        "choice",
+        "qin-commandery"
+      ],
+      "note": "裴忌非裴济、职为监军事；十万/十余万区分；秦郡战事和萧摩诃突击承接。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wu-mingche-northern-campaign",
+      "sectionIds": [
+        "qin-commandery",
+        "shouyang"
+      ],
+      "note": "秦郡与合肥不同进军线、王琳寿阳拒守被俘、祭祖荣归写出。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wu-mingche-northern-campaign",
+      "sectionIds": [
+        "qin-commandery",
+        "shouyang",
+        "new-enemy"
+      ],
+      "note": "太牢祭祖与577再战周写出，补575齐战防止一跃五年。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "partial",
+      "assessment": "uncertain",
+      "storySlug": "wu-mingche-northern-campaign",
+      "sectionIds": [
+        "new-enemy",
+        "last-retreat"
+      ],
+      "note": "梁实宴未回听；梁士彦先败守城、王軌截道俘将按原典分开，578被俘卒六十七；582宣帝病另见S29。"
+    }
+  ]
+}

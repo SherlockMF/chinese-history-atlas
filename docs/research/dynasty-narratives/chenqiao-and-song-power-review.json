@@ -1,0 +1,482 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "covered": 7,
+    "partial": 24,
+    "corrected": 9,
+    "not-needed": 3
+  },
+  "rows": [
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "military-path"
+      ],
+      "note": "军镇家世由宋史赵敬及父系承接，正史与演义的选择说明放解释。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "military-path"
+      ],
+      "note": "父赵弘殷军职、早年游历已用；好赌打抱不平各动作未逐一写定。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "military-path"
+      ],
+      "note": "入郭威军中已用，襄阳僧预言属神异留解释，不据伤病探访片段编全过程。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "military-path"
+      ],
+      "note": "高平淮南战功与殿前军职提升已用，不只用拍马/非拍马道德判断解释升迁。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "military-path",
+        "yellow-robe"
+      ],
+      "note": "长编1初二前军出、初三赵率大军至陈桥，纠口述初二赵军；959柴荣卒事实另核。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "yellow-robe"
+      ],
+      "note": "幼君与禁军间处境、军士拥立场面已用；所有亲信事前谋划一概未证。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "yellow-robe"
+      ],
+      "note": "光义普入告据官修场景写，四处散播全军同谋的扩写不当确定事实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "yellow-robe"
+      ],
+      "note": "五代拥立旧路由 lead 与军士黄衣拜呼承接；可行等于正当的集体价值不虚定。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "corrected",
+      "assessment": "not-needed",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [],
+      "note": "蒸馏酒蒙古发明与北京地理插话不属于陈桥事件，未展史酒史。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "yellow-robe"
+      ],
+      "note": "黄衣加身已用；西城海淀笑谈舍弃，单日行程不能独证预谋。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "yellow-robe"
+      ],
+      "note": "醉卧/被拥立作为宋官修叙述限定，不写假装睡醒已获确证。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "yellow-robe"
+      ],
+      "note": "军士拜呼万岁与光义普参与已用；几里外都听见和使不得长对白未按现场实录。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "yellow-robe"
+      ],
+      "note": "不惊犯周太后恭帝的第一约已用；百般无奈属于叙事姿态不当内心事实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "yellow-robe"
+      ],
+      "note": "不侵凌大臣与不劫府库百姓两约已用，不因只提两条而漏实际三约。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "yellow-robe"
+      ],
+      "note": "府库百姓军令已用；全为作给天下看与天下财都属我的拟内心不写定。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "yellow-robe"
+      ],
+      "note": "回城结束原出师路线已用，借军报夺位与郭威经历作历史背景，不编其自学对白。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "yellow-robe"
+      ],
+      "note": "韩通被王彦升杀已用；复刻郭威是编辑观察，非有证逐步排演。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "yellow-robe"
+      ],
+      "note": "韩通死于家、宰相受武力压力已写，不简化只有韩通一个人死亡而全无家属代价。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "yellow-robe",
+        "new-dynasty-not-secure"
+      ],
+      "note": "陶谷袖中禅位制、960建隆宋国号与郑王已用；正月四日与34岁正文未逐项列年表。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "yellow-robe"
+      ],
+      "note": "礼遇郑王符后已用，不用小说柴进和免死金牌证明柴氏所有后代永远安全。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "new-dynasty-not-secure"
+      ],
+      "note": "李重进与李筠反叛并亲征平定已用；卧榻外对话未按原典直引。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "new-dynasty-not-secure",
+        "money-and-offices"
+      ],
+      "note": "965选精兵送京、地方军力资源收朝廷与通判已用；整个宋代兵将分离一次完工不采。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "money-and-offices"
+      ],
+      "note": "陈桥后逐步控制军财已写，后世阵图制未亲核，不把统一格式阵图直接归960。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "money-and-offices"
+      ],
+      "note": "兵财与文官监理的关系已用；一人少年经历决定数百年制度的单因论受限定。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "反复军队拥立促重视可控兵财已用；历代君全不识字的概括不入。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "郭柴反思与柴未竟事业由编辑解读承接；很可能必统一不作既成史实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "宋对外胜败不能只由制度一条解释已用；换地点契丹必不认真属推演不写定。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "明清比较在解释中保留并提醒差别；辽将早十年胜败假设不冒作事实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "亲读明史132补1393告变、审讯族诛与赦党；绝藩镇即全杀的单因概括不当案件本身。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "控制军权的重要性已写，同时否定只听朝廷即国无问题的万能条件论。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "中央地方指挥分配的问题由通判、征兵和编辑分析承接；周封建至宋完整线性演进未展开。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "宋削镇兵财迈一步及各朝差别已用，清军权顶峰未作已证量化结论。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "权力分配也约束赵普的具体案例已用；叙事时长和从朱温起讲串场不入。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "黄巢与门阀瓦解作为观察角度受限定；六七集节目组织说明舍弃。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "太祖劝赵普读书、箧中论语二十篇已用，半部治天下不是本篇核定结论。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [],
+      "note": "宋瓷审美、主播职业和跨族大将插话不属于此节军政事件。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "补史记86秦法殿臣不得携兵，限制全读书人佩剑、必须文武两门的跨朝全称。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "五代叛军经历影响宋初防强镇的编辑解读已用，不作现代PTSD医学诊断。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "门阀、分裂时长与文武关系在解释中保留差别；赵武力前十无衡量依据不采。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "制度与普通人关系的评价由行政入仕控制承接；思维导图制作过程不入正文。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "贡举覆试、中央入仕控制已用，不声称宋以前普通人全无读书求官机会。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [
+        "legacy-and-cost"
+      ],
+      "note": "减少独立军镇空间与制度影响已用；安全感是编辑评价，不用现代感受量化古代。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "chenqiao-and-song-power",
+      "sectionIds": [],
+      "note": "北京上海越南旅行举例属于现代说明，不虚标为宋代制度事实。"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读27原段/全文及台账，亲读辽6/7全本纪、8开篇、72李胡喜隐、77屋质挞烈、国志5全篇及通鉴290睡王；酒解复奏、 sleeping死法、原赞/亲属精义校正，实质心理段按实际部分覆盖，不以篇幅范围代替全用；音频未回听。",
+  "counts": {
+    "covered": 8,
+    "not-needed": 1,
+    "partial": 14,
+    "corrected": 4
+  },
+  "rows": [
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "benji-and-sleep-king"
+      ],
+      "note": "亲读辽6/7全本纪及国志5，排CSS/编辑标题计CJK约4256字含赞语，约4300量级成立；原稿5000为约数，18/逐年19口径说明。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "benji-and-sleep-king"
+      ],
+      "note": "“睡王”非《辽史》语，按《契丹国志》“每夜酣饮，达旦乃寐，日中方起，国人谓之‘睡王’”写入并注明出处；《辽史》酣饮条目逐条并引。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [],
+      "note": "微博进球、照片配酒等纯酒桌玩笑串场，不承接。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "benji-and-sleep-king"
+      ],
+      "note": "醉中骤授左右/酒解复奏有辽7；数十人等同一官的夸张无此实录，不能全覆盖。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "benji-and-sleep-king"
+      ],
+      "note": "原文酒解可覆奏是醒后可重奏核处，不是酒桌一切自动无效；改旧正文醒了不算的过强释义。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "north-south-kings"
+      ],
+      "note": "屋质北院大王按卷77“应历五年，为北院大王，总山西事”，挞烈南院大王按卷6应历二年三月甲申；口述“北苑/南苑”改作北院/南院，“富民大王”出处见P053。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "north-south-kings"
+      ],
+      "note": "辽77朝议以屋质挞烈富民大王与具体治理有源；国家不亡全靠两人是因果夸大，明确解释。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "north-south-kings"
+      ],
+      "note": "不视朝政与初犹豫可读，整个人从无帝位意愿不是已证内心，原covered虚报改partial。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "north-south-kings"
+      ],
+      "note": "“无为而治”为节目调侃，不写成史实，史文只可支持赞语“朝政不视”；该段以闲谈为主。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "lihu-and-xiyin"
+      ],
+      "note": "叛乱线索按卷6应历二年娄国等谋乱、三年李胡子宛谋反、十年寿远楚阿不谋反；李胡被软禁按卷72“徙李胡祖州，禁其出入”。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "lihu-and-xiyin"
+      ],
+      "note": "喜隐反与处分有辽6/72，屋质必亲平此案无记，血液传承也非历史解释，旧全覆盖纠为部分。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "lihu-and-xiyin"
+      ],
+      "note": "李胡之死按卷72“辞逮李胡，囚之，死狱中，年五十，葬玉峰山西谷”；口述“重新关起来”对应“囚之”。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "lihu-and-xiyin"
+      ],
+      "note": "嗜酒事实采用，酒精依赖/身体需麻痹不能从古史描述诊断，明确置解释限制；不是未回听等同uncertain。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "annals-of-killing"
+      ],
+      "note": "本纪杀雉人寿哥念古及多近侍确载，因鸡尾掉落杀人的具体情节未核，去正文对节目补白说明留interpretation。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "annals-of-killing"
+      ],
+      "note": "杀鹿人有多条，鹿少一只动因无现源；变态/缺志向诊断不坐实，不因杀人名单即全覆盖。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "black-mountain-night"
+      ],
+      "note": "直接死亡原因非喝死而近侍弑杀已用；被迫皇位使人格变态的因果未核，用精77追加死因节引用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "black-mountain-night"
+      ],
+      "note": "遇弑地点按卷7在怀州行宫，《契丹国志》称“黑山下”；节目“黔南”为口误，黑山即其屡次游猎驻跸之地（卷7“驻跸黑山平淀”“猎于黑山、赤山”）。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "black-mountain-night"
+      ],
+      "note": "猎获熊、欢饮方醉按卷7“己巳，如怀州，猎获熊，欢饮方醉，驰还行宫”；契丹皇帝好游猎按《契丹国志》“性好游畋，穷冬盛夏，不废驰骋”。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "black-mountain-night"
+      ],
+      "note": "猎熊欢饮驰还有辽7，睡倒厨子散场未载；原正文及台账不能把国志后醉索食扩为完整睡醒现场。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "black-mountain-night"
+      ],
+      "note": "国志5会醉索食不得真实用，厨子已退场/现龙火耽误无此原文，不全部采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "black-mountain-night"
+      ],
+      "note": "国志欲斩庖人掌膳恐祸实用；说完又睡与先后拟对白无源，删除整段本于国志的泛称。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "black-mountain-night"
+      ],
+      "note": "先下手动机链以《契丹国志》“数年之间，重足屏息，人人虞祸”的气氛为据；雉人杀人条目作呼应。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "black-mountain-night"
+      ],
+      "note": "辽7小哥盥人花哥庖人辛古六人，国志进食时挟刃；不能改成两书同睡中被杀，张飞演义比较仅类比。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "black-mountain-night"
+      ],
+      "note": "皇帝嗜杀招近侍祸与史赞宜哉实质评价已用，这不是纯串场；不将杀他该呀推为全体契丹人意见。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "black-mountain-night"
+      ],
+      "note": "辽7原赞变起肘腋宜哉，不是死其宜哉；原句呈现且纠解释，史家批评不代替全部民意。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "black-mountain-night"
+      ],
+      "note": "转场承接：召见耶律贤按卷8“应历十九年春二月戊辰，入见”，仅引“吾儿已成人，可付以政”一笔；“国运上升”为节目观点。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "muzong-black-mountain",
+      "sectionIds": [
+        "black-mountain-night"
+      ],
+      "note": "补辽8世宗第二子、穆宗堂侄，吾儿为亲称，纠原稿长子/亲侄子并精承接本节，不再只是留下一篇。"
+    }
+  ],
+  "independentReview": "completed"
+}

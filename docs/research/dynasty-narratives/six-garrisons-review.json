@@ -1,0 +1,143 @@
+{
+  "date": "2026-09-30",
+  "method": "人工完整通读北魏06 P023–P029与北齐P003–P006共11段，对读北齐书魏兰根传、魏书卷8、74、103及通鉴149–152。按镇户身份、灾荒起事、柔然援军、降附迁民、军人后续分别比对；数量保留史书记数口径，未核的国库总体耗竭与诸族复兴概括留partial。未回听音频。",
+  "counts": {
+    "corrected": 6,
+    "partial": 2,
+    "covered": 3
+  },
+  "rows": [
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "six-garrisons",
+      "sectionIds": [
+        "garrison-status"
+      ],
+      "note": "承接防柔然边防及身份下降，区分六镇军事行政单位与诸侯国，居民含强宗子弟、部族等，不等同六支鲜卑贵族。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "six-garrisons",
+      "sectionIds": [
+        "garrison-status",
+        "food-and-rule"
+      ],
+      "note": "补府户身份、受限仕途婚姻、镇将聚敛与灾荒粮食问题；以开仓和种粮记载限制全赖供养、改革一次切断支持的绝对叙述。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "six-garrisons",
+      "sectionIds": [
+        "food-and-rule",
+        "spreading-war"
+      ],
+      "note": "补饥荒起事、524沃野响应及中央调兵屡败；未把战争和两宗王聚敛直接等同已经核实的国库全部空虚。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "six-garrisons",
+      "sectionIds": [
+        "rouran-help"
+      ],
+      "note": "补原防御对象阿那瓌525率军助讨及此前投魏受助、后反复；依编年顺序限制将全部决策独归胡太后当时临朝。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "six-garrisons",
+      "sectionIds": [
+        "rouran-help"
+      ],
+      "note": "补柔然自武川西向沃野、北魏官军作战与招降，实质承接两面夹击；柔然惊喜的拟对白省略。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "six-garrisons",
+      "sectionIds": [
+        "rouran-help",
+        "displaced-people",
+        "military-houses"
+      ],
+      "note": "区分破六韩拔陵部受挫与整体危机，补二十万降附者迁冀定瀛、杜洛周及鲜于修礼续起、军权转移，不写成所有六镇恢复稳定。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "six-garrisons",
+      "sectionIds": [
+        "military-houses"
+      ],
+      "note": "补尔朱氏契胡旧功、世袭酋长与畜产募兵，说明其借平乱扩军但非毫无家底突然崛起；氐羌羯各族同步复兴的概括未逐族核定。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "six-garrisons",
+      "sectionIds": [
+        "garrison-status"
+      ],
+      "note": "承接六镇为北方重要军事重镇、危机影响后期格局，开场诗句具体内容在该段未重引，不据笼统回指另作诗文覆盖。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "six-garrisons",
+      "sectionIds": [
+        "garrison-status",
+        "spreading-war",
+        "displaced-people"
+      ],
+      "note": "承接拓跋鲜卑所建北魏、边防六镇及起事后持续动荡，补战争和流民迁移链条。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "six-garrisons",
+      "sectionIds": [
+        "garrison-status",
+        "spreading-war"
+      ],
+      "note": "以魏兰根镇户来源、服役与社会身份校正仅驻军和流放犯两类的简化，不把相同主题当作原人口分类已正确。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "six-garrisons",
+      "sectionIds": [
+        "garrison-status",
+        "food-and-rule",
+        "spreading-war",
+        "displaced-people",
+        "military-houses"
+      ],
+      "note": "承接迁洛地位下降、六镇危机促新军人集团成长，补身份、粮食、治理和收编过程，以513赈粮限制扶持全断，不把迁都直接推成必反或524即亡魏。"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "date": "2026-10-02",
+  "method": "S20：已完整阅读本篇所列原段，对照正文及列明原典逐段自审；子代理起草，主代理已独立阅读全文原段、原典与逐段台账并完成交叉复核；页面验证待补。未回听音频；基线保持不变。",
+  "counts": {
+    "not-needed": 2,
+    "partial": 17,
+    "covered": 2,
+    "corrected": 5,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [],
+      "note": "节目放下的转场，无须独立事实承接。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "three-teachings"
+      ],
+      "note": "以述三教诗和儒佛讲学并行说明信仰，未将宋齐暴政归结为单一思想根本。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "three-teachings"
+      ],
+      "note": "承接经学与政治伦理，不据君君臣臣解释全部政治动机。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "three-teachings"
+      ],
+      "note": "写周孔、六经、道书、佛典的学习脉络及讲学。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "three-teachings"
+      ],
+      "note": "依述三教诗说明融通而尊佛的倾向，不把原稿口语概括冒充萧衍原话。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "three-teachings",
+        "he-chen"
+      ],
+      "note": "保留晚年信仰与政治问题的关联，未把前明后昏简化为利用佛教变痴迷，四百八十寺非统计数。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "three-teachings",
+        "bodhidharma-story"
+      ],
+      "note": "确有多种佛学义记，不能据晚出公案给佛学水平定等。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "bodhidharma-story"
+      ],
+      "note": "区分较早达摩传记与后世梁武帝问答，未确证面谈。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "bodhidharma-story"
+      ],
+      "note": "注明五代祖堂集的晚出层级；不当梁宫现场记载。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "bodhidharma-story"
+      ],
+      "note": "叙述公案中的度人造寺写经造像，未把四百八十寺当武帝建设总数。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "bodhidharma-story"
+      ],
+      "note": "以公案中的行为与问答写张力，未虚构皇帝求夸奖的确定心理。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "bodhidharma-story"
+      ],
+      "note": "无功德按祖堂集情节写，未把世界观崩塌当史实。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "bodhidharma-story"
+      ],
+      "note": "解释人天小果与实相的区别；金刚经恒河沙转述未另行展开。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "bodhidharma-story"
+      ],
+      "note": "承接如何实功德的追问。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "bodhidharma-story"
+      ],
+      "note": "净智妙圆、体自空寂、如是功德、不以世求按祖堂集校录。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "bodhidharma-story"
+      ],
+      "note": "按公案解释不以外在功业计觉悟，不把主持人口语等同佛学唯一解释。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "bodhidharma-story"
+      ],
+      "note": "承接财力不能直接换觉悟的主题，GDP 玩笑不写。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "bodhidharma-story"
+      ],
+      "note": "叙达摩北上，同时标明较早传记的时间差与问答缺载。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "bodhidharma-story"
+      ],
+      "note": "保留达摩南北活动和后世传统影响，不据公案概括全部汉地佛教。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "food-and-sacrifice"
+      ],
+      "note": "以断酒肉文、经义争辩说明重要影响，不称由他一人始创所有佛教素食。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "food-and-sacrifice"
+      ],
+      "note": "写僧团教戒、517 宗庙蔬果与生活节制，不作长寿因果确证。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "partial",
+      "assessment": "not-needed",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [],
+      "note": "沈阳张学良故居及钻研张学良养生的节目插话未纳。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "first-two-offerings"
+      ],
+      "note": "第一次 527，第二次 529，非三年后；三日间隔依本纪。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "first-two-offerings"
+      ],
+      "note": "讲涅槃、奉赎、三请与十月还宫分开，不写九月二十七日即还宫；钱数录原文一亿万。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "last-two-offerings"
+      ],
+      "note": "546、547 过程已核；546 两亿与总计四亿在本次所读梁书3、南史7、通鉴159未见金额根据，未纳且未回听。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "last-two-offerings",
+        "iron-cash"
+      ],
+      "note": "写铁钱私铸、足陌命令和币值混乱；未把古钱现代换算，未把全部民怨单归佛事。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-emperor-buddhism",
+      "sectionIds": [
+        "iron-cash",
+        "he-chen"
+      ],
+      "note": "补财政与贺琛批评的具体机制，过渡侯景之乱，不把佛教当亡国单因。"
+    }
+  ]
+}

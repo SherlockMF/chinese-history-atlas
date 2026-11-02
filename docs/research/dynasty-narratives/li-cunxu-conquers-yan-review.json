@@ -1,0 +1,415 @@
+{
+  "date": "2026-10-11",
+  "method": "独立完整重读37原段与正文；亲读新五代5/39、旧五代27/28及通鉴266/268/269相关编年，恢复春秋与少年劝父、铁笼铁刷、城镇战线，纠正语义映射与梁燕时序；音频未回听。",
+  "counts": {
+    "covered": 19,
+    "not-needed": 3,
+    "corrected": 7,
+    "partial": 8
+  },
+  "rows": [
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "young-heir"
+      ],
+      "note": "亲读旧五代27十三习春秋手自缮写、新五代5稍习春秋；补少年学问，不作族属无关的绝对说。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [],
+      "note": "关公扇面与主持人朋友经历，无五代事件。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "young-heir"
+      ],
+      "note": "李克用讨王行瑜后遣少年献捷已用，依据新五代5。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "young-heir"
+      ],
+      "note": "十一岁入朝献捷、昭宗赠物嘱不忘唐家已用；父亲想突出亲儿子的心理不虚定。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "young-heir"
+      ],
+      "note": "亲读旧五代27父土疆日蹙与少年劝慰，恢复此前未覆盖段。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "young-heir"
+      ],
+      "note": "物不极则不反、恶不极则不亡原史句补入，限定为当时判断，非可验证必然规律。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "young-heir"
+      ],
+      "note": "少年器重/劝父等待与908二十四岁承位均承接，纪年串场不虚设史实。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "young-heir"
+      ],
+      "note": "908继晋王、河东节度使已用；美少年评价不作为史源。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "young-heir"
+      ],
+      "note": "养将握兵、不服新主真实在young-heir，改精确映射。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "young-heir"
+      ],
+      "note": "托病和见不拜在young-heir，改精确映射而非范围默认。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "uncle-plot"
+      ],
+      "note": "劝李克宁夺位已用，并补其最初拒绝、后来妻孟氏促成的变化。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "uncle-plot"
+      ],
+      "note": "密谋向梁交河东及晋王母子已用，不仅写李克宁求风投；送梁并非普通外援。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "uncle-plot"
+      ],
+      "note": "张承业李存璋与太夫人安排伏兵已用；争取所有外围人的同盟说法未核。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "uncle-plot"
+      ],
+      "note": "二月宴伏杀克宁存颢、稳军府已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "yan-court"
+      ],
+      "note": "转向梁燕战局已用；柏乡在后，908内变不与911已打完混定。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "yan-court"
+      ],
+      "note": "新五代39明载深入梁后燕威胁后方、迫班师，补战略选择，不只泛指两线。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "yan-court"
+      ],
+      "note": "梁南燕北晋出兵后方受威胁的具体战略补入，省界棋盘不当实际边界。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "two-executions"
+      ],
+      "note": "刘仁恭父辈遗怨承接于two-executions，三矢顺序仍仅前篇文学，修正确节。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "yan-court"
+      ],
+      "note": "刘守光是刘仁恭之子、燕晋旧援关系已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "yan-court"
+      ],
+      "note": "囚父夺位按907、称帝911、讨燕912—913分期，不把全部挤913同年。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "yan-court"
+      ],
+      "note": "师出有名与推尊尚父已用；先捧后打的意图有政治语境，不编私语。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "yan-court"
+      ],
+      "note": "刘守光求推尚父、晋镇定奉册助长其野心已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "yan-court"
+      ],
+      "note": "奉尚父的辈分尊崇已用；袍泽父辈关系不变成亲族谱系。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [],
+      "note": "主持人受叫爸爸的玩笑，无独立事件。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "yan-court"
+      ],
+      "note": "受册后骄横、求帝号的行动已用；枪法如神笑谈不写事实。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "yan-court"
+      ],
+      "note": "不满足尚父、要河北天子与改元郊天已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [],
+      "note": "椅子倒了坐一地及假孔子语，语言游戏不入史叙。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "yan-court"
+      ],
+      "note": "燕称帝与酷虐已用；不进十国名单不能单独归因残暴，改说明史家分类。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "yan-court"
+      ],
+      "note": "史家严厉道德评价已承接具体酷刑与拒谏，不单用桀纣类比定论。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "yan-court"
+      ],
+      "note": "亲读新五代39铁笼外燎火/刷剔皮肤补刑具具体承接，不另造细节，也不虚证人类发明优先。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "siege-and-capture"
+      ],
+      "note": "912周德威会镇定攻燕、梁出援已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "siege-and-capture"
+      ],
+      "note": "梁北援被南线李存审等奇袭迫退，李存勖未亲临暴揍；两线分担已写。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "siege-and-capture"
+      ],
+      "note": "亲读旧五代28顺檀武平与营推进已补，非全河北泛断。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "siege-and-capture"
+      ],
+      "note": "城镇取得与后来十六州边防分期说明，不倒套固定总表。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "siege-and-capture",
+        "two-executions"
+      ],
+      "note": "913幽州破、父子捕获与914处死分开，刘守光太原、仁恭代州，不同墓前一次祭斩。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "two-executions"
+      ],
+      "note": "三矢偿父志的文学线索已用；不直接确认一支箭当天完成的史实仪式。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "li-cunxu-conquers-yan",
+      "sectionIds": [
+        "two-executions"
+      ],
+      "note": "912朱温死、913友贞继梁与923灭梁分期，未提前南破后梁。"
+    }
+  ],
+  "independentReview": "completed"
+}

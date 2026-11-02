@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-30",
+  "method": "人工完整阅读指定原段，逐项对读所列原典及文物机构资料，并对照最终正文；未回听音频。引用范围仅用于定位，未核情节、心理和因果单独说明，不以同名或相邻段内容冒充本段覆盖。",
+  "counts": {
+    "partial": 2,
+    "corrected": 2
+  },
+  "rows": [
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiaowen-southern-campaigns",
+      "sectionIds": [
+        "road-south",
+        "xinye-walls"
+      ],
+      "note": "承接497年五州征发二十万、南阳宛城与新野围攻、刘思忌抵抗；纠正从洛阳出发、咸阳为留攻宗王的王号，并分开外城失守和翌年内城陷落。原段火烧新野未核，不写为已证战法；此前宛城已有抵抗，不称首次遇阻。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiaowen-southern-campaigns",
+      "sectionIds": [
+        "xinye-walls",
+        "two-fronts",
+        "mourning-and-illness"
+      ],
+      "note": "核名韩秀方，写497年十五将降魏与沔北胜、498年新野宛城陷落、齐援军及裴叔业另线牵制、明帝卒与礼不伐丧回师。将海军抄路的笼统说法拆为具体战线；降将因齐廷昏乱而降、此为首场大胜的因果未获充分证据，不承作事实。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xiaowen-southern-campaigns",
+      "sectionIds": [
+        "mourning-and-illness",
+        "last-victory",
+        "unfinished-unification"
+      ],
+      "note": "承接重病、499年齐军反攻与抱病再征、谷塘原卒及传统33岁；补明498年曾病情缓解、到邺再回洛阳的先后，病中战争不等于已证明被战争拖死或可诊断具体死因。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xiaowen-southern-campaigns",
+      "sectionIds": [
+        "road-south",
+        "last-victory",
+        "unfinished-unification"
+      ],
+      "note": "承接33岁去世及未完事业的感慨；以494—495年既有战事和497—499年数次进退限定只打一次大型战役。节目制作、今古视角的口头插话无需逐句复写。"
+    }
+  ]
+}

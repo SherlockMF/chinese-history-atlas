@@ -1,0 +1,294 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11 主代理逐读本批150条原段、故事正文与原有逐段note；亲读辽史27—30、71、98，金史2、3、74，宋史335、357，北盟7、10、11及契丹国志相应段落；修正文妃诗、交涉与战役时序、刘延庆指挥评价、大石系绳引路青冢及林牙官称，不以引用范围或关键字命中代替语义对应；未回听音频。",
+  "counts": {
+    "corrected": 9,
+    "partial": 10,
+    "not-needed": 2,
+    "covered": 5
+  },
+  "rows": [
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "the-regent"
+      ],
+      "note": "共享转场仅取淳死亡和换摄政，非急死。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "the-regent"
+      ],
+      "note": "摄政、遥立秦王与清除内应；吓死与心眼窄不作史实。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "camp-fires"
+      ],
+      "note": "改到金军后续逼近所在节；居庸全程观战未证，按金史2分路进军修正。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "yuan-army"
+      ],
+      "note": "刘延庆代任与再出在怨军节；刘光世“逃跑王”泛评不作历史定性。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "yuan-army"
+      ],
+      "note": "正文补入将家出身、雄豪有勇和西伐经历，并以军行无纪律、拒郭药师扣马谏、刘光世渝约不至具体承接“勇敢不等于善统军”；百人敢死队的数字与战法未获所核列传支持。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "yuan-army"
+      ],
+      "note": "大暑热语移回第一次马扩交涉，非第二次信。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [],
+      "note": "劝人传统与屋质闲聊无新命题。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "yuan-army"
+      ],
+      "note": "不将交涉语单独推成围城物资不足。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "yuan-army"
+      ],
+      "note": "围城补给的分析限定为讨论，未称史载断粮。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [],
+      "note": "吃卤煮的现代笑话。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "yuan-army"
+      ],
+      "note": "“怕围所以求和”属推断，时序与史源不支持该对白情景。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "yuan-army"
+      ],
+      "note": "怨军流离人口背景承接，家属全遭杀说不普遍化。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "yuan-army"
+      ],
+      "note": "郭药师统领与降宋承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "yuan-army"
+      ],
+      "note": "郭涿州降、高凤易州降及刘军向导承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "yuan-army"
+      ],
+      "note": "再出与协同困难承接，药师心中计划对白略。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "city-assault"
+      ],
+      "note": "利用城外主力、轻骑突袭与普贤女守城承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "city-assault"
+      ],
+      "note": "突入外城巷战承接，胡同限制作为理解不当确定唯一败因。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "city-assault"
+      ],
+      "note": "抢先举火约与刘援军即入之说未证，改按外内城过程。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "city-assault"
+      ],
+      "note": "抢功抓后妃动机不造，刘光世入城说受校。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "city-assault"
+      ],
+      "note": "守城死战与宋败承接，不沿用刘光世入城。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "city-assault"
+      ],
+      "note": "辽军回援、宋误認尘土援兵及夹击承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "camp-fires"
+      ],
+      "note": "城败与营败拆成相隔数日两段，不采用宋大军冲城。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "camp-fires"
+      ],
+      "note": "两败与金方军事判断承接，居庸现场目击未证。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "camp-fires"
+      ],
+      "note": "金军攻燕与宋方失去独力取燕能力承接，非纯围而不攻。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "camp-fires"
+      ],
+      "note": "普贤女弃城、大石归天祚、萧干分路承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "puxiannv-second-yanjing",
+      "sectionIds": [
+        "camp-fires"
+      ],
+      "note": "归天祚选择承接，不造普贤女对话或敌方必施暴推断。"
+    }
+  ]
+}

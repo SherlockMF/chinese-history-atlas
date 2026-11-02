@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：完整读隋下P153–163、P170–172十四段，并读P164–169衔接；对读隋书3、4、5、59、61、85，通鉴185，旧唐书1、54与2014年曹庄发掘报告全文转载。补兵变组织与宫门过程、宇文氏族属和身份边界、索毒与缢杀、葬事及三种谥号；不虚构心理、对白，不把葬令与墓志硬合，未回听音频。P163与晋阳篇重叠，须按原段去重。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "partial": 7,
+    "corrected": 4,
+    "not-covered": 1,
+    "covered": 2
+  },
+  "rows": [
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-jiangdu-coup",
+      "sectionIds": [
+        "south-to-jiangdu"
+      ],
+      "note": "承接各地反叛与南下江都的背景，分开616年出发和617年李密据仓导致北还困难；杨广不高兴、觉得没法待的拟心理未作为确证动机写入，也未逐个展开山东叛乱。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-jiangdu-coup",
+      "sectionIds": [
+        "south-to-jiangdu",
+        "soldiers-want-home"
+      ],
+      "note": "承接616年南下、江都即今扬州一带、曾以晋王镇江都及通鉴的宴饮记载；原段以不痛定思痛概括内心的判断不作可证事实。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-jiangdu-coup",
+      "sectionIds": [
+        "south-to-jiangdu"
+      ],
+      "note": "承接南下江都与北方割据加剧，补充留守官军仍在；原段“相当于北方没主”是局面概括，未明确说全部官署官军撤空，不计纠错。起义军彼此争战的细目未展开。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-jiangdu-coup",
+      "sectionIds": [
+        "soldiers-want-home"
+      ],
+      "note": "按隋85及通鉴185校正从驾骁果多关中人、家属多在西方，非全在洛阳；展开逃亡受诛、括女配军及将领进退惧罪，怨恨不简化为人人同一政治评价。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "partial",
+      "assessment": "not-covered",
+      "storySlug": "sui-jiangdu-coup",
+      "sectionIds": [],
+      "note": "原段把全体有名官员都写为四十余岁、经历统一的童年目击者，是未经逐人年龄核验的代入想象。隋末有人历南北朝，有人更年轻，不能给全部人物补同一回忆，本项不采用全称判断，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-jiangdu-coup",
+      "sectionIds": [
+        "soldiers-want-home",
+        "the-mirror"
+      ],
+      "note": "承接军心离散与史籍所写皇帝不安，连接萧后和照镜故事；人人亲眼看过夺储、运河、西巡、征辽而怨恨的集体心理推断未采。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-jiangdu-coup",
+      "sectionIds": [
+        "the-mirror",
+        "open-gates"
+      ],
+      "note": "照镜好头颈及萧后反应按通鉴展开，注明史籍叙述；被随驾军队政变而非瓦岗人物擒杀也已承接。其完全知道自己已完的强心理断言未采，程咬金演义具体文本未核。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-jiangdu-coup",
+      "sectionIds": [
+        "the-yuwen-brothers",
+        "open-gates"
+      ],
+      "note": "承接化及智及为宇文述之子、随驾将领发动兵变，增司马德戡等先谋与化及后被推举；五花棍打蜘蛛精具体来自哪种小说尚未核定，不因泛说非瓦岗英雄就算该文学细节已补。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-jiangdu-coup",
+      "sectionIds": [
+        "the-yuwen-brothers"
+      ],
+      "note": "据宇文述传改为本姓破野头、从主为宇文氏，非史籍明写赐姓；区分北周皇族和周朝显贵，父盛上柱国、述任职封爵。包衣是后世制度类比未采用，复仇对白不作史实。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-jiangdu-coup",
+      "sectionIds": [
+        "the-yuwen-brothers",
+        "open-gates"
+      ],
+      "note": "校正不能由非北周宗室推成绝非鲜卑或非北周贵族；618江都遇害承接，区分宇文化及为首与具体入宫者，原稿试图服毒未成功以通鉴索鸩被拒、索自备药未得的两层叙述展开；原段并未明说已经吞毒。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-jiangdu-coup",
+      "sectionIds": [
+        "open-gates"
+      ],
+      "note": "只承接本段前半的缢杀及《隋书》记年龄五十，现代海牙法庭插话不入；后半617晋阳起兵另由jinyang-uprising承接，两条记录不可算两个原段。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-jiangdu-coup",
+      "sectionIds": [
+        "names-after-death"
+      ],
+      "note": "承接杨广死后仍有奉隋政权名义延续，补分617年杨侑、618年杨浩与杨侗、619年王世充夺位的时序；原段未明确各次拥立年次，不计纠错。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-jiangdu-coup",
+      "sectionIds": [
+        "the-bed-board-coffin"
+      ],
+      "note": "床板为棺与萧后宫人承接，补流珠堂殡、陈棱吴公台、唐改雷塘；旧唐纪622葬扬州与出土志贞观元年及报告终葬不早于627并列，改原稿631唯一改葬节点而不硬定所有迁葬次数。少年一生皆顺的泛评未展开。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-jiangdu-coup",
+      "sectionIds": [
+        "names-after-death"
+      ],
+      "note": "承接炀谥由李渊授予，并明确明帝/世祖由杨侗朝廷追尊，补窦建德闵帝；说明授谥者各自处境，原段认为异谥不重要属主持人评价，不影响事实承接。"
+    }
+  ],
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "隋（下）_clean_v1.md",
+        "paragraph": "P157",
+        "resolution": "research-closed"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

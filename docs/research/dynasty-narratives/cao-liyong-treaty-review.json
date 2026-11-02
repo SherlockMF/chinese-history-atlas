@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核：亲读本篇台账全部对应原段、正文与列明原典；2026-10-11逐P校验实际sectionIds与transcripts，修正未核片段评估；未回听音频。史源缓存output/research-source-cache。",
+  "counts": {
+    "partial": 6,
+    "not-needed": 2,
+    "covered": 18,
+    "corrected": 4
+  },
+  "rows": [
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P183",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "the-envoy"
+      ],
+      "note": "曹利用出使与真宗愿岁币议和落实；太平天子心理自白仅解读。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P184",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [],
+      "note": "名字像外号的闲聊段，无实质命题。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "the-envoy"
+      ],
+      "note": "“面请岁赂金帛之数，上曰：必不得已，虽百万亦可”逐字承接；“岁”的确认承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P186",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "the-envoy"
+      ],
+      "note": "寇准斩令按《长编》“虽有敕旨，汝往，所许不得过三十万。过三十万勿来见准，准将斩汝”承接；口述数字一致。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P187",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "the-envoy"
+      ],
+      "note": "“这个口子不能开”的道理承接为主持人分析层。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P188",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "at-the-camp"
+      ],
+      "note": "长编辽主韩德让车前接使和饭食恢复；太后帐前问帅对白未证。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P189",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "at-the-camp"
+      ],
+      "note": "挞凛死亡为战局背景；辽无将可用的威吓台词未见原典。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P190",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "at-the-camp"
+      ],
+      "note": "王继忠传话与定约承接；以寇准杨延昭吓辽的具体辩词未证。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P191",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "at-the-camp"
+      ],
+      "note": "银十万两、绢二十万匹分列；索关南的实议与宋坚拒恢复，不以“找后周要”玩笑代史事。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "three-fingers"
+      ],
+      "note": "三指加颊按《长编》原文“利用终不肯言，而以三指加颊，内侍入曰：三指加颊，岂非三百万乎”承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P193",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "three-fingers"
+      ],
+      "note": "“上失声曰：太多”“姑了事，亦可耳”与“宫帷浅迫，利用具闻其语”逐字承接；三十万真数揭底。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P194",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "the-oath",
+        "three-fingers"
+      ],
+      "note": "兄弟名分与曹利用授官分别对应两节；增加194单段定位授官。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P195",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "the-oath"
+      ],
+      "note": "边界更正：誓书无“以白沟河为界”明文，原文“沿边州军，各守疆界，两地人户，不得交侵”；白沟为实际分界的后设描述；维持基线校正方向。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P196",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "the-oath"
+      ],
+      "note": "停战线非新边界的道理承接；契丹北返承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P197",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "the-oath"
+      ],
+      "note": "宋史186亲核榷场早有开罢，1005三场后增广信；商品与禁物限制明确，非和约明文新创免税自由贸易。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P198",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [],
+      "note": "上学课本回顾段，无实质命题。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P199",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "honeymoon-and-jizhong"
+      ],
+      "note": "“比较亏的是钱”与蜜月期判断承接为讨论层。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P200",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "honeymoon-and-jizhong"
+      ],
+      "note": "国志7真宗丧圣宗哭及避真宗讳落实；避讳者为辽教坊/僧录，不是宋考生犯圣宗讳；太后丧真宗痛哭未核。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P201",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "honeymoon-and-jizhong"
+      ],
+      "note": "王继忠在澶渊之盟中的枢纽作用承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P202",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "honeymoon-and-jizhong"
+      ],
+      "note": "和平贡献与两方待遇保留；未曾泄露布防及“投敌不叛国”未获具体史证，仅评价。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P203",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "honeymoon-and-jizhong"
+      ],
+      "note": "宋史岁遣使必赐，与生日送礼频次区别；“宋人一致觉得无错”与李陵论赞相反。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P204",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "honeymoon-and-jizhong"
+      ],
+      "note": "纵横家评价承接为主持人观点层。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P205",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "an-unexpected-peace"
+      ],
+      "note": "课本印象与实际过程落差的反思承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P206",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "an-unexpected-peace"
+      ],
+      "note": "“以为是客客气气，其实是剑拔弩张”的颠覆感承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P207",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "an-unexpected-peace"
+      ],
+      "note": "“谁都吃不了谁才接受这种关系”的判断承接为分析层。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P208",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "an-unexpected-peace"
+      ],
+      "note": "两国外围各自的边患承接（辽之北面诸部、宋之南疆）。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P209",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "an-unexpected-peace"
+      ],
+      "note": "妥协产物的定性承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P210",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "an-unexpected-peace"
+      ],
+      "note": "圣宗举哀有国志原文，政治成熟为解释；双方皆哭的每次场景不全确证。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P211",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "an-unexpected-peace"
+      ],
+      "note": "真宗的政治成熟与和平有利的判断承接为主持人评论层。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P212",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "cao-liyong-treaty",
+      "sectionIds": [
+        "an-unexpected-peace"
+      ],
+      "note": "“代价平衡”的收束与一百二十年和平框架承接；圣宗亲政预告。"
+    }
+  ],
+  "independentReview": "completed"
+}

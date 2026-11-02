@@ -1,0 +1,408 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读36P与正文，亲核辽10/15/18/45/71/74/82、契丹国志13/18、事实类苑77乘轺录及龙川别志卷上。恢复旧审漏顾命措施、父礼、御容画像、澶渊同车接见；纠正年龄证伪/亲王宿卫/谱系/无载范围，音频未回听。",
+  "counts": {
+    "corrected": 12,
+    "covered": 15,
+    "partial": 8,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "the-lockdown"
+      ],
+      "note": "辽82顾命斜轸韩德让，原休哥校正；正文承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "the-gossip"
+      ],
+      "note": "传闻话题依契丹国志13及事实类苑77展开；不能以正史某卷未载断言所有史料无出处。补单6引用。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "the-lockdown"
+      ],
+      "note": "契丹皇位更替多叛乱的传统承接为背景。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "the-lockdown"
+      ],
+      "note": "“母寡子弱……信任臣等”按《辽史》卷71逐字承接；萧绰问顾命细节与L16互见。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "the-lockdown"
+      ],
+      "note": "亲读契丹国志18，恢复归第、禁止私宴与夺兵权。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "the-lockdown"
+      ],
+      "note": "国志18载召赵王等妻子赴阙；人质、陪伴太后不是原文明确措辞，不扩写。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "the-lockdown"
+      ],
+      "note": "辽74汉人韩氏祖父被掳家世入正文。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "the-lockdown"
+      ],
+      "note": "982—1031四十九年入正文；“唯一圣宗”未做跨中国及周边全部政权比对，不采。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "the-gossip"
+      ],
+      "note": "圣宗盛世的文臣首推韩德让承接，转入传闻讨论。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "the-gossip"
+      ],
+      "note": "初恋/旧好有事实类苑77所录乘轺录文字，恢复为宋人传闻，不能写所有史书均无。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "the-gossip"
+      ],
+      "note": "初恋/旧好有事实类苑77所录乘轺录文字，恢复为宋人传闻，不能写所有史书均无。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "the-gossip"
+      ],
+      "note": "年龄约差十二年并不能单独证伪婚约，纠正旧正文逻辑；婚约杀妻作为有载而未证实传闻。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "the-gossip"
+      ],
+      "note": "追加亲读龙川别志全文卷上曹利用段，补太后韩在駞车上接见；不据一次接见泛每次出行同车或契丹皆不讲礼法。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "why-him",
+        "the-gossip"
+      ],
+      "note": "太后共政/韩从征有辽82；龙川别志具体同车接见补回，皇帝不能坐车及每次亲征同车无源不采。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "why-him"
+      ],
+      "note": "重用汉臣的政治账：圣宗年幼、宗室势强承接为分析层。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "why-him"
+      ],
+      "note": "汉臣可平衡耶律宗室是编辑分析；韩家已有显赫父祖，不能写没有根基、绝无造反能力。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "why-him"
+      ],
+      "note": "“堵的性质”与听天由命的自省承接为主持人分析。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "why-him"
+      ],
+      "note": "用人押注和择能臣承接；假设若有屋质便用屋质未照写。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "han-derang-power",
+      "sectionIds": [],
+      "note": "马步庸照片与成事在天的段子，无实质命题。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "titles-and-adoption"
+      ],
+      "note": "位极人臣与赐姓耶律隆运承接；“太后之下皇帝之上”为形容非职衔。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "titles-and-adoption"
+      ],
+      "note": "国志18明确父事之，恢复，不因辽82未载删除。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "titles-and-adoption"
+      ],
+      "note": "名字隆绪隆运及父礼分别写出；同名首字不能独证法律兄弟辈，网络段子不采。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "titles-and-adoption"
+      ],
+      "note": "国志18秦王问起居在二里下车，帝在五十步下车；纠正亲弟替韩执禁卫与五十步站岗的混淆。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "titles-and-adoption"
+      ],
+      "note": "“拜大丞相，进王齐，总二枢府事”逐字承接；后徙王晋补入；转入横帐解释。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "heng-zhang-explained"
+      ],
+      "note": "辽45玄祖匀德实、岩木释鲁德祖的谱系摆正。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "heng-zhang-explained"
+      ],
+      "note": "孟岩木/仲释鲁/季太祖诸弟，一帐三房；不能将阿保机祖父次子称伯祖。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "heng-zhang-explained"
+      ],
+      "note": "辽45还有二院皇族，不把帐外所有耶律一律普通人；季父房与太祖直系区别实承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "after-death"
+      ],
+      "note": "恢复国志18影堂和御容殿画像，但不是一律太庙；辽82建庙乾陵侧交叉。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "after-death"
+      ],
+      "note": "君臣佳话、用人不疑的评价承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "after-death"
+      ],
+      "note": "韩氏特殊礼遇及容纳有史证；金夏蒙古全体民族问题未比较不作事实概论。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "after-death"
+      ],
+      "note": "入谱与御容同殿恢复，太庙改御容殿；不采现代族谱绝不接受非血缘的泛化。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "after-death"
+      ],
+      "note": "长期合作若有情谊的今人理解保留且明确评价。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "after-death"
+      ],
+      "note": "民族区别观感的讨论承接为讨论层。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "after-death"
+      ],
+      "note": "底线论：耶律与萧的根基之权不旁落，承接为分析层，与前文宠遇对照。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "after-death"
+      ],
+      "note": "“为我服务则给应有一切”的平衡术承接为主持人分析。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "han-derang-power",
+      "sectionIds": [
+        "after-death"
+      ],
+      "note": "长期君臣关系收束承接；国运因果不能从个别事件直推，个人魅力猜想未保留成史实。"
+    }
+  ],
+  "independentReview": "completed"
+}

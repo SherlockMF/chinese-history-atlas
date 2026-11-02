@@ -1,0 +1,112 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读指定原稿并对读所列一手文献，按正文实际承接逐段判断。未回听音频；无据数值、对白、心理与跨代比较不以主题相近视作覆盖，未承接余项在partial中保留。",
+  "counts": {
+    "corrected": 8,
+    "partial": 1
+  },
+  "rows": [
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-xun",
+      "sectionIds": [
+        "crown-and-capital"
+      ],
+      "note": "正名元恂，明确493立储与496北逃事件，不把名字转写元勋或不满改革本身当谋反判决。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-xun",
+      "sectionIds": [
+        "crown-and-capital"
+      ],
+      "note": "读书、体貌、畏暑和思北均作为传记描述呈现，不把肥胖当笑料或唯一行动原因。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuan-xun",
+      "sectionIds": [
+        "crown-and-capital"
+      ],
+      "note": "保留河洛难适应、思北与服饰习惯的背景；不会汉语、学不了外语的类比和内心对白未获依据，不写。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-xun",
+      "sectionIds": [
+        "crown-and-capital"
+      ],
+      "note": "私服胡服与高道悦苦谏据北朝纪传；补入南齐书57毁衣、编发左衽的另记，限定为该书说法，不收其生母和年次混杂或节目发型对白。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-xun",
+      "sectionIds": [
+        "blocked-gate"
+      ],
+      "note": "帝巡嵩岳、恂留金墉与谋召牧马据魏22；三千御马置河阴渚已找到南齐书57，作为异源细节补入，不据此沿用该书出巡地点与废杀年次。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-xun",
+      "sectionIds": [
+        "blocked-gate"
+      ],
+      "note": "保留亲手杀高道悦、留守职责，并明确元俨封门阻止，纠正已经逃到平城乘凉的讲法。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-xun",
+      "sectionIds": [
+        "blocked-gate",
+        "beating-and-deposition"
+      ],
+      "note": "陆琇次日驰报、帝仍至汴口才返，帝与禧等轮杖太子本人百余下；纠正左右代受刑及急返的细节。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-xun",
+      "sectionIds": [
+        "beating-and-deposition",
+        "pepper-wine",
+        "unsettled-north"
+      ],
+      "note": "496废储、497李彪密表后河阳赐死与498申辩被隐且未查到底分别呈现；穆泰陆叡谋乱早于恂死，宗室有人告发、有人平定，非诸王一齐叛乱。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuan-xun",
+      "sectionIds": [
+        "unsettled-north"
+      ],
+      "note": "保留迁都冲突与统治压力，但494已南征、497再战，不以平定反对派后文治尽成作为首次南征的时间线。"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读隋中P130—P136共7段，对读隋书53所载传记与身后诏、25刑法志、2本纪、84突厥传、通鉴179及周书16/19。战功叙述与诏令冲突分别呈现；不补刑具杖数或家世决定心理。未回听音频，baseline照录。",
+  "counts": {
+    "corrected": 2,
+    "covered": 2,
+    "partial": 3
+  },
+  "rows": [
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "shi-wansui",
+      "sectionIds": [
+        "law-and-command",
+        "a-general-not-a-party-label",
+        "dajin-mountain",
+        "edict-after-death"
+      ],
+      "note": "承接慎刑制度、北征功劳与杨素压功、高颎关系；以596年三奏令和600年事件定位，补高颎曾求情与杨广也曾礼遇，限制简单高颎—杨勇一党标签，传记追战与诏书未交战分层。 交叉复核另注明：刑法志系于595年，本纪系于596年，纪年差异保留。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shi-wansui",
+      "sectionIds": [
+        "dajin-mountain",
+        "summoned-in-anger"
+      ],
+      "note": "承接杨素称突厥只是畜牧而压功、史万岁多次申报并为部下争功；史万岁实在朝堂，按原典展开申诉处境，不把原段口角比喻另造为边境事件。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shi-wansui",
+      "sectionIds": [
+        "summoned-in-anger"
+      ],
+      "note": "逐项写帝问所在、杨素谎称谒东宫、史万岁实在朝堂及获召后争将士功劳；保留事件链，不拟写内外对白或史万岁的即时心理。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shi-wansui",
+      "sectionIds": [
+        "summoned-in-anger",
+        "edict-after-death"
+      ],
+      "note": "承接为部下诉功、激怒皇帝并当场被命左右杀死；原典没有在这里交代具体刑具、杖数或廷杖仪式，未据后世印象补足其行刑技术。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shi-wansui",
+      "sectionIds": [
+        "law-and-command",
+        "summoned-in-anger",
+        "power-and-responsibility"
+      ],
+      "note": "承接杀戮风险和杨坚晚年法令与实际处置的矛盾；十板即可致死的具体医学断言及仁寿宫营建细节不在本篇核实展开，未将性情标签当因果解释。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shi-wansui",
+      "sectionIds": [
+        "power-and-responsibility"
+      ],
+      "note": "承接杨坚为杨忠之子及显贵家世；依周书名单区分西魏十二大将军杨忠与后来北周柱国，不列入西魏八柱国。以本纪恤民记载限制父子全不知民间疾苦的绝对推论，不补一宫恰死万人数字。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shi-wansui",
+      "sectionIds": [
+        "power-and-responsibility"
+      ],
+      "note": "讨论贵族成长环境与统治责任的评价边界，拒绝据出身断言每人全部骄奢或内心全无人力概念；未替每个儿子作完整性格研究，九百生灭及节目洗地插话不作史实。"
+    }
+  ]
+}

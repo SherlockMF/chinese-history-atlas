@@ -1,0 +1,17 @@
+{
+  "id": "yang-jian",
+  "name": "杨坚",
+  "representativeAge": 50,
+  "prompt": "第一张输入为本人的传世肖像参考，第二张为朱温画风样图。参考第一张的脸型、眉眼、鼻形与髭须特征重新创作；只描绘本人，不保留原图侍从。第二张仅参考画法、配色、纸感与构图，不复制朱温面容。人物为杨坚，身份：隋文帝、隋朝建立者。生平依据：由北周朝臣成为辅政者，581年代周建隋；589年隋军灭陈，结束南北长期对峙。本画代表年龄约50岁，年龄及以下造型均为创作设定：男性，严谨沉稳，面部有成熟年龄感，暗朱色隋初帝王礼服，完整冠饰。服饰取北朝至隋的时代语汇，避免五代宋明清服饰及夸张影视造型。采用输入朱温样图的统一原创国风手绘插画风格：自然写实人体比例，面部立体光影、细腻水彩笔触与纸绢质感，低饱和朱砂、墨绿、赭色及少量金色，简洁暖纸白背景。竖幅3:4，单人半身胸像，身体略侧、脸朝向观者；头顶留白，头饰完整，面部清晰且适合缩小为圆形头像，无文字、无印章、无边框。",
+  "reference": "docs/research/portraits/series/references/yang-jian-british-library.jpg",
+  "source": {
+    "title": "18世纪中国历代帝王画像册·隋文帝（British Library，Commons 收录）",
+    "url": "https://commons.wikimedia.org/wiki/File:Emperor_Wen_of_sui.jpeg"
+  },
+  "note": "依据18世纪后世帝王画像重新创作；画中约50岁，年龄、光影与服饰细节为艺术处理，不作为真实容貌依据。",
+  "generator": "built-in image_gen",
+  "original": "C:\\Users\\84754\\.codex\\generated_images\\01a0c47c-b25c-7471-bb2c-f64d1bc8dc5e\\exec-d714bb70-bfa7-43a2-a881-29b83a62c3ba.png",
+  "asset": "public/portraits/series/yang-jian.webp",
+  "width": 1086,
+  "height": 1448
+}

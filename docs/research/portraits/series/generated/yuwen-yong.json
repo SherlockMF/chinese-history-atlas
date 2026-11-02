@@ -1,0 +1,17 @@
+{
+  "id": "yuwen-yong",
+  "name": "宇文邕",
+  "representativeAge": 33,
+  "prompt": "第一张输入为本人的传世肖像参考，第二张为朱温画风样图。参考第一张的脸型、眉眼、鼻形与髭须特征重新创作；只描绘本人，不保留原图侍从。第二张仅参考画法、配色、纸感与构图，不复制朱温面容。人物为宇文邕，身份：北周武帝。生平依据：572年除去宇文护后亲掌朝政，577年灭北齐，578年去世。宇文赟是其子。本画代表年龄约33岁，年龄及以下造型均为创作设定：男性，目光坚定，消瘦有骨感，玄黑与暗朱色北周帝王礼服及适度简化的冕冠。服饰取北朝至隋的时代语汇，避免五代宋明清服饰及夸张影视造型。采用输入朱温样图的统一原创国风手绘插画风格：自然写实人体比例，面部立体光影、细腻水彩笔触与纸绢质感，低饱和朱砂、墨绿、赭色及少量金色，简洁暖纸白背景。竖幅3:4，单人半身胸像，身体略侧、脸朝向观者；头顶留白，头饰完整，面部清晰且适合缩小为圆形头像，无文字、无印章、无边框。",
+  "reference": "docs/research/portraits/series/references/yuwen-yong.jpg",
+  "source": {
+    "title": "传阎立本《历代帝王图》北周武帝局部（波士顿美术博物馆藏）",
+    "url": "https://commons.wikimedia.org/wiki/File:Yen_Li-pen_001.jpg"
+  },
+  "note": "依据传世肖像重新创作；画中约33岁，年龄、光影与部分细节为艺术处理。",
+  "generator": "built-in image_gen",
+  "original": "C:\\Users\\84754\\.codex\\generated_images\\01a0c47c-b25c-7471-bb2c-f64d1bc8dc5e\\exec-dbb5b92f-5e77-4f47-8a83-280be96a5fd8.png",
+  "asset": "public/portraits/series/yuwen-yong.webp",
+  "width": 1086,
+  "height": 1448
+}

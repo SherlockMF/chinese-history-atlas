@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-11",
+  "method": "起草后由根代理独立逐段对读原逐字稿、正文、定位与相关史源；按实际内容保留partial/uncertain，不回听音频。见cross-review-l45-l52.md。",
+  "counts": {
+    "covered": 2,
+    "corrected": 10,
+    "partial": 6
+  },
+  "rows": [
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "seven-thirteen-fourteen"
+      ],
+      "note": "末段大石去世与继承线承接；祭司王主题另见L47。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "seven-thirteen-fourteen"
+      ],
+      "note": "幼子塔不烟权国承接，效法萧绰之自觉意图无证。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "envoy-never-returned"
+      ],
+      "note": "粘割韩奴姓名、1144招抚与未归承接，非普通及时传回口头招降戏。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "envoy-never-returned"
+      ],
+      "note": "史121要求礼拜及抗拒承接，塔不烟直接对话不能确证。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "envoy-never-returned"
+      ],
+      "note": "大定年间报告遭杀及后裔仍称大石承接，不明确归塔不烟亲杀。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "seven-thirteen-fourteen"
+      ],
+      "note": "汉文七年称制承接，一直太平无乱无法概括。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "seven-thirteen-fourteen"
+      ],
+      "note": "八万四千五百户及18岁限制承接，迁置并非皆妹妹时代。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "seven-thirteen-fourteen"
+      ],
+      "note": "夷列幼子与妹妹权国承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "seven-thirteen-fourteen"
+      ],
+      "note": "普速完耶律姓、承天称号及女性继承承接，萧绰榜样心理无证。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "households-and-qarluq"
+      ],
+      "note": "河中葛逻禄与喀喇汗矛盾承接，不全归普速完执政时首次发生。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "households-and-qarluq"
+      ],
+      "note": "迁置意图帮助属国维持秩序承接，不编征不服姐姐闲谈。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "households-and-qarluq"
+      ],
+      "note": "喀什农业迁置承接，画图圈地拟对白未作事实。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "households-and-qarluq"
+      ],
+      "note": "失牧地与改变经济关系承接，征服式全体有序执行无法核明。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "households-and-qarluq"
+      ],
+      "note": "迁徙改变力量关系承接，各部缴械全过程未直接核。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "households-and-qarluq"
+      ],
+      "note": "抵抗延续与葛逻禄后来仍存承接，纠正永远消失。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "households-and-qarluq"
+      ],
+      "note": "首段治理影响承接，农业迁置即尽打破武力无证；末婚姻另入L49。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P193",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "seven-thirteen-fourteen"
+      ],
+      "note": "后半塔不烟称制、幼主继承在继承节承接，前半建国在L45。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P194",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gantian-yilie-chengtian",
+      "sectionIds": [
+        "seven-thirteen-fourteen"
+      ],
+      "note": "夷列、普速完与直鲁古继承线在本节；末段屈出律另篇承接。"
+    }
+  ]
+}

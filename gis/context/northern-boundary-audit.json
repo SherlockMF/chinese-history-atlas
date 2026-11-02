@@ -1,0 +1,4113 @@
+{
+  "method": "Purple printed-band centre tracing; fixed shared junctions; 1 px simplification. Pixel fit is not historical frontier precision.",
+  "maps": [
+    {
+      "year": 449,
+      "sourceFile": "04-17宋、魏时期全图.jpg",
+      "sourceSha256": "f2a11c3ae7d8f6dd87d3e753b33a1b8c718b3a6698120dbe6b81d0074a760e55",
+      "pageSize": [
+        1872,
+        1312
+      ],
+      "refinedSegments": 45,
+      "segments": [
+        {
+          "guide": [
+            [
+              476,
+              345
+            ],
+            [
+              488,
+              251
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              488,
+              251
+            ],
+            [
+              518,
+              204
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              518,
+              204
+            ],
+            [
+              560,
+              154
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              560,
+              154
+            ],
+            [
+              640,
+              113
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              640,
+              113
+            ],
+            [
+              735,
+              101
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              735,
+              101
+            ],
+            [
+              796,
+              94
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              796,
+              94
+            ],
+            [
+              873,
+              103
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              873,
+              103
+            ],
+            [
+              971,
+              114
+            ]
+          ],
+          "vertices": 7,
+          "oldMeanOutsideBandPx": 0.007,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              971,
+              114
+            ],
+            [
+              1090,
+              128
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1090,
+              128
+            ],
+            [
+              1190,
+              135
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1190,
+              135
+            ],
+            [
+              1243,
+              142
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1230,
+              159
+            ],
+            [
+              1243,
+              142
+            ]
+          ],
+          "vertices": 2,
+          "oldMeanOutsideBandPx": 0.262,
+          "newMeanOutsideBandPx": 0.208,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              1230,
+              159
+            ],
+            [
+              1248,
+              184
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.773,
+          "newMeanOutsideBandPx": 0.458,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1229,
+              238
+            ],
+            [
+              1248,
+              184
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.358,
+          "newMeanOutsideBandPx": 0.091,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1208,
+              289
+            ],
+            [
+              1229,
+              238
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.449,
+          "newMeanOutsideBandPx": 0.202,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1186,
+              350
+            ],
+            [
+              1208,
+              289
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 3.178,
+          "newMeanOutsideBandPx": 0.457,
+          "maxDisplacementPx": 7.0
+        },
+        {
+          "guide": [
+            [
+              476,
+              345
+            ],
+            [
+              515,
+              359
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.014,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              433,
+              344
+            ],
+            [
+              476,
+              345
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.479,
+          "newMeanOutsideBandPx": 0.33,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              404,
+              327
+            ],
+            [
+              433,
+              344
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.342,
+          "newMeanOutsideBandPx": 0.291,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              377,
+              322
+            ],
+            [
+              404,
+              327
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              347,
+              340
+            ],
+            [
+              377,
+              322
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              342,
+              363
+            ],
+            [
+              347,
+              340
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              315,
+              405
+            ],
+            [
+              342,
+              363
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.031,
+          "newMeanOutsideBandPx": 0.004,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              295,
+              432
+            ],
+            [
+              315,
+              405
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              295,
+              432
+            ],
+            [
+              302,
+              450
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              302,
+              450
+            ],
+            [
+              312,
+              461
+            ]
+          ],
+          "vertices": 2,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              309,
+              480
+            ],
+            [
+              312,
+              461
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              285,
+              486
+            ],
+            [
+              309,
+              480
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              285,
+              486
+            ],
+            [
+              286,
+              506
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              260,
+              510
+            ],
+            [
+              286,
+              506
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              247,
+              550
+            ],
+            [
+              260,
+              510
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              232,
+              568
+            ],
+            [
+              247,
+              550
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.28,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              222,
+              592
+            ],
+            [
+              232,
+              568
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              225,
+              603
+            ],
+            [
+              264,
+              598
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.099,
+          "newMeanOutsideBandPx": 0.085,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              264,
+              598
+            ],
+            [
+              299,
+              613
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.061,
+          "newMeanOutsideBandPx": 0.061,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1243,
+              142
+            ],
+            [
+              1280,
+              144
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1280,
+              144
+            ],
+            [
+              1331,
+              137
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1331,
+              137
+            ],
+            [
+              1380,
+              139
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.038,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1380,
+              139
+            ],
+            [
+              1433,
+              148
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.132,
+          "newMeanOutsideBandPx": 0.061,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1433,
+              148
+            ],
+            [
+              1483,
+              160
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.856,
+          "newMeanOutsideBandPx": 0.148,
+          "maxDisplacementPx": 5.0
+        },
+        {
+          "guide": [
+            [
+              1483,
+              160
+            ],
+            [
+              1518,
+              163
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.054,
+          "newMeanOutsideBandPx": 0.01,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1518,
+              163
+            ],
+            [
+              1549,
+              145
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              1549,
+              145
+            ],
+            [
+              1570,
+              122
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              1570,
+              122
+            ],
+            [
+              1588,
+              98
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              1588,
+              98
+            ],
+            [
+              1594,
+              62
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        }
+      ]
+    },
+    {
+      "year": 497,
+      "sourceFile": "04-19齐、魏时期全图.jpg",
+      "sourceSha256": "ef8d0619b24a5f948be5c7ed0f250295b2150d252bb87d285179a64f95d6597f",
+      "pageSize": [
+        1872,
+        1312
+      ],
+      "refinedSegments": 45,
+      "segments": [
+        {
+          "guide": [
+            [
+              477,
+              343
+            ],
+            [
+              491,
+              244
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.033,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              491,
+              244
+            ],
+            [
+              523,
+              195
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              523,
+              195
+            ],
+            [
+              566,
+              148
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.217,
+          "newMeanOutsideBandPx": 0.085,
+          "maxDisplacementPx": 5.0
+        },
+        {
+          "guide": [
+            [
+              566,
+              148
+            ],
+            [
+              639,
+              111
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.159,
+          "newMeanOutsideBandPx": 0.061,
+          "maxDisplacementPx": 6.0
+        },
+        {
+          "guide": [
+            [
+              639,
+              111
+            ],
+            [
+              733,
+              98
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              733,
+              98
+            ],
+            [
+              793,
+              92
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              793,
+              92
+            ],
+            [
+              874,
+              103
+            ]
+          ],
+          "vertices": 7,
+          "oldMeanOutsideBandPx": 0.004,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              874,
+              103
+            ],
+            [
+              975,
+              115
+            ]
+          ],
+          "vertices": 8,
+          "oldMeanOutsideBandPx": 0.086,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 6.0
+        },
+        {
+          "guide": [
+            [
+              975,
+              115
+            ],
+            [
+              1091,
+              126
+            ]
+          ],
+          "vertices": 11,
+          "oldMeanOutsideBandPx": 0.001,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1091,
+              126
+            ],
+            [
+              1190,
+              133
+            ]
+          ],
+          "vertices": 13,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1190,
+              133
+            ],
+            [
+              1244,
+              140
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1230,
+              159
+            ],
+            [
+              1244,
+              140
+            ]
+          ],
+          "vertices": 2,
+          "oldMeanOutsideBandPx": 1.022,
+          "newMeanOutsideBandPx": 0.932,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              1230,
+              159
+            ],
+            [
+              1247,
+              184
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.771,
+          "newMeanOutsideBandPx": 0.376,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1188,
+              346
+            ],
+            [
+              1202,
+              383
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.551,
+          "newMeanOutsideBandPx": 0.286,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              477,
+              343
+            ],
+            [
+              515,
+              358
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.006,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              433,
+              343
+            ],
+            [
+              477,
+              343
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.568,
+          "newMeanOutsideBandPx": 0.322,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              404,
+              328
+            ],
+            [
+              433,
+              343
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.309,
+          "newMeanOutsideBandPx": 0.146,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              379,
+              320
+            ],
+            [
+              404,
+              328
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              353,
+              333
+            ],
+            [
+              379,
+              320
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              340,
+              351
+            ],
+            [
+              353,
+              333
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              340,
+              351
+            ],
+            [
+              346,
+              367
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              322,
+              397
+            ],
+            [
+              346,
+              367
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              297,
+              430
+            ],
+            [
+              322,
+              397
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              297,
+              430
+            ],
+            [
+              299,
+              448
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              299,
+              448
+            ],
+            [
+              313,
+              463
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              309,
+              480
+            ],
+            [
+              313,
+              463
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              287,
+              487
+            ],
+            [
+              309,
+              480
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.038,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              285,
+              507
+            ],
+            [
+              287,
+              487
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.182,
+          "newMeanOutsideBandPx": 0.182,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              261,
+              510
+            ],
+            [
+              285,
+              507
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.239,
+          "newMeanOutsideBandPx": 0.239,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              248,
+              549
+            ],
+            [
+              261,
+              510
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.828,
+          "newMeanOutsideBandPx": 0.056,
+          "maxDisplacementPx": 5.0
+        },
+        {
+          "guide": [
+            [
+              233,
+              568
+            ],
+            [
+              248,
+              549
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              223,
+              595
+            ],
+            [
+              233,
+              568
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              223,
+              595
+            ],
+            [
+              226,
+              607
+            ]
+          ],
+          "vertices": 2,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 0.0
+        },
+        {
+          "guide": [
+            [
+              226,
+              607
+            ],
+            [
+              267,
+              600
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.071,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              267,
+              600
+            ],
+            [
+              299,
+              614
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1244,
+              140
+            ],
+            [
+              1281,
+              141
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1281,
+              141
+            ],
+            [
+              1330,
+              134
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1330,
+              134
+            ],
+            [
+              1382,
+              138
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.043,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 5.0
+        },
+        {
+          "guide": [
+            [
+              1382,
+              138
+            ],
+            [
+              1435,
+              148
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.745,
+          "newMeanOutsideBandPx": 0.182,
+          "maxDisplacementPx": 6.0
+        },
+        {
+          "guide": [
+            [
+              1435,
+              148
+            ],
+            [
+              1485,
+              161
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 2.162,
+          "newMeanOutsideBandPx": 0.517,
+          "maxDisplacementPx": 7.0
+        },
+        {
+          "guide": [
+            [
+              1485,
+              161
+            ],
+            [
+              1516,
+              162
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.639,
+          "newMeanOutsideBandPx": 0.477,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1516,
+              162
+            ],
+            [
+              1547,
+              147
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              1547,
+              147
+            ],
+            [
+              1571,
+              119
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              1571,
+              119
+            ],
+            [
+              1588,
+              96
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              1588,
+              96
+            ],
+            [
+              1597,
+              59
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.256,
+          "newMeanOutsideBandPx": 0.113,
+          "maxDisplacementPx": 4.0
+        }
+      ]
+    },
+    {
+      "year": 546,
+      "sourceFile": "04-21梁、东魏、西魏时期全图.jpg",
+      "sourceSha256": "2326390af8d1381e0ab1ec475d9113e7d3050b46d9e618c944e8a4cb702ba003",
+      "pageSize": [
+        1872,
+        1312
+      ],
+      "refinedSegments": 46,
+      "segments": [
+        {
+          "guide": [
+            [
+              477,
+              350
+            ],
+            [
+              490,
+              249
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.055,
+          "newMeanOutsideBandPx": 0.044,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              490,
+              249
+            ],
+            [
+              521,
+              201
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              521,
+              201
+            ],
+            [
+              563,
+              153
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              563,
+              153
+            ],
+            [
+              639,
+              113
+            ]
+          ],
+          "vertices": 7,
+          "oldMeanOutsideBandPx": 0.058,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              639,
+              113
+            ],
+            [
+              735,
+              100
+            ]
+          ],
+          "vertices": 7,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              735,
+              100
+            ],
+            [
+              797,
+              94
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              797,
+              94
+            ],
+            [
+              876,
+              105
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              876,
+              105
+            ],
+            [
+              977,
+              116
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.006,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 5.0
+        },
+        {
+          "guide": [
+            [
+              977,
+              116
+            ],
+            [
+              1090,
+              129
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1090,
+              129
+            ],
+            [
+              1191,
+              139
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1191,
+              139
+            ],
+            [
+              1246,
+              144
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 5.0
+        },
+        {
+          "guide": [
+            [
+              1232,
+              163
+            ],
+            [
+              1246,
+              144
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.243,
+          "newMeanOutsideBandPx": 0.091,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1232,
+              163
+            ],
+            [
+              1249,
+              185
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.975,
+          "newMeanOutsideBandPx": 0.359,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1229,
+              241
+            ],
+            [
+              1249,
+              185
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 1.374,
+          "newMeanOutsideBandPx": 0.392,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1209,
+              293
+            ],
+            [
+              1229,
+              241
+            ]
+          ],
+          "vertices": 8,
+          "oldMeanOutsideBandPx": 0.541,
+          "newMeanOutsideBandPx": 0.177,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1189,
+              349
+            ],
+            [
+              1209,
+              293
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              432,
+              346
+            ],
+            [
+              477,
+              350
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 1.88,
+          "newMeanOutsideBandPx": 0.778,
+          "maxDisplacementPx": 6.0
+        },
+        {
+          "guide": [
+            [
+              405,
+              331
+            ],
+            [
+              432,
+              346
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.889,
+          "newMeanOutsideBandPx": 0.523,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              379,
+              324
+            ],
+            [
+              405,
+              331
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              352,
+              337
+            ],
+            [
+              379,
+              324
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              339,
+              355
+            ],
+            [
+              352,
+              337
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              339,
+              355
+            ],
+            [
+              344,
+              368
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              319,
+              402
+            ],
+            [
+              344,
+              368
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              297,
+              432
+            ],
+            [
+              319,
+              402
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              297,
+              432
+            ],
+            [
+              298,
+              446
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              298,
+              446
+            ],
+            [
+              311,
+              462
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              306,
+              480
+            ],
+            [
+              311,
+              462
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              285,
+              487
+            ],
+            [
+              306,
+              480
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              284,
+              508
+            ],
+            [
+              285,
+              487
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              258,
+              512
+            ],
+            [
+              284,
+              508
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              247,
+              549
+            ],
+            [
+              258,
+              512
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.093,
+          "newMeanOutsideBandPx": 0.093,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              233,
+              568
+            ],
+            [
+              247,
+              549
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.038,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              222,
+              594
+            ],
+            [
+              233,
+              568
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              222,
+              594
+            ],
+            [
+              225,
+              609
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              225,
+              609
+            ],
+            [
+              267,
+              602
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.462,
+          "newMeanOutsideBandPx": 0.221,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              267,
+              602
+            ],
+            [
+              297,
+              614
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 1.094,
+          "newMeanOutsideBandPx": 0.527,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1246,
+              144
+            ],
+            [
+              1281,
+              146
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1281,
+              146
+            ],
+            [
+              1332,
+              137
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1332,
+              137
+            ],
+            [
+              1383,
+              141
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 5.0
+        },
+        {
+          "guide": [
+            [
+              1383,
+              141
+            ],
+            [
+              1435,
+              151
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.311,
+          "newMeanOutsideBandPx": 0.143,
+          "maxDisplacementPx": 6.0
+        },
+        {
+          "guide": [
+            [
+              1435,
+              151
+            ],
+            [
+              1487,
+              164
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 1.568,
+          "newMeanOutsideBandPx": 0.35,
+          "maxDisplacementPx": 8.0
+        },
+        {
+          "guide": [
+            [
+              1487,
+              164
+            ],
+            [
+              1518,
+              165
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.262,
+          "newMeanOutsideBandPx": 0.199,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1518,
+              165
+            ],
+            [
+              1550,
+              149
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1550,
+              149
+            ],
+            [
+              1572,
+              122
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1572,
+              122
+            ],
+            [
+              1588,
+              99
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1588,
+              99
+            ],
+            [
+              1596,
+              63
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.035,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 5.0
+        }
+      ]
+    },
+    {
+      "year": 572,
+      "sourceFile": "04-23陈、齐、周时期全图.jpg",
+      "sourceSha256": "19dcd16fae5045bf896cb8e37911c22257325c0ed41a6b9c347eb09c5c0f4224",
+      "pageSize": [
+        1872,
+        1312
+      ],
+      "refinedSegments": 47,
+      "segments": [
+        {
+          "guide": [
+            [
+              95,
+              143
+            ],
+            [
+              145,
+              171
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              145,
+              171
+            ],
+            [
+              186,
+              211
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              186,
+              211
+            ],
+            [
+              225,
+              258
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.015,
+          "newMeanOutsideBandPx": 0.004,
+          "maxDisplacementPx": 5.0
+        },
+        {
+          "guide": [
+            [
+              225,
+              258
+            ],
+            [
+              264,
+              303
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.013,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 5.0
+        },
+        {
+          "guide": [
+            [
+              264,
+              303
+            ],
+            [
+              301,
+              319
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              301,
+              319
+            ],
+            [
+              365,
+              339
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              365,
+              339
+            ],
+            [
+              394,
+              324
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              394,
+              324
+            ],
+            [
+              439,
+              339
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.906,
+          "newMeanOutsideBandPx": 0.008,
+          "maxDisplacementPx": 6.0
+        },
+        {
+          "guide": [
+            [
+              439,
+              339
+            ],
+            [
+              475,
+              349
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.624,
+          "newMeanOutsideBandPx": 0.194,
+          "maxDisplacementPx": 5.0
+        },
+        {
+          "guide": [
+            [
+              475,
+              349
+            ],
+            [
+              500,
+              330
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.341,
+          "newMeanOutsideBandPx": 0.279,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              500,
+              330
+            ],
+            [
+              533,
+              314
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              533,
+              314
+            ],
+            [
+              579,
+              282
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.036,
+          "newMeanOutsideBandPx": 0.036,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              579,
+              282
+            ],
+            [
+              593,
+              237
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.181,
+          "newMeanOutsideBandPx": 0.142,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              593,
+              237
+            ],
+            [
+              613,
+              220
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              613,
+              220
+            ],
+            [
+              650,
+              214
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              650,
+              214
+            ],
+            [
+              685,
+              200
+            ]
+          ],
+          "vertices": 2,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              685,
+              200
+            ],
+            [
+              707,
+              177
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              707,
+              177
+            ],
+            [
+              710,
+              132
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              710,
+              132
+            ],
+            [
+              721,
+              106
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              721,
+              106
+            ],
+            [
+              750,
+              80
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.009,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              750,
+              80
+            ],
+            [
+              783,
+              67
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              783,
+              67
+            ],
+            [
+              813,
+              68
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.066,
+          "newMeanOutsideBandPx": 0.008,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              813,
+              68
+            ],
+            [
+              848,
+              61
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.023,
+          "newMeanOutsideBandPx": 0.023,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              848,
+              61
+            ],
+            [
+              900,
+              69
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.071,
+          "newMeanOutsideBandPx": 0.011,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              900,
+              69
+            ],
+            [
+              955,
+              70
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.007,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              955,
+              70
+            ],
+            [
+              1002,
+              87
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1002,
+              87
+            ],
+            [
+              1054,
+              102
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.04,
+          "newMeanOutsideBandPx": 0.032,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1054,
+              102
+            ],
+            [
+              1104,
+              117
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1104,
+              117
+            ],
+            [
+              1142,
+              103
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1142,
+              103
+            ],
+            [
+              1172,
+              104
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1172,
+              104
+            ],
+            [
+              1206,
+              115
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.02,
+          "newMeanOutsideBandPx": 0.02,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1206,
+              115
+            ],
+            [
+              1255,
+              122
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.768,
+          "newMeanOutsideBandPx": 0.156,
+          "maxDisplacementPx": 5.0
+        },
+        {
+          "guide": [
+            [
+              1255,
+              122
+            ],
+            [
+              1290,
+              111
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.082,
+          "newMeanOutsideBandPx": 0.073,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1290,
+              111
+            ],
+            [
+              1327,
+              96
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1327,
+              96
+            ],
+            [
+              1379,
+              90
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.054,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 5.0
+        },
+        {
+          "guide": [
+            [
+              1379,
+              90
+            ],
+            [
+              1414,
+              77
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1414,
+              77
+            ],
+            [
+              1453,
+              61
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1453,
+              61
+            ],
+            [
+              1492,
+              55
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.334,
+          "newMeanOutsideBandPx": 0.016,
+          "maxDisplacementPx": 5.0
+        },
+        {
+          "guide": [
+            [
+              1492,
+              55
+            ],
+            [
+              1520,
+              53
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.029,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              310,
+              611
+            ],
+            [
+              328,
+              624
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.224,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              276,
+              601
+            ],
+            [
+              310,
+              611
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              247,
+              604
+            ],
+            [
+              276,
+              601
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.043,
+          "newMeanOutsideBandPx": 0.014,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              219,
+              616
+            ],
+            [
+              247,
+              604
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.31,
+          "newMeanOutsideBandPx": 0.213,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              116,
+              582
+            ],
+            [
+              134,
+              603
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.018,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              89,
+              562
+            ],
+            [
+              116,
+              582
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              75,
+              540
+            ],
+            [
+              89,
+              562
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              67,
+              510
+            ],
+            [
+              75,
+              540
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        }
+      ]
+    },
+    {
+      "year": 612,
+      "sourceFile": "05-3隋时期全图.jpg",
+      "sourceSha256": "c7bef9720aa5368c43341be0b2e7c75af805abb4981643f872019904f82ca78c",
+      "pageSize": [
+        1872,
+        1312
+      ],
+      "refinedSegments": 70,
+      "segments": [
+        {
+          "guide": [
+            [
+              575,
+              232
+            ],
+            [
+              601,
+              218
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              601,
+              218
+            ],
+            [
+              636,
+              212
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.003,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              636,
+              212
+            ],
+            [
+              668,
+              194
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              668,
+              194
+            ],
+            [
+              688,
+              172
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              688,
+              172
+            ],
+            [
+              689,
+              132
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              689,
+              132
+            ],
+            [
+              699,
+              106
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              699,
+              106
+            ],
+            [
+              725,
+              81
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              725,
+              81
+            ],
+            [
+              760,
+              61
+            ]
+          ],
+          "vertices": 2,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              760,
+              61
+            ],
+            [
+              805,
+              57
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              805,
+              57
+            ],
+            [
+              841,
+              54
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              841,
+              54
+            ],
+            [
+              887,
+              63
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              887,
+              63
+            ],
+            [
+              938,
+              67
+            ]
+          ],
+          "vertices": 8,
+          "oldMeanOutsideBandPx": 0.018,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              938,
+              67
+            ],
+            [
+              983,
+              81
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              983,
+              81
+            ],
+            [
+              1026,
+              97
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1026,
+              97
+            ],
+            [
+              1067,
+              111
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1067,
+              111
+            ],
+            [
+              1088,
+              112
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              1088,
+              112
+            ],
+            [
+              1124,
+              98
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1124,
+              98
+            ],
+            [
+              1154,
+              97
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1154,
+              97
+            ],
+            [
+              1205,
+              111
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1205,
+              111
+            ],
+            [
+              1249,
+              116
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1187,
+              341
+            ],
+            [
+              1192,
+              353
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.773,
+          "newMeanOutsideBandPx": 0.654,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              1192,
+              353
+            ],
+            [
+              1232,
+              359
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 2.325,
+          "newMeanOutsideBandPx": 0.968,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1232,
+              359
+            ],
+            [
+              1264,
+              364
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 3.736,
+          "newMeanOutsideBandPx": 2.096,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              650,
+              316
+            ],
+            [
+              674,
+              341
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 2.163,
+          "newMeanOutsideBandPx": 1.067,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              637,
+              296
+            ],
+            [
+              650,
+              316
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 2.775,
+          "newMeanOutsideBandPx": 1.863,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              611,
+              290
+            ],
+            [
+              637,
+              296
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 1.282,
+          "newMeanOutsideBandPx": 1.126,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              597,
+              278
+            ],
+            [
+              611,
+              290
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.82,
+          "newMeanOutsideBandPx": 0.197,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              575,
+              232
+            ],
+            [
+              597,
+              278
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.997,
+          "newMeanOutsideBandPx": 0.19,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              75,
+              133
+            ],
+            [
+              126,
+              169
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              126,
+              169
+            ],
+            [
+              170,
+              203
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              170,
+              203
+            ],
+            [
+              207,
+              248
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.51,
+          "newMeanOutsideBandPx": 0.426,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              207,
+              248
+            ],
+            [
+              243,
+              294
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              243,
+              294
+            ],
+            [
+              283,
+              312
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              283,
+              312
+            ],
+            [
+              345,
+              332
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              345,
+              332
+            ],
+            [
+              373,
+              317
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              373,
+              317
+            ],
+            [
+              418,
+              334
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.538,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 6.0
+        },
+        {
+          "guide": [
+            [
+              418,
+              334
+            ],
+            [
+              454,
+              344
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.193,
+          "newMeanOutsideBandPx": 0.076,
+          "maxDisplacementPx": 5.0
+        },
+        {
+          "guide": [
+            [
+              454,
+              344
+            ],
+            [
+              492,
+              321
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.092,
+          "newMeanOutsideBandPx": 0.074,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              492,
+              321
+            ],
+            [
+              525,
+              301
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              525,
+              301
+            ],
+            [
+              556,
+              274
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              556,
+              274
+            ],
+            [
+              575,
+              232
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              290,
+              609
+            ],
+            [
+              306,
+              621
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              254,
+              599
+            ],
+            [
+              290,
+              609
+            ]
+          ],
+          "vertices": 2,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              225,
+              602
+            ],
+            [
+              254,
+              599
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.105,
+          "newMeanOutsideBandPx": 0.081,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              196,
+              616
+            ],
+            [
+              225,
+              602
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.269,
+          "newMeanOutsideBandPx": 0.121,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              171,
+              623
+            ],
+            [
+              196,
+              616
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              119,
+              612
+            ],
+            [
+              142,
+              622
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              108,
+              591
+            ],
+            [
+              119,
+              612
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              91,
+              575
+            ],
+            [
+              108,
+              591
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              68,
+              562
+            ],
+            [
+              91,
+              575
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              56,
+              535
+            ],
+            [
+              68,
+              562
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              1249,
+              116
+            ],
+            [
+              1287,
+              104
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1287,
+              104
+            ],
+            [
+              1314,
+              89
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              1314,
+              89
+            ],
+            [
+              1361,
+              76
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 1.0
+        },
+        {
+          "guide": [
+            [
+              1361,
+              76
+            ],
+            [
+              1405,
+              61
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1405,
+              61
+            ],
+            [
+              1450,
+              46
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1450,
+              46
+            ],
+            [
+              1498,
+              42
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1498,
+              42
+            ],
+            [
+              1515,
+              57
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1528,
+              96
+            ],
+            [
+              1540,
+              66
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.468,
+          "newMeanOutsideBandPx": 0.295,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1522,
+              133
+            ],
+            [
+              1528,
+              96
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.366,
+          "newMeanOutsideBandPx": 0.223,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1503,
+              139
+            ],
+            [
+              1522,
+              133
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.215,
+          "newMeanOutsideBandPx": 0.046,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1482,
+              157
+            ],
+            [
+              1503,
+              139
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.0,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1468,
+              199
+            ],
+            [
+              1482,
+              157
+            ]
+          ],
+          "vertices": 6,
+          "oldMeanOutsideBandPx": 0.426,
+          "newMeanOutsideBandPx": 0.048,
+          "maxDisplacementPx": 4.0
+        },
+        {
+          "guide": [
+            [
+              1451,
+              245
+            ],
+            [
+              1468,
+              199
+            ]
+          ],
+          "vertices": 10,
+          "oldMeanOutsideBandPx": 0.328,
+          "newMeanOutsideBandPx": 0.102,
+          "maxDisplacementPx": 6.0
+        },
+        {
+          "guide": [
+            [
+              1448,
+              277
+            ],
+            [
+              1451,
+              245
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.125,
+          "newMeanOutsideBandPx": 0.07,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1438,
+              298
+            ],
+            [
+              1448,
+              277
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.152,
+          "newMeanOutsideBandPx": 0.0,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1417,
+              312
+            ],
+            [
+              1438,
+              298
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.31,
+          "newMeanOutsideBandPx": 0.08,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1411,
+              328
+            ],
+            [
+              1417,
+              312
+            ]
+          ],
+          "vertices": 3,
+          "oldMeanOutsideBandPx": 0.167,
+          "newMeanOutsideBandPx": 0.111,
+          "maxDisplacementPx": 2.0
+        },
+        {
+          "guide": [
+            [
+              1411,
+              328
+            ],
+            [
+              1417,
+              354
+            ]
+          ],
+          "vertices": 5,
+          "oldMeanOutsideBandPx": 0.798,
+          "newMeanOutsideBandPx": 0.085,
+          "maxDisplacementPx": 3.0
+        },
+        {
+          "guide": [
+            [
+              1417,
+              354
+            ],
+            [
+              1427,
+              368
+            ]
+          ],
+          "vertices": 4,
+          "oldMeanOutsideBandPx": 0.541,
+          "newMeanOutsideBandPx": 0.346,
+          "maxDisplacementPx": 2.0
+        }
+      ]
+    }
+  ]
+}

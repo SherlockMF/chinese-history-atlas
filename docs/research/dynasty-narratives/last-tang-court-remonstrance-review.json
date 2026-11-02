@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读18原段、正文、通鉴279史在德/延英段及旧五代47原奏答诏；复原考武艺权谋与帝题宰相面试细目，区分诉责和事实、建议与施行；音频未回听。",
+  "counts": {
+    "partial": 3,
+    "covered": 13,
+    "corrected": 2
+  },
+  "rows": [
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "no-counsel"
+      ],
+      "note": "从珂借旧臣治朝、谋议不足已用；全朝无人可用不是已核全员能力。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "no-counsel"
+      ],
+      "note": "石敬瑭强镇成为新主压力、责卢文纪缺谋划已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "no-counsel"
+      ],
+      "note": "上下级名分挡不住强镇威胁的具体局面已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "no-counsel"
+      ],
+      "note": "卢文纪解释不便进言已用；当场现编无才自述心理不虚定。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "no-counsel"
+      ],
+      "note": "五日起居、文武同列、侍卫满侧而不敢说已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "no-counsel"
+      ],
+      "note": "旧五代47卢奏明确肃宗上元以后于长安东内置延英，补具体沿革；不随口述混开元建与代宗旧制。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "no-counsel"
+      ],
+      "note": "密事随时召对、只留机要臣的办法已用；小会大事的现代格言舍弃。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "no-counsel"
+      ],
+      "note": "从珂愿退侍、便殿独奏已用；黄巢造成所有无人材的因果尚非该场谈话证据。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "no-counsel",
+        "test-everyone"
+      ],
+      "note": "人才培养受战乱影响置编辑解释；不以黄巢杀尽有才者解释全部五代官员。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "test-everyone"
+      ],
+      "note": "太常丞史在德上书批文武、请考能力已用；败兵每人弃部属不作全员断言。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "test-everyone"
+      ],
+      "note": "旧五代47原奏明确问策杜口、作文倩人及鲜艺能无士行，以史在德指责署名叙述，不当全员客观结论。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "test-everyone"
+      ],
+      "note": "亲读旧五代47逐人考试武艺短长、权谋深浅，补考试两项与主持官。上马下马仍不用作原句。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "test-everyone"
+      ],
+      "note": "原奏明确下位有将才拔大将、上位无将略移下军；本篇补升降安排，不称实际已考试成功。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "test-everyone"
+      ],
+      "note": "旧五代47明确内出策题、中书宰臣面试，补帝出题与文臣升降。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "test-everyone"
+      ],
+      "note": "战乱限制人才显现已评价；黄巢宰尽有能者的绝对因果不采用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "protect-speech"
+      ],
+      "note": "补卢等不悦、班行愤悱与中书文字犯讳驳奏，通鉴诸臣请罪，与帝保护言路并列。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "protect-speech"
+      ],
+      "note": "既有官位保护与言路冲突已用；一字不漏骂全朝的拟对白删去。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-court-remonstrance",
+      "sectionIds": [
+        "protect-speech"
+      ],
+      "note": "众请治罪与帝命马胤孙草诏护言路已用，补皇甫德参魏徵对照。"
+    }
+  ],
+  "independentReview": "completed"
+}

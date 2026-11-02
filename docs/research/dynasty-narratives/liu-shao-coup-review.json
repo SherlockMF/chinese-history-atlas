@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-02",
+  "method": "完整阅读南朝02 P055–P074，与宋书6/41/99、通鉴126/127及魏书97对读。分清濬骏、泄密链、拟废与拟杀、凌晨假诏与夜间动员、主使与直接行刺、四月即位与五月克京。未回听音频。主代理起草并自审；2026-10-02由独立子代理逐段重读原稿、正文和原典完成交叉复核。",
+  "counts": {
+    "partial": 12,
+    "corrected": 5,
+    "covered": 3
+  },
+  "rows": [
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "brothers-with-different-mothers"
+      ],
+      "note": "补储君受信与东宫兵权；453去世距424即位不足三十一整年，嫌父在位太久的确定心理未证。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "brothers-with-different-mothers"
+      ],
+      "note": "分清刘劭与刘濬异母，潘氏是濬母；袁后怨恨成疾按宋41归史书，不作抑郁症诊断或仅凭一句话气死的医学断言。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "brothers-with-different-mothers",
+        "the-jade-image"
+      ],
+      "note": "补刘濬迎合兄长及共同信严道育；竞争者如何逐次变成密友、嫌父久在位的对白未核。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "the-jade-image"
+      ],
+      "note": "玉人埋含章殿前、案发及巫蛊行动具体承接；历代凡涉巫蛊皇子必须斩的绝对判断与汉武帝类比没有作全面研究。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "the-jade-image"
+      ],
+      "note": "父亲未即废立以宋99对刘义恭谈话说明；节目慈父对两儿完整独白无对应原话，不冒充引用。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "the-jade-image"
+      ],
+      "note": "保留兄弟惶惧谢罪、未立即废立、严道育续藏东宫与京口；发现还能再来的内心对白不实录化。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "a-secret-with-too-many-listeners"
+      ],
+      "note": "453再查严道育，拟废劭、赐濬死，非两个都杀；补改立人选讨论。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "a-secret-with-too-many-listeners"
+      ],
+      "note": "江湛徐湛之姻亲与属意人选逐一落名，烛照墙壁防窃听和夜议有通鉴127对应。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "a-secret-with-too-many-listeners"
+      ],
+      "note": "补王僧绰催速断、文帝因改立刘宏迟疑，秘密最终由帝告潘氏而泄。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "a-secret-with-too-many-listeners",
+        "a-forged-order-at-the-gate"
+      ],
+      "note": "依宋99与通鉴127，帝告潘氏、潘告亲子刘濬、濬报劭，不能以告诉誰无区别抹掉传递链；废劭与杀濬区别保留。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "a-secret-with-too-many-listeners"
+      ],
+      "note": "补东宫兵与羽林相当、宗室防变目的及宴将；类似禁军可解释，未逐年计人数，不用京剧对白代原话。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "a-secret-with-too-many-listeners",
+        "a-forged-order-at-the-gate"
+      ],
+      "note": "补宴将、假诏、凌晨入门、近卫未起及卜天与抵抗，非全宫无人值守；主使与张超之行刺分开，汉族政权首例之绝对排名未作穷尽考证。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "the-new-emperors-proclamation"
+      ],
+      "note": "二月至五月约三个月自立，与宋书不列帝纪而列二凶传的史学处理分开，不强定第四帝序号。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "the-new-emperors-proclamation"
+      ],
+      "note": "说明弑逆名义、统治短促与二凶传，未逐字定位穷弑极逆开辟未闻一句的原典，不冒名引文。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "the-new-emperors-proclamation"
+      ],
+      "note": "补诏书嫁祸江徐、托疾不临大殓与成服号哭；毫不伤心、假哭属内心判断未证，发文与广布不等于还原所有使者口述。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "the-new-emperors-proclamation"
+      ],
+      "note": "询政、公卿、减赋役与持刃列灯防卫有据；原稿拜访未写成逐家亲访，也不以怂人替代分析。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "news-reaches-wuzhou"
+      ],
+      "note": "刘骏非刘濬；典签董元嗣由建康赴五洲告变，校姓名，未称他奉劭令散布谎言；补沈庆之所受杀骏手书与拒行。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "news-reaches-wuzhou",
+        "the-drums-at-xinting"
+      ],
+      "note": "起兵响应外扩新亭实战，并非兵到自动投降；让董元嗣回报假意拥立之对白未核，留缺。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "the-drums-at-xinting",
+        "the-well-and-the-city"
+      ],
+      "note": "明确刘濬与刘骏字、身份、阵营；四月新亭即位，五月攻克建康、劭濬死，不是杀兄后才称帝。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-shao-coup",
+      "sectionIds": [
+        "the-well-and-the-city"
+      ],
+      "note": "校建康歌谣并标明魏书敌国视角；后半刘骏统治才能政策由后篇承担，原段跨篇去重，不算本篇全覆盖。"
+    }
+  ]
+}

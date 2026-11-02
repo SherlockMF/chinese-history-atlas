@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读金02本项全部原段，重读现有正文并亲读所列原典相关段，修正文误读及逐P真实承接说明；未回听音频。",
+  "counts": {
+    "partial": 9,
+    "covered": 5,
+    "corrected": 11,
+    "not-needed": 3,
+    "uncertain": 2
+  },
+  "rows": [
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "two-emperors"
+      ],
+      "note": "承接海陵视中都为南进支点、欲继续统一的计划；正朔观念未另作通史论断。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "two-emperors"
+      ],
+      "note": "正文写海陵营建汴京宫室，以汴京为继续南下支点，承接南京汴梁这一地理线索。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "two-emperors"
+      ],
+      "note": "南征期间清洗宗室、后方恐惧与动荡写入开篇；残暴评价落实到具体行为。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "two-emperors",
+        "guazhou-mutiny"
+      ],
+      "note": "南征同时东京另立世宗、海陵军令造成恐惧均有正文；岳飞及宋将前后代际插论未展开。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "two-emperors"
+      ],
+      "note": "海陵南征被采用；未认定南宋军事实力不行或中都已空，拥立发生于东京辽阳而非中都。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "two-emperors"
+      ],
+      "note": "政变改写为高存福密报、南征军归辽阳、诸军杀高后劝进；不编接旨者与海陵的戏剧对白。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "two-emperors",
+        "guazhou-mutiny"
+      ],
+      "note": "东京新君及海陵得知同名大定年号写入；同时写告天告庙与世宗戒惧弑君，纠正可随时推选换君的概括。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "two-emperors",
+        "guazhou-mutiny"
+      ],
+      "note": "世宗告天告太祖庙、太祖之孙身份与世宗对弑君者的顾虑，纠正女真没有天命及继承观念的断言；公司比喻不保留。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "guazhou-mutiny"
+      ],
+      "note": "海陵结局具体写元宜换班起事、箭入御帐、中箭被杀；不是被圣旨直接镇压或仅遭拘捕。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "guazhou-mutiny"
+      ],
+      "note": "承接军中恐惧与不愿继续渡江、海陵死亡转入世宗；喝酒杀人的概括未再逐项铺陈。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "guazhou-mutiny"
+      ],
+      "note": "将不得人心落实到军令威胁、自保谋划、新君归向三个兵变条件，未以人物辱骂替代原因。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "guazhou-mutiny"
+      ],
+      "note": "原段官兵擒住海陵校正为袭帐射杀；能写诗是前篇海陵文学线索，本篇未重述，不能标作此节采用。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "partial",
+      "assessment": "not-needed",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [],
+      "note": "公司老板强迫员工做大做强的类比不进入历史正文；其军队反对继续南征的实际线索已由P17—18承接。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "partial",
+      "assessment": "not-needed",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [],
+      "note": "弑熙宗、迁都迁陵属于前篇海陵故事背景；本篇仅有南进支点，不虚标迁祖陵或挖坟已写入。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "recovery",
+        "language-and-heir"
+      ],
+      "note": "世宗与海陵同为太祖之孙及世宗承继、1189年去世已叙述；未据庙号证明治国优劣，海陵十二年和最长在位排名未展开。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "language-and-heir"
+      ],
+      "note": "女真旧俗是本段核心，真实落点为旧俗节：保本国语、骑射、禁汉姓南衣、女真字经史；不再误映恢复生产节。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [],
+      "note": "浴池坦诚议兵、邻居饭食的具体逸事未找到本次亲读原典依据，暂不写；漫画家笑谈不采纳，不能用笑谈掩盖故事待核。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "language-and-heir"
+      ],
+      "note": "世宗追忆创业俭朴并限制宫中供食已有金史卷8原文和正文；隔墙喊皇帝吃饭的逸事未核，民族天生质朴与凝聚力因果不作事实。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "recovery",
+        "language-and-heir"
+      ],
+      "note": "承接旧俗与较长恢复期；明确世宗初年仍有契丹叛乱、对宋战事，1164年和议后才有更多恢复空间，不写二十九年始终太平。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "recovery"
+      ],
+      "note": "以归还南征军、流民归业耕种、节用选官说明战后休养生息，承接继任君主稳重守成的具体内容。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [],
+      "note": "普鲁士大选侯、腓特烈类比不适合此篇；原段的艺术化人格推测未写成世宗史事。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "language-and-heir"
+      ],
+      "note": "按金史卷8将禁令收紧为女真人改汉姓、学南方衣装，非一概禁止文雅汉名或必须起俗名。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [],
+      "note": "完颜九斤、磨念狗狗的出生重量与姓名解释未在本篇核实，也未进入正文；不以禁汉姓一段虚充这些人名故事。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "language-and-heir"
+      ],
+      "note": "双语教育、女真字经史与骑射写入；章宗文化取向没有写成导致金亡的单因结论。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "language-and-heir"
+      ],
+      "note": "本段太子先卒由1185年允恭死亡具体承接，1186年立嫡孙承继；不扩大为世宗诸子一概不寿，不采用普鲁士文武交替类比。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "language-and-heir"
+      ],
+      "note": "对照金史卷8分清1188寿宴世宗主唱、太孙与克宁和声，及1185上京世宗追忆创业落泪，纠正原段太孙唱创业歌令祖父落泪的混并。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "language-and-heir"
+      ],
+      "note": "保留歌宴托付太孙守成的内容；“此孙类我”乃主持人口述自拟，不写为原典语，汉化加速灭亡仅为待论观点。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "language-and-heir"
+      ],
+      "note": "按金史卷9写金莲川巡幸中出生于冰井，纠正土生土长北京人的说法；金亡转折点不作无证断言。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "language-and-heir"
+      ],
+      "note": "宫廷成长不等于北京出生已有正文；世宗争位与海陵兵变的差异由前段说明，此段不新增假定章宗从未打仗、衣食必导致性格的论断。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "hailing-shizong-succession",
+      "sectionIds": [
+        "language-and-heir"
+      ],
+      "note": "世宗去世后太孙完颜璟承继有明确正文；世宗、章宗校正为死后庙号，原段把“宗”说成谥号未照录。"
+    }
+  ],
+  "independentReview": "complete",
+  "audioReplayed": false
+}

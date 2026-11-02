@@ -19,7 +19,7 @@ test("series entry routes and people remain isolated", async ({ page }) => {
   await expect(page.getByRole("heading", { name: "石敬瑭", exact: true })).toHaveCount(0);
 });
 
-test("new series has real paths, timeline, people and explicit placeholder map", async ({ page }) => {
+test("northern series has paths, timeline, people and dated atlas maps", async ({ page }) => {
   await page.goto("/series/northern-qi-zhou-sui");
   await expect(page.getByRole("link", { name: "从杨坚开始" })).toHaveAttribute("href", "/series/northern-qi-zhou-sui/people?year=550&person=yang-jian");
   await expect(page.getByRole("link", { name: "从石敬瑭开始" })).toHaveCount(0);
@@ -42,9 +42,9 @@ test("new series has real paths, timeline, people and explicit placeholder map",
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth + 1)).toBe(true);
   await expect(page.getByRole("link", { name: /返回时间线/ })).toHaveAttribute("href", "/series/northern-qi-zhou-sui/timeline?year=608#timeline");
   await page.goto("/series/northern-qi-zhou-sui/map?year=608");
-  await expect(page.getByRole("img", { name: "工程占位 geometry，不代表历史疆域" })).toBeVisible();
-  await expect(page.getByRole("group", { name: "地图阶段" }).getByRole("button")).toHaveCount(7);
-  await expect(page.getByText(/形状不代表真实边界/)).toBeVisible();
+  await expect(page.getByTestId("snapshot-atlas")).toBeVisible();
+  await expect(page.getByRole("group", { name: "地图阶段" }).getByRole("button")).toHaveCount(3);
+  await expect(page.getByText(/不代表 608 年格局/)).toBeVisible();
   await page.goto("/series/northern-qi-zhou-sui/timeline?year=608");
   await expect(page.getByRole("link", { name: /李静训去世与安葬/ }).first()).toBeVisible();
 });

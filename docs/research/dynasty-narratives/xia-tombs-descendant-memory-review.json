@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "corrected": 2,
+    "partial": 4,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-tombs-descendant-memory",
+      "sectionIds": [
+        "tombs"
+      ],
+      "note": "六七十年模糊回忆落到1972系统考古，不称有史首知王陵。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tombs-descendant-memory",
+      "sectionIds": [
+        "tombs"
+      ],
+      "note": "宁夏王陵实际位置与旧国范围说明，宁夏词源不定。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tombs-descendant-memory",
+      "sectionIds": [
+        "tombs",
+        "script"
+      ],
+      "note": "王陵形态原构件与土芯；无可逃绝对战略推断不作确定史。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tombs-descendant-memory",
+      "sectionIds": [
+        "script"
+      ],
+      "note": "王陵文字设计元素由遗存支撑；游客可能后裔是情感设想非已核世系。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-tombs-descendant-memory",
+      "sectionIds": [
+        "people"
+      ],
+      "note": "王族全绝与惟忠留养矛盾；民众迁存有史/具体余氏研究。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-tombs-descendant-memory",
+      "sectionIds": [
+        "script",
+        "people",
+        "memory"
+      ],
+      "note": "云台非石鼓已校，安徽河南调查有综述；四川李氏夏皇裔康熙绝嗣未给支系与原证，未回听，候选保留不全覆盖。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tombs-descendant-memory",
+      "sectionIds": [
+        "memory"
+      ],
+      "note": "土司/家族记忆与国家统治区分，延国祚最长为主持人情感反事实改编辑解读。"
+    }
+  ]
+}

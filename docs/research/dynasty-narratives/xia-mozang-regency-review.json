@@ -1,0 +1,532 @@
+{
+  "date": "2026-10-11",
+  "method": "逐条独立重读本篇所列原稿、全部正文与对应史源实际段落，核对每个P的具体承接及舍弃理由；保留baselineVerdict。未回听音频，转写候选不认定为音频结论。",
+  "counts": {
+    "partial": 23,
+    "corrected": 11,
+    "covered": 12,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "infant"
+      ],
+      "note": "刺父及处太子作接续，策动见长编系非各源同认。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "infant"
+      ],
+      "note": "没藏母与讹庞舅关系实补，一石二鸟动机不作无异议定案。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "infant"
+      ],
+      "note": "两岔河生地和谅祚校明，宁令与两岔不制造另一身份。音频未听。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "infant"
+      ],
+      "note": "未预立太子及诸将议立实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "infant"
+      ],
+      "note": "不足周岁与大将不愿立幼实补，不强算恰十一月。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "infant"
+      ],
+      "note": "委哥宁令据清18元昊从弟，非亲弟；音频候选未回听。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "infant"
+      ],
+      "note": "非先王子、无功及父死子继议论实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "infant"
+      ],
+      "note": "母族掌政与三将分国事补，握刀胁立现场无证。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "recognition"
+      ],
+      "note": "宋辽承认需求分写并补宋册日期。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "recognition"
+      ],
+      "note": "辽先慰奠再不行册及留使，称帝平等无法册非因。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "recognition"
+      ],
+      "note": "外交名号与紧张旧怨实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "recognition"
+      ],
+      "note": "献元昊遗物与旧怨补，公主指责/摸鼻子君对白未核。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "liao-war"
+      ],
+      "note": "兴宗亲征1049与1050将领再攻分期，兴庆被围非已破。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "liao-war"
+      ],
+      "note": "各路胜败与深入补，不把所有深入当然诱敌成功。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "liao-war"
+      ],
+      "note": "俘元昊妻与储粮城掠补，所俘身份按辽本纪限度。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "liao-war"
+      ],
+      "note": "没𠼪不确定等于夺太子妇，非在已攻破兴庆被俘；分与生母没藏。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "old-commanders"
+      ],
+      "note": "旧将权势与渐亡补，貌美推断无据。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "old-commanders"
+      ],
+      "note": "非一次辽破都后尽废旧将，用洼普与三将长期变化校。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "old-commanders"
+      ],
+      "note": "辽未吞并事实补，宋必干预只是战略推论不作既定动机。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "old-commanders"
+      ],
+      "note": "三方制约解释限度明示，不认每次行动预定平衡。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "recognition",
+        "old-commanders"
+      ],
+      "note": "反复表请臣贡及辽要求实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "old-commanders"
+      ],
+      "note": "求和数年与三将渐亡分开，非一次撤军后全杀旧臣。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "old-commanders"
+      ],
+      "note": "讹庞权力与宋冲突已有1048线索，膨胀内心及宋躲辽无据。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "river-fields",
+        "old-commanders"
+      ],
+      "note": "边堡侵扰与侵耕实补，宋懒理非事实。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "river-fields"
+      ],
+      "note": "1055系即位七年多约九岁，非三年四岁，屈野田利补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "river-fields"
+      ],
+      "note": "迫则格斗缓则归耕实际补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "river-fields"
+      ],
+      "note": "收粮侵界策略以编辑解读补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "river-fields"
+      ],
+      "note": "宋文告、巡检、禁市等实应对非仅谴责。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "night-return"
+      ],
+      "note": "太后参与政务及佛寺补，享受生活不是唯一活动。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "night-return"
+      ],
+      "note": "游猎灯火及私通版本实补，黑云本名未核，武后类比不证。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "night-return"
+      ],
+      "note": "古籍私情记载明来源，不把面首职业当证。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "night-return"
+      ],
+      "note": "遇乞掌出纳与太后关系版本补，首婚过程前篇已含且源异。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "night-return"
+      ],
+      "note": "李守贵旧职与私情版补，名字戏谑非史实。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "night-return"
+      ],
+      "note": "名字据古籍宝保吃多已，元昊侍从补，音频宝宝吃多未听。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "night-return"
+      ],
+      "note": "先守贵后吃多已与妒恨为清版，肥胖等推断不纳。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "night-return"
+      ],
+      "note": "权势差异与亲近夜猎补，抛弃而非分手对白非证。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "night-return"
+      ],
+      "note": "贺兰山游猎夜归补，看青年肌肉想法无证。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "night-return"
+      ],
+      "note": "情人肥肉食物双关非史实不落正文。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "night-return"
+      ],
+      "note": "清版妒恨明示，真爱及应先灭口主观推断不采。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "night-return"
+      ],
+      "note": "猎夜归遭骑杀版本补，另实录指讹庞等为凶手亦补；浪漫场景不编。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "night-return"
+      ],
+      "note": "讹庞族灭守贵家及告哀实补，保留凶手异报。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "daughter-and-judgment"
+      ],
+      "note": "纳女与控制幼主权力结构实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "daughter-and-judgment"
+      ],
+      "note": "姑舅婚亲属关系补，不采二分之一血统。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "daughter-and-judgment"
+      ],
+      "note": "性别叙事反思明确编辑解读，不能证第一次婚姻必非自主。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "daughter-and-judgment"
+      ],
+      "note": "暴力婚姻处境反思补，委身心理和爱元昊无足证。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "daughter-and-judgment"
+      ],
+      "note": "爱情心理限度明示，不把落差推测写成心声。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "xia-mozang-regency",
+      "sectionIds": [
+        "daughter-and-judgment"
+      ],
+      "note": "性别双标及不以私情等同祸国实补为评价方式反思。"
+    }
+  ],
+  "independentReview": "complete"
+}

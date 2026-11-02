@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-02",
+  "method": "L05：辽组子代理完整阅读列出原段、检索并阅读所列原典后逐段自审；未回听音频，root已完成原段全文与史源独立交叉复核，页面待批量验证，原基线不变。",
+  "counts": {
+    "partial": 8,
+    "corrected": 7,
+    "not-needed": 1,
+    "covered": 1
+  },
+  "rows": [
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "titles-and-names"
+      ],
+      "note": "承接契丹/大辽国号及变更，不将变更归因于未证民族心理和政治心理。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "titles-and-names",
+        "a-city-with-walls"
+      ],
+      "note": "镔铁说标为金史阿骨打宣言而非独定词源；皇都918、上京938，不写916建上京。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "a-city-with-walls"
+      ],
+      "note": "承接林东遗址与南北城，去除游牧者一概不建城及不明比较口径的故宫大小。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "a-city-with-walls",
+        "two-sets-of-offices"
+      ],
+      "note": "保留皇城汉城区分，纠正由城区南北推出南北院官制。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "a-city-with-walls"
+      ],
+      "note": "考古已见宫城墙城门轴线及大型建筑，北城全帐篷不成立。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [],
+      "note": "现代露营传承笑谈不当历史关联补入。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "two-sets-of-offices",
+        "writing-a-language"
+      ],
+      "note": "本纪921定法律班爵、920制大字；大王南北院与南北面官区分。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "writing-a-language",
+        "titles-and-names"
+      ],
+      "note": "迭剌学回鹘文字与小字记载有据，去除把所有语言说成拼音语言的错误简化；天皇帝地皇后称号承接。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "titles-and-names"
+      ],
+      "note": "倍926人皇王、916太子，三才称号形成有先后；不把称帝简化为受汉臣影响。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "people-and-borders"
+      ],
+      "note": "保留人口与技术对军事实力的作用，标为机制分析而非单因证明。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "people-and-borders"
+      ],
+      "note": "铁冶、盐利、农业和市场如何支撑国家，移除现代产业园比喻。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "people-and-borders"
+      ],
+      "note": "文化采纳与治理并讲，不采其他族群均先入中原才汉化的概括。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "people-and-borders"
+      ],
+      "note": "避乱与被俘迁两条人群路径，头下军州有人身依附，不写只自愿移民。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "people-and-borders"
+      ],
+      "note": "以地理志总括并说明时间/控制程度，原稿现代界址并非逐点充分核验，不升格覆盖。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "water-after-the-frontier"
+      ],
+      "note": "作者曹伯启非曹伯君，全文按诗集校字，宋辽分界作为诗的历史回望。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "water-after-the-frontier"
+      ],
+      "note": "承接元代旧边界消失诗意，不将关禁诗句等同全境制度；消费回忆无关。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P201",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-capital-scripts",
+      "sectionIds": [
+        "titles-and-names"
+      ],
+      "note": "承接金国命名的政治比喻，辽金战争和灭亡经过待后队列，不能视整P全用。"
+    }
+  ]
+}

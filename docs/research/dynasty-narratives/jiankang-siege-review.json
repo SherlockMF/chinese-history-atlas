@@ -1,0 +1,430 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：S22：已完整阅读本篇所列原段，对照正文及列明原典逐段自审；子代理起草，主代理已独立阅读全文原段、原典与逐段台账并完成交叉复核；页面验证待补。未回听音频；基线保持不变。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "covered": 12,
+    "not-needed": 1,
+    "partial": 12,
+    "corrected": 8,
+    "not-covered": 1,
+    "uncertain": 2
+  },
+  "rows": [
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "swift-southward"
+      ],
+      "note": "548 寿阳起兵有具体年月。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [],
+      "note": "口号和父子插话转场，无独立事实。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "swift-southward"
+      ],
+      "note": "补诛朱异等四人名义；武帝送钱给朱异属原段主语混淆，不照用。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "swift-southward"
+      ],
+      "note": "侯景送金朱异不通其启，清君侧名义均承接。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "swift-southward"
+      ],
+      "note": "起兵名义与消息入朝承接；两函均失效的具体行政断言未另核。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "swift-southward",
+        "caishi-gap"
+      ],
+      "note": "折棰轻敌保留；千人与八千是渡江记数异文，不混为最初起兵数。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "swift-southward"
+      ],
+      "note": "萧纶统督诸军讨侯景。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "swift-southward"
+      ],
+      "note": "兵少避合围、径奔建康为具体策略。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "swift-southward"
+      ],
+      "note": "留军寿阳、主力南向，而非完全放空据点。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "swift-southward"
+      ],
+      "note": "出猎与趋合肥的佯动有来源；预先断言东魏两面夹攻的心理不作实录。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "caishi-gap"
+      ],
+      "note": "羊侃请两千人据采石。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "caishi-gap"
+      ],
+      "note": "守采石并使萧纶袭寿阳；非萧统、萧童领军。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "caishi-gap"
+      ],
+      "note": "朱异以无渡江意阻议；机会丧失分析不写成保证能消灭之乱。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "caishi-gap",
+        "open-bridge"
+      ],
+      "note": "萧正德运荻为名的大船用于济军，不误写已装粮草。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "caishi-gap"
+      ],
+      "note": "王质、陈昕校名并明示换防原因；羊侃、陈昕角色区分。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "caishi-gap"
+      ],
+      "note": "武帝命陈昕代王质，非李欣。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "caishi-gap"
+      ],
+      "note": "王质先走陈昕未到的空隙明确写出。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "caishi-gap"
+      ],
+      "note": "侯景不信探报与求证过程。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "caishi-gap"
+      ],
+      "note": "具体是江东树枝，不泛写土特产；失渡口不等于台城再无防线。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "open-bridge"
+      ],
+      "note": "转接武帝交军萧纲，不据年老直接断言完全不知所措。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [],
+      "note": "达摩答语、吃素不补蛋白、损失四亿共同致消极的因果链无同时代依据；营养、心理与传奇不能拼成医学史实。围城中的疾病和供给另有明载，不追加这条推测，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "open-bridge"
+      ],
+      "note": "记军队交太子，不虚构此时向佛祷告的对白。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "open-bridge",
+        "order-in-panic"
+      ],
+      "note": "萧纲、萧大器指挥层次与赦囚补兵。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "order-in-panic"
+      ],
+      "note": "百姓入城和首都久安成立；梁并非全国四十多年无战。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "order-in-panic"
+      ],
+      "note": "写官军惊乱与羊侃经验，不说所有官员士兵从未打过仗。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "open-bridge",
+        "order-in-panic"
+      ],
+      "note": "解释台城为宫城，萧正德通过浮桥和宣阳门接应。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "order-in-panic",
+        "fire-and-machines"
+      ],
+      "note": "羊侃组织台城守御。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "son-at-wall"
+      ],
+      "note": "儿子为人质、拒开城写出；夸张对话未冒作史书原话。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "son-at-wall"
+      ],
+      "note": "数日后再次押来，非必定第二天；父亲答话依原典。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "son-at-wall"
+      ],
+      "note": "引弓射子与侯景不杀有据；射中和包扎细节在所读原典未见，不纳且未回听。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "snow-and-rain"
+      ],
+      "note": "诸地入援与萧绎遣兵承接，不误称萧绎本人已到台城外。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "snow-and-rain"
+      ],
+      "note": "萧纶有先胜后败全过程；不能一概称所有援军未拼命作战。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "open-bridge",
+        "snow-and-rain"
+      ],
+      "note": "写具体内应与称帝，不编未具名宗室效仿心理。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "snow-and-rain"
+      ],
+      "note": "正平称帝、侯景与女婚及助资。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "fire-and-machines",
+        "snow-and-rain"
+      ],
+      "note": "攻城器械和东宫焚烧具体化，不把反复防御简化拆屋。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jiankang-siege",
+      "sectionIds": [
+        "fire-and-machines",
+        "snow-and-rain"
+      ],
+      "note": "火攻、土山、水攻次序已核；泛称每次水淹均排出在所读原典无明确根据，未纳且未回听。"
+    }
+  ],
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "南朝05_clean_v1.md",
+        "paragraph": "P064",
+        "resolution": "research-closed"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

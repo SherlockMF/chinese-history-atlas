@@ -1,0 +1,248 @@
+{
+  "date": "2026-10-07",
+  "method": "2026-10-11 主代理逐读辽05 P020—041共22条、正文和原台账，亲读辽27含亲属校勘、金2授官与索人全文相关段、契丹国志10、松漠纪闻与辽史拾遗卷11引书；恢复被误删有源情节，纠正阿疏索还方向与粘罕胡舍辈分；引用史料与解释分层，未回听音频。",
+  "counts": {
+    "covered": 7,
+    "not-needed": 3,
+    "corrected": 3,
+    "partial": 9
+  },
+  "rows": [
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "the-falcon-road"
+      ],
+      "note": "海东青鹰路、女真深入五国取鹰与征役在鹰路节承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [],
+      "note": "放鹰走狗与鹰犬词源闲聊，无实质命题。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "the-falcon-road"
+      ],
+      "note": "海东青善捕天鹅据辽史拾遗引书承接，非辽27未载即无史源。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "the-falcon-road"
+      ],
+      "note": "恢复凿冰取珠蚌与天鹅嗉得珠的古籍叙事，纠正旧稿将后者称现代“通史常识”；不把食蚌必得珠作为生物学事实。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "the-falcon-road"
+      ],
+      "note": "年年求鹰及使者征索已写；原段将女真人存在仅归于鹰珠、视贡役为统一税制，不沿用。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "the-falcon-road"
+      ],
+      "note": "松漠纪闻具体承接中下户未嫁女子，到求鹰使侵及有夫与高门的变化；明确是宋人记闻，不推为全期通例。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "touyu-feast"
+      ],
+      "note": "春州混同江钩鱼和头鱼宴承接；查干湖现俗不证明与辽代春季捺钵完全等同。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "touyu-feast"
+      ],
+      "note": "春州设宴和皇帝临钩鱼已写；现代兴安盟地望与抢头鱼新闻未作为史实承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [],
+      "note": "户外运动玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [],
+      "note": "宴饮开场闲聊，无实质命题。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "touyu-feast"
+      ],
+      "note": "“命诸酋次第起舞；独阿骨打辞以不能。谕之再三，终不从”逐字承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "touyu-feast"
+      ],
+      "note": "天祚私下欲诛承接，史载“他日”并非宴会当场旁人煽杀；现场玩笑不保留。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "touyu-feast"
+      ],
+      "note": "萧奉先劝阻、怕伤向化和何能为已写；指着场边猎人转移注意不获所核史载支持。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "wuyaimu-archery"
+      ],
+      "note": "恢复辽27吴乞买等从猎受赏，并纠正粘罕、胡舍为侄而非弟；“当场救场”移入有边界的解释。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "wuyaimu-archery"
+      ],
+      "note": "弓马本领受赏和与战争训练的关系承接；不把此举直接确认是宴会当场化解杀机。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "the-forgotten-appointment"
+      ],
+      "note": "金2确认1113十月乌雅束卒与阿骨打承袭，翌年六月辽授袭节度命，时间、兄弟关系与职位均已明确。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "the-forgotten-appointment"
+      ],
+      "note": "授官迟延与天祚游猎怠政有金2原文，已恢复；两兄弟密室猜测记恨的对话无所核直接史载，不当史实。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "the-forgotten-appointment"
+      ],
+      "note": "明确获授后仍起兵，任命迟延非单一导火索；原段等死心理与皇帝只忘了的独断因果未照抄。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "the-forgotten-appointment"
+      ],
+      "note": "授官和辽方记叛关系承接；纠正各女真部一概圣宗时归附且等同一支中原部队的简化。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "ningjiang-outbreak"
+      ],
+      "note": "以略不介意及只派援兵承接轻敌；不虚构皇帝派出所类比的口头原话。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "ningjiang-outbreak"
+      ],
+      "note": "头鱼宴后吞并部族、赵三等控诉、萧奉先按常事报及称疾不来已实际补入，不再只说“与推进相合”。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "haidongqing-touyu",
+      "sectionIds": [
+        "ningjiang-outbreak"
+      ],
+      "note": "宁江州进攻和天祚在庆州射鹿收到战报承接；现代精确地望未另考而不冒称已校定。"
+    }
+  ]
+}

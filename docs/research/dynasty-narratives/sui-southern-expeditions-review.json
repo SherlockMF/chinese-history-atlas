@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-30",
+  "method": "完整读隋中P186–188、P192四段，对读隋书3、53、64、81、82及梁书54，并核考古研究的林邑大致方位、地望研究对流求的争议。补象阵两种记载、文帝末派军至炀帝初战事、刘方与士卒病亡、梵志复地，以及流求寻访、海战、俘虏与统治边界。未将推测梵名与现代国界写定，未回听音频。",
+  "counts": {
+    "corrected": 3,
+    "partial": 1
+  },
+  "rows": [
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P186",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-southern-expeditions",
+      "sectionIds": [
+        "linyi-before-sui",
+        "river-and-elephants"
+      ],
+      "note": "校正林邑的大致现代位置为越南中部，追溯日南象林；区别地方起事杀县令与县令自立，明确仁寿末文帝派刘方、605年正月抵海口而非炀帝即位后才决定，展开沿途江栅与象阵。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P187",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-southern-expeditions",
+      "sectionIds": [
+        "linyi-before-sui",
+        "river-and-elephants",
+        "landing-and-captives"
+      ],
+      "note": "以分路行军、远征航程与战果/统治区分承接打得很远的实质；一生执念与知识面评价没有当作已证心理，琼花/下江南的插话未收入。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P188",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-southern-expeditions",
+      "sectionIds": [
+        "river-and-elephants",
+        "victory-and-disease"
+      ],
+      "note": "校正刘芳为刘方，王名采用史籍梵志而未猜定原段梵文转写；都城攻克、纪功回师、梵志复地遣使均展开，四五成死者按刘方传疾病记载处理，不误写为复国反击杀伤；无依据概括杨广全部远征模式。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-southern-expeditions",
+      "sectionIds": [
+        "searching-for-liuqiu",
+        "landing-and-captives"
+      ],
+      "note": "承接陈棱等远征及杀欢斯渴剌兜，补寻访、交易误认、城栅战与掳人；保留古流求地望争议和本纪/传记人数差异，校正一战即使现代安南占婆台湾海南均成为隋领土的过度概括。"
+    }
+  ]
+}

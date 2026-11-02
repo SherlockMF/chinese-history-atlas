@@ -1,0 +1,279 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：S12：南朝03 P029–P051，核南齐书3/34、通鉴136及已有北魏户籍篇。 完整阅读所列原段并对照原典后由主代理自审；未回听音频，2026-10-02独立子代理已逐段重读原稿、正文及原典完成交叉复核。基线不变。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "covered": 3,
+    "partial": 14,
+    "corrected": 5,
+    "not-covered": 1
+  },
+  "rows": [
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "people-behind-registers"
+      ],
+      "note": "承接豪强荫附与国家登记问题，依据通鉴136。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "people-behind-registers"
+      ],
+      "note": "说明依附人口仍向豪强负担；未把北魏豪强全部等同乌堡。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "people-behind-registers"
+      ],
+      "note": "明确免官役与受私家征取并存，解释负担并未消失。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "people-behind-registers"
+      ],
+      "note": "承接国家失去人口与在籍者压力，不虚构每户税额计算。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "people-behind-registers"
+      ],
+      "note": "解释黄籍记录身份、年龄、应役等，不简化成只登记某类普通人。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "false-exemptions"
+      ],
+      "note": "承接冒军功避役；不把所有贿赂路径均写成已核实名案。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "false-exemptions"
+      ],
+      "note": "三分殆无一为虞玩之奏议估计，非全国统计证明三分之二造假。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "false-exemptions"
+      ],
+      "note": "承接伪入仕流及以僧道人身份逃避编户。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "false-exemptions"
+      ],
+      "note": "承接流移子女不编籍；不称所有富户获得完整士族特权。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "false-exemptions"
+      ],
+      "note": "七万一千余限定扬州等九郡、467至476四次黄籍，不作全国总计。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "checking-and-rejecting"
+      ],
+      "note": "区分检籍审查与却籍退回，展开每日查巧额度及贿赂弊端。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "checking-and-rejecting"
+      ],
+      "note": "保留白籍侨户制度线索并否定由白贼名称直接推出参战者户籍；未展开完整晋代沿革。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "tang-uprising"
+      ],
+      "note": "永明三年校为485；区分485起兵与486称帝、败亡。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "tang-uprising"
+      ],
+      "note": "富阳到钱唐、三吴却籍者聚三万；山阴一路败于浦阳江，未写已占会稽。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "tang-uprising"
+      ],
+      "note": "承接称帝、立太子、置百官及镇压；未核实国号、宫室具体设置的全部细节。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "the-retreat-of-old-cases"
+      ],
+      "note": "独立交叉复核：正文说明北魏均田、三长改革同样面对讨论与阻力，不采纳仅迁都有阻力的绝对说法；南北统治稳定程度的全面比较仍未展开。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "the-retreat-of-old-cases"
+      ],
+      "note": "独立交叉复核：490年恢复宋昇明以前旧籍、许谪役者还本，且今后犯者仍严治，并非废除检籍；政权更替导致政策失败的单一因果未确证。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "the-retreat-of-old-cases"
+      ],
+      "note": "承接南北国家掌握民户的问题，不以民族不懂制度解释。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "the-retreat-of-old-cases"
+      ],
+      "note": "比较具体制度与执行条件，未承接所有鲜卑都享特权的泛化。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "the-retreat-of-old-cases"
+      ],
+      "note": "独立交叉复核：该段实际议论南北汉人士族实力，不是490年检籍调整。正文只说明具体执行条件不同，尚未全面比较南北士族力量，原corrected判定下调为partial。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "judging-a-reform"
+      ],
+      "note": "讨论军事胜败不能替代政策评价，未作所有统治者优劣排名。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [
+        "judging-a-reform"
+      ],
+      "note": "承接评价制度效果的思路，具体落到税役、执行与纠错。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "qi-household-registers",
+      "sectionIds": [],
+      "note": "中国历史第一女政治家为主播个人排序，无独立判准。北魏具体政事已有故事，不把其存在转为排名的证据，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    }
+  ],
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "南朝03_clean_v1.md",
+        "paragraph": "P051",
+        "resolution": "research-closed"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

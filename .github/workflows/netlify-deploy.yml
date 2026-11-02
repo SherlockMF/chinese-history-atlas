@@ -2,9 +2,6 @@ name: Deploy Netlify
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - feat/continuous-atlas
 
 permissions:
   contents: read

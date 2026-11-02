@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读北齐P058—P075共18段，逐项核周书2、30，北齐书21、27、34及通鉴158—160，再按成稿逐段人工回查；未回听音频。场景、行动主体及败退顺序分别核验，未核因果或对话留明缺口，后续两战仅作概述。",
+  "counts": {
+    "corrected": 12,
+    "partial": 5,
+    "covered": 1
+  },
+  "rows": [
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "luoyang-rescue",
+        "two-more-campaigns"
+      ],
+      "note": "实写沙苑后独孤信入洛、538年侯景等围金墉；以同年春东魏收复诸州说明领土并非单向扩缩，并限定数战之后即兵力相等的判断。高欢心有火的心理未作事实。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "luoyang-rescue"
+      ],
+      "note": "按将如洛阳拜园陵改为元宝炬原拟赴洛、遇围城告急才与宇文泰东行；写前锋击败莫多娄贷文、侯景解围的先后，没有采用祭祖途中一开战即全军败退的压缩叙述。原段收国兵转写不清，不另推含义。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "li-mu"
+      ],
+      "note": "具名李穆，保留马中流矢、宇文泰坠地、左右离散及以鞭斥责救人的情节；按原典释义斥骂内容，不把马都骑不好等口述对白冒作原话，也不由落马推出两军精确实力比例。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "luoyang-rescue",
+        "li-mu",
+        "flag-canopy"
+      ],
+      "note": "承接追兵误认普通军士、李穆授马脱险、西魏复振、东魏退却与高敖曹继续作战；侯景因刚愎自用而败、其撤退直接坑高敖曹的具体因果未获充分支持。先前拒绝听劝的贷文与劝止的侯景已分开。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "flag-canopy"
+      ],
+      "note": "承接高敖曹仍在交战、西魏集中精锐攻击，辨明高敖曹即高昂，与高澄分开；两个拳头式精确协同部署、高昂痛骂侯景及部下劝逃的对白未核，不据比喻补成战场实录。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "flag-canopy"
+      ],
+      "note": "旗盖示人、轻视宇文泰而挑战、西魏认出目标并集中精锐猛攻均已实写。硬碰硬等口头拟话以动作与原典评价承接，不另制造引文。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "flag-canopy",
+        "closed-gate"
+      ],
+      "note": "将反复出现的高澄校回高昂；写精锐猛攻、败走河阳南城、高永乐因旧怨闭门、临死迎敌语，并补求绳凿门至藏身桥下的实际先后。高永乐按从祖兄子称同族晚辈，未添宇文泰掰手指的对白。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "closed-gate"
+      ],
+      "note": "写高昂临死语的爵赏含义、被杀及布绢万段按年给付；校正死者姓名和赏赐物。原段因当时拿不出钱而分付的具体财政因果未核，正文明确记录只到逐年给付为止。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "closed-gate"
+      ],
+      "note": "实写直至北周灭亡仍未付足，以及高欢失去大将的反应；死者始终为高昂而非高澄。以古籍记载呈现长年给赏，不换算成未经证实的现金总额。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "closed-gate",
+        "two-more-campaigns"
+      ],
+      "note": "写高永乐受杖二百并据540年卒记排除当场被打死的猜测；末节分清各次进攻主体，限定所有大战皆由高欢先攻的概括，不能由战争反推每一次发动时的心理。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "wanqi-father-son"
+      ],
+      "note": "承接东魏退军中万俟洛勒兵不动及父子由西魏东归；明确尊老的是父亲万俟普，站住阵地的是儿子万俟洛。因年纪大而在西魏不受重用、因此转投的动机未核，未作为事实采用。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "wanqi-father-son"
+      ],
+      "note": "礼遇、扶马上马、许以死报及万俟洛临阵留下均已写，受礼者归回万俟普；高欢像曹操的跨时代人物比较未展开，不能仅凭敬老一事判两人用人方式相同。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "wanqi-father-son"
+      ],
+      "note": "具名万俟洛字受洛干，写报姓名、挑战和西魏畏而去；区分他与年老父亲，限定原典未记敌军认为有伏兵的心理，不把节目推演写成事实。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "wanqi-father-son",
+        "fog-and-retreat"
+      ],
+      "note": "明确史料未写降将诱饵或空城计；西魏全军撤退按阵列悬远、雾中失联、两翼不利及李虎等后军跟退解释。高欢抵孟津晚于西魏撤退，未写成他当场追杀宇文泰和元宝炬。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "fog-and-retreat",
+        "two-more-campaigns"
+      ],
+      "note": "承接烧营回撤、后续邙山与玉壁、双方仍未吞并；分清烧营与高欢后到追击，并以543年西魏主动接应高仲密和546年韦孝宽守城纠正一律高欢先攻、宇文泰临阵奋起的模式。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "two-more-campaigns"
+      ],
+      "note": "保留连年交战而未统一的历史结果；用542年另一次玉壁之围说明五战是选取的主线，明确不能据此断言此后军力精确相等、双方同意分守，或五战是北齐北周成立的唯一原因。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "two-more-campaigns"
+      ],
+      "note": "第四场主线战事的诱因已接到高仲密、崔暹与李氏遭侵犯，战争后的各自发展说明为政治过程；不把家族变态一类概括当作医学判断或战争因果。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heqiao-battle",
+      "sectionIds": [
+        "two-more-campaigns"
+      ],
+      "note": "高澄为高欢长子；高仲密校为高慎、高昂之兄，后妻核名李昌仪而非李祖娥；保留拒绝、衣裂、告夫、出任北豫州后据虎牢叛归，补旧怨并定于543年。概述546年玉壁撤围和547年高欢卒，不冒称原稿已详述玉壁攻守。"
+    }
+  ]
+}

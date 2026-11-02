@@ -1,16 +1,32 @@
-import type { MultiPolygon, Polygon } from "geojson";
+import type { MultiLineString, MultiPolygon, Polygon } from "geojson";
 
 export type SnapshotAccuracy = "illustrative" | "approximate" | "reconstructed";
 /** Independent of annual HistoricalRegion; coordinates are longitude/latitude. */
 export type SnapshotRegion = {
   polityId: string;
+  /** Map-only neighbors need not be part of a series' narrative dynasty list. */
+  name?: string;
+  color?: string;
+  boundaryKind?: "controlled" | "influence";
+  /** Peripheral context: retain evidence geometry, render only its location name. */
+  displayMode?: "label-only";
   geometry: Polygon | MultiPolygon;
+  /** Display-only fade at an open source extent; does not extend territory. */
+  fillBands?: { geometry: Polygon | MultiPolygon; opacity: number }[];
   /** Text placement only, not a capital or surveyed location. */
   labelPoint: [number, number];
   accuracyLevel: SnapshotAccuracy;
   note: string;
 };
-export type SnapshotMapSource = { title: string; url: string; referenceYear?: number };
+export type SnapshotMapSource = {
+  title: string;
+  url?: string;
+  fileLabel?: string;
+  referenceYear?: number;
+  /** Period-wide evidence must not be presented as an exact-year atlas plate. */
+  note?: string;
+  redistributable?: boolean;
+};
 
 export type HistoricalMapSnapshot = {
   id: string;
@@ -20,8 +36,16 @@ export type HistoricalMapSnapshot = {
   note: string;
   accuracyNote: string;
   scopeNote: string;
+  /** Visible on the map when a source covers only part of a region. */
+  coverageNote?: string;
   accuracyLevel: SnapshotAccuracy;
   sources: SnapshotMapSource[];
+  capitals?: { name: string; coordinate: [number, number] }[];
+  /** Source labels without a defensible enclosing frontier; not capital points. */
+  contextPlaces?: { id: string; name: string; coordinate: [number, number]; note: string }[];
+  outlines?: Record<string, MultiLineString>;
+  /** Supplemental perimeters, separate from traced same-year boundaries. */
+  reconstructedOutlines?: Record<string, MultiLineString>;
 } & ({ status: "ready"; regions: [SnapshotRegion, ...SnapshotRegion[]] } | { status: "pending"; regions: [] });
 
 export type NarrativeTrackConfig = {
@@ -44,7 +68,8 @@ export type HistorySeriesConfig = {
   mapMinYear?: number;
   mapMaxYear?: number;
   defaultYear: number;
-  mapMode: "annual" | "snapshot";
+  mapMode: "annual" | "snapshot" | "locations";
+  cityOverlayId?: "jin" | "daxing";
   trackIds: readonly string[];
   tracks: readonly NarrativeTrackConfig[];
   prehistory?: { trackId: string; endYear: number; label: string; mainLabel: string };

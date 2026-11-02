@@ -1,0 +1,49 @@
+import { book, event, person, place, polity, relation, source, type SeriesContent } from "./model";
+import { expansionConfig } from "./configs";
+
+const x = (ep: string, locator: string, ...refs: string[]) => source("western-xia", `western-xia-${ep}`, `西夏${ep}`, `西夏${ep}_clean_v1.md · ${locator}`, ...refs);
+const upper = book("宋史", "卷485", "夏国上");
+const lower = book("宋史", "卷486", "夏国下");
+const early = x("02", "P014起；元昊建国段", upper);
+const law = "俄罗斯科学院东方文献研究所藏《天盛改旧新定律令》（西夏文法典；天盛年间）";
+const people = [
+  person("li-yuanhao", "李元昊", ["western-xia"], ["夏景宗"], ["ruler", "general"], "继承李德明势力后于1038年称帝，定都兴庆府。创制国家制度、推广西夏文字，与宋辽展开战争和交涉。", early, 1003, 1048),
+  person("li-jiqian", "李继迁", ["xia-dingnan"], ["党项首领"], ["ruler", "general"], "在夏州李氏归宋背景下起兵，利用宋辽关系发展势力，1002年攻取灵州。", x("01", "李继迁起兵与灵州段", upper), 963, 1004),
+  person("li-deming", "李德明", ["xia-dingnan"], ["党项首领"], ["ruler"], "继承李继迁势力，改善与宋关系并向河西拓展，为元昊称帝积累政治和经济条件。", x("01", "李德明与河西经营段", upper), 981, 1032),
+  person("li-liangzuo", "李谅祚", ["western-xia"], ["夏毅宗"], ["ruler"], "元昊死后幼年即位，早期由没藏氏掌权；亲政后调整制度和对外关系。", x("03", "幼主、外戚与亲政段", upper), 1047, 1067),
+  person("li-bingchang", "李秉常", ["western-xia"], ["夏惠宗"], ["ruler"], "幼年继位，梁氏长期掌权。其朝经历宋军大举进攻与永乐城之战，皇权与外戚冲突持续。", x("03", "梁氏与惠宗段", lower), 1061, 1086),
+  person("li-qianshun", "李乾顺", ["western-xia"], ["夏崇宗"], ["ruler"], "经历梁氏干政后掌握皇权，调整宋辽金之间的外交，维持西夏在北方格局变化中的生存。", x("04", "崇宗与辽金更替段", lower), 1083, 1139),
+  person("li-renxiao", "李仁孝", ["western-xia"], ["夏仁宗"], ["ruler"], "1139年即位，在位期间重视文教和制度建设，天盛年间形成重要法典；又经历任得敬分国危机。", x("04", "P084起；仁宗与任得敬段", lower, law), 1124, 1193),
+  person("ren-dejing", "任得敬", ["western-xia"], ["西夏权臣"], ["official"], "由宋边地官员进入西夏政治，凭借外戚身份掌握大权，1170年谋求分国，最终被诛。", x("04", "P120及分国段", lower)),
+  person("li-anquan", "李安全", ["western-xia"], ["夏襄宗"], ["ruler"], "1206年夺位，在蒙古压力下改变对外关系，卷入攻金战争；1211年被废。", x("05", "夺位及末段", lower)),
+  person("li-zunxu", "李遵顼", ["western-xia"], ["夏神宗"], ["ruler"], "1211年即位，持续与金交战；1223年退位，西夏此后仍无法摆脱蒙古军事压力。", x("05", "P101；续西夏06", lower)),
+];
+const events = [
+  event({ id: "xia-jiqian-rises", title: "李继迁脱离宋廷，重聚党项势力", startYear: 982, eventType: "political", tracks: ["xia-rise"], personIds: ["li-jiqian"], dynastyIds: ["xia-dingnan"], locationIds: ["xiazhou"], summary: "夏州李氏纳土后，李继迁离开宋廷控制，重新组织力量。", background: "定难军长期经营夏州一带，地方势力与宋朝整合之间存在冲突。", process: "李继迁进入党项部落活动，通过联络、袭击与结盟扩张。", result: "宋未能顺利消除夏州李氏的独立势力。", impact: "为后来李德明、李元昊的政治事业奠定起点。" }, x("01", "李继迁起兵段", upper)),
+  event({ id: "xia-takes-lingzhou", title: "李继迁攻取灵州", startYear: 1002, eventType: "war", tracks: ["xia-rise"], personIds: ["li-jiqian"], dynastyIds: ["xia-dingnan"], locationIds: ["lingzhou"], summary: "李继迁取得灵州，势力进入宁夏平原核心地区。", background: "与宋长期战争促使党项力量争夺稳定的农业和交通基地。", process: "围攻灵州并攻克城池。", result: "党项势力获得重要据点。", impact: "宁夏平原逐渐成为后来西夏国家的核心区域。" }, x("01", "灵州战事段", upper)),
+  event({ id: "xia-demings-succession", title: "李德明继位，经营河西", startYear: 1004, eventType: "succession", tracks: ["xia-rise"], personIds: ["li-jiqian", "li-deming"], dynastyIds: ["xia-dingnan"], locationIds: ["lingzhou"], summary: "李继迁去世后，李德明接掌党项势力。", background: "宋辽议和前后，党项首领需要重新安排对外关系。", process: "李德明逐步缓和与宋的冲突，同时向河西发展。", result: "统治基础得到延续。", impact: "经济积累和河西扩展为元昊时期建国提供条件。" }, x("01", "李德明继位段", upper)),
+  event({ id: "xia-yuanhao-succeeds", title: "李元昊继位，筹建国家", startYear: 1032, eventType: "succession", tracks: ["xia-rise"], personIds: ["li-deming", "li-yuanhao"], dynastyIds: ["xia-dingnan"], locationIds: ["xingqing"], summary: "李德明去世，李元昊继承权位。", background: "党项势力已有宁夏平原和河西的资源基础。", process: "元昊推进官制、军制和文化符号的建设。", result: "国家形态进一步独立。", impact: "1032年继位与1038年称帝分别标示权位交接和正式建国。" }, early),
+  event({ id: "xia-script", title: "西夏文字创制与推广", startYear: 1036, eventType: "political", tracks: ["xia-rise"], personIds: ["li-yuanhao"], dynastyIds: ["xia-dingnan"], locationIds: ["xingqing"], summary: "元昊时期由野利仁荣等创制、推广西夏文字。", background: "筹建国家需要处理公文、教育与文化认同。", process: "文字被用于官方事务，并逐渐应用于典籍翻译。", result: "西夏拥有独特的书写系统。", impact: "文字成为理解西夏法典、佛教和社会的重要线索。", disputedNote: "1036年为常用创制纪年，文字的编制与推广是持续过程。" }, x("02", "称帝前的制度准备段", upper, "故宫博物院《西夏文》 — https://www.dpm.org.cn/lemmas/244482.html")),
+  event({ id: "xia-founded", title: "李元昊称帝，西夏建立", startYear: 1038, eventType: "founding", tracks: ["xia-rise"], personIds: ["li-yuanhao"], dynastyIds: ["western-xia"], locationIds: ["xingqing"], summary: "李元昊称帝，国号大夏，史称西夏。", background: "党项势力的制度建设与军事扩张已持续数代。", process: "以兴庆府为都，确立皇帝名号和官制。", result: "宋、辽之外形成新的帝国政治中心。", impact: "称帝引发与宋的尖锐冲突。" }, early),
+  event({ id: "xia-song-peace", title: "宋夏庆历和议", startYear: 1044, eventType: "political", tracks: ["xia-court"], personIds: ["li-yuanhao"], dynastyIds: ["western-xia"], locationIds: ["xingqing"], summary: "宋夏经过战争后议和，恢复贸易并安排岁赐。", background: "双方都承受军事、财政与边地供应压力。", process: "通过使者谈判处理名分、边界及经济关系。", result: "战争暂时缓和，西夏保留实际统治。", impact: "称臣名分和国内称帝可以并存，不能仅以外交称号判断独立程度。" }, x("02", "宋夏和议段", upper)),
+  event({ id: "xia-yuanhao-death", title: "元昊身亡，谅祚幼年即位", startYear: 1048, eventType: "succession", tracks: ["xia-court"], personIds: ["li-yuanhao", "li-liangzuo"], dynastyIds: ["western-xia"], locationIds: ["xingqing"], summary: "元昊在宫廷冲突中受伤身亡，年幼的谅祚继位。", background: "皇室内部矛盾与继承问题激化。", process: "元昊死后，没藏氏依靠幼主掌握权力。", result: "西夏转入外戚主政阶段。", impact: "幼主、母族和皇权之间的冲突贯穿后来多次权力交接。" }, x("03", "P013及幼主段", upper)),
+  event({ id: "xia-yongle-battle", title: "永乐城之战", startYear: 1082, eventType: "war", tracks: ["xia-court"], personIds: ["li-bingchang"], dynastyIds: ["western-xia"], locationIds: ["yongle-xia"], summary: "西夏军攻破宋军新筑的永乐城。", background: "宋朝在西北推进城寨体系，双方争夺横山一线。", process: "西夏军围城，宋军缺水缺援，最终城破。", result: "宋方遭受重大损失，西夏缓解军事压力。", impact: "边地战争同时围绕交通、水源与筑城展开。" }, x("03", "宋夏战争与永乐城段", lower)),
+  event({ id: "xia-renxiao-accession", title: "李仁孝即位", startYear: 1139, eventType: "succession", tracks: ["xia-court"], personIds: ["li-qianshun", "li-renxiao"], dynastyIds: ["western-xia"], locationIds: ["xingqing"], summary: "李乾顺去世，李仁孝继位，开启长期统治。", background: "辽已灭亡，西夏必须在金宋之间安排外交。", process: "延续国家制度，重视文教与法制建设。", result: "仁宗朝成为西夏制度发展的重要时期。", impact: "对外稳定与内部治理相互联系，但朝中仍存在权臣危机。" }, x("04", "P084起", lower, law)),
+  event({ id: "xia-ren-dejing-division", title: "任得敬分国失败", startYear: 1170, eventType: "political", tracks: ["xia-court"], personIds: ["li-renxiao", "ren-dejing"], dynastyIds: ["western-xia"], locationIds: ["xingqing"], summary: "任得敬迫使朝廷分国，仁宗最终将其诛杀。", background: "任得敬凭外戚和军政权力长期扩张势力。", process: "分国方案寻求金朝认可未成，仁宗抓住机会清除任氏。", result: "分国危机结束。", impact: "西夏的统一统治得以维持，皇权与权臣的关系重新调整。" }, x("04", "P120及任得敬结局段", lower)),
+  event({ id: "xia-anquan-coup", title: "李安全夺位", startYear: 1206, eventType: "political", tracks: ["xia-collapse"], personIds: ["li-anquan"], dynastyIds: ["western-xia"], locationIds: ["xingqing"], summary: "李安全夺取帝位，西夏进入频繁更替的末期。", background: "蒙古已开始侵扰西夏，内部继承矛盾同时激化。", process: "李安全废黜桓宗，建立自己的统治。", result: "宫廷权力发生转移。", impact: "西夏需要同时应付外部战争和内部合法性危机。" }, x("05", "李安全夺位段", lower)),
+  event({ id: "xia-mongol-siege", title: "蒙古围攻中兴府", startYear: 1209, eventType: "war", tracks: ["xia-collapse"], personIds: ["li-anquan"], dynastyIds: ["western-xia"], locationIds: ["xingqing"], summary: "蒙古军深入西夏，围攻都城中兴府。", background: "草原统一后蒙古向周边扩张。", process: "西夏面对围城压力，以议和与联姻等方式求取缓解。", result: "西夏暂时保住都城，但受到蒙古更强的控制。", impact: "此后联蒙攻金并未使西夏获得长期安全。" }, x("05", "蒙古围城段", lower)),
+  event({ id: "xia-zunxu-accession", title: "李遵顼即位", startYear: 1211, eventType: "succession", tracks: ["xia-collapse"], personIds: ["li-anquan", "li-zunxu"], dynastyIds: ["western-xia"], locationIds: ["xingqing"], summary: "李遵顼取代李安全，继续处于蒙古与金的战争夹缝。", background: "前期宫廷政变未能缓解国家的外部危机。", process: "新君即位后与金持续交战，资源不断消耗。", result: "西夏并未获得稳定的外交与军事处境。", impact: "长期战争削弱了抵御蒙古最后进攻的能力。" }, x("05", "P101；续西夏06", lower)),
+  event({ id: "xia-falls", title: "西夏灭亡", startYear: 1227, eventType: "collapse", tracks: ["xia-collapse"], personIds: [], dynastyIds: ["western-xia"], locationIds: ["xingqing"], summary: "蒙古持续进攻，西夏末帝出降，王朝统治结束。", background: "1226年起蒙古发动大规模攻势，西夏重要据点相继陷落。", process: "都城被围困，最后的抵抗瓦解。", result: "西夏国家终结。", impact: "西夏文字和文献并未完全消失，仍为后世认识这个王国留下线索。" }, x("06", "西夏终局段", lower)),
+];
+export const westernXia: SeriesContent = {
+  config: expansionConfig("western-xia"), introduction: "党项人的历史不只在皇室故事里。沿夏州起兵、河西经营、文字制度和宋辽金之间的外交，理解这个王国如何建立，又如何在蒙古扩张中消失。",
+  dynasties: [polity("xia-dingnan", "夏州李氏", 982, 1038, "夏州、灵州、兴州", "#927658", "西夏建国前李继迁、李德明和元昊经营的党项势力；与1038年称帝后的大夏国分期展示。", early), polity("western-xia", "西夏", 1038, 1227, "兴庆府（后称中兴府）", "#b18a45", "以党项为主体建立的王朝，立足宁夏平原与河西，先后与宋辽金交涉、战争，1227年亡于蒙古。", early)],
+  people, events,
+  locations: [place("xiazhou", "夏州", 108.86, 38.14, "今陕西靖边统万城一带", x("01", "夏州段", upper)), place("lingzhou", "灵州", 106.34, 38.1, "今宁夏灵武一带", x("01", "灵州段", upper)), place("xingqing", "兴庆府／中兴府", 106.28, 38.47, "今宁夏银川", early), place("yongle-xia", "永乐城", 110.18, 37.9, "今陕西米脂一带", x("03", "永乐城段", lower))],
+  relations: [relation("li-jiqian", "li-deming", "family", "父子。", x("01", "继承段", upper)), relation("li-deming", "li-yuanhao", "family", "父子。", early), relation("li-yuanhao", "li-liangzuo", "family", "父子。", x("03", "继承段", upper)), relation("li-qianshun", "li-renxiao", "family", "父子。", x("04", "P084", lower)), relation("li-renxiao", "ren-dejing", "political", "任得敬掌权并谋分国，仁宗最终将其诛杀。", x("04", "任得敬段", lower))],
+  readingPaths: [
+    { id: "xia-origins", title: "从夏州势力到大夏国", period: "982—1038", description: "三代经营之后，元昊的称帝才有了基础。", eventIds: ["xia-jiqian-rises", "xia-takes-lingzhou", "xia-demings-succession", "xia-yuanhao-succeeds", "xia-script", "xia-founded"] },
+    { id: "xia-government", title: "和议、外戚与国家治理", period: "1044—1170", description: "沿外交、继承和权臣危机，观察统治如何维系。", eventIds: ["xia-song-peace", "xia-yuanhao-death", "xia-yongle-battle", "xia-renxiao-accession", "xia-ren-dejing-division"] },
+    { id: "xia-ending", title: "蒙古压力下的最后二十年", period: "1206—1227", description: "王位更替和对外战争怎样相互叠加。", eventIds: ["xia-anquan-coup", "xia-mongol-siege", "xia-zunxu-accession", "xia-falls"] },
+  ],
+};

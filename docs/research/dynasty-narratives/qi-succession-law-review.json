@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-30",
+  "method": "完整读北齐P124–131八段，对照北齐书、北史、通鉴及隋书刑法志、唐律疏议逐项写作。今本北齐书补卷与北史相近处不计独立互证；区分史书神异叙述、书信异文与可证年月。台账不把多主题段的一个已写主题代替整段；未回听音频，也未以已佚齐律全文自居。",
+  "counts": { "partial": 2, "covered": 3, "corrected": 3 },
+  "rows": [
+    {
+      "file": "北齐_clean_v1.md", "paragraph": "P124", "baselineVerdict": "not-covered",
+      "assessment": "partial", "storySlug": "qi-succession-law", "sectionIds": ["warning-and-heir"],
+      "note": "临终勿杀高殷的叮嘱、559十月至560八月的在位时段与史书宽厚评价已有叙述，补具体政令并说明不能仅据短在位推性情；原段把高殷排作北齐少有正常皇帝的全朝比较未展开，不作已核全面评价。"
+    },
+    {
+      "file": "北齐_clean_v1.md", "paragraph": "P125", "baselineVerdict": "not-covered",
+      "assessment": "covered", "storySlug": "qi-succession-law", "sectionIds": ["warning-and-heir", "palace-seizure"],
+      "note": "高洋向高演托付勿害其子、娄氏为高殷祖母及其扶持二王政变均承接；扩写辅政大臣与二王矛盾、尚书省执人和宫门换防。正式受遗诏者另列，不把一般托孤叙述误限为唯一辅政人。"
+    },
+    {
+      "file": "北齐_clean_v1.md", "paragraph": "P126", "baselineVerdict": "not-covered",
+      "assessment": "corrected", "storySlug": "qi-succession-law", "sectionIds": ["palace-seizure", "throne-and-nephew"],
+      "note": "先政变、560八月废立、561九月杀高殷分开，承接违背保全之戒与杀后悔惧；将笼统噩梦说限定为北史见祟叙事，不把鬼魂报复或违约视为已经证实的医学死因。"
+    },
+    {
+      "file": "北齐_clean_v1.md", "paragraph": "P127", "baselineVerdict": "not-covered",
+      "assessment": "covered", "storySlug": "qi-succession-law", "sectionIds": ["throne-and-nephew", "second-letter"],
+      "note": "高演一年多在位后病重、已立幼子百年及最终选择弟弟继位均展开；五岁是560年立太子时通鉴所记，未混作561临终年龄。叙事依据诏书幼弱理由和高湛的政治地位，不虚构内心权衡对白。"
+    },
+    {
+      "file": "北齐_clean_v1.md", "paragraph": "P128", "baselineVerdict": "not-covered",
+      "assessment": "corrected", "storySlug": "qi-succession-law", "sectionIds": ["throne-and-nephew", "second-letter", "dowager-titles"],
+      "note": "传弟高湛、要求善待妻儿、勿效前人的书信和高澄高洋高演高湛同母关系全部落地；原段我因负兄杀侄而短命的直接对白改为可追书信及死因证据界限，保留北史与通鉴文字差异。"
+    },
+    {
+      "file": "北齐_clean_v1.md", "paragraph": "P129", "baselineVerdict": "not-covered",
+      "assessment": "corrected", "storySlug": "qi-succession-law", "sectionIds": ["second-letter", "dowager-titles"],
+      "note": "托付孩子与勿学前人的请求承接；逐项校正高澄死后追尊、娄氏太妃—皇太后—太皇太后—皇太后变化，不能算从高澄起连续四任皇太后；所谓疯子基因限定为无诊断依据的家庭概括，不以血缘代替个人政治责任。"
+    },
+    {
+      "file": "北齐_clean_v1.md", "paragraph": "P130", "baselineVerdict": "not-covered",
+      "assessment": "partial", "storySlug": "qi-succession-law", "sectionIds": ["second-letter", "making-law"],
+      "note": "高湛继位及其朝颁齐律展开，双演几位、高岩依语境校作高湛（未回听），面对面答应善侄的对白未获原典确认而明确限制；高家每位皇帝均有作为的全朝断言未逐帝研究，本篇只呈现这部法典的长期形成与高湛催督颁行。"
+    },
+    {
+      "file": "北齐_clean_v1.md", "paragraph": "P131", "baselineVerdict": "not-covered",
+      "assessment": "covered", "storySlug": "qi-succession-law", "sectionIds": ["making-law", "ten-crimes"],
+      "note": "564高湛朝颁齐律、重罪十条及隋唐继受的主要命题均承接，补全名单、八议论赎限制、隋增损与唐赦免差别。原段没有断言十类罪任何情况下都不赦，正文对俗语的解释属于补充而非纠正其不存在的主张；法典贡献与同年杀高百年并列。"
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "date": "2026-10-11",
+  "method": "根代理独立逐P对读原逐字稿、正文和相应原典；实读核实内容补回，异载、文学传统、转写疑点不强行消除。见cross-review-j17-j21.md，未回听音频。",
+  "counts": {
+    "covered": 10,
+    "partial": 12,
+    "uncertain": 1,
+    "corrected": 11
+  },
+  "rows": [
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "brothers-at-weishui"
+      ],
+      "note": "思恭勤王与僖宗。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "brothers-at-weishui"
+      ],
+      "note": "弟思忠参战覆盖，地方命令转达未证不补。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "brothers-at-weishui"
+      ],
+      "note": "朱温亲自对阵和对话未核，留候选。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "brothers-at-weishui"
+      ],
+      "note": "铁鹤非铜鹤，无误射朱温说。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "brothers-at-weishui"
+      ],
+      "note": "敌骇射技覆盖，朱温撤兵设伏未证。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "brothers-at-weishui"
+      ],
+      "note": "思忠战死、思恭再盟覆盖，中伏未证。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "brothers-at-weishui"
+      ],
+      "note": "不写最先入城当面见僖宗，联盟平乱。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "brothers-at-weishui"
+      ],
+      "note": "皇帝僖宗非景宗，去拟造对白。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "brothers-at-weishui"
+      ],
+      "note": "再赐李姓。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "brothers-at-weishui"
+      ],
+      "note": "夏国公非王，定难军正式任命。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "brothers-at-weishui"
+      ],
+      "note": "军政辖境非全部私有封地。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "hundred-days"
+      ],
+      "note": "五代诸朝授官延续。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "hundred-days"
+      ],
+      "note": "933彝超、明宗换防。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "hundred-days"
+      ],
+      "note": "接管意图呈为任命变化，不补心理独白。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "hundred-days"
+      ],
+      "note": "换防核心。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "hundred-days"
+      ],
+      "note": "延州彰武、安从进、药彦稠五万；非七十万。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "hundred-days"
+      ],
+      "note": "拒代及后唐攻城覆盖，信文威胁未核。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "hundred-days"
+      ],
+      "note": "边将通契丹报告与城防截粮，非坚城独自熬过所有朝代。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "jade-belt"
+      ],
+      "note": "宋初继续承认任官。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "jade-belt"
+      ],
+      "note": "北汉关系提供背景不重讲十国地理。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "jade-belt"
+      ],
+      "note": "不采已灭尽南方九国才首次攻北汉概述。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "jade-belt"
+      ],
+      "note": "彝殷即彝兴及助兵。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "jade-belt"
+      ],
+      "note": "确有遣兵抵抗北汉，不只献马无兵。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "jade-belt"
+      ],
+      "note": "献马赠带覆盖，不绑定未核回师因果。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "jade-belt"
+      ],
+      "note": "亲视制作、问腹围、赐玉带。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "jade-belt"
+      ],
+      "note": "大腹、福人支持，四尺和赔了对白未证。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "family-and-capital"
+      ],
+      "note": "补光睿/克睿、继筠两代承接。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "family-and-capital"
+      ],
+      "note": "族内相怨、继捧入朝。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "family-and-capital"
+      ],
+      "note": "率族后另召缌麻以上亲，非首次全宗族来。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "family-and-capital"
+      ],
+      "note": "纳辖境及愿留京。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "demolition-later"
+      ],
+      "note": "毁城994，不紧接982纳土。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "demolition-later"
+      ],
+      "note": "毁城命令有据，实际技术未知。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "demolition-later",
+        "family-and-capital"
+      ],
+      "note": "废城和换职覆盖，现代锤击类比不用。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dingnan-succession",
+      "sectionIds": [
+        "family-and-capital"
+      ],
+      "note": "彰德非张德；宋已承认定难，不因前朝旧官一概取消。"
+    }
+  ]
+}

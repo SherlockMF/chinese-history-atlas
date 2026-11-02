@@ -1,133 +1,135 @@
-"""Rebuild V1 derived maps (Python + Shapely 2.x, authoring only).
+"""Build the 546/572/612 atlas snapshots using the existing QGIS Python runtime.
 
-No download, province boundaries, annual interpolation or runtime dependency.
-Inputs and derived geometry are CC BY-SA 4.0; see the adjacent map README.
+Reads only committed vector traces and Natural Earth masks. Scans stay local.
+Political boundaries are generalized atlas readings, not surveyed frontiers.
 """
 import json
-import re
-from pathlib import Path
 from itertools import combinations
+from pathlib import Path
 
-from shapely.geometry import LineString, Polygon, box, mapping, shape
+import numpy as np
+from pyproj import Transformer
+from shapely import segmentize
+from shapely.geometry import LineString, MultiLineString, MultiPolygon, Point, Polygon, mapping, shape
 from shapely.geometry.polygon import orient
-from shapely.ops import split, transform, unary_union
+from shapely.ops import transform, unary_union
 
 ROOT = Path(__file__).resolve().parents[2]
-DIRECTORY = ROOT / "data/maps/northern-qi-zhou-sui"
-SOURCE = json.loads((DIRECTORY / "source-traces.json").read_text(encoding="utf-8"))
+GIS = ROOT / "gis/northern-qi-zhou-sui"
+DATA = ROOT / "data/maps/northern-qi-zhou-sui"
+CRS = "+proj=aea +lat_1=25 +lat_2=47 +lat_0=0 +lon_0=110 +datum=WGS84 +units=m"
 
 
-def flatten(path):
-    """Sample the original M/m L/l C/c Z/z paths, including implicit commands."""
-    tokens = re.findall(r"[MmLlCcZz]|[-+]?(?:\d*\.\d+|\d+)(?:[eE][-+]?\d+)?", path)
-    points, ends = [], []
-    current = (0, 0)
-    index = 0
-    command = None
-    while index < len(tokens):
-        if tokens[index].isalpha():
-            command = tokens[index]
-            index += 1
-        if command.upper() == "Z":
-            points.append(points[0])
-            break
-        count = 6 if command.upper() == "C" else 2
-        values = list(map(float, tokens[index:index + count]))
-        index += count
-        pairs = list(zip(values[::2], values[1::2]))
-        if command.islower():
-            pairs = [(x + current[0], y + current[1]) for x, y in pairs]
-        if command.upper() == "C":
-            start, (a, b, end) = current, pairs
-            for step in range(1, 9):
-                t = step / 8
-                points.append(tuple((1-t)**3 * start[k] + 3*(1-t)**2*t*a[k] + 3*(1-t)*t*t*b[k] + t**3*end[k] for k in (0, 1)))
-        else:
-            points.append(pairs[0])
-        current = pairs[-1]
-        ends.append(len(points) - 1)
-        if command.upper() == "M":
-            command = "l" if command.islower() else "L"
-    return points, ends
+def read(path):
+    return json.loads(path.read_text(encoding="utf-8"))
 
 
-def pixel(lon, lat):
-    return ((lon - 99.5) / 26.2 * 2000, (42.5 - lat) / 24.5 * 2187)
+def write(path, value):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(value, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
 
 
-def parts(geometry):
-    return [geometry] if geometry.geom_type == "Polygon" else list(geometry.geoms)
+def polygons(geometry):
+    if geometry.geom_type == "Polygon":
+        return [geometry]
+    return [p for g in getattr(geometry, "geoms", []) for p in polygons(g)]
 
 
-# Fixed comparison window. Offshore islands and the disconnected Liaodong
-# peninsula are excluded, rather than silently assigned to a Chinese polity.
-west, north = pixel(106, 40)
-east, south = pixel(123, 26)
-land = max(parts(shape(SOURCE["mainland"]).intersection(box(west, north, east, south))), key=lambda p: p.area)
-
-# Source graphic path 3093: shared Wei boundary then the eastern Liang contact.
-wei, ends = flatten(SOURCE["paths"]["546"]["path3093"])
-western_contact, _ = flatten(SOURCE["paths"]["546"]["path3939"])
-junction = min(range(len(wei)), key=lambda i: (wei[i][0]-970.42437)**2 + (wei[i][1]-793.28399)**2)
-front550 = list(reversed(western_contact)) + wei[junction + 1:] + [(2200, wei[-1][1])]
-halves550 = list(split(land, LineString(front550)).geoms)
-north550 = min(halves550, key=lambda g: g.centroid.y)
-liang550 = unary_union([g for g in halves550 if g != north550])
-wei_split = [(wei[0][0], 0)] + wei[:junction+1] + [(wei[junction][0], 1000)]
-north_halves = list(split(north550, LineString(wei_split)).geoms)
-western_wei = min(north_halves, key=lambda g: g.centroid.x)
-northern_qi = unary_union([g for g in north_halves if g != western_wei])
-
-# M2's western Chen contact, joined to its Later Liang enclosure.
-chen_west, _ = flatten(SOURCE["paths"]["572"]["path3865"])
-liang_ring, _ = flatten(SOURCE["paths"]["572"]["path3869"])
-later_liang = Polygon(liang_ring)
-
-# Hand-sampled geographic reference lines from G1/M2, in the 1100px preview
-# coordinate system. They express broad contact belts, not riverbank surveys.
-# 577: Chen's Huainan acquisitions (Chen shu 5, Taijian 5/9).
-# 581: Huainan lost in 579 (same source, Taijian 11).
-huai = [(545, 570), (563, 524), (585, 497), (610, 489), (635, 496), (665, 491), (690, 475), (727, 481), (760, 464), (795, 445), (826, 451), (844, 472), (880, 473), (980, 473)]
-yangtze = [(612, 591), (625, 603), (650, 625), (678, 627), (705, 603), (729, 581), (753, 559), (783, 539), (788, 516), (814, 506), (837, 514), (863, 544), (896, 544), (940, 559), (1000, 559)]
+def pack(geometry):
+    parts = [orient(p, sign=1) for p in polygons(geometry) if p.area > 0.0001]
+    result = parts[0] if len(parts) == 1 else MultiPolygon(parts)
+    assert result.is_valid and not result.is_empty, "Invalid or empty geometry"
+    return result
 
 
-def north_south(reference):
-    # Join through the south edge of the small Liang polity. Liang is then
-    # removed from the northern region and drawn separately in both stages.
-    liang_south = [liang_ring[0]]
-    if reference == huai:
-        bridge = [(1002, 1110)]
-    else:
-        bridge = [(1106.165, 1108.2772), (1111.4429, 1061.6927)]
-    frontier = list(reversed(chen_west)) + liang_south + bridge + [(x / .55, y / .55) for x, y in reference]
-    divided = list(split(land, LineString(frontier)).geoms)
-    southern = max(divided, key=lambda g: g.centroid.y)
-    northern = unary_union([g for g in divided if g != southern])
-    return northern.difference(later_liang), southern.difference(later_liang)
+def lines(geometry):
+    if geometry.geom_type in ("LineString", "LinearRing"):
+        return [geometry]
+    return [line for g in getattr(geometry, "geoms", []) for line in lines(g)]
 
 
-def geo(geometry):
-    assert geometry.is_valid and not geometry.is_empty, geometry.wkt[:100]
-    geometry = transform(lambda x, y: (round(99.5 + x/2000*26.2, 5), round(42.5-y/2187*24.5, 5)), geometry)
-    polygons = [orient(p, sign=1) for p in parts(geometry) if p.area > 0.00001]
-    from shapely.geometry import MultiPolygon
-    result = polygons[0] if len(polygons) == 1 else MultiPolygon(polygons)
-    assert result.is_valid
-    return mapping(result)
+def projector(source):
+    controls = np.array(source["gridControls"])
+    to_meters = Transformer.from_crs(4326, CRS, always_xy=True)
+    to_geo = Transformer.from_crs(CRS, 4326, always_xy=True)
+
+    def terms(x, y):
+        x, y = (np.asarray(x) - 1000) / 1000, (np.asarray(y) - 800) / 1000
+        return np.array([np.ones_like(x), x, y, x*x, x*y, y*y]).T
+
+    target = np.array(to_meters.transform(controls[:, 2], controls[:, 3])).T
+    matrix = terms(controls[:, 0], controls[:, 1])
+    coefficients = np.linalg.lstsq(matrix, target, rcond=None)[0]
+    errors = np.linalg.norm(matrix @ coefficients - target, axis=1) / 1000
+    assert errors.max() < 35, f"Graticule residual too large: {errors.max()}km"
+
+    def locate(x, y, z=None):
+        projected = terms(np.asarray(x) + 650, np.asarray(y) + 450) @ coefficients
+        return to_geo.transform(projected[..., 0], projected[..., 1])
+
+    return locate, {"controlRmsKm": float(np.sqrt(np.mean(errors**2))), "controlMaxKm": float(errors.max())}
 
 
-zhou577, chen577 = north_south(huai)
-sui581, chen581 = north_south(yangtze)
-stages = {
-    "550": {"northern-qi": northern_qi, "western-wei": western_wei, "southern-liang": liang550},
-    "577": {"northern-zhou": zhou577, "chen": chen577, "western-liang": later_liang},
-    "581": {"sui": sui581, "chen": chen581, "western-liang": later_liang},
-    "589": {"sui": land},
-}
-output = {year: {polity: geo(geometry) for polity, geometry in regions.items()} for year, regions in stages.items()}
-for year, regions in stages.items():
-    for first, second in combinations(regions.values(), 2):
-        assert first.intersection(second).area < 1e-6, f"Overlapping regions: {year}"
-    assert land.symmetric_difference(unary_union(list(regions.values()))).area < 1e-6, f"Coverage gap: {year}"
-(DIRECTORY / "geometry.json").write_text(json.dumps(output, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
-print("Built", {year: list(regions) for year, regions in output.items()})
+def build():
+    sources = read(GIS / "atlas-traces.json")
+    raw_land = unary_union([shape(f["geometry"]) for f in read(ROOT / "gis/continuous/master-land-mask.geojson")["features"]])
+    # Offshore Taiwan and Japan are not assigned through a coastal envelope.
+    excluded = [p for p in polygons(raw_land) if any(p.covers(Point(point)) for point in [
+        (121, 23.5), (138, 36), (143, 43), (133.5, 33.7), (131, 32.5),
+    ])]
+    lakes = unary_union([shape(f["geometry"]) for f in read(ROOT / "gis/continuous/master-lakes-mask.geojson")["features"]])
+    land = raw_land.difference(unary_union(excluded)).difference(lakes).simplify(0.008, preserve_topology=True)
+    output, reports, labels, boundaries, outlines = {}, {}, {}, {}, {}
+    for source in sources["maps"]:
+        year = str(source["year"])
+        locate, report = projector(source)
+        regions = {}
+        for region in source["regions"]:
+            ring = []
+            for name in region["edges"]:
+                points = source["edges"][name.lstrip("-")]
+                if name.startswith("-"):
+                    points = list(reversed(points))
+                if ring:
+                    assert ring[-1] == points[0], f"Disconnected edge: {year}/{name}"
+                    ring.extend(points[1:])
+                else:
+                    ring.extend(points)
+            assert ring[0] == ring[-1], f"Unclosed ring: {year}/{region['id']}"
+            polygon = Polygon(ring)
+            assert polygon.is_valid, f"Crossing trace: {year}/{region['id']}"
+            regions[region["id"]] = transform(locate, segmentize(polygon, 5))
+        for enclave in source.get("enclaves", []):
+            polygon = Polygon(enclave["ring"])
+            assert polygon.is_valid
+            geometry = transform(locate, segmentize(polygon, 5))
+            assert unary_union(list(regions.values())).covers(geometry), "Enclave outside traced coverage"
+            regions = {key: value.difference(geometry) for key, value in regions.items()}
+            regions[enclave["id"]] = geometry
+        regions = {key: pack(value.intersection(land)) for key, value in regions.items()}
+        for first, second in combinations(regions.values(), 2):
+            assert first.intersection(second).area < 1e-8, f"Overlapping regions: {year}"
+        labels[year] = {}
+        for region in source["regions"] + source.get("enclaves", []):
+            geometry = regions[region["id"]]
+            point = Point(region["label"])
+            assert geometry.contains(point), f"Label outside region: {year}/{region['id']} {point}"
+            labels[year][region["id"]] = region["label"]
+        output[year] = {key: mapping(value) for key, value in regions.items()}
+        traced = [LineString(points) for points in source["edges"].values()]
+        traced += [LineString(item["ring"]) for item in source.get("enclaves", [])]
+        border = transform(locate, segmentize(unary_union(traced), 5)).intersection(land)
+        boundaries[year] = mapping(MultiLineString(lines(border)))
+        outlines[year] = {key: mapping(MultiLineString(lines(value.boundary.difference(lakes.buffer(0.012))))) for key, value in regions.items()}
+        report.update({"year": source["year"], "fileLabel": source["fileLabel"], "regionCount": len(regions), "bbox": list(unary_union(list(regions.values())).bounds)})
+        reports[year] = report
+    write(DATA / "geometry.json", output)
+    write(DATA / "label-points.json", labels)
+    write(DATA / "boundaries.json", boundaries)
+    write(DATA / "outlines.json", outlines)
+    write(GIS / "calibration-report.json", {"method": sources["method"], "note": "配准残差不等于历史边界精度。海岸与天然湖泊采用现代自然地理定位。", "maps": reports})
+    print(json.dumps(reports, ensure_ascii=False, indent=2))
+
+
+if __name__ == "__main__":
+    build()

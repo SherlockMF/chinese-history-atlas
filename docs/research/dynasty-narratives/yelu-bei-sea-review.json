@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-02",
+  "method": "L07：辽组子代理完整阅读列出原段、检索并阅读所列原典后逐段自审；未回听音频，独立交叉复核待主代理完成，原基线不变。",
+  "counts": {
+    "partial": 3,
+    "corrected": 6,
+    "covered": 1
+  },
+  "rows": [
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yelu-bei-sea",
+      "sectionIds": [
+        "a-king-under-watch",
+        "the-tang-court-changes"
+      ],
+      "note": "移居监视、李嗣源跨海招徕有据；此前兄弟关系始终良好等心理概括未证。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yelu-bei-sea",
+      "sectionIds": [
+        "a-poem-on-the-shore"
+      ],
+      "note": "羞见非修建，诗依辽史全文；评价围绕大小颠倒隐喻，不由短诗判整体汉文化水平。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yelu-bei-sea",
+      "sectionIds": [
+        "books-on-the-boat"
+      ],
+      "note": "区分西宫书楼与医巫闾望海堂，赵延寿借书有新五代史依据，不统称渤海楼或认所有官员求书。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-bei-sea",
+      "sectionIds": [
+        "the-tang-court-changes"
+      ],
+      "note": "李嗣源死、从厚继位、从珂夺位与倍密报按933–934时序，去除装作现场的对白。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yelu-bei-sea",
+      "sectionIds": [
+        "the-tang-court-changes"
+      ],
+      "note": "倍934信、石敬瑭936求援分开，南援时间清楚；不存在可靠证据的责问对白不作事实。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yelu-bei-sea",
+      "sectionIds": [
+        "death-and-a-return"
+      ],
+      "note": "李从珂命人杀倍在其自焚前，非死后部将报复；拒同焚按辽史版本叙述。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yelu-bei-sea",
+      "sectionIds": [
+        "death-and-a-return"
+      ],
+      "note": "僧敛、石敬瑭权葬、太宗改葬依次补齐；谥文武元皇王，后世庙号义宗非易宗，追尊有阶段。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yelu-bei-sea",
+      "sectionIds": [
+        "another-heir-at-home"
+      ],
+      "note": "母亲属意李胡有据，推兄传弟对白无直接史源。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yelu-bei-sea",
+      "sectionIds": [
+        "another-heir-at-home"
+      ],
+      "note": "母爱与政治权力分开，李胡并非无能弱儿，明确军职及武力。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yelu-bei-sea",
+      "sectionIds": [
+        "another-heir-at-home"
+      ],
+      "note": "皇太弟储位解释及930册立实年月，不泛称中国史极罕见或等同皇太子。"
+    }
+  ]
+}

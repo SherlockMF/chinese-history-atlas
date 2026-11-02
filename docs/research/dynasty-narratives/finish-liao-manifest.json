@@ -1,0 +1,392 @@
+[
+  {
+    "queueIds": [
+      "L35"
+    ],
+    "slug": "liao-jin-titles",
+    "exportName": "liaoJinTitles",
+    "summary": {
+      "slug": "liao-jin-titles",
+      "seriesId": "liao",
+      "title": "从宁江州到护步答冈",
+      "subtitle": "辽金之间，先争疆土，再争名分",
+      "summary": "辽朝征讨女真屡败，亲征又遇内乱；金的国号、帝号与兄弟名分，成为交涉中不能轻易跨过的门槛。",
+      "period": "1114—1120年",
+      "category": "战争与外交",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 27,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "L36"
+    ],
+    "slug": "xiaosese-jinwang",
+    "exportName": "xiaoseseJinwang",
+    "summary": {
+      "slug": "xiaosese-jinwang",
+      "seriesId": "liao",
+      "title": "萧瑟瑟：诗谏之后，晋王之前",
+      "subtitle": "两个宫廷家庭卷入辽末的继承危机",
+      "summary": "文妃以歌诗斥外戚与失政，晋王因贤名成为众望所归；萧奉先的构陷与天祚的选择，把将领余睹推向了金朝。",
+      "period": "辽末—1122年",
+      "category": "宫廷与诗文",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 21,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "L37"
+    ],
+    "slug": "beiliao-first-yanjing",
+    "exportName": "beiliaoFirstYanjing",
+    "summary": {
+      "slug": "beiliao-first-yanjing",
+      "seriesId": "liao",
+      "title": "北辽：一个皇位，两面敌军",
+      "subtitle": "白沟河边，宋军没等来想象中的归附",
+      "summary": "天祚退入夹山，燕京拥立耶律淳；宋方借海上之盟出兵，耶律大石和萧干拒敌，种师道则在败后被撤换。",
+      "period": "1120—1122年",
+      "category": "战争与政权",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 33,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "L38"
+    ],
+    "slug": "puxiannv-second-yanjing",
+    "exportName": "puxiannvSecondYanjing",
+    "summary": {
+      "slug": "puxiannv-second-yanjing",
+      "seriesId": "liao",
+      "title": "普贤女守国，宋军又来",
+      "subtitle": "城中巷战与城外的火光，是两场不同的败退",
+      "summary": "耶律淳死后，萧普贤女主持军国；郭药师降宋并突入燕京，援军回城击退突袭，刘延庆随后烧营溃逃，金军再从关口逼近。",
+      "period": "1122年",
+      "category": "战争与宫廷",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 26,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "L39"
+    ],
+    "slug": "dashi-leaves-tianzuo",
+    "exportName": "dashiLeavesTianzuo",
+    "summary": {
+      "slug": "dashi-leaves-tianzuo",
+      "seriesId": "liao",
+      "title": "耶律大石，回去之后还是离开",
+      "subtitle": "两次归附与一次不能再听从的出兵命令",
+      "summary": "大石回到天祚行在，经历被俘、逃归与重整军队；复辽的目标仍在，何时出战却使他与皇帝分道，走向可敦城和中亚。",
+      "period": "1123—1124年及建国纪年",
+      "category": "人物与转折",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 43,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "L40"
+    ],
+    "slug": "tianzuo-captivity",
+    "exportName": "tianzuoCaptivity",
+    "summary": {
+      "slug": "tianzuo-captivity",
+      "seriesId": "liao",
+      "title": "天祚帝被俘：皇兄之礼与两场相逢",
+      "subtitle": "王朝的结局，和后来讲述的结局",
+      "summary": "1125年被俘与宋方招纳、金方伐宋相互交错；相逢耳语与马球遇害属于话本传统，不能代替本纪记载。",
+      "period": "1124—1125年及后世叙事",
+      "category": "亡国与传说",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 18,
+    "independentReview": "complete",
+    "counts": {
+      "corrected": 8,
+      "not-needed": 4,
+      "covered": 4,
+      "partial": 2
+    }
+  },
+  {
+    "queueIds": [
+      "L41"
+    ],
+    "slug": "liao-people-after-dynasty",
+    "exportName": "liaoPeopleAfterDynasty",
+    "summary": {
+      "slug": "liao-people-after-dynasty",
+      "seriesId": "liao",
+      "title": "辽亡之后，契丹人没有同时消失",
+      "subtitle": "从屋质的选择，到诗、寺院与族群记忆",
+      "summary": "个人才艺不等于治国能力，亡国也不等于文化清零；辽代诗文、北京寺院和后裔讨论，把人带回历史的复杂处。",
+      "period": "10—13世纪及后世记忆",
+      "category": "文化与人物评价",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 15,
+    "independentReview": "complete",
+    "counts": {
+      "not-needed": 3,
+      "partial": 10,
+      "corrected": 1,
+      "covered": 1
+    }
+  },
+  {
+    "queueIds": [
+      "L42"
+    ],
+    "slug": "kedun-northern-reserve",
+    "exportName": "kedunNorthernReserve",
+    "summary": {
+      "slug": "kedun-northern-reserve",
+      "seriesId": "liao",
+      "title": "可敦城：一支不能轻易调走的军队",
+      "subtitle": "皇太妃的边防，成为大石新的家底",
+      "summary": "大石抵达辽朝西北旧边防，召集七州十八部；宫卫、军户、屯垦与远方盟友，共同构成复起的条件。",
+      "period": "10世纪末—12世纪20年代",
+      "category": "边防与迁徙",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 26,
+    "independentReview": "complete",
+    "counts": {
+      "covered": 9,
+      "corrected": 4,
+      "not-needed": 1,
+      "partial": 12
+    }
+  },
+  {
+    "queueIds": [
+      "L43"
+    ],
+    "slug": "emil-first-western-campaign",
+    "exportName": "emilFirstWesternCampaign",
+    "summary": {
+      "slug": "emil-first-western-campaign",
+      "seriesId": "liao",
+      "title": "叶密里：第一次西行，没有一路获胜",
+      "subtitle": "高昌借道、将领被获，与一座新城",
+      "summary": "西迁者遇到喀喇汗与回鹘诸国，第一次西线失利后再聚兵；金军的远征和大石的去留也有不同史源时序。",
+      "period": "1120年代末—1130年代初",
+      "category": "战争与西迁",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 25,
+    "independentReview": "complete",
+    "counts": {
+      "partial": 13,
+      "corrected": 6,
+      "not-needed": 2,
+      "covered": 4
+    }
+  },
+  {
+    "queueIds": [
+      "L44"
+    ],
+    "slug": "gurkhan-tianyou",
+    "exportName": "gurkhanTianyou",
+    "summary": {
+      "slug": "gurkhan-tianyou",
+      "seriesId": "liao",
+      "title": "菊儿汗，也是天佑皇帝",
+      "subtitle": "两种称号，把故国与新臣民放在一起",
+      "summary": "大石以天佑皇帝、延庆年号和菊儿汗名号建立权威；称帝时点、地点有史源歧异，文化延续不能简化成身份消失。",
+      "period": "1124—1130年代",
+      "category": "建国与身份",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 12,
+    "independentReview": "complete",
+    "counts": {
+      "partial": 6,
+      "covered": 3,
+      "corrected": 2,
+      "not-needed": 1
+    }
+  },
+  {
+    "queueIds": [
+      "L45"
+    ],
+    "slug": "balasaghun-layered-rule",
+    "exportName": "balasaghunLayeredRule",
+    "summary": {
+      "slug": "balasaghun-layered-rule",
+      "seriesId": "liao",
+      "title": "八剌沙衮：一个求援者交出了王座",
+      "subtitle": "高昌的旧王室、七河的牧场和属国的银牌",
+      "summary": "地方君主请来一支能够平定部族的军队，结果请来一位更高的君主；西辽的疆域由此成为直辖核心与不同属国的组合。",
+      "period": "12世纪30年代以后",
+      "category": "建国与治理",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 27,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "L46"
+    ],
+    "slug": "eastward-campaign-fails",
+    "exportName": "eastwardCampaignFails",
+    "summary": {
+      "slug": "eastward-campaign-fails",
+      "seriesId": "liao",
+      "title": "没能走完的东征路",
+      "subtitle": "白马青牛之前，故国仍是誓词的中心",
+      "summary": "萧斡里剌率军走向东方，却因牛马大量死亡无所得而还；辽与金都未能把远征意志变成可持续的控制。",
+      "period": "1130—1134年前后",
+      "category": "战役与复国",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 7,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "L47"
+    ],
+    "slug": "qatwan-contested-plain",
+    "exportName": "qatwanContestedPlain",
+    "summary": {
+      "slug": "qatwan-contested-plain",
+      "seriesId": "liao",
+      "title": "卡特万：一场部族争端改变了河中",
+      "subtitle": "1137年前哨战，1141年决定宗主权的会战",
+      "summary": "葛逻禄与喀喇汗的冲突牵来两位宗主；西辽战胜桑贾尔后保留当地王朝，胜利的回声又在欧洲化为祭司王约翰。",
+      "period": "1137—1143年前后",
+      "category": "战役与异域传说",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 26,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "L48"
+    ],
+    "slug": "gantian-yilie-chengtian",
+    "exportName": "gantianYilieChengtian",
+    "summary": {
+      "slug": "gantian-yilie-chengtian",
+      "seriesId": "liao",
+      "title": "感天皇后之后：一份户籍与一道迁徙令",
+      "subtitle": "塔不烟、夷列、普速完接续的朝廷",
+      "summary": "七年称制、十三年在位与十四年摄政的汉文记录，连起女性掌政与幼主继承；人口登记和葛逻禄迁置显示治理也包含约束与强制。",
+      "period": "1143年后至12世纪70年代",
+      "category": "继承与治理",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 18,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "L49"
+    ],
+    "slug": "pusuwan-zhilugu-crisis",
+    "exportName": "pusuwanZhiluguCrisis",
+    "summary": {
+      "slug": "pusuwan-zhilugu-crisis",
+      "seriesId": "liao",
+      "title": "普速完宫变：射向宫廷的箭",
+      "subtitle": "亲属关系断裂之后，属国关系也在松动",
+      "summary": "承天太后害死丈夫，夫家以兵围宫；直鲁古接过朝廷后，面对的还有花剌子模崛起、贡税抵制和战争中的城市反抗。",
+      "period": "12世纪60年代—1210年",
+      "category": "宫廷与属国危机",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 15,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "L50"
+    ],
+    "slug": "kuchlug-enters-court",
+    "exportName": "kuchlugEntersCourt",
+    "summary": {
+      "slug": "kuchlug-enters-court",
+      "seriesId": "liao",
+      "title": "乃蛮王子进入西辽宫廷",
+      "subtitle": "女婿招回旧部，岳父成了太上皇",
+      "summary": "1209年高昌先行归蒙，屈出律在西辽获得婚姻与招兵机会；1211年突袭夺权后仍尊奉旧汗，随后在喀什、和阗施加衣冠与宗教强制。",
+      "period": "1208—1218年",
+      "category": "宫廷与夺权",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 15,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "L51"
+    ],
+    "slug": "jebe-mountain-hunters",
+    "exportName": "jebeMountainHunters",
+    "summary": {
+      "slug": "jebe-mountain-hunters",
+      "seriesId": "liao",
+      "title": "哲别与山里的猎户",
+      "subtitle": "山谷尽头，一项小范围的协议决定了逃亡者的结局",
+      "summary": "1218年哲别追击屈出律，喀什恢复信仰的宣告与巴达克山猎户的捕人协议各有对象；地方合作使逃亡的统治者失去藏身处。",
+      "period": "1218年",
+      "category": "追击与地方合作",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 6,
+    "independentReview": "complete"
+  },
+  {
+    "queueIds": [
+      "L52"
+    ],
+    "slug": "kirman-after-qara-khitai",
+    "exportName": "kirmanAfterQaraKhitai",
+    "summary": {
+      "slug": "kirman-after-qara-khitai",
+      "seriesId": "liao",
+      "title": "从西辽到起儿曼：延续到哪里为止",
+      "subtitle": "失去王朝的人，把旧名字带进新秩序",
+      "summary": "1218年结束了屈出律统治，契丹人口并未随之消失；布拉黑在波斯建立的新政权以伊斯兰与当地政治取得承认，延续族源和女性政治传统，也改变了制度身份。",
+      "period": "1218—1306年及后世记忆",
+      "category": "王朝终点与族群延续",
+      "eventIds": [],
+      "personIds": []
+    },
+    "recordCount": 11,
+    "independentReview": "complete"
+  }
+]

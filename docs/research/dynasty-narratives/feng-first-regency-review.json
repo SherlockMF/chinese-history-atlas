@@ -1,0 +1,229 @@
+{
+  "date": "2026-09-30",
+  "method": "人工完整通读北魏04 P062–P081共20段，对读魏书卷6、7上、13、33与资治通鉴卷131。逐段登记正文实质承接，乙浑妻与贾秀妻、两代弘宏和年龄等明确校正；尚未核定的出身、刺杀、婚龄保留partial，纯插科与重复另列。未回听音频。",
+  "counts": {
+    "corrected": 10,
+    "partial": 4,
+    "not-needed": 2,
+    "covered": 4
+  },
+  "rows": [
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "young-emperor"
+      ],
+      "note": "承接冯皇后升皇太后和李氏生母，校正继位者为献文帝拓跋弘，宏是下一代孝文帝，不将两代合并。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "young-emperor"
+      ],
+      "note": "承接幼主与太后处境，以乙浑掌实际军政说明太后尊号不自动等于掌权；不采用皇后只有辽朝才可干政的绝对说法。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "young-emperor"
+      ],
+      "note": "补465年乙浑假诏杀臣、升太尉丞相并总朝政，承接幼主面临权臣的主要内容；乙浑具体部属出身和宗室多次行刺未核定。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "princess-title"
+      ],
+      "note": "明确乙浑求公主号的是自己的妻子，不是要贾秀替贾妻求封；限制冯太后忍让至此次才决定诛浑的单一起因。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "princess-title"
+      ],
+      "note": "说明贾秀以公主属于王室女子尊号为由拒绝，贾秀本人亦有爵位；校正贾妻、全无贵族身份和现代正部级式角色替换。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "princess-title"
+      ],
+      "note": "承接贾秀宁死不受后世讥笑与乙浑辱骂，改为史书记载的拒封理由及臂书相辱，不沿用讨封自己妻子的解释。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "princess-title"
+      ],
+      "note": "承接权臣欲使官爵服从个人意志，明确封号争执不等于已知政变唯一起因；乙浑命令皇帝和传话后冯氏起杀心的具体对白、心理没有核成史实。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "arrest"
+      ],
+      "note": "补拓跋丕告变、冯太后收捕诛乙浑和密定大策，限制趁袭、部众失首后迅速被平的战斗复原；现存记载没有完整宫门攻防。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "arrest"
+      ],
+      "note": "承接冯氏决策除掉乙浑的作用，明确不补劫法场与平乱交战；未采用个人决断独力挽救全部局势的扩大评价，谐音别名属口播。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [],
+      "note": "冯婉兰谐音、讲述时长与朋友刘宋笑谈，末尾只泛指历代常见局面，无新增具体历史命题。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "arrest"
+      ],
+      "note": "承接幼主面临权臣与冯太后第一次临朝，补高允、高闾、贾秀参与大政；康熙鳌拜只属类比，不复述跨朝典故。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "newborn"
+      ],
+      "note": "承接467年皇子出生和父亲年轻，以454年七月生、467年八月得子说明十三周岁与传统十四岁，避免混用算法。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "newborn"
+      ],
+      "note": "承接少父年龄引发身世疑问这一议题，明确出生年龄本身不是否定父子关系的证据，说明两朝本纪均记宏为弘长子；不将未给证据的质疑升为事实。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [],
+      "note": "围绕十三岁生子反复相声式打趣，年龄命题已见P073，没有新历史内容。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "newborn"
+      ],
+      "note": "逐一分清献文生母梁国蒙县李氏与孝文生母中山安喜李氏，补前者456年卒及后者父亲李惠，并校正儿子名字为宏。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "newborn"
+      ],
+      "note": "明确宏是后来孝文帝，承接人物身份与后世著名改革者入口；名气比较不构成另一事实命题。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "newborn",
+        "return-government"
+      ],
+      "note": "承接孝文后来的迁洛改姓改革名声及其出生后冯氏还政，区分多年后措施与467年婴儿时点。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "return-government"
+      ],
+      "note": "承接冯太后亲自抚养皇孙，依皇后传记载；不把口播拟写的养老心语当作原话。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "return-government"
+      ],
+      "note": "承接首次临朝结束与亲养皇孙，依据490年卒年四十九推467年传统二十六岁，校正三十出头，并说明后来仍会再临朝。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "feng-first-regency",
+      "sectionIds": [
+        "return-government"
+      ],
+      "note": "承接还政、抚孙与仍年轻；十二岁结婚未获可靠年序支持，不以入宫或册后替代婚龄，留待另核。"
+    }
+  ]
+}

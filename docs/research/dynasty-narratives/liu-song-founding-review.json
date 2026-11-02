@@ -1,0 +1,223 @@
+{
+  "date": "2026-09-30",
+  "method": "逐段通读南朝01 P125–P142，对读宋书2、3、41、43、45、48、晋书10、魏书37及隋书经籍志34，写成七节。原段的易代、杀戮、土地、选官、军府、兵书和托孤分别判断；未回听音频，未将部分案例扩作全国性普遍制度。完成独立交叉复核，收紧P130覆盖判定，校正六帝计数措辞及421年时间表达。",
+  "counts": {
+    "corrected": 8,
+    "covered": 2,
+    "partial": 7,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "duke-king-emperor",
+        "two-last-emperors"
+      ],
+      "note": "核相国、扬州牧、宋公与安帝被杀、德文继立的次序；按晋纪义熙十四年十二月说明，纠正因安帝成年难控制而杀之的简化，未自行把史书谶言坐实为唯一动机。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "duke-king-emperor"
+      ],
+      "note": "宋书记419年正月授进王、七月受命，十二月备天子仪仗，分别说明增十郡与礼制，不沿原段将诸事一并系十月。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "duke-king-emperor"
+      ],
+      "note": "420年司马德文禅位、晋宋易代与国号承自宋公宋王已完整承接，并说明刘宋称法。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "two-last-emperors"
+      ],
+      "note": "补安帝与恭帝不同遇害经过，司马楚之生存为全杀断言的反证；不把年长与听话当已经证实的杀立原因。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "two-last-emperors",
+        "four-ministers"
+      ],
+      "note": "反证司马氏全灭并补刘裕称帝两年后去世；原段杀六帝的具体计数对象与杀俘责任未逐一梳理，屠龙譬喻未照搬。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "two-last-emperors",
+        "mountains-and-households",
+        "talent-and-family"
+      ],
+      "note": "以易代杀戮和实际治理措施承接有能力又严酷的评价，保留出身与自我理解的区别，不杜撰自白。 出身寒微及其自我理解未在本篇具体展开，保留部分承接。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "talent-and-family"
+      ],
+      "note": "自认被门阀耽误一生的固定心理无本人材料可核；正文仅说明主播解释的证据边界，不将提示边界计为实质证实。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "mountains-and-households"
+      ],
+      "note": "补411人口整顿、413禁占山泽及土断，分开称帝前后；不能将这些措施写成全国没收皇室士族私产并统一分田，特定分田个案仍待另核。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "talent-and-family",
+        "mountains-and-households"
+      ],
+      "note": "核411依旧策试及421实际考试任用，仍以州郡推荐为前提；不写全面终止出身选官，不将土断解释成普遍分生产资料。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "talent-and-family"
+      ],
+      "note": "王镇恶为王猛之孙、王休之子，流寓贫困不等于所有将领均寒门；承接用人变化并限制从刘裕直线推至隋唐选官的因果。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "limits-on-staff"
+      ],
+      "note": "保留荆州府置将二千、吏一万的数字，按421诏令明确兵士不在限额；将吏不能笼统改成地方全部军队裁至二千，桓玄崛起详在前篇。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "limits-on-staff"
+      ],
+      "note": "核州置将五百、吏五千，连接按实户设置与征役整顿；未把裁限直接算成已测得的全国税负降幅，也不概括所有其他地方按统一更低数字递减。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "battle-and-books",
+        "limits-on-staff"
+      ],
+      "note": "具体补却月阵车岸弩与增援的配合，辨隋志皇帝兵法传神人书与亲笔著述；原段所指现代论文未具名，未据其重建完整军事学说。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "battle-and-books",
+        "four-ministers"
+      ],
+      "note": "承接军功与身后安排，核长子刘义符生母张夫人而非臧皇后，纠正嫡长子称谓。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "four-ministers"
+      ],
+      "note": "补齐徐羡之、傅亮、谢晦、檀道济四顾命及临终分别评价与军府安排，衔接后续继承危机；不把夸张赞语或后代宫闱预告写成事实。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "mountains-and-households",
+        "talent-and-family",
+        "four-ministers"
+      ],
+      "note": "把节目对改革的赞赏落到具体禁令与保留的社会关系；未承接此前中国史无人减豪强或向民分配财富的全称比较。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "mountains-and-households",
+        "talent-and-family",
+        "four-ministers"
+      ],
+      "note": "承接政策对时局的回应及评价限度，未作完整南北魏制度平行比较，穿越感不改成客观史实。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "liu-song-founding",
+      "sectionIds": [
+        "mountains-and-households",
+        "talent-and-family",
+        "four-ministers"
+      ],
+      "note": "说明门第、官僚、军府仍在运作及新朝继承难题，保留制度变化的讨论；没有据一次易代断言整个门阀制度已经结束。"
+    }
+  ]
+}

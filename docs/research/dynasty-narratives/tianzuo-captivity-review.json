@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11根代理独立复核：逐P对读原稿、正文及史源；辽末话本与史载分层，宗王与齐妃有出处情节补入，西迁纪年及亲属异说保留。独立语义核对完成；音频未回听，partial不作全段覆盖。",
+  "counts": {
+    "corrected": 8,
+    "not-needed": 4,
+    "covered": 4,
+    "partial": 2
+  },
+  "rows": [
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [
+        "last-flight"
+      ],
+      "note": "1125被获与押送分开，南京即见故人不作事实。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [],
+      "note": "拘留所姓氏拟对白。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [
+        "letter-and-war"
+      ],
+      "note": "徽宗招纳与钦宗相逢分开；伐宋不归结艺术神经。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [
+        "letter-and-war"
+      ],
+      "note": "皇兄礼、燕越二王、千间宅、女乐许诺据北征纪实承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [
+        "letter-and-war"
+      ],
+      "note": "金知往来及宋金多项争执承接，不采截信唯一导火索。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [
+        "meeting-tradition"
+      ],
+      "note": "宣和遗事相逢属于钦宗线，不是徽宗。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [],
+      "note": "猜测是否见过面无可考新增事件。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [],
+      "note": "姓氏、瘦金体认人拟对白。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [
+        "meeting-tradition"
+      ],
+      "note": "执手私语、皇天和分居传说承接，明确原文留白。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [
+        "death-tradition"
+      ],
+      "note": "辽史病终年54并未写第二年；茆斋自叙另说踰年。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [
+        "death-tradition"
+      ],
+      "note": "存活海陵时代仅属话本；身后迁葬不作存活证据。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [
+        "death-tradition"
+      ],
+      "note": "海陵遇害传统保留，扮猎物未核。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [],
+      "note": "海陵与天祚拟对白。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P183",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [
+        "death-tradition"
+      ],
+      "note": "话本射杀为马球场景，不采用扮猎物。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P184",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [
+        "death-tradition"
+      ],
+      "note": "原文箭中延禧承接，夺弓反射未核。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [
+        "death-tradition"
+      ],
+      "note": "喜爱异说与相信史实区分的编辑解读承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P186",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [
+        "last-flight"
+      ],
+      "note": "1125原境辽朝终结与大石延续区分。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P206",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tianzuo-captivity",
+      "sectionIds": [
+        "meeting-tradition"
+      ],
+      "note": "耳语无记录的留白解释承接。"
+    }
+  ]
+}

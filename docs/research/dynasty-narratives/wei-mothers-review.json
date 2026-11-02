@@ -1,0 +1,259 @@
+{
+  "date": "2026-09-30",
+  "method": "人工逐段复读北魏03 P020–P030/P051、北魏05 P004–P008、北魏06 P012–P016共22段；对照魏书太宗/显祖/高祖/世宗纪、后妃与外戚传及相关通鉴原文。分开明确赐死、仅记薨、后世推测和制度转折；未回听音频。",
+  "counts": {
+    "covered": 3,
+    "corrected": 12,
+    "partial": 7
+  },
+  "rows": [
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "liu"
+      ],
+      "note": "写嗣为道武长子、生母为独孤部刘眷女，并引出以继承安排处死生母的做法。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "liu"
+      ],
+      "note": "刘氏被赐死与防范妇人外戚干政的理由均已写；史载当时为齐王、父言将继统，不虚构已经完成的太子册立仪式。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "liu",
+        "flight"
+      ],
+      "note": "展开母死后的悲哭及父亲解释，以392年出生至道武末年限定为十余岁少年；不补原段想象的亲子质问对白或诊断童年创伤。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "liu"
+      ],
+      "note": "写父亲援引汉武帝钩弋旧事、以防妇人外戚参与朝政解释母死，承接制度理由；未将口头为你好扩成史书原话。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "liu",
+        "nurses",
+        "different-mothers"
+      ],
+      "note": "解释子贵母死针对储位继承及窦常保太后事例，以杜氏仅记薨限制所有母亲必须死的绝对化；不把别朝全无此事作普遍断言。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "nurses"
+      ],
+      "note": "写窦常养育皇帝后尊保太后及皇太后；以窦氏权力与弟弟封王说明无血缘不等于无政治影响，不采人人自动晋封或专为便于杀养母而设的推测。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "flight"
+      ],
+      "note": "日夜哀哭、父亲因而震怒和随后召见已承接；此刻因服散发热而嫌哭的具体情境、反复劝过几次，史料未明确，未写成事实。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "flight"
+      ],
+      "note": "写父亲闻哭震怒再召见，并明确史料没有交代把哭泣当控诉或嫌儿子软弱的心理；不沿用已经立太子的身份。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "flight"
+      ],
+      "note": "完整承接左右以小杖受大杖避劝逃的理由；仅称齐王身边左右，不将其扩写为已立太子的成形政治党派。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "flight"
+      ],
+      "note": "写若任父杀己便使父陷不义的劝谏核心；力微与沙漠汗的跨代类比未在本篇重述，未为拓跋珪补死后必悔的心理。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "flight"
+      ],
+      "note": "出亡、绍弑后返回、诛绍即位的次序写清；校正为十余岁继承人的经历，不概称太宗幼童时代的心路。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "different-mothers"
+      ],
+      "note": "独立讨论太武生母杜氏：420年仅记薨，422年立储在后；无法据通例判她被杀，明确限制无一幸免之说。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "feng"
+      ],
+      "note": "写467出生、469立储，三岁为传统计岁并联系母后处境；父献文弘与子孝文宏同音及为何这样取名的问题未考。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "feng"
+      ],
+      "note": "写冯亲养幼帝后罢听政，并据史载年龄限定当时二十多岁；李氏469年去世仅有薨字，未确证冯下令赐死；因对献文失望而把希望全转孙儿的心理未采。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "feng"
+      ],
+      "note": "具体写478年李惠受诬及弟、子、后妻遇害，与469生母去世分开；列逃免亲属及后续寻访，纠正母系一支全杀的无例外说法，也不以权欲概括全部动机。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "feng"
+      ],
+      "note": "解释拓跋宏后来称元宏，496年皇室改姓；汉化各项政策与一生最大政绩的综合评价不在本篇展开。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "feng"
+      ],
+      "note": "三岁立储五岁即位、471内禅及太上皇继续处理政务出征均写，明确名位交接不等于实际掌政立即改变。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "hu"
+      ],
+      "note": "承接宣武时512立诩母胡获免，并限制仁慈为唯一原因；北战柔然、南攻、起义、贪污和国运衰落的综合叙事未在制度篇展开。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "feng",
+        "hu"
+      ],
+      "note": "写李惠家族打击及幸存者、胡生诩立储未死，并校当时为充华嫔、后来为太后；冯下令赐死孝文生母的细节尚未获明确原典，保留缺口。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "attempt",
+        "hu"
+      ],
+      "note": "宣武为孝文次子、元恂废后497改立、立储已十余岁，胡未被杀均写；将其母高氏暴薨及被害传闻与子贵母死分开，不把信佛直接当作废制唯一因果。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "attempt",
+        "hu"
+      ],
+      "note": "承接宣武少年立储与丧母背景，明确不能据此补造受刺激后决意废制的心理誓言；以512具体不杀之事承接实际改变。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-mothers",
+      "sectionIds": [
+        "hu"
+      ],
+      "note": "写515正月患病继而卒、史载三十三岁、499至515约十六年；不以仁善推成善终因果，不用一句全朝罕见替代各帝死因核查。"
+    }
+  ]
+}

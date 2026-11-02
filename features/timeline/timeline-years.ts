@@ -4,6 +4,11 @@ import type { HistoricalEvent } from "@/types/history";
 
 import type { SubjectTrack } from "./timeline-filters";
 
+export function getRecordedEventYears(events: HistoricalEvent[], series: HistorySeriesConfig) {
+  const byYear = getTimelineEventsByYear(events, new Set(series.trackIds), series);
+  return [...byYear].filter(([, items]) => items.length).map(([year]) => year);
+}
+
 export function getTimelineEventsByYear(events: HistoricalEvent[], selected: ReadonlySet<SubjectTrack>, series: HistorySeriesConfig = fiveDynastiesConfig) {
   const byYear = new Map<number, HistoricalEvent[]>();
   for (let year = series.timelineMinYear; year <= series.timelineMaxYear; year++) {

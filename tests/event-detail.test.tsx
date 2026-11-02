@@ -7,6 +7,13 @@ import { MAX_YEAR, TIMELINE_MIN_YEAR } from "@/lib/history/year-range";
 import { LocalHistoryRepository } from "@/lib/repositories/local-history-repository";
 
 describe("EventDetail", () => {
+  it("offers a validated return to the originating map narrative step", async () => {
+    const event = await new LocalHistoryRepository().getEvent("wuyue-founded");
+    if (!event) throw new Error("fixture event missing");
+    const href = "/series/jin-sixteen-kingdoms/map?year=383&sequence=fei&step=battle";
+    render(<EventDetail event={event} relations={[]} relatedEvents={[]} mapReturnHref={href} />);
+    expect(screen.getByRole("link", { name: "返回地图推演" })).toHaveAttribute("href", href);
+  });
   it.each([
     { year: "902", expected: 902 },
     { year: "875", expected: 875 },

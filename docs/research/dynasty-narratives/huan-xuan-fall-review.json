@@ -1,0 +1,326 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读南朝01 P061–P088共28段，对读既有两晋事件骨架及宋书1、晋书99、通鉴112—114；分开402掌权/403称帝、404追击/405返京、406请赏/408受职，按每段实质承接记录余项，不以名词或引文范围代替覆盖判断。保留北方支线、拟心理及威胁对白等余项；未回听音频，baseline照录。 已完成独立逐段交叉复核，并按反馈修正台账用语与过满判定。",
+  "counts": {
+    "partial": 16,
+    "covered": 8,
+    "corrected": 4
+  },
+  "rows": [
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "a-surrender"
+      ],
+      "note": "承接孙恩之乱消耗军力、京师受威胁与荆江方镇扩张；北府军损耗程度及中央一弱各地必然迅速膨胀的概括没有逐项量化或采用为单一因果。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "a-surrender"
+      ],
+      "note": "承接桓玄以荆江为基地、桓氏家世及出兵向建康推进，明确其父为桓温，并把402年双方出兵放回司马元显与方镇争权背景。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "a-surrender"
+      ],
+      "note": "司马元显命刘牢之拒玄、刘裕随军已承接，补晋书所记惧玄势强与忧功高不容、通鉴借玄除执政的多重顾虑；原段没有说只有打不过这一原因，不作纠错，暂时实力不匹敌的具体判断未获独立证实。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "a-surrender"
+      ],
+      "note": "完整承接刘牢之派子请和转为请降、刘裕主张出战而被拒，以及刘敬宣与何无忌的劝阻；不拟写主持人口语式劝战对白。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "chu-court"
+      ],
+      "note": "承接入建康、安帝被废及桓玄称帝建楚，补明确402年控制朝廷与403年十二月代晋是两步；原段只叙前后未明言同年，不把补年月本身计作纠错。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "chu-court"
+      ],
+      "note": "承接北方仍有多国并立，以403年后秦、南燕、后燕、北魏为具体背景；转写中的苻坚晋等混杂称谓与后来北魏统一的全过程未展开，不因一句未统一就算全段已补。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "chu-court"
+      ],
+      "note": "国号楚、后世称桓楚，以及晋安帝皇位被取代的核心已写；借姓区分政权，不把后世常用称呼当桓玄另定的正式双字国号。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "chu-court"
+      ],
+      "note": "承接刘裕暂留桓氏体系、等待起兵时机，并写会稽路远和玄未篡位的具体顾虑；羽翼未丰及主角必杀最终敌人的反事实叙事未当确证动机。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "chu-court"
+      ],
+      "note": "承接刘裕在桓氏部下任职、王谧作为旧识与桓玄对刘裕的认识；前文王氏贵人预言一代英雄的完整旧恩故事留在身世篇，本篇不因提名王谧便算重新展开，楚字不吉利为插话。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "chu-court",
+        "jingkou-plot"
+      ],
+      "note": "承接刘裕获中兵参军、声望与秘密图玄；依宋书明确任用者为镇丹徒的桓修，不能写成桓玄本人直接授该职，并展开旧部联合的过程。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "jingkou-plot"
+      ],
+      "note": "北府旧将被清洗、何无忌为刘牢之外甥、联合刘毅等均展开；并列宋书沛郡与晋书彭城沛人，不能据前者纠错彭城说，两刘同一支家族的世系仍未证实。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "jingkou-plot"
+      ],
+      "note": "承接旧将处境恶化后共同起兵、刘裕被推盟主；不把所有同谋必然被杀及完全出于自保写成已经证实的内心动机，也未沿用袁绍类比。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "chu-court",
+        "jingkou-plot",
+        "fuzhou-battle"
+      ],
+      "note": "此前有人劝防刘裕、桓玄仍欲用其才能、起兵后派吴甫之和皇甫敷及二将败死皆已写；桓玄因称帝松懈便不信警告的单一心理解释未采用。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "jingkou-plot"
+      ],
+      "note": "恢复晋室的号召、安帝被废后的政治名义完整承接，并用起兵檄文与各地响应计划展开；区分檄文宣传与已实现的行动。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "fuzhou-battle"
+      ],
+      "note": "承接刘裕军向建康推进并最终进驻石头城，补江乘、罗落桥、覆舟山的行军与交战次序；沿途不断招收东晋及北府余部的具体过程未展开。石头为随后进驻地点，原段只说打到此地不另算错误。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "jingkou-plot",
+        "fuzhou-battle"
+      ],
+      "note": "承接北府旧将被杀、桓谦军士多北府人而畏服刘裕缺乏斗志；桓玄临阵才发现军队组成及士卒对任何指挥者都无所谓的概括未经证实，不推及所有军队。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "fuzhou-battle"
+      ],
+      "note": "承接北府关系与战意影响、刘裕进攻取胜；具体写分队突阵与纵火，原段以情感牌立即反转并包围桓玄的完整战术过程未获同等史料支持，不作已覆盖。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "fuzhou-battle",
+        "upriver"
+      ],
+      "note": "败逃江陵、西走求入蜀、桓玄被杀与晋室恢复均展开；明确斩玄者为益州毛璩一方的冯迁，不径作刘裕直属部下，幼子桓昇随父逃而非领兵迎敌，桓振反复与405返京补足时序。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "upriver"
+      ],
+      "note": "承接迎回原来的晋安帝、桓玄确已称帝而被击败的核心；六味地黄丸是主持人称号插话，不据此另造史籍中的六帝名录。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "chu-court",
+        "upriver"
+      ],
+      "note": "承接桓玄确曾建立楚政权、帝位被刘裕等起兵终结；药名和给面子的戏谑不影响事实承接。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "upriver"
+      ],
+      "note": "承接刘裕由部下升为可直接影响晋廷的复国功臣；桓楚若延续数十年的历史假设和刘裕就是曹操的类比未展开，不把新局面写成已独掌天下。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "upriver",
+        "honours-and-rewards"
+      ],
+      "note": "承接安帝返京、刘裕选择辞让及同谋各有功劳和部众；恐一家独大、树敌而只求实利的内心解释未作为逐次辞让的确定原因。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "honours-and-rewards"
+      ],
+      "note": "以405辞部分显职却受扩大的都督权、406封邑赐绢及408入辅，纠正始终只收地盘而拒所有官号礼遇的绝对说法；区分名义军政辖权与私人田地产权。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "honours-and-rewards"
+      ],
+      "note": "共同成事不可独占功劳已由406表章承接；宋书所记豫章郡公、万户与三万匹绢反证一概不要名号财物，未把所有赏赐都写成必然树敌。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "honours-and-rewards"
+      ],
+      "note": "承接刘裕为复国将士请赏，展开406年上表、1848人分类及西征军另报；赏典包括爵邑财物，未把请求改造成将个人全部奖金转赠士兵。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "honours-and-rewards"
+      ],
+      "note": "承接将士各获封赏及请赏可维系共同举事者关系；全体士兵只感激刘裕、绝不念晋帝的集体心理未证，不以封赏记载代替其心声。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "twelve-prefectures"
+      ],
+      "note": "承接刘裕遣使向后秦求地及威望上升，具体写405年求和、姚兴回应和十二郡归晋；对所有北方小政权统一发号施令及司马元显时代已过的拟对白未采。"
+    },
+    {
+      "file": "南朝01_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huan-xuan-fall",
+      "sectionIds": [
+        "twelve-prefectures"
+      ],
+      "note": "承接复国后刘裕成为北方政权须面对的力量、继续向外发展的转折；不还地便动兵的威胁及北方各国全都慑服未获本次交涉史源支持，屠龙称号为插话。"
+    }
+  ]
+}

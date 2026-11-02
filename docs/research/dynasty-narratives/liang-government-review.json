@@ -1,0 +1,366 @@
+{
+  "date": "2026-10-02",
+  "method": "S18：已完整阅读本篇所列原段，对照正文及列明原典逐段自审；子代理起草，主代理已独立阅读全文原段、原典与逐段台账并完成交叉复核；页面验证待补。未回听音频；基线保持不变。",
+  "counts": {
+    "partial": 19,
+    "not-needed": 1,
+    "corrected": 7,
+    "covered": 5
+  },
+  "rows": [
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "people-and-families"
+      ],
+      "note": "展开用人与出身，不将现代阶级反思措辞当萧衍自述。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "liang-government",
+      "sectionIds": [],
+      "note": "刘裕与猪王插话无需在治理正文复述。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "people-and-families"
+      ],
+      "note": "写资源与任官并非平均分配，不接受宋齐全体打压士族的单线论。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "people-and-families"
+      ],
+      "note": "承接门第影响，不断言所有国家资源永远仅由一类人掌握。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "people-and-families"
+      ],
+      "note": "通过人事个案解释兼用，不把平衡二阶层当已证完整政策纲领。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "people-and-families"
+      ],
+      "note": "说明孤贫与家世不重合，未给寒门一刀切定义。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "people-and-families"
+      ],
+      "note": "写旧官与新朝关系，未称此前宋齐对所有贵族只打压。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "people-and-families",
+        "promotion"
+      ],
+      "note": "范云荐周舍，徐勉和周舍家世据传核，不能三人一律无门第出身。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "people-and-families"
+      ],
+      "note": "承接实际经验受重视，不宣称矛盾已被完全平衡解决。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "promotion"
+      ],
+      "note": "良吏含县令郡守，不能机械对应现代官/办事吏双轨。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "people-and-families",
+        "promotion"
+      ],
+      "note": "不把士族都闲置、寒门全实务当史实；升迁按传中的地方官规则。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "promotion"
+      ],
+      "note": "准确写小县到大县到二千石，未虚构普遍县吏到中枢自动通道。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "before-dawn"
+      ],
+      "note": "承接勤政反思，皇帝从吏做起玩笑不写。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "before-dawn"
+      ],
+      "note": "写四更竟持烛理政、手皴裂；不固定现代四点。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "before-dawn"
+      ],
+      "note": "承接清廉要求并注明执行不一，冻疮诊断不作事实。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "before-dawn",
+        "two-boxes"
+      ],
+      "note": "以黜陟要求及上达渠道承接，纠正一经发现必严办的绝对概括。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "two-boxes"
+      ],
+      "note": "写公车府谤木肺石旁置函及其目的。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "two-boxes"
+      ],
+      "note": "肺石函为功才冤抑申诉，不是公职人员专箱。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "two-boxes"
+      ],
+      "note": "谤木函议政，不是平民专箱；不把全民现代权利概念套入。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "two-boxes"
+      ],
+      "note": "承接约束官员的制度意图，不声称已证全国拥护与全面畅通。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "law-and-rites"
+      ],
+      "note": "写503蔡法度上律令科及卷数，未虚构与北齐律齐名的统一评比。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "law-and-rites"
+      ],
+      "note": "保留制度试验的解释，不一节包揽民族与所有阶层变迁。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "law-and-rites"
+      ],
+      "note": "说明继受非单线，未称隋律整体严苛或全直接承梁律。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "law-and-rites"
+      ],
+      "note": "承接梁律成就，并区分评价与确定完成所有历史使命。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "six-hundred-volumes"
+      ],
+      "note": "承接经学讲授、史学投入及编纂。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "six-hundred-volumes"
+      ],
+      "note": "写皇帝学术与政治作用，不把所有史书均其亲授推论为事实。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "law-and-rites",
+        "six-hundred-volumes"
+      ],
+      "note": "写五礼、讲学、通史；不笼统称今史皆该时修成。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "six-hundred-volumes"
+      ],
+      "note": "承接长时段观察价值，不接受断代必看不透。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "six-hundred-volumes"
+      ],
+      "note": "保留联系朝代看问题的方法；节目追录过程不写。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "six-hundred-volumes"
+      ],
+      "note": "确认六百卷、亲制赞序，不把南北史学开山排名当事实。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "six-hundred-volumes"
+      ],
+      "note": "引梁书35众史可废并展开臣下应答。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-government",
+      "sectionIds": [
+        "six-hundred-volumes"
+      ],
+      "note": "说明帝王史学用途为理解，原书未全存不能认定等同资治通鉴；关羽聊天不写。"
+    }
+  ]
+}

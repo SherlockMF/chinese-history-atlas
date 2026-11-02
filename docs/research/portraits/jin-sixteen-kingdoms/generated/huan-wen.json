@@ -1,0 +1,13 @@
+{
+  "id": "huan-wen",
+  "name": "桓温",
+  "representativeAge": 44,
+  "prompt": "Use case: historical-scene\nAsset type: 中国历史网站人物独立画像\nPrimary request: 创作桓温的艺术想象肖像，画中约44岁。成年男子，长方脸、深眼窝、浓眉、整齐浓黑胡须，灰蓝交领袍与赭色披衣、简洁冠帽，目光锐利但不夸张。\nStyle/medium: 细腻水彩与墨线手绘，参考本站已有画像的温润纸纹、写实面部和柔和晕染质感；这是一张全新独立面孔，不复制他人面容。\nComposition/framing: 竖幅3:4，一位成年人物，胸部以上半身像，轻微三分之四侧身，脸部和完整头饰清楚，头顶留白，人物占画面约八成，背景为朴素暖米色纸面。\nColor palette: 克制的朱砂、赭石、青灰、墨黑。\nConstraints: 服装轮廓谨慎参考中国三至五世纪，避开明清式冠服、辫发和戏曲盔甲；容貌与服饰细节均为艺术想象，不宣称真实复原；无文字、题款、边框、标志、水印、旁人、道具或场景。",
+  "reference": null,
+  "note": "画中约44岁，为创作设定；未采用传世本人肖像，容貌、神态及服饰细节为艺术想象。",
+  "generator": "built-in image_gen",
+  "original": "C:/Users/84754/.codex/generated_images/01a0de1c-6589-7070-84b0-bc1880b1e620/exec-cb1d643d-a013-4ce8-9f18-632c52f72e07.png",
+  "asset": "public/portraits/jin-sixteen-kingdoms/huan-wen.webp",
+  "width": 1086,
+  "height": 1448
+}

@@ -1,0 +1,329 @@
+{
+  "date": "2026-09-30",
+  "method": "完整读隋中P070–097二十八段，对读隋书2、3、45、61与通鉴179，补成八节。校正辞母与结杨素的顺序、云氏三子、废立分月、怨望报告与后期癫鬼说；区分史家叙述、当事人指控和现代诊断，所有段落逐一判定，未回听音频。",
+  "counts": {
+    "partial": 6,
+    "covered": 8,
+    "corrected": 13,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "staged-frugality"
+      ],
+      "note": "杨广察知父母偏好并经营形象承接；两位孙子的不同待遇未在本篇完整重述，详见前篇，不能据此算本篇全段覆盖。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "staged-frugality"
+      ],
+      "note": "藏姬妾、朴素衣饰屏帐、故断乐弦及夫妇共同接待均承接；萧妃内心完全配合所有阴谋、两人感情的推想不作为已证情节。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "staged-frugality",
+        "envoys-and-wager"
+      ],
+      "note": "不好声色的外观与接近关键重臣杨素两条行动都具体展开。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "envoys-and-wager"
+      ],
+      "note": "补足宇文述、杨约姓名与通过弟弟接近杨素的路径；高颎只管文政杨素只管打仗的全朝分工概括未采用。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "envoys-and-wager"
+      ],
+      "note": "共博佯败输尽晋王金宝有隋书明文；改正现代纸牌麻将点炮意象，史源未说明此处为该类玩法。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "envoys-and-wager"
+      ],
+      "note": "金宝来自晋王、杨约惊问与宇文述以文帝身后政治风险游说完整承接。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "envoys-and-wager",
+        "testing-the-empress"
+      ],
+      "note": "杨约转告杨素、杨素入宴试后意承接；原稿不接橄榄枝便遭晋王报复的口语威胁改为史载保全地位的游说，不造晋王直接威胁。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "staged-frugality",
+        "testing-the-empress"
+      ],
+      "note": "杨广军职声望及杨素向皇后称其德行承接；战场交情如何直接决定杨素倒向、在宴上夸其勇猛的具体说法未见所引段落证明。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "testing-the-empress",
+        "envoys-and-wager"
+      ],
+      "note": "杨素探明独孤氏意向、皇后赠金、宫内外往来写明；独孤氏此时是皇后非太后，不把带回消息作为已核的独立对白场景。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "farewell-to-empress"
+      ],
+      "note": "元妃病亡、皇后不满承接；依本传放在辞母及结杨素之前，去世年龄不由无子倒推。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "farewell-to-empress"
+      ],
+      "note": "入朝将还扬州而辞母的场景落实；云氏生三子不是五子，元氏云氏转写混淆按谱表校正，不以没孩子推定长期未同居。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "staged-frugality"
+      ],
+      "note": "杨广美姿仪、军职与才学有据并展开；五兄弟皆英俊与母亲因容貌偏爱所有因果未获足够证据。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [],
+      "note": "录音主持人的容貌自嘲与工作插话，不含需补的古代事实。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "staged-frugality"
+      ],
+      "note": "合乎父母偏好的家庭形象承接；外貌必然加分与看儿子处处顺眼的心理概括不当作可复原事实。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "farewell-to-empress"
+      ],
+      "note": "辞母由哭泣转入对兄长的诉说按本传展开，不另造皱眉或请母亲瞒父的节目对白。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "farewell-to-empress"
+      ],
+      "note": "杨广声称常守兄弟之意却失爱东宫、担忧谗害的诉说明确为他的主张，不以此坐实杨勇已拟杀弟。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "farewell-to-empress"
+      ],
+      "note": "诉惧遭害激起皇后对元妃死因与宠云氏的不满承接；病卒记录与毒杀指控分开，五子数字校为本传三子。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "farewell-to-empress"
+      ],
+      "note": "豚犬原词、东宫无正嫡与诸弟将拜云氏之子的继承忧虑承接；不让辱骂成为五子数量的证据。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "doorway-test",
+        "eyes-in-eastern-palace"
+      ],
+      "note": "通过监视、收买姬威与杨素报告具体展开谗毁；纠正太子全无其他问题的绝对化叙述，同时不承认全部告发真实。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "doorway-test",
+        "eyes-in-eastern-palace"
+      ],
+      "note": "文帝遣杨素察看、元妃之外的东宫宴饮与拒谏问题写明，不把废储仅归于与正妻无子。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "doorway-test",
+        "eyes-in-eastern-palace"
+      ],
+      "note": "派去察看者已参与晋王谋划、杨勇察觉不安的局面完整承接；不沿用转写所误杨招人名。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "doorway-test"
+      ],
+      "note": "杨素迟不入、杨勇束带待见被激怒及言色变化按史源写明；等待者是杨勇，回报先是怨望恐变而非已诊断疯狂。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "doorway-test",
+        "eyes-in-eastern-palace"
+      ],
+      "note": "怨望与其他被转述言语按告发场景展开；纠正把精神失常报告提前到首次察看，后期鬼祟说另在废后申诉节写。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "doorway-test",
+        "eyes-in-eastern-palace",
+        "court-deposition"
+      ],
+      "note": "废储与元旻、杨孝政、李纲劝阻具体化，区分不同反对者遭遇；不把多段诬陷简写成太子说气话即立刻被废。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "court-deposition",
+        "blocked-appeal"
+      ],
+      "note": "先废勇后立广、杨勇屡次求见而被杨广拦截完整承接，补足十月与十一月的时序。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "blocked-appeal"
+      ],
+      "note": "爬树呼喊的是杨勇；杨素以癫鬼说阻其申诉及终未因此获见写明，不作现代精神疾病诊断，也不把正文限定扩写为每次父子接触都可考。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "blocked-appeal"
+      ],
+      "note": "杨勇囚东宫、交新太子杨广掌管的安排有本传及通鉴明文并已写入。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-guang-succession",
+      "sectionIds": [
+        "blocked-appeal"
+      ],
+      "note": "新储君看管旧储君、父亲信任传话者的处境与后见之明界限承接，结尾由具体信息传递过程解释其后果。"
+    }
+  ]
+}

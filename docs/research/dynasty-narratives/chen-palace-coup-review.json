@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-03",
+  "method": "2026-10-11 root独立亲读全部13原P及陈书6/7/36、通鉴175；核父卒甲寅、宫变乙卯、即位丁巳，母后非自家皇后，已有同谋非所有人不知，磨刀误会与三阁。音频未回听。",
+  "counts": {
+    "covered": 4,
+    "partial": 4,
+    "corrected": 5
+  },
+  "rows": [
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-palace-coup",
+      "sectionIds": [
+        "medicine-knife"
+      ],
+      "note": "陈顼病重、三子入侍的开场进入首节。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-palace-coup",
+      "sectionIds": [
+        "medicine-knife"
+      ],
+      "note": "太子叔宝、始兴王叔陵、长沙王叔坚的身份分清。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-palace-coup",
+      "sectionIds": [
+        "medicine-knife"
+      ],
+      "note": "叔陵起念保留；“文艺可欺”的因果推断不作定论。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-palace-coup",
+      "sectionIds": [
+        "medicine-knife"
+      ],
+      "note": "磨药刀场景采用；“该死的还不死”原话未据史书采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-palace-coup",
+      "sectionIds": [
+        "escape-to-east-palace"
+      ],
+      "note": "木剑误会说明取剑亲随不懂当下用意，不采用从未告诉任何同谋的绝对说；陈36载韦谅等参与谋议。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-palace-coup",
+      "sectionIds": [
+        "medicine-knife"
+      ],
+      "note": "左右取剑的误会采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-palace-coup",
+      "sectionIds": [
+        "medicine-knife"
+      ],
+      "note": "木剑与剉药刀采用；“上点药一会儿就好”改写为伤势不轻、难以视朝。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-palace-coup",
+      "sectionIds": [
+        "white-poplar-road"
+      ],
+      "note": "平乱自寅至巳、诸子赐死采用；当日正式登基改为两日后即位。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-palace-coup",
+      "sectionIds": [
+        "recovering-emperor"
+      ],
+      "note": "养伤听政受限的处境采用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-palace-coup",
+      "sectionIds": [
+        "recovering-emperor"
+      ],
+      "note": "柳太后裁决与张丽华侍侧采用；“天天吟诗作对”的场面不作定论。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-palace-coup",
+      "sectionIds": [
+        "three-pavilions"
+      ],
+      "note": "节俭对照采用；不说陈霸先/陈蒨/陈顼皆同一段创业经历，不凭艺术气质断重建动机。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-palace-coup",
+      "sectionIds": [
+        "three-pavilions"
+      ],
+      "note": "三阁、珠帘宝床采用；全拆旧宫无据，未写为建设命令。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-palace-coup",
+      "sectionIds": [
+        "three-pavilions"
+      ],
+      "note": "香闻数里按史书描绘分层，不作可测量事实。"
+    }
+  ],
+  "independentReview": "root-completed"
+}

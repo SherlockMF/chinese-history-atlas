@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-11",
+  "method": "起草后由根代理独立逐段对读原逐字稿、正文、定位与相关史源；按实际内容保留partial/uncertain，不回听音频。见cross-review-l45-l52.md。",
+  "counts": {
+    "covered": 3,
+    "corrected": 2,
+    "partial": 1
+  },
+  "rows": [
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "jebe-mountain-hunters",
+      "sectionIds": [
+        "religious-proclamation"
+      ],
+      "note": "哲别奉命追击、屈出律弃喀什逃走承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jebe-mountain-hunters",
+      "sectionIds": [
+        "valley-and-bargain"
+      ],
+      "note": "巴达克山历史范围与地方反抗承接，非仅阿富汗或全路线因剃头。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jebe-mountain-hunters",
+      "sectionIds": [
+        "valley-and-bargain"
+      ],
+      "note": "山谷险路及附近猎户熟地形承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P183",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jebe-mountain-hunters",
+      "sectionIds": [
+        "religious-proclamation",
+        "valley-and-bargain"
+      ],
+      "note": "猎户交人不再索求及喀什各从其教分开，不扩大全区永久免税免掠。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P184",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jebe-mountain-hunters",
+      "sectionIds": [
+        "valley-and-bargain"
+      ],
+      "note": "猎户捕交、蒙古军处死及猎户所得财物承接，固定奖赏动机不编。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P195",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jebe-mountain-hunters",
+      "sectionIds": [
+        "religious-proclamation"
+      ],
+      "note": "本篇仅承接首句蒙古最终结束屈出律统治；起儿曼延续在L52，非全波人当即逃迁。"
+    }
+  ]
+}

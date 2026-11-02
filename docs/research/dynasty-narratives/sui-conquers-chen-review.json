@@ -1,0 +1,220 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读隋上P108—P125共18段，对读周书48、隋书1/3/48、陈书6、通鉴176/177及汉晋纪传；按实际正文承接逐P复查，保留小说版本、现代井址及反事实评价余项。未回听音频；baseline原判照录。",
+  "counts": {
+    "covered": 4,
+    "corrected": 7,
+    "partial": 6,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "jiangling"
+      ],
+      "note": "承接西梁萧氏、襄阳—江陵来历及萧察为萧衍之孙；原段未明确把萧琮称作萧衍孙，不将新加谱系澄清冒记为纠错。正文另外说明萧岿、萧琮代数。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "jiangling"
+      ],
+      "note": "写依附西魏—北周—隋及587年召萧琮入朝、崔弘度戍守、奔陈后废国；补出萧岩等带众出走和隋安抚遗民，限定原文非常顺利、只需口头废国的概括。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "jiangling",
+        "eight-routes"
+      ],
+      "note": "按通鉴176明确杨广的尚书令属于淮南行省及南征行台体系，保留杨广六合、杨俊襄阳、清河公杨素永安三路；江陵接管是战争背景，不把此前已属北朝的襄阳本身说成此次灭西梁才获得。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "yang-su"
+      ],
+      "note": "实写杨素父杨敷、杨坚父杨忠、并非亲兄弟及宇文护任用杨素；未核到所指隋唐演义具体版本中奸王、靠山王杨林和兄弟设定，不能把小说称谓部分也算覆盖。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "yang-su"
+      ],
+      "note": "补杨素受宇文护任用、父陷齐及反复争取褒赠的经过，明确不能合成宇文护倒台时父遇害；本段还回叙宇文护劝酒被杀，正文未重新展开该场景，原转写因果未回听。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "yang-su",
+        "eight-routes"
+      ],
+      "note": "本段有最终同意这一历史落点，正文给出杨敷追赠大将军、谥忠壮与杨素获授官位，并列晋王、秦王身份；待遇/黛玉等谐音插话不另作历史缺口。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "eight-routes",
+        "yang-su",
+        "warnings"
+      ],
+      "note": "保留清河公与晋王秦王、韩擒虎庐江和贺若弼广陵，并据通鉴176校明齐兵三来、周师再来的陈叔宝言论；不沿用骑兵/舟师转写。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "warnings"
+      ],
+      "note": "承接孔范凭长江天险轻敌，按通鉴解释今日虏军岂能飞渡之意，并明确虏军是敌国贬称，校清鲁军/非度等转写。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "warnings"
+      ],
+      "note": "以宋书索虏、魏书岛夷萧道成及萧衍传名承接南北史书互用贬称；不将其外推为全体南北居民态度，原稿关于水泽词源、文学性格及华夏一概把外人称野人的总括未核。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "eight-routes",
+        "crossing"
+      ],
+      "note": "写通鉴所载五十一万八千为全战役兵数，杨广为节度统帅且约二十岁；补高颎、王韶军务调度及前线诸将分工，不把总帅等同亲自渡江破城。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "warnings",
+        "crossing",
+        "palace-well"
+      ],
+      "note": "完整承接589年两将渡江、施文庆阻军议、任忠建议乘舟投上流、陈叔宝入井；辨清人约等转写为任忠，并按史源把军议/出逃建议/入井放回先后顺序。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "palace-well"
+      ],
+      "note": "写任忠出门降韩擒虎、引军入城与陈叔宝井中被吊出；现代南京鸡鸣寺胭脂井的位置、现存井栏迁移和古井同一性未核，不把古籍井中记载当现代文物定位。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "crossing",
+        "after-capture"
+      ],
+      "note": "补建康失守后陈叔宝手书招降上游、周罗睺等解甲及589统一；保留将领抵抗以限定很顺利，陈霸先替换后战果和天命必然性属于无法验证的反事实，正文仅辨析未作事实结论。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "jiangling",
+        "after-capture"
+      ],
+      "note": "承接西梁废国及陈叔宝失国的具体过程，并用军事调度解释结果；未在本篇复述杨坚取北周全过程，刘裕/萧衍替换对手的战果及天意不作可核事实。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "after-capture"
+      ],
+      "note": "正文讨论战争停止与战后剧变，也标明替换陈霸先等人的反事实性质；本段核心是替换君主必延后统一与陈叔宝因而造福苍生的评价，无法给出可证战果或全体民众得失，不能以泛谈统一就算核实。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "after-capture",
+        "long-division"
+      ],
+      "note": "明确589结束长期南北对峙并保留统一意义，同时补280西晋灭吴，纠正自汉末分三国以来一直未统一的直线叙述；未把民心所向写作全体民众可统计的统一意见。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "long-division"
+      ],
+      "note": "校汉献帝禅位年份为220，至589相隔369年；明确数字只是起讫差，不能越过西晋统一阶段说成连续分裂。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-conquers-chen",
+      "sectionIds": [
+        "long-division"
+      ],
+      "note": "按后汉书中平元年黄巾起事补184年起点，至589相隔405年，承接四百余年的跨度；说明跨度不等于所有地区持续战争，游戏和谐音接话不另计。"
+    }
+  ]
+}

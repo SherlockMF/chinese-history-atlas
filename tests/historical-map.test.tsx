@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs";
 import type { ReactNode } from "react";
 import { resolve } from "node:path";
-import type { MapSnapshotManifest } from "@/features/history-map/atlas/atlas-types";
+import type { AtlasDataset, MapSnapshotManifest } from "@/features/history-map/atlas/atlas-types";
 import { act, render, screen, within, waitFor } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
@@ -21,7 +21,8 @@ function deferred<T>() {
   return { promise, reject, resolve };
 }
 
-const { atlasFixture, atlasMounts, loadAtlasSnapshot } = vi.hoisted(() => ({
+const { atlasFixture, atlasMounts, renderedAtlas, loadAtlasSnapshot } = vi.hoisted(() => ({
+  renderedAtlas: { value: undefined as AtlasDataset | undefined },
   atlasMounts: { value: 0 },
   loadAtlasSnapshot: vi.fn(),
   atlasFixture: {
@@ -97,6 +98,7 @@ vi.mock("@/features/history-map/atlas/historical-atlas-map", async () => {
 
   return {
     HistoricalAtlasMap: ({
+      atlas,
       yearRecord,
       onFatalError,
       onRenderSuccess,
@@ -106,6 +108,7 @@ vi.mock("@/features/history-map/atlas/historical-atlas-map", async () => {
       onSelectEvent,
       children,
     }: {
+      atlas: AtlasDataset;
       children?: ReactNode;
       yearRecord: { year: number; boundaryMode: string };
       onFatalError: (error: Error) => void;
@@ -119,6 +122,7 @@ vi.mock("@/features/history-map/atlas/historical-atlas-map", async () => {
         dynastyId: string;
       }) => void;
     }) => {
+      renderedAtlas.value = atlas;
       useEffect(() => {
         atlasMounts.value += 1;
         return () => {
@@ -174,6 +178,8 @@ describe("HistoricalMap continuous snapshots", () => {
     loadAtlasSnapshot.mockImplementation(async (manifest: MapSnapshotManifest) => ({
       ...atlasFixture,
       realms: JSON.parse(readFileSync(resolve("public" + manifest.files.realms), "utf8")),
+      boundaries: manifest.files.boundaries ? JSON.parse(readFileSync(resolve("public" + manifest.files.boundaries), "utf8")) : undefined,
+      outlines: manifest.files.outlines ? JSON.parse(readFileSync(resolve("public" + manifest.files.outlines), "utf8")) : undefined,
     }));
     useHistoryStore.getState().reset({ currentYear: 936, selectedDynasty: undefined, selectedEvent: undefined });
   });
@@ -225,12 +231,22 @@ describe("HistoricalMap continuous snapshots", () => {
   });
 
   it("shows a failure without replacing historical data with boxes", async () => {
-    loadAtlasSnapshot.mockRejectedValueOnce(new Error("模拟地图失败"));
+    const loadNormally = loadAtlasSnapshot.getMockImplementation()!;
+    loadAtlasSnapshot.mockImplementation((manifest: MapSnapshotManifest) => manifest.id === "reference-943" ? loadNormally(manifest) : Promise.reject(new Error("模拟地图失败")));
     mount();
     expect(await screen.findByText(/模拟地图失败；疆域暂不可用/)).toBeVisible();
     expect(screen.queryByRole("button",{name:"查看后晋"})).not.toBeInTheDocument();
     expect(screen.queryByText(/legacy-illustrative/)).not.toBeInTheDocument();
     expect(await screen.findByLabelText("936年互动历史地图")).toBeVisible();
+  });
+
+  it("keeps annual territory available when the reference layer fails", async () => {
+    const loadNormally = loadAtlasSnapshot.getMockImplementation()!;
+    loadAtlasSnapshot.mockImplementation((manifest: MapSnapshotManifest) => manifest.id === "reference-943" ? Promise.reject(new Error("参考数据失败")) : loadNormally(manifest));
+    mount();
+    expect(await screen.findByText("参考层未载入：参考数据失败")).toBeVisible();
+    expect(await screen.findByRole("button", { name: "查看后晋" })).toBeVisible();
+    expect(screen.queryByText(/疆域暂不可用/)).not.toBeInTheDocument();
   });
 
   it("keeps an annexed polity selected and explains the missing year-end territory", async () => {
@@ -254,17 +270,22 @@ describe("HistoricalMap continuous snapshots", () => {
     expect(useHistoryStore.getState().selectedDynasty).toBe("wuyue");
   });
 
-  it("opens reference geography explicitly and clears its selection when hidden", async () => {
+  it("shows reference geography initially and clears its selection when hidden", async () => {
     const user = userEvent.setup();
     mount();
     await screen.findByRole("button", {name:"查看后晋"});
-    expect(screen.queryByRole("button", {name:"查看黠戛斯、嗢娘改等部"})).not.toBeInTheDocument();
     const toggle = screen.getByRole("checkbox", {name:/显示 943 年周边地域参考/});
-    await user.click(toggle);
+    expect(toggle).toBeChecked();
+    await waitFor(() => expect(renderedAtlas.value?.places.features.some(feature => feature.properties.name === "黠戛斯、嗢娘改等部")).toBe(true));
+    expect(renderedAtlas.value?.realms.features.some(feature => feature.properties.dynastyId === "kyrgyz")).toBe(false);
+    expect(renderedAtlas.value?.outlines?.features.some(feature => feature.properties.dynastyId === "kyrgyz") ?? false).toBe(false);
     await user.click(await screen.findByRole("button", {name:"查看黠戛斯、嗢娘改等部"}));
     expect(useHistoryStore.getState().selectedDynasty).toBe("kyrgyz");
+    expect(screen.getByRole("dialog", { name: "黠戛斯、嗢娘改等部详情" })).toHaveTextContent("只标示大致位置");
     await user.click(toggle);
     await waitFor(() => expect(useHistoryStore.getState().selectedDynasty).toBeUndefined());
+    expect(screen.queryByRole("button", {name:"查看黠戛斯、嗢娘改等部"})).not.toBeInTheDocument();
+    expect(renderedAtlas.value?.places.features.some(feature => feature.properties.name === "黠戛斯、嗢娘改等部")).toBe(false);
     expect(atlasMounts.value).toBe(1);
   });
 

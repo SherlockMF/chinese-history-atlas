@@ -1,0 +1,213 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读隋中P112—P129共18段，逐段对读隋书文四子、本纪及通鉴180；分别处理600/602/604与618年的处置，保留不能核定的能力排名、全体后裔结局和拟写心理。未回听音频，baseline照录。",
+  "counts": {
+    "corrected": 7,
+    "partial": 7,
+    "covered": 4
+  },
+  "rows": [
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "yong-and-his-sons"
+      ],
+      "note": "承接矫先帝命杀勇、追封房陵王而不立嗣；诸子分徙地按文四子传校为岭外，不是山东，并分清杨俨与诸弟及数位生母，不将其全算云氏所生。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "yong-and-his-sons"
+      ],
+      "note": "承接杨俨被鸩杀、诸弟流徙后奉敕被杀；核到的是史书所列诸子，不把原段泛称子孙扩展为每一代所有后裔均已逐人核清。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "yong-and-his-sons",
+        "jun-before-accession"
+      ],
+      "note": "承接杨广另有三弟、第三子秦王杨俊先于杨广即位去世，点明600年与604年的时间差。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "jun-before-accession"
+      ],
+      "note": "承接崔妃下毒、杨俊患病、600年卒于秦邸与杨坚时分封；免官原因依传记明定为奢纵，区别于中毒本身，久病至死不补作现代毒理诊断。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "xiu-in-shu"
+      ],
+      "note": "承接杨秀长期镇蜀与废勇立广后不平，也补传记记其胆气武艺；杨秀文武能力必不如两兄的排名无法由所读材料证实，未冒作覆盖。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "xiu-in-shu"
+      ],
+      "note": "承接杨秀结交中央使臣元衡及杨广、杨素搜罪行动；杨秀自认可以取代二哥的完整心理独白无据，不转录为事实。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "xiu-in-shu"
+      ],
+      "note": "展开杨广命杨素求罪、文帝早先向独孤后担忧兄弟相争及602年召秀还京，承接该段实质事件；以传记记述取代拟写的父子对白。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "xiu-in-shu"
+      ],
+      "note": "承接杨秀服饰车马僭拟天子及对废勇立广不平；未采用仅比皇帝低一点的自辩，也未确认经常当众说杨广坏话这一具体频率与行为。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "xiu-in-shu"
+      ],
+      "note": "依文四子传写文帝见而不语、翌日使使切责并交审治，纠正全未见面的绝对说法；罪责以奢僭、蠹害生民等史料措辞承接，不新增淫乱情节。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "wooden-figures"
+      ],
+      "note": "写太子暗作署杨坚和杨谅姓名木偶、埋于华山再令杨素发掘的传记情节，补入伪檄文，并区别史家栽赃叙述与定罪诏书。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "wooden-figures"
+      ],
+      "note": "承接废秀为庶人而未即杀；明确幽禁内侍省、不得见妻子儿女及后来准父子同处，不将除名写成自由平民生活，也不补杨广判断其毫无威胁的心理。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "wooden-figures"
+      ],
+      "note": "承接杨秀在反杨广的江都兵变中死于宇文化及一方，校正转写混名为杨秀并明确618年。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "wooden-figures",
+        "liang-arms"
+      ],
+      "note": "承接宇文化及欲立秀、众议反对及杀秀诸子，转入汉王；所引大臣关于杨秀难制的具体对白未在文四子传核到，未拟写。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "liang-arms",
+        "two-plans"
+      ],
+      "note": "承接并州总管、受宠便宜从事、废兄引发不安及拒诏起兵；以597年出镇、604年起兵分时，五十二州按史书记为山以东至海、南距黄河，不套用原段华山雁门疆界或五十二州全起兵。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "two-plans"
+      ],
+      "note": "展开王頍的西进与割据两策、裴文安蒲津方案及召还前锋；原典为将吏家属在关西，不等于全体西兵家在大兴城，败因用具体反复决策说明。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "two-plans",
+        "survival-and-imprisonment"
+      ],
+      "note": "承接败降、群臣请杀与杨广赦死；保留终鲜兄弟的原话含义，指出杨秀仍在，不能改说此时已没有其他亲兄弟。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "survival-and-imprisonment"
+      ],
+      "note": "承接免杀杨谅的处置差异，同时补幽禁至死而非完整保全；隋唐演义六罪的版本与完整清单未核，本篇不据一种处分推出杨广总体不残暴。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-brothers",
+      "sectionIds": [
+        "survival-and-imprisonment"
+      ],
+      "note": "承接骨肉之情与政治处置的评价问题，区分公开理由、结果与未知动机；主持人对牺牲杨勇的可理解性及父子皆影帝的判断未改作历史结论。"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "date": "2026-09-30",
+  "method": "人工完整阅读指定原段，逐项对读所列原典及文物机构资料，并对照最终正文；未回听音频。引用范围仅用于定位，未核情节、心理和因果单独说明，不以同名或相邻段内容冒充本段覆盖。",
+  "counts": {
+    "covered": 6,
+    "partial": 12,
+    "corrected": 8,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "two-generations"
+      ],
+      "note": "承接冯太后去世后孝文延续改制，并写迁都、服饰、语言与皇室改姓的新层次；改汉字一语依上下文以姓氏和用语表述，不据此另造文字创制。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "two-generations",
+        "ambition-and-limits",
+        "northern-costs"
+      ],
+      "note": "讨论改革向新领域推进、执行压力、战争与北镇代价；未把所有北魏内部对抗穷尽，也未把激进程度及总体消耗当作已有量化结论。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "two-generations"
+      ],
+      "note": "保留皇帝与异姓太后身份不同这一问题，并以冯主决三长和帝遭阻说明身份只是条件之一；因拓跋身份必有更多改革资本的因果未获证实。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "two-generations",
+        "ambition-and-limits"
+      ],
+      "note": "承接南北对峙及孝文统一目标，区分不同身份对政治的作用；其所有事情唯一为南下、异姓必比同族更难改革的绝对心理判断不采用。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "ambition-and-limits"
+      ],
+      "note": "以攻宛宣言和临终忧天下未平承接其南征愿望；所有有抱负皇帝必南下、无论活到33或53都同样选择的反事实未证。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "ambition-and-limits"
+      ],
+      "note": "将为改革而来的使命感保留为后人面对短暂生命的感慨；不把出生使命或第一次大改革写成可证历史事实。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "ambition-and-limits"
+      ],
+      "note": "承接改革执行与亲征的具体主动作为；说明孝文本人仍追求统一，不能以其最终未完成反推统一本不属于其使命。亲力事例有据，命定论只作为后人感慨。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "ambition-and-limits"
+      ],
+      "note": "承接强力推进政策的评价，并明确完颜亮类比的解释限度；未展开完颜亮具体政策与经历，不由跨朝代同类性格证明孝文内心。"
+    },
+    {
+      "file": "北魏05_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "ambition-and-limits"
+      ],
+      "note": "此段核心是成功积累导致自信膨胀、相信无事不成的心理过程；已核记录只能说明行动，未核实该内心链条。汉武帝类比未展开，正文明确证据界限。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "two-generations",
+        "people-after-dynasty"
+      ],
+      "note": "以政权形成、平城与洛阳治理调整承接持续变化与寻找统治方式的历史评价；不把王朝当作具有单一心理的人。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "two-generations",
+        "northern-costs",
+        "people-after-dynasty"
+      ],
+      "note": "承接改变对后世的影响，并讨论身份与变化的复杂关系；整体迷失自己的共同心理及离汉近的主观比较没有作为可证结论。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "two-generations",
+        "later-institutions",
+        "stone-and-writing"
+      ],
+      "note": "承接北魏兼有早期痕迹、通向后来制度与文化的重要环节这一评价；熟悉的陌生人和歌曲类比属于口头感受，未逐句复写。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "stone-and-writing"
+      ],
+      "note": "承接魏碑、云冈、龙门的熟悉文物与阅读什翼犍、元子攸故事后背景更具体这一关系；原段并未另述两人的具体事迹，不把名字当作未出现情节的覆盖。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "two-generations",
+        "northern-costs"
+      ],
+      "note": "讨论改革影响及所谓迷失评价不能替代身份、政治证据；节目逆序讲述金辽西夏属过渡，未重述，无全族共同迷失的事实认定。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "two-generations",
+        "households-and-ranks",
+        "northern-costs"
+      ],
+      "note": "承接将北魏视为统治方式变化的重要案例，并以编户、门第、边镇说明选择不只传统与汉化二择一；第一个以及前代疆域年数均不及的比较未逐政权核定，不采用绝对优先结论。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "households-and-ranks",
+        "northern-costs"
+      ],
+      "note": "保留评价改革应兼顾文化交流和政权代价的核心；用524年前后边镇身份、治理与财政危机限定全盘汉化必亡、若不改必不亡的单因果，注明距499年帝卒25年。未声称学界一致评价。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "later-institutions",
+        "northern-costs",
+        "people-after-dynasty"
+      ],
+      "note": "承接政权层面的功过须分项衡量、北魏在后续制度变化中重要这一开放评价，不代读者给唯一总分。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "households-and-ranks",
+        "later-institutions"
+      ],
+      "note": "户籍与贵族仕途分别讨论，并补齐刘禹锡乌衣巷全文及唐代怀古归属；纠正把王谢堂前燕的诗意直接用作晋代门阀退场的年代证据。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "households-and-ranks",
+        "later-institutions"
+      ],
+      "note": "承接考试提供上升途径和北魏的重要转折作用；以唐官学身份门槛与庶人名额限定人人轮番上台的概括，不将后来科举直接归于北魏已经完成的改革。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "northern-costs",
+        "people-after-dynasty"
+      ],
+      "note": "保留经验可供后人思考的评价；辽金有意识地逐项规避北魏问题的传承链未核实，正文明确不同选择不能直接证明吸取特定教训。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "stone-and-writing"
+      ],
+      "note": "承接魏碑与云冈遗产及历史背景有助观物，以云冈、龙门、张猛龙碑作具体例子；明确未企图包揽艺术技法与全部作品，符合本段所设背景讲述范围。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "later-institutions",
+        "stone-and-writing"
+      ],
+      "note": "承接借历史背景重看文物与关注普通人的评价；以孟子已论民为贵和人民政事，纠正百姓人民到北魏才进入历史的起点说。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "households-and-ranks",
+        "later-institutions"
+      ],
+      "note": "承接后来的考试进身机会与治理对象扩大这一意义；区分机会扩展和身份门槛仍存，不把科举出现等同全体居民立即平等参与政治。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "stone-and-writing",
+        "people-after-dynasty"
+      ],
+      "note": "承接造像作为遗迹及从文物追问创造者来去的阅读方向；未逐一展开不同造像面相或各族人口迁移路线。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "people-after-dynasty"
+      ],
+      "note": "回答王朝结束不等于人的消失，提供从家族迁徙、改姓、仕宦追踪的方向；未提供北魏全部人群具体去向清单，原段泛称其他政权回乡也未逐国展开。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "people-after-dynasty"
+      ],
+      "note": "保留长期交往与共同文化记忆的意义，区分历史参与、文化继承与现代个人血统；未据融合概念抹平所有差异，也不套用西夏回不了家的无条件判断。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-reform-legacy",
+      "sectionIds": [
+        "people-after-dynasty"
+      ],
+      "note": "承接多种人群交往共同形成后续历史的阅读感受，同时明确鲜卑柔然匈奴女真各有情境，不能逐一等同每位现代读者的血统；结尾歌曲联想不构成待补历史情节。"
+    }
+  ]
+}

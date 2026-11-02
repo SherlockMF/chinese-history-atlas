@@ -1,0 +1,14 @@
+{
+  "id": "chen-bozong",
+  "name": "陈伯宗",
+  "generator": "crop of public-domain reference (Yan Liben, Emperors scroll, via Wikimedia Commons)",
+  "reference": "docs/research/portraits/series/references/chen-bozong.jpg",
+  "source": {
+    "title": "传阎立本《历代帝王图》陈废帝局部（波士顿美术博物馆藏）",
+    "url": "https://commons.wikimedia.org/wiki/File:Chen_Feidi_Tang.jpg"
+  },
+  "note": "依据传世肖像重新创作；画中约17岁，年龄、光影与部分细节为艺术处理。",
+  "asset": "public/portraits/series/chen-bozong.webp",
+  "width": 1086,
+  "height": 1448
+}

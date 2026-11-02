@@ -1,0 +1,357 @@
+{
+  "date": "2026-10-11",
+  "method": "逐读所列原P、全部正文与各节实际引用原典后独立交叉复核；逐P说明已用线索、校正或限定部分，baselineVerdict保留。未回听音频。",
+  "counts": {
+    "covered": 8,
+    "not-needed": 4,
+    "partial": 14,
+    "corrected": 4,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "family-rule"
+      ],
+      "note": "秉常七岁继母梁摄政与权力重演补，谅祚年次不精算月。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "family-rule"
+      ],
+      "note": "医疗现代推理不为历史死因证据；具体伤死版本已J27。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "family-rule"
+      ],
+      "note": "休哥受伤至死时差与感染推断无此核证，非本故事内容。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "family-rule"
+      ],
+      "note": "箭毒和皇帝不应亲征建议属主持评说，不冒史实。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "family-rule"
+      ],
+      "note": "七岁与辅政实补，亲征无用普遍断言不采。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "family-rule"
+      ],
+      "note": "梁母掌政与弟帮手关系补，能力评价以权力结构写。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "family-rule"
+      ],
+      "note": "乙埋相与近要子弟、梁出身中国家族、复蕃礼补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "family-rule"
+      ],
+      "note": "复蕃礼实补，恐贵族反对确切内心未有证。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "family-rule"
+      ],
+      "note": "北京饮食类比无史实去向，复礼解释限度已有。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "family-rule"
+      ],
+      "note": "母族复蕃政治意义补，比党项还党项为节目解读不定案。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "family-rule"
+      ],
+      "note": "1069请求恢复旧蕃仪实际补，非全抹汉制。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "qingzhou"
+      ],
+      "note": "夏入环庆及兵号补，梁本人亲征/以战显族内忠诚无证。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "qingzhou"
+      ],
+      "note": "榆林是距庆州四十里驻地非陕西市一路打来；陝右校字，音频未听。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "qingzhou",
+        "wall-insult"
+      ],
+      "note": "围城与顺宁故事分年，狼性全军心理不编。 骂阵清23系1071、沈括25称元丰中，两书年次不一。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "wall-insult"
+      ],
+      "note": "李姓娼妓自请逸闻实补为版本。 骂阵清23系1071、沈括25称元丰中，两书年次不一。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "wall-insult"
+      ],
+      "note": "城头骂揭私事见清23，具体老公原装台词不证。 骂阵清23系1071、沈括25称元丰中，两书年次不一。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "wall-insult"
+      ],
+      "note": "尽发私事补，逐项杀公公前夫具体辱辞无原句。 骂阵清23系1071、沈括25称元丰中，两书年次不一。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "wall-insult"
+      ],
+      "note": "掩耳恐获罪称粮乏退属逸闻非全军初知八卦太后亲自脸红撤。 骂阵清23系1071、沈括25称元丰中，两书年次不一。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "wall-insult",
+        "qingzhou"
+      ],
+      "note": "顺宁1071与庆州1070分开非同役小插曲。 骂阵清23系1071、沈括25称元丰中，两书年次不一。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "qingzhou"
+      ],
+      "note": "清22董毡西攻乙埋退，号兵不可精计太后本人三十万。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "liao-promise"
+      ],
+      "note": "1071囉兀失后向辽求援实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "liao-promise"
+      ],
+      "note": "许腹里三十万援补，非已到边境与夏兵凑六十万。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "liao-promise"
+      ],
+      "note": "找不到同次已列阵宋边位置/哥们台词实据，仅纳可核许诺。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "liao-promise"
+      ],
+      "note": "许诺非参战实绩说明，不写白沟探马现场或绝对中立。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "grown-ruler"
+      ],
+      "note": "1076十六亲政但乙埋仍在实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "grown-ruler"
+      ],
+      "note": "爱汉礼与母族不合补，未核亲政立即全改一纸令。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "grown-ruler"
+      ],
+      "note": "归宋计与君权困境补，不编无嫂子内心。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "grown-ruler"
+      ],
+      "note": "李青校李清，归黄河南夏地是具体方案，非仅请求清君侧。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "prison"
+      ],
+      "note": "酒诱执杀木寨五里断音实补，毒酒死法未核。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "prison"
+      ],
+      "note": "诸酋自固与花麻请讨补，非党项吐蕃全体合兵起义。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "sectionIds": [
+        "prison"
+      ],
+      "note": "谁受国信/谁主国政问而不答和征讨决定补。"
+    }
+  ],
+  "independentReview": "complete"
+}

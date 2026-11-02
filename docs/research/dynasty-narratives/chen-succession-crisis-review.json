@@ -1,0 +1,366 @@
+{
+  "date": "2026-10-02",
+  "method": "S27：已完整阅读本篇所列原段，对照正文及列明原典逐段自审；子代理起草，主代理已独立阅读全文原段、原典与逐段台账并完成交叉复核；页面验证待补。未回听音频；基线保持不变。",
+  "counts": {
+    "partial": 15,
+    "covered": 10,
+    "not-needed": 2,
+    "corrected": 3,
+    "uncertain": 2
+  },
+  "rows": [
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "sword-and-seal",
+        "missing-son"
+      ],
+      "note": "陈昌在周、陈蒨有军功与召立写出；陈昌未在本时正式册立太子，沿用皇子称谓。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "sword-and-seal"
+      ],
+      "note": "章后顾陈昌不肯下令，具体决策处境写明。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "sword-and-seal"
+      ],
+      "note": "陈蒨辞让、侯安都主张与威胁定议完整承接。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [],
+      "note": "你不干我干主持人虚构插话，不扩为侯安都争位言行。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "sword-and-seal"
+      ],
+      "note": "按剑求玺有原文，未认定此玺即秦传国玺。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "sword-and-seal"
+      ],
+      "note": "保留印玺身份未明的界限，金镶玉传闻与嘲谑不扩写。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "brother-returns"
+      ],
+      "note": "陈顼先遥改封安成王，562才归国并升官，非即位时就在身边受重用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "brother-returns"
+      ],
+      "note": "地方战争逐个列明，不把各地均称反陈复梁。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "brother-returns",
+        "deathbed"
+      ],
+      "note": "平乱、勤政、临终安排承接，559–566跨八个年头非足八年。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "deathbed"
+      ],
+      "note": "传弟提议与陈顼辞让、周公辅政之议有据，现场对白用转述。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "brother-returns",
+        "deathbed"
+      ],
+      "note": "孔奂主张保太子有据，不接受多年内乱仅因侄继叔的单因解释。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "deathbed"
+      ],
+      "note": "保太子与辅政王安排写出；不将天下父子继承绝无例外当规则。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "deathbed"
+      ],
+      "note": "伯宗继位、多人辅政明确。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "deathbed"
+      ],
+      "note": "北方与内部压力、辅政位置承接，早期绝无野心属推断。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "deathbed",
+        "false-command"
+      ],
+      "note": "摄政权力与近臣冲突写具体，无史证的皇帝先话里话外抱怨不纳。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "deathbed",
+        "false-command"
+      ],
+      "note": "顾命近臣对陈顼势力担忧有记，皇帝主动授意及全员自私读心不作事实。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "false-command"
+      ],
+      "note": "刘师知等谋逐陈顼，行动发言者另明殷不佞。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "false-command"
+      ],
+      "note": "殷不佞矫敕，回东府理扬州事，非回遥远封地；原话传达者不写成刘师知。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "false-command"
+      ],
+      "note": "毛喜劝阻和陈顼拟离开有记；年龄快二十和摄政多年不沿用。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "false-command"
+      ],
+      "note": "曹爽富家翁比喻据毛喜原话承接。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "false-command"
+      ],
+      "note": "进一步核皇帝太后意思、称病缓行写明；不添加无源内心独白。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "false-command"
+      ],
+      "note": "称病留刘师知谈话写出，路远劳顿/年度发展交接系节目增饰不纳。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "false-command"
+      ],
+      "note": "留刘、遣毛喜核太后，先后写清。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "false-command"
+      ],
+      "note": "太后与皇帝先后否认命令，有原典。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [],
+      "note": "颗粒度戏谑插话，无独立陈朝史实。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "false-command"
+      ],
+      "note": "毛喜回报与囚刘承接，脑袋留下戏言不当史料对白。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "false-command"
+      ],
+      "note": "陈顼亲入见、陈罪自草敕具体写出。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "false-command"
+      ],
+      "note": "请画敕、廷尉、当夜赐死和权归陈顼写明。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "deposition"
+      ],
+      "note": "568废位，非只性格软弱理由；推测动机未当史实。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "deposition"
+      ],
+      "note": "太后令与称帝程序写明，陈伯宗反问为虚构插话不纳。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "deposition"
+      ],
+      "note": "570卒有据；所读本纪不记杀害过程，不能确定叔父遣人杀。"
+    },
+    {
+      "file": "南朝06_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "partial",
+      "assessment": "uncertain",
+      "storySlug": "chen-succession-crisis",
+      "sectionIds": [
+        "deposition"
+      ],
+      "note": "17岁与本纪末载19及生年存在不合，保留；陈顼年期与北伐另在S28承接。"
+    }
+  ]
+}

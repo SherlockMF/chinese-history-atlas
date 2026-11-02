@@ -1,0 +1,653 @@
+[
+  {
+    "id": "yuan-hong",
+    "name": "元宏",
+    "series": "northern-wei",
+    "roles": [
+      "北魏孝文帝"
+    ],
+    "summary": "即拓跋宏。承接冯太后时期改革，迁都洛阳，推行服饰、语言与姓氏改革；其政策改变了北魏统治重心。",
+    "sourceFile": "data/series/expansion/northern-wei.ts",
+    "representativeAge": 28,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "tuoba-gui",
+    "name": "拓跋珪",
+    "series": "northern-wei",
+    "roles": [
+      "北魏道武帝"
+    ],
+    "summary": "386年重建拓跋政权并改称魏王，398年迁都平城、称帝。其崛起与前秦崩解、后燕衰落相联系。",
+    "sourceFile": "data/series/expansion/northern-wei.ts",
+    "representativeAge": 33,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "tuoba-si",
+    "name": "拓跋嗣",
+    "series": "northern-wei",
+    "roles": [
+      "北魏明元帝"
+    ],
+    "summary": "409年即位，继续经营平城政权；晚年趁刘宋皇位交接进攻河南，扩大北魏在黄河流域的势力。",
+    "sourceFile": "data/series/expansion/northern-wei.ts",
+    "representativeAge": 28,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "tuoba-tao",
+    "name": "拓跋焘",
+    "series": "northern-wei",
+    "roles": [
+      "北魏太武帝"
+    ],
+    "summary": "以连续征战削平北方诸政权，439年灭北凉，完成北方主要地区的统一；其晚年发生灭佛与宫廷危机。",
+    "sourceFile": "data/series/expansion/northern-wei.ts",
+    "representativeAge": 39,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "tuoba-jun",
+    "name": "拓跋濬",
+    "series": "northern-wei",
+    "roles": [
+      "北魏文成帝"
+    ],
+    "summary": "452年宫廷动荡后即位，恢复佛教，平城时期的云冈石窟营造在其朝展开。",
+    "sourceFile": "data/series/expansion/northern-wei.ts",
+    "representativeAge": 22,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "empress-feng-wei",
+    "name": "冯太后",
+    "series": "northern-wei",
+    "roles": [
+      "文明太后"
+    ],
+    "summary": "文成帝皇后，在献文帝、孝文帝时期参与并主导朝政。其执政时期推动俸禄、均田和三长制度。",
+    "sourceFile": "data/series/expansion/northern-wei.ts",
+    "representativeAge": 43,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "li-chong-wei",
+    "name": "李冲",
+    "series": "northern-wei",
+    "roles": [
+      "北魏大臣"
+    ],
+    "summary": "参与孝文帝朝制度改革，建议设置三长以组织基层户籍，改变豪强荫附下的赋役征收。",
+    "sourceFile": "data/series/expansion/northern-wei.ts",
+    "representativeAge": 45,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "erzhu-rong",
+    "name": "尔朱荣",
+    "series": "northern-wei",
+    "roles": [
+      "北魏军事强人"
+    ],
+    "summary": "528年率军入洛，拥立孝庄帝并制造河阴之变。530年被孝庄帝诛杀，其军事集团仍深刻影响北魏末局。",
+    "sourceFile": "data/series/expansion/northern-wei.ts",
+    "representativeAge": 35,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "xiao-yanyan",
+    "name": "萧绰",
+    "series": "liao",
+    "roles": [
+      "承天皇太后"
+    ],
+    "summary": "小字燕燕，辽景宗皇后、圣宗之母。景宗死后临朝，与韩德让等共同主持军政，经历宋辽战争与澶渊议和。",
+    "sourceFile": "data/series/expansion/liao.ts",
+    "representativeAge": 49,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "yelu-longxu",
+    "name": "耶律隆绪",
+    "series": "liao",
+    "roles": [
+      "辽圣宗"
+    ],
+    "summary": "982年即位，早期由萧太后临朝；统和年间与宋作战并缔结澶渊之盟，此后维持长期和议。",
+    "sourceFile": "data/series/expansion/liao.ts",
+    "representativeAge": 36,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "han-derang",
+    "name": "韩德让",
+    "series": "liao",
+    "roles": [
+      "辽朝重臣"
+    ],
+    "summary": "在景宗、圣宗朝担任要职，协助萧太后处理军政。政治作用有史可考，私生活传闻不能代替其履历。",
+    "sourceFile": "data/series/expansion/liao.ts",
+    "representativeAge": 58,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "yelu-zongzhen",
+    "name": "耶律宗真",
+    "series": "liao",
+    "roles": [
+      "辽兴宗"
+    ],
+    "summary": "1031年继位，处理太后干政，与宋交涉增加岁币，并多次对西夏用兵。",
+    "sourceFile": "data/series/expansion/liao.ts",
+    "representativeAge": 35,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "yelu-hongji",
+    "name": "耶律洪基",
+    "series": "liao",
+    "roles": [
+      "辽道宗"
+    ],
+    "summary": "1055年继位。统治后期耶律乙辛得势，皇后、太子相继受害，继承秩序遭到破坏。",
+    "sourceFile": "data/series/expansion/liao.ts",
+    "representativeAge": 52,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "yelu-yanxi",
+    "name": "耶律延禧",
+    "series": "liao",
+    "roles": [
+      "辽天祚帝"
+    ],
+    "summary": "1101年继位，面对女真起兵逐渐失去诸京与军队支持，1125年被金军俘获。",
+    "sourceFile": "data/series/expansion/liao.ts",
+    "representativeAge": 43,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "yelu-dashi",
+    "name": "耶律大石",
+    "series": "liao",
+    "roles": [
+      "西辽建立者"
+    ],
+    "summary": "辽末率部西行，在中亚建立西辽。以虎思斡耳朵为中心，1141年在卡特万之战击败塞尔柱联军。",
+    "sourceFile": "data/series/expansion/liao.ts",
+    "representativeAge": 48,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "xiao-tabuyan",
+    "name": "萧塔不烟",
+    "series": "liao",
+    "roles": [
+      "西辽感天皇后"
+    ],
+    "summary": "耶律大石皇后，大石去世后临朝，延续西辽政权，后由其子耶律夷列继位。",
+    "sourceFile": "data/series/expansion/liao.ts",
+    "representativeAge": 45,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "kuchlug",
+    "name": "屈出律",
+    "series": "liao",
+    "roles": [
+      "乃蛮王子"
+    ],
+    "summary": "乃蛮败亡后进入西辽，1211年夺取实际权力；1218年被蒙古军击败，西辽统治终结。",
+    "sourceFile": "data/series/expansion/liao.ts",
+    "representativeAge": 35,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "wanyan-liang",
+    "name": "完颜亮",
+    "series": "jin",
+    "roles": [
+      "海陵王"
+    ],
+    "summary": "1149年夺位，1153年迁都燕京并改为中都，推动政治中心南移；1161年南征失败，死于军中政变。",
+    "sourceFile": "data/series/expansion/jin.ts",
+    "representativeAge": 34,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "wanyan-aguda",
+    "name": "完颜阿骨打",
+    "series": "jin",
+    "roles": [
+      "金太祖"
+    ],
+    "summary": "1114年率女真起兵反辽，1115年称帝建金。连续获胜使金迅速成为北方主要力量。",
+    "sourceFile": "data/series/expansion/jin.ts",
+    "representativeAge": 48,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "wanyan-wuqimai",
+    "name": "完颜吴乞买",
+    "series": "jin",
+    "roles": [
+      "金太宗"
+    ],
+    "summary": "阿骨打之弟，1123年即位，其朝灭辽并攻破北宋都城开封。",
+    "sourceFile": "data/series/expansion/jin.ts",
+    "representativeAge": 52,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "wanyan-dading",
+    "name": "完颜雍",
+    "series": "jin",
+    "roles": [
+      "金世宗"
+    ],
+    "summary": "1161年在辽阳即位，年号大定。结束海陵时期的战争危机，整顿政治并与宋恢复和议。",
+    "sourceFile": "data/series/expansion/jin.ts",
+    "representativeAge": 49,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "wanyan-jing",
+    "name": "完颜璟",
+    "series": "jin",
+    "roles": [
+      "金章宗"
+    ],
+    "summary": "1189年继位，朝廷文化和制度继续发展；其后期经历宋金战争与泰和和议。",
+    "sourceFile": "data/series/expansion/jin.ts",
+    "representativeAge": 33,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "wanyan-xun",
+    "name": "完颜珣",
+    "series": "jin",
+    "roles": [
+      "金宣宗"
+    ],
+    "summary": "1213年即位，次年迁都汴京。金朝失去中都后，仍在黄河以南维持统治。",
+    "sourceFile": "data/series/expansion/jin.ts",
+    "representativeAge": 53,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "wanyan-shouxu",
+    "name": "完颜守绪",
+    "series": "jin",
+    "roles": [
+      "金哀宗"
+    ],
+    "summary": "1224年即位，努力维系衰局，汴京受围后转移蔡州；1234年城破时自尽。",
+    "sourceFile": "data/series/expansion/jin.ts",
+    "representativeAge": 32,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "zhang-hao-jin",
+    "name": "张浩",
+    "series": "jin",
+    "roles": [
+      "金朝大臣"
+    ],
+    "summary": "渤海人，参与金朝政务与燕京宫室营建。中都的建设依靠多族官员、工匠与劳役组织。",
+    "sourceFile": "data/series/expansion/jin.ts",
+    "representativeAge": 55,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "li-yuanhao",
+    "name": "李元昊",
+    "series": "western-xia",
+    "roles": [
+      "夏景宗"
+    ],
+    "summary": "继承李德明势力后于1038年称帝，定都兴庆府。创制国家制度、推广西夏文字，与宋辽展开战争和交涉。",
+    "sourceFile": "data/series/expansion/western-xia.ts",
+    "representativeAge": 35,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "li-jiqian",
+    "name": "李继迁",
+    "series": "western-xia",
+    "roles": [
+      "党项首领"
+    ],
+    "summary": "在夏州李氏归宋背景下起兵，利用宋辽关系发展势力，1002年攻取灵州。",
+    "sourceFile": "data/series/expansion/western-xia.ts",
+    "representativeAge": 35,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "li-deming",
+    "name": "李德明",
+    "series": "western-xia",
+    "roles": [
+      "党项首领"
+    ],
+    "summary": "继承李继迁势力，改善与宋关系并向河西拓展，为元昊称帝积累政治和经济条件。",
+    "sourceFile": "data/series/expansion/western-xia.ts",
+    "representativeAge": 43,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "li-liangzuo",
+    "name": "李谅祚",
+    "series": "western-xia",
+    "roles": [
+      "夏毅宗"
+    ],
+    "summary": "元昊死后幼年即位，早期由没藏氏掌权；亲政后调整制度和对外关系。",
+    "sourceFile": "data/series/expansion/western-xia.ts",
+    "representativeAge": 19,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "li-bingchang",
+    "name": "李秉常",
+    "series": "western-xia",
+    "roles": [
+      "夏惠宗"
+    ],
+    "summary": "幼年继位，梁氏长期掌权。其朝经历宋军大举进攻与永乐城之战，皇权与外戚冲突持续。",
+    "sourceFile": "data/series/expansion/western-xia.ts",
+    "representativeAge": 23,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "li-qianshun",
+    "name": "李乾顺",
+    "series": "western-xia",
+    "roles": [
+      "夏崇宗"
+    ],
+    "summary": "经历梁氏干政后掌握皇权，调整宋辽金之间的外交，维持西夏在北方格局变化中的生存。",
+    "sourceFile": "data/series/expansion/western-xia.ts",
+    "representativeAge": 39,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "li-renxiao",
+    "name": "李仁孝",
+    "series": "western-xia",
+    "roles": [
+      "夏仁宗"
+    ],
+    "summary": "1139年即位，在位期间重视文教和制度建设，天盛年间形成重要法典；又经历任得敬分国危机。",
+    "sourceFile": "data/series/expansion/western-xia.ts",
+    "representativeAge": 49,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "ren-dejing",
+    "name": "任得敬",
+    "series": "western-xia",
+    "roles": [
+      "西夏权臣"
+    ],
+    "summary": "由宋边地官员进入西夏政治，凭借外戚身份掌握大权，1170年谋求分国，最终被诛。",
+    "sourceFile": "data/series/expansion/western-xia.ts",
+    "representativeAge": 60,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "li-anquan",
+    "name": "李安全",
+    "series": "western-xia",
+    "roles": [
+      "夏襄宗"
+    ],
+    "summary": "1206年夺位，在蒙古压力下改变对外关系，卷入攻金战争；1211年被废。",
+    "sourceFile": "data/series/expansion/western-xia.ts",
+    "representativeAge": 40,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "li-zunxu",
+    "name": "李遵顼",
+    "series": "western-xia",
+    "roles": [
+      "夏神宗"
+    ],
+    "summary": "1211年即位，持续与金交战；1223年退位，西夏此后仍无法摆脱蒙古军事压力。",
+    "sourceFile": "data/series/expansion/western-xia.ts",
+    "representativeAge": 52,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "duan-siping",
+    "name": "段思平",
+    "series": "dali",
+    "roles": [
+      "大理国建立者"
+    ],
+    "summary": "937年推翻大义宁，建立段氏大理政权，以羊苴咩城为都。早期生平细节主要见于后世地方史记载。",
+    "sourceFile": "data/series/expansion/dali.ts",
+    "representativeAge": 43,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "piluoge",
+    "name": "皮逻阁",
+    "series": "dali",
+    "roles": [
+      "南诏王"
+    ],
+    "summary": "蒙舍诏首领，统一洱海地区诸诏，738年获唐朝封云南王，为南诏兴起奠定基础。",
+    "sourceFile": "data/series/expansion/dali.ts",
+    "representativeAge": 40,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "geluofeng",
+    "name": "阁逻凤",
+    "series": "dali",
+    "roles": [
+      "南诏王"
+    ],
+    "summary": "皮逻阁之子。其朝与唐发生天宝战争，转而联合吐蕃，并通过南诏德化碑陈述政治立场。",
+    "sourceFile": "data/series/expansion/dali.ts",
+    "representativeAge": 47,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "yimouxun",
+    "name": "异牟寻",
+    "series": "dali",
+    "roles": [
+      "南诏王"
+    ],
+    "summary": "阁逻凤之孙。794年转而与唐会盟，结束对吐蕃的依附关系，重新调整南诏外交。",
+    "sourceFile": "data/series/expansion/dali.ts",
+    "representativeAge": 40,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "zheng-hui-nanzhao",
+    "name": "郑回",
+    "series": "dali",
+    "roles": [
+      "清平官"
+    ],
+    "summary": "原为唐朝官员，进入南诏后长期参与政务和教育，在异牟寻转向与唐结盟的过程中发挥作用。",
+    "sourceFile": "data/series/expansion/dali.ts",
+    "representativeAge": 54,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "zheng-maisi",
+    "name": "郑买嗣",
+    "series": "dali",
+    "roles": [
+      "大长和建立者"
+    ],
+    "summary": "902年取代南诏蒙氏，建立大长和。此后洱海地区经历数次短暂政权更替，直至段氏建立大理。",
+    "sourceFile": "data/series/expansion/dali.ts",
+    "representativeAge": 46,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "gao-shengtai",
+    "name": "高升泰",
+    "series": "dali",
+    "roles": [
+      "大理权臣",
+      "大中国建立者"
+    ],
+    "summary": "高氏权臣，1094年取代段氏称帝；1096年去世后，高氏拥立段正淳恢复大理国号。",
+    "sourceFile": "data/series/expansion/dali.ts",
+    "representativeAge": 48,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "duan-zhengchun",
+    "name": "段正淳",
+    "series": "dali",
+    "roles": [
+      "大理国君主"
+    ],
+    "summary": "段氏宗室，1096年在高氏支持下即位，恢复段氏王统。史实身份不同于小说中虚构的家族情节。",
+    "sourceFile": "data/series/expansion/dali.ts",
+    "representativeAge": 43,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "duan-xingzhi",
+    "name": "段兴智",
+    "series": "dali",
+    "roles": [
+      "大理国末主"
+    ],
+    "summary": "1253年蒙古攻取大理时的君主；其后被俘归附，段氏仍在蒙古、元的统治体系下管理地方。",
+    "sourceFile": "data/series/expansion/dali.ts",
+    "representativeAge": 30,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "kublai",
+    "name": "忽必烈",
+    "series": "dali",
+    "roles": [
+      "蒙古宗王",
+      "后为元世祖"
+    ],
+    "summary": "1253年奉蒙哥之命率军进攻大理，渡金沙江并攻取都城。此时尚未建立元朝，不应把战事称作元朝皇帝南征。",
+    "sourceFile": "data/series/expansion/dali.ts",
+    "representativeAge": 38,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "xiao-yan",
+    "name": "萧衍",
+    "series": "southern-dynasties",
+    "roles": [
+      "梁武帝"
+    ],
+    "summary": "502年代齐建梁，前期经营政治文化，晚年信任降将侯景，建康陷落后于549年去世。",
+    "sourceFile": "data/series/expansion/southern-dynasties.ts",
+    "representativeAge": 62,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "liu-yu-song",
+    "name": "刘裕",
+    "series": "southern-dynasties",
+    "roles": [
+      "宋武帝"
+    ],
+    "summary": "由东晋将领崛起，通过北伐与平定内乱建立威望，420年代晋建宋。与南唐后主李煜不是同一人物。",
+    "sourceFile": "data/series/expansion/southern-dynasties.ts",
+    "representativeAge": 52,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "liu-yilong",
+    "name": "刘义隆",
+    "series": "southern-dynasties",
+    "roles": [
+      "宋文帝"
+    ],
+    "summary": "424年即位，开启元嘉时期，后期北伐失败，453年被太子刘劭杀害。",
+    "sourceFile": "data/series/expansion/southern-dynasties.ts",
+    "representativeAge": 40,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "liu-shao-song",
+    "name": "刘劭",
+    "series": "southern-dynasties",
+    "roles": [
+      "刘宋太子"
+    ],
+    "summary": "宋文帝长子，453年发动宫廷政变杀父自立，旋被刘骏击败。",
+    "sourceFile": "data/series/expansion/southern-dynasties.ts",
+    "representativeAge": 28,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "xiao-daocheng",
+    "name": "萧道成",
+    "series": "southern-dynasties",
+    "roles": [
+      "齐高帝"
+    ],
+    "summary": "刘宋末年掌握军政，479年代宋建齐。南齐与高洋建立的北齐属于不同政权。",
+    "sourceFile": "data/series/expansion/southern-dynasties.ts",
+    "representativeAge": 50,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "hou-jing",
+    "name": "侯景",
+    "series": "southern-dynasties",
+    "roles": [
+      "将领",
+      "叛军首领"
+    ],
+    "summary": "原属北方军政集团，降梁后与梁廷关系破裂，548年起兵，次年攻陷建康，552年败亡。",
+    "sourceFile": "data/series/expansion/southern-dynasties.ts",
+    "representativeAge": 45,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "xiao-yi",
+    "name": "萧绎",
+    "series": "southern-dynasties",
+    "roles": [
+      "梁元帝"
+    ],
+    "summary": "以江陵为基地参与平定侯景，552年称帝。554年西魏攻陷江陵，萧绎被杀。",
+    "sourceFile": "data/series/expansion/southern-dynasties.ts",
+    "representativeAge": 43,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "chen-baxian",
+    "name": "陈霸先",
+    "series": "southern-dynasties",
+    "roles": [
+      "陈武帝"
+    ],
+    "summary": "在平定侯景之乱中崛起，随后控制建康，557年代梁建陈。",
+    "sourceFile": "data/series/expansion/southern-dynasties.ts",
+    "representativeAge": 53,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  },
+  {
+    "id": "chen-xu",
+    "name": "陈顼",
+    "series": "southern-dynasties",
+    "roles": [
+      "陈宣帝"
+    ],
+    "summary": "569年即位，整顿内政并发动对北齐的北伐。北周灭齐后陈的北方战局逆转。",
+    "sourceFile": "data/series/expansion/southern-dynasties.ts",
+    "representativeAge": 43,
+    "referenceDecision": "本批采用艺术想象；未将现代影视形象或未经核验的网络肖像用作本人参考。"
+  }
+]

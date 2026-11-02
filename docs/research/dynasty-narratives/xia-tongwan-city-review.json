@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-11",
+  "method": "根代理独立逐P对读原逐字稿、正文和相应原典；实读核实内容补回，异载、文学传统、转写疑点不强行消除。见cross-review-j17-j21.md，未回听音频。",
+  "counts": {
+    "covered": 4,
+    "corrected": 5,
+    "partial": 2,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "xia-tongwan-city",
+      "sectionIds": [
+        "city-after-king"
+      ],
+      "note": "统万城为后来夏州治所。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "xia-tongwan-city",
+      "sectionIds": [
+        "name-and-wall"
+      ],
+      "note": "统万名号和大夏建都。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "covered",
+      "assessment": "corrected",
+      "storySlug": "xia-tongwan-city",
+      "sectionIds": [
+        "name-and-wall"
+      ],
+      "note": "用413年定位十六国时期，修正四五百年模糊概述。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-tongwan-city",
+      "sectionIds": [
+        "city-after-king"
+      ],
+      "note": "不固定两百年：到晚唐五代已历多世纪且有增建。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-tongwan-city",
+      "sectionIds": [
+        "name-and-wall"
+      ],
+      "note": "不采游牧民族皆不建城；呈现遗址与国家营城。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-tongwan-city",
+      "sectionIds": [
+        "name-and-wall"
+      ],
+      "note": "地点、白城子、墙体与材料有遗址园条支持。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-tongwan-city",
+      "sectionIds": [
+        "two-tests"
+      ],
+      "note": "残酷筑城和造兵器验收分叙。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-tongwan-city",
+      "sectionIds": [
+        "two-tests",
+        "city-after-king"
+      ],
+      "note": "刀刺墙纠正为锥验墙与箭验甲，连接夏州和国号。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tongwan-city",
+      "sectionIds": [
+        "city-after-king"
+      ],
+      "note": "承接定居经营，不保留中山类比为证据。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xia-tongwan-city",
+      "sectionIds": [],
+      "note": "中山国为跨朝代插叙，本篇不新增未经核校史实。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-tongwan-city",
+      "sectionIds": [
+        "city-after-king"
+      ],
+      "note": "迁置分期，不写全党项从青海一次强迁。"
+    },
+    {
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-tongwan-city",
+      "sectionIds": [
+        "city-after-king"
+      ],
+      "note": "唐衰与定难军转场已承接，后患宿命论不作事实。"
+    }
+  ]
+}

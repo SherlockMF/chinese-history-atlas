@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读对应辽04/05原段、正文及所列原典；查明诗词、冤案与人名年代，逐条记录实际承接和舍弃。音频未回听。",
+  "counts": {
+    "covered": 7,
+    "not-needed": 1,
+    "corrected": 3,
+    "partial": 7
+  },
+  "rows": [
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "accession-and-title"
+      ],
+      "note": "即位柩前天祚尊号与祚字义承接，明确非庙号。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [],
+      "note": "字义闲聊段，无实质命题。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "accession-and-title"
+      ],
+      "note": "1101即位1125被俘结束统治，卒年不可混同。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "accession-and-title"
+      ],
+      "note": "徽宗相近即位与同亡金背景保留，才艺和玩笑非本篇内容。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "the-hunting-frame"
+      ],
+      "note": "游猎频密据本纪，最爱程度排行不实证。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "the-hunting-frame"
+      ],
+      "note": "具体1114射鹿闻警态度有辽27；多次因猎逃脱的概括未逐例证明。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "the-hunting-frame"
+      ],
+      "note": "延续游猎及危局回应实际承接，不作与道宗猎量绝对排名。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "the-rehabilitation"
+      ],
+      "note": "元年平反官爵财物流放以及亲族追谥皆恢复。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "the-rehabilitation"
+      ],
+      "note": "萧观音冤案平反，社会风俗对私通的绝对严重等级未研究不采。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "the-rehabilitation"
+      ],
+      "note": "父浚死后追尊顺宗，未实际在位。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "the-rehabilitation"
+      ],
+      "note": "1101六月祖母十月父母，时间安排实际承接；纠母亲也叫萧观音。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "the-purge"
+      ],
+      "note": "1102发墓戮尸诛党徙边归属确据辽27。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "the-purge"
+      ],
+      "note": "受贿据辽96确有；辽23仅同母弟阿思不证异父，修亲属无证层次。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "the-purge"
+      ],
+      "note": "受贿宽免真实，绝无可用之人和随意诬谁都罪的夸张不补。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "the-exiled-guardian"
+      ],
+      "note": "兀纳护孙是1079出猎劝谏非滦河之变，潜邸直谏已有辽98。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "the-exiled-guardian"
+      ],
+      "note": "辽兴军守太傅与遭诬犀角再贬过程恢复，汉化官名不替代任职事实。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "huanglongfu-signal"
+      ],
+      "note": "辽98天庆元年1111黄龙府事东北统军明确，预警非待回听；囤粮练兵具体项未装入原奏。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "tianzuo-accession",
+      "sectionIds": [
+        "huanglongfu-signal"
+      ],
+      "note": "女真部属关系和屡警不听真实，节度使统括所有族部复杂结构不在本篇展开。"
+    }
+  ],
+  "independentReview": "completed"
+}

@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-30",
+  "method": "完整读隋下P163–168六段，逐段对照温大雅大唐创业起居注一、旧唐书1/57/61、通鉴183/184、隋书5/59。保留父子首谋叙述差异，不把宫人情节拼成唯一现场，不以玄武门之后改史的推论冒充已证事实；核杨侑杨侗身份及617/618易代次序。P163与江都篇重叠，须去重，未回听音频。",
+  "counts": {
+    "partial": 2,
+    "corrected": 1,
+    "covered": 3
+  },
+  "rows": [
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jinyang-uprising",
+      "sectionIds": [
+        "a-city-with-two-plans",
+        "raising-the-banner"
+      ],
+      "note": "承接后半617年李渊晋阳起兵、李世民刘文静裴寂与拥代王，废昏立明作为概括而非已核正式口号；前半杨广死亡具体过程由sui-jiangdu-coup承接，本篇不能将整段单独算全覆盖。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jinyang-uprising",
+      "sectionIds": [
+        "raising-the-banner"
+      ],
+      "note": "校正代王杨侑镇长安；613年杨玄感之乱守洛阳的是越王杨侗。保留二者皆杨广之孙，并交代杨侑后被立、隋恭帝称号。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jinyang-uprising",
+      "sectionIds": [
+        "a-city-with-two-plans",
+        "wine-gambling-and-palace-women"
+      ],
+      "note": "展开唐史及通鉴所写李世民、刘文静推动起兵、输财结裴寂和宫人私侍；将这些明示为史籍版本，不增加原段暗示的性爱细节。攻长安另在末节展开。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jinyang-uprising",
+      "sectionIds": [
+        "wine-gambling-and-palace-women",
+        "wen-dayas-record"
+      ],
+      "note": "两版对照完整展开：宫人事发惧罪和劝说线，以及温大雅笔下李渊主动筹划、子弟奉命结纳；说明作者身份及记载的立场。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jinyang-uprising",
+      "sectionIds": [
+        "wen-dayas-record"
+      ],
+      "note": "承接父子创业形象与史书立场的问题，补作者也曾支持太宗的复杂性；原段归因双方美化和玄武门影响没有逐处文本证据，不据此判具体故事必为改造，也不沿用哪版都不重要。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jinyang-uprising",
+      "sectionIds": [
+        "raising-the-banner",
+        "from-changan-to-tang"
+      ],
+      "note": "承接617十一月克长安立杨侑、遥尊杨广，618杨广死后杨侑逊位、李渊建唐改武德；补进军分工与相府掌权，主持人凭姓名看好李氏的插话不需叙事承接。"
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11收尾独立复核：逐读指定原P、现正文及所用原典；实义评价以编辑解读承接，未证心理、比例和全称判断明确研究结案；未回听音频。",
+  "counts": {
+    "covered": 13,
+    "partial": 22,
+    "corrected": 10,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P001",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-circle-of-kin"
+      ],
+      "note": "世宗军中拥立的承接开场。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-circle-of-kin"
+      ],
+      "note": "在位四年之短作为背景采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-circle-of-kin"
+      ],
+      "note": "辽5/77/113可证拥立亲族后来参与叛乱，天下已完全安定/人人想轮替是口述泛化，不据此全覆盖。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-circle-of-kin"
+      ],
+      "note": "耶律、萧两姓婚姻结构采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-circle-of-kin"
+      ],
+      "note": "通婚背景采用；“轮一轮再乱一乱”的动机概括不采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-dagger-in-the-sleeve"
+      ],
+      "note": "亲读113萧翰是世宗妹夫、948尚帝妹阿不里并参与谋反；全体两姓/男女政治平等未证，正文解释另限。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-dagger-in-the-sleeve"
+      ],
+      "note": "屋质破谋与镇压采用；处置细节按辽史校正。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-dagger-in-the-sleeve"
+      ],
+      "note": "宽宥有轻重采用；“绝不认为真错”的心理概括不采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [],
+      "note": "“反战败”网络说法插话。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-dagger-in-the-sleeve"
+      ],
+      "note": "949翰与阿不里联安端写信有辽113；对妻许皇后位的诱说无史文未造对白。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-dagger-in-the-sleeve"
+      ],
+      "note": "公主参与采用；评语与插话不采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-dagger-in-the-sleeve"
+      ],
+      "note": "安端太祖弟、明王主东丹和军功有64/5，113只记结信，选他必因名头兵权是编辑推论。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-circle-of-kin"
+      ],
+      "note": "安端封东丹采用；“横渡首先支持”按辽史校正为北归时率兵支持、受封明王主东丹。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-man-who-left-his-father"
+      ],
+      "note": "察割“大义灭亲告发父亲”不采用；按察割传改为自诉受父苛待获召。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-man-who-left-his-father"
+      ],
+      "note": "同上：告发版本与辽史萧翰传不合，不采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-man-who-left-his-father"
+      ],
+      "note": "辈分说明采用；告发情节不采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-dagger-in-the-sleeve"
+      ],
+      "note": "萧翰之死按辽史校正：948案受杖，949案伏诛。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-man-who-left-his-father",
+        "a-throne-after-the-revolt"
+      ],
+      "note": "屋质怀疑察割有112；安端赦通谋归田是951察割乱后，不是949萧翰案软禁，已正文分层精映双节。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-man-who-left-his-father"
+      ],
+      "note": "“并非忠心”与屋质的判断部分承接；动机内心概括不采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-man-who-left-his-father"
+      ],
+      "note": "research-closed：承接拥立者与皇族名分之间的制约关系，明确“安端可能成为傀儡”为编辑推演，不采用江山实际归萧或已有分权密约的断言。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-man-who-left-his-father"
+      ],
+      "note": "research-closed：以察割脱离父亲、独领军并靠近行宫的实际行动承接父子路线差异；不采用察割嫌父年老、认为萧翰坏或预知他们必败的私人心理。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-man-who-left-his-father"
+      ],
+      "note": "舍父事帝亲近争宠已用；担心安端传位其他子、借告反换亲信是无源计算，已interpretation限定。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-man-who-left-his-father"
+      ],
+      "note": "屋质上表、帝示奏表采用；“出卖亲爹”论证不作史实。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-man-who-left-his-father"
+      ],
+      "note": "112确有示表后察割哭诉、世宗安慰，亲爹告反的大义灭亲赞语无史源，本文不补拟对白。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "south-again"
+      ],
+      "note": "中原五代更替/951后周建立背景实用；梁唐晋汉周完整顺序与乱世五十秋未作为诗文展开，不算全部采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "south-again"
+      ],
+      "note": "北汉太原/北方位置已用，十国九南的通史命题有实质内容，未展开不能记纯插话无须。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "south-again"
+      ],
+      "note": "北汉称臣求援与世宗南下采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "south-again"
+      ],
+      "note": "察割留侍行宫（950本纪）采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "south-again"
+      ],
+      "note": "察割游说诸部采用；“谁当皇上都行”的心理概括不采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "south-again"
+      ],
+      "note": "弑帝采用；经过按辽史祭帝后饮酒大醉分层，不写成突然闯帐。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "out-of-the-purple-robe"
+      ],
+      "note": "察割寻找紫衣屋质有辽77，记恨早谏、判断屋质必能扭局为拟心，不全部坐实。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "out-of-the-purple-robe"
+      ],
+      "note": "换衣脱险采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "out-of-the-purple-robe"
+      ],
+      "note": "紫袍目标明显采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "out-of-the-purple-robe"
+      ],
+      "note": "换紫袍目标明确已用，紫色最高等级/染料天然稀有是实质制度工艺命题未核，不是纯插话。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "out-of-the-purple-robe"
+      ],
+      "note": "辽77屋质遣弟冲迎寿安王，并非一定本人跑其帐直接报告；正文准确召迎并用辽6太宗长子身份。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "out-of-the-purple-robe"
+      ],
+      "note": "倍子阮/德光子璟堂兄弟关系和璟犹豫已用；具体与我无关拟话未见源。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "south-again",
+        "out-of-the-purple-robe"
+      ],
+      "note": "112察割邀寿安语不从、77讨乱时璟犹豫两次拒绝实用，逍遥王心理与同一句拒词未造。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "out-of-the-purple-robe"
+      ],
+      "note": "77太宗子不可落贼手、社稷靠谁劝词实用；再追问察割此前邀反及恨他无直接记载。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "out-of-the-purple-robe"
+      ],
+      "note": "璟悟同讨、诸将聚合有77；辽三大于越/屋质第二任榜单与契丹男儿激昂拟话未证，不只转写纠字算全修。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-bowl-and-the-hostages"
+      ],
+      "note": "玛瑙碗细节与士兵倒戈采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-bowl-and-the-hostages"
+      ],
+      "note": "士兵蒙在鼓里的说法按察割传限定，不作全称判断。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-bowl-and-the-hostages"
+      ],
+      "note": "挟持人质采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-bowl-and-the-hostages"
+      ],
+      "note": "脱身之计采用，出计者补为耶律敌猎。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "the-bowl-and-the-hostages"
+      ],
+      "note": "诱出谈判采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "a-throne-after-the-revolt"
+      ],
+      "note": "娄国手刃察割采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shizong-huoshendian",
+      "sectionIds": [
+        "a-throne-after-the-revolt"
+      ],
+      "note": "辽6叛党诛后丁卯即位改应历、辽7十九年969遇弑，补951—969共18年，不仅即位结句。"
+    }
+  ],
+  "independentReview": "complete",
+  "independentReport": "final-unadopted-liao-wudai-independent.md"
+}

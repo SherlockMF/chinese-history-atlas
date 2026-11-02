@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-30",
+  "method": "通读隋下P147–P152六段，对读旧唐书54、55、56、83，新唐书111，通鉴183、187、190。按河北、江淮与江南分写并区分反隋、归唐和反唐，校清621、622、623、624事件以及苏定方各阶段。未回听音频；窦李舅甥、三人结义与罗成情节未核定具体演义版本，仁义口号和所有势力统一动机不以主题相近判完整。",
+  "counts": {
+    "partial": 4,
+    "corrected": 1,
+    "covered": 1
+  },
+  "rows": [
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-regional-powers",
+      "sectionIds": [
+        "dou-and-leishou",
+        "hulao-and-hebei"
+      ],
+      "note": "承接窦建德务农家世、乐寿建政、618夏国与仁厚待王琮故事；补617先长乐王、619后迁洺州。原段仁义正式口号未有对应史文，李世民舅甥关系的具体小说版本未核，不用窦姓附会。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-regional-powers",
+      "sectionIds": [
+        "dou-and-leishou",
+        "hulao-and-hebei",
+        "liu-after-xia",
+        "du-and-jianghuai",
+        "many-wars"
+      ],
+      "note": "承接乐寿在献县一带及隋末队伍续存到唐；具体写窦621、刘623、杜624结局，明确均属高祖朝，战时秦王不等于已登基太宗，校正多数熬过高祖的时代混淆。北京近远口语不作距离论证。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-regional-powers",
+      "sectionIds": [
+        "hulao-and-hebei",
+        "liu-after-xia",
+        "du-and-jianghuai",
+        "many-wars"
+      ],
+      "note": "实质展开杜伏威进入江淮、据历阳丹阳，以及刘黑闼为窦旧交和部将、夏亡后再起的河北路径；地域是活动方向而非现代省界直接对应。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-regional-powers",
+      "sectionIds": [
+        "hulao-and-hebei",
+        "liu-after-xia",
+        "su-and-allegiances",
+        "many-wars"
+      ],
+      "note": "展开窦死后刘621反唐、两度败亡及最后李建成进军；苏烈字定方，补父子先为郡讨贼、后窦刘、再入唐的分期，校正一概起义军出身。三人结拜、苏杀罗成的具体文学版本未核定，未将其写作史实或补成确定小说梗概。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-regional-powers",
+      "sectionIds": [
+        "du-and-jianghuai",
+        "lin-and-other-rivals",
+        "su-and-allegiances",
+        "many-wars"
+      ],
+      "note": "补苏定方入唐后的重要经历、林士弘承操师乞起兵到楚国盛衰，以具体地理与政权行动展开多方并立；原段江西湖南笼统疆域未逐县核定，不以现代两省作为稳定辖境，林称帝616/617两书差别保留。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-regional-powers",
+      "sectionIds": [
+        "du-and-jianghuai",
+        "lin-and-other-rivals",
+        "many-wars"
+      ],
+      "note": "补李子通、孟海公实际去向，展开不同起事原因、兼并建政和拒征发的区别；以616边患及刘黑闼借突厥兵纠正外患消失。原段给所有势力拟定的拒交人粮钱对白无逐人证据，不作为统一已证动机。"
+    }
+  ]
+}

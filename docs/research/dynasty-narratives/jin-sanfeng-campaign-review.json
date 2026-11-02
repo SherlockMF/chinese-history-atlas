@@ -1,0 +1,344 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11 主代理独立逐读金03 P041—063、134—140共30条，亲读金112两将传与元115睿宗传、元2及圣武亲征录相关战事；三路、李昌国、断粮轮休、战机及不遗君父、败后被杀和宋蒙攻蔡分期对应，补P047跨节定位；未回听音频。",
+  "counts": {
+    "corrected": 9,
+    "covered": 9,
+    "partial": 10,
+    "uncertain": 1,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "three-roads"
+      ],
+      "note": "窝阔台1229即位、1230出兵，非1230才继位；假道谋略不等于全时段宋蒙联军。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "three-roads"
+      ],
+      "note": "三路部署与东路斡陈那颜据睿宗传纠正。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "three-roads"
+      ],
+      "note": "潼关屏障和迂回战略实际承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "three-roads"
+      ],
+      "note": "潼关驰援及诱敌未成功承接；具体小股对白不实录化。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "three-roads"
+      ],
+      "note": "金军拒诱有战绩材料，不补圣斗士与骂街对白。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "three-roads"
+      ],
+      "note": "1230—1231进攻、1231三路部署先后写入。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "three-roads",
+        "song-road"
+      ],
+      "note": "凤翔陷、李昌国降人献计明确核得，未称已回听纠名。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "song-road"
+      ],
+      "note": "李昌国建议与宋杀使分开，借道没有顺利获允。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "song-road",
+        "yushan-report"
+      ],
+      "note": "金州房州汉水路线和均州分清，均州非河南禹州钧州；不采武当几百万。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "song-road",
+        "yushan-report"
+      ],
+      "note": "金军南下后入援汴京承接，集合并非同时一次到齐。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "song-road"
+      ],
+      "note": "失去回旋空间承接，不采全国绝无任何路可跑的绝对化。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "yushan-report"
+      ],
+      "note": "两主将、陈和尚和蒲阿契丹背景承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "yushan-report"
+      ],
+      "note": "陈和尚引入与兵力关系承接，网络感想不独立补。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "yushan-report"
+      ],
+      "note": "不同阶段兵数列出处，不定二十万对四万精确比例。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "yushan-report"
+      ],
+      "note": "忠孝军多背景组成承接，女真主将存在，不断言没有女真。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "yushan-report"
+      ],
+      "note": "忠孝军作用实写，不采一次胜负即当日全亡。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "cold-before-battle"
+      ],
+      "note": "萨满具体占卜未在两传确认；寒困战事有据，保留解释。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "cold-before-battle"
+      ],
+      "note": "雨转雪与三日饥寒有据，羊胛骨预言未作事实。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "cold-before-battle"
+      ],
+      "note": "麻田泥淖铁甲枪槊结冰和缺粮实际写入。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "cold-before-battle"
+      ],
+      "note": "蒙古军轮休烤肉按金史，不写天生不用火和雪中一律休养。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "opening-to-junzhou"
+      ],
+      "note": "拖雷拒待窝阔台、主张战机按传承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "opening-to-junzhou"
+      ],
+      "note": "不遗君父的解释与夹击战术实际补入。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "opening-to-junzhou"
+      ],
+      "note": "合达钧州城破被杀、蒲阿被俘后拒降被杀，非都阵亡。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "song-road"
+      ],
+      "note": "借道被拒杀使和宋境受攻击承接并注明元史叙述。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [],
+      "note": "耳光拟喻及玩笑不补史实。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "song-road"
+      ],
+      "note": "宋蒙关系改变以实际交涉承接，心理转念非可核。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "song-road"
+      ],
+      "note": "后续结盟入文，立即改亲热允过境对白不采。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "kaifeng-and-caizhou"
+      ],
+      "note": "1232汴京为蒙古围攻，1233宋军助攻蔡州分清。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "kaifeng-and-caizhou"
+      ],
+      "note": "速不台继续围城及哀宗治下困局写入。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-sanfeng-campaign",
+      "sectionIds": [
+        "kaifeng-and-caizhou"
+      ],
+      "note": "危城与残余抵抗承接，不把后续三个权臣作为全部亡因。"
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "date": "2026-09-30",
+  "method": "人工通读北魏02 P058–P081共24段，并逐条对读魏书、通鉴及相关载记；每项判定以正文实际承接为准，未采用命题和范围缺口独立注明。未回听音频。",
+  "counts": {
+    "corrected": 14,
+    "covered": 6,
+    "partial": 3,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "broken-shelter"
+      ],
+      "note": "承接383年淝水败战与北方离散，纠正东晋此战即灭前秦的说法。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "broken-shelter"
+      ],
+      "note": "援秦、慕容文夜袭、刘头眷继领已写；慕容文明确为寄居其部者，不直接称外来后燕大将，刘库仁遇害年份异文保留在来源说明。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "broken-shelter",
+        "night-escape"
+      ],
+      "note": "刘显杀叔、谋害拓跋珪及亢泥姻亲关系完整承接，不以杀叔自动推导人物所有动机。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "night-escape"
+      ],
+      "note": "亢泥妻为珪姑、告贺氏与梁六眷为什翼犍甥均已写，姓名按史书校正。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "night-escape",
+        "niuchuan"
+      ],
+      "note": "告警逃亡、旧臣归附与投贺兰均承接；未复现原稿集体威逼贺兰的拟对白，以具体旧臣选择交代拥立。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "night-escape",
+        "niuchuan"
+      ],
+      "note": "母族接纳、旧部拥立已承接；以贺讷与贺染干不同态度替代全体一致、虚构集体宣言和全族复兴的泛称。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "niuchuan"
+      ],
+      "note": "386年牛川大会、代王与登国完整承接；牛川等同今西拉木伦河的精确地理断言未核定，祖父年号提问未另展开。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "niuchuan"
+      ],
+      "note": "盛乐、休整部众、课农和改魏王已按二月、四月次序写明。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "niuchuan",
+        "patience"
+      ],
+      "note": "称王与398年称帝分清；部众离去由侯辰、代题实例承接，不以所有游牧政权皆松散且惯常叛变作统一定律。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "patience"
+      ],
+      "note": "部众去留与保护、关系、判断已写，旧臣冒险救助和离去并列，纠正人人只图利益、无忠诚的概括。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "patience"
+      ],
+      "note": "拓跋珪暂不追讨与并非毫无代价已承接；郁律、猗卢遇叛必追的跨人物比较未展开核定。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "patience"
+      ],
+      "note": "世修职役释作历代服务而非末流地位，小愆宽忍按原文解释。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "patience"
+      ],
+      "note": "草创、人情未一与不宜立即追讨的因果已写，并续写代题再叛避免一次宽容必奏效。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [],
+      "note": "唱歌和草创谐音属于节目插话，不构成需要移入历史故事的事实命题。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "uncle-and-yan"
+      ],
+      "note": "独孤、贺兰、铁弗、库莫奚、柔然和高车的多方环境已承接，纠正已是北朝二分格局的时代误称。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "uncle-and-yan"
+      ],
+      "note": "后燕与西燕并存、窟咄受刘显拥立、处死主谋而宽免其余及避敌求援已写。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "uncle-and-yan",
+        "wei-chen"
+      ],
+      "note": "386年窟咄危机与燕援军分开于391年刘卫辰败亡；被卫辰杀的是窟咄，卫辰后来为部下所杀。未把当次援助再说成新缔婚姻。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "uncle-and-yan"
+      ],
+      "note": "封西单于、上谷王者为后燕慕容垂，纠正西燕误称，关系高下不拟私人债务对白。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "uncle-and-yan"
+      ],
+      "note": "拒受印绶已写，名分解释限定在援助与封号关系；不虚构珪自称双方平等或已预想翻脸的现场言语。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "returning-armies"
+      ],
+      "note": "387年刘显战事保留燕援军，388年库莫奚战与389年高车战分开；大破不写成族群灭绝。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "returning-armies",
+        "rou-ran"
+      ],
+      "note": "390年贺讷受围求降求援已写；柔然反复归降和再兴纠正始终不降，族源保留魏书立场，不断言全属鲜卑。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "rou-ran"
+      ],
+      "note": "391年追击粮尽、杀副马可供三日、南床山获半部与余众逃走均承接，并续写分路追击归降。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "returning-armies",
+        "wei-chen"
+      ],
+      "note": "实力增长及战争对被迁家庭、人口牲畜的代价均有具体承接，不只抽象说百姓受苦。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tuoba-gui-restoration",
+      "sectionIds": [
+        "wei-chen"
+      ],
+      "note": "军事扩张条件与族群天生善战论的限度已写；后来各帝在位长短及宫廷冲突的具体比较未展开，不报全覆盖。"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11收尾独立复核：逐读指定原P、现正文及所用原典；实义评价以编辑解读承接，未证心理、比例和全称判断明确研究结案；未回听音频。",
+  "counts": {
+    "covered": 4,
+    "partial": 11,
+    "corrected": 6
+  },
+  "rows": [
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "birth-and-omen"
+      ],
+      "note": "观音与菩萨哥分属道宗圣宗两朝，明确区分。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "birth-and-omen"
+      ],
+      "note": "萧惠女姿容冠绝有辽71；最美排名只属评价不作客观排行。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "birth-and-omen"
+      ],
+      "note": "月坠怀天狗食据焚椒录，解梦者是父萧惠非术者，限定传记奇兆。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "birth-and-omen"
+      ],
+      "note": "诗才与悲剧情节实际承接，主持人个人喜爱不当历史事实。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "fuhulin-poem"
+      ],
+      "note": "伏虎林四句全文恢复；纪年依焚椒录清宁二年，并非原稿三年。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "fuhulin-poem"
+      ],
+      "note": "南邦鸭绿江应制视野已赏析，天下他政权都是妖魔的过释不采。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "virtue-over-beauty"
+      ],
+      "note": "research-closed：以辽史耶律良传的清宁集、庆会集及焚椒录萧观音作品说明写作、传世、个人接触三层不同；未建立全辽金作品总量或课程选本统计，不采用因少见即断言文学差。疑问已有范围明确的答复，研究结案。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "virtue-over-beauty"
+      ],
+      "note": "以实际诗词保留文学线索，辽金所有作品数量少水平低的概括无研究支持。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "virtue-over-beauty"
+      ],
+      "note": "焚椒录原题华夏同风非华夷，恢复和诗全文，不以误题判具体民族身份。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "virtue-over-beauty"
+      ],
+      "note": "徐贤妃榜样和狩猎进谏真实，以德事君的自白不是所读原文。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "huixin-courtyard"
+      ],
+      "note": "十首配乐望幸及装绣帐原文已恢复；唐宫回心院具体典故未定位。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P188",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "shixiang-frame-up"
+      ],
+      "note": "惟一能奏词曲真实，没有把同一乐工套到圣宗宫中。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P189",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "shixiang-frame-up"
+      ],
+      "note": "单登重元家婢而非妻妾，恢复对弹怨恨与外直别院。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P190",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "shixiang-frame-up"
+      ],
+      "note": "清子朱顶鹤妻与乙辛亲昵、传入索书链，真实原典逐项。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P191",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "shixiang-frame-up"
+      ],
+      "note": "青丝首原文按内家装、不知眠枕上、倍觉绿云香校。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "shixiang-frame-up"
+      ],
+      "note": "单登宋后词两绝诱抄有据，皇后阅读欣赏不据此定全无政治能力。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P195",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "the-trap-springs"
+      ],
+      "note": "飞鸟昭阳依所读版本，飞燕朝阳为转写线索非已证异文；怀古诗完整。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P197",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "the-trap-springs"
+      ],
+      "note": "摘赵惟一成狱已叙，华夷题名错误不再延伸为证。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P198",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "the-trap-springs"
+      ],
+      "note": "契丹宫廷使用典故分析保留，不定其对西夏女真的唯一民族定位。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P200",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "the-trap-springs"
+      ],
+      "note": "铁骨朵击后和子女乞代死有据；太子逐句回心院辩护无原文不增写。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P202",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin-supplement",
+      "sectionIds": [
+        "the-trap-springs"
+      ],
+      "note": "白练自经年36；恢复原典裸尸苇席还家，纠荒野弃尸，赵惟一族诛非已证凌迟。"
+    }
+  ],
+  "independentReview": "complete",
+  "independentReport": "final-unadopted-liao-wudai-independent.md"
+}

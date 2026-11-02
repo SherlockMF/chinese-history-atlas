@@ -1,0 +1,426 @@
+{
+  "date": "2026-10-02",
+  "method": "S16：已完整阅读本篇所列原段，对照正文及列明原典逐段自审；子代理起草，主代理已独立阅读全文原段、原典与逐段台账并完成交叉复核；页面验证待补。未回听音频；基线保持不变。",
+  "counts": {
+    "partial": 16,
+    "corrected": 7,
+    "not-needed": 5,
+    "covered": 7,
+    "uncertain": 3
+  },
+  "rows": [
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "west-residence"
+      ],
+      "note": "交代所称萧何后裔并标谱系争议；未确认二十五世连续血谱。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "west-residence"
+      ],
+      "note": "父名萧顺之、齐高帝族弟据本纪；族弟不直接换算未出五服。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "west-residence"
+      ],
+      "note": "承接学养与才干，祖源可直溯和帝王前三排名未采为事实。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [],
+      "note": "与宋徽宗的节目比较插话，未直接写入。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [],
+      "note": "主持人惊讶及书画排名插话不承接。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [],
+      "note": "瘦金体与亡国相的玩笑不作史实。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "west-residence"
+      ],
+      "note": "本篇聚焦前半生；八十六虚岁与乾隆比较未在本篇展开。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "west-residence"
+      ],
+      "note": "接入萧子良西邸及政治变局的开端。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "west-residence"
+      ],
+      "note": "校竟陵八友名单及召集者；不称萧衍唯一领袖，也不套唐代新乐府概念。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "west-residence",
+        "abdication"
+      ],
+      "note": "写沈约范云建梁作用，未把所有士人艺术一律视作从政衍生品。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [],
+      "note": "乐队及洗澡调侃不承接。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [],
+      "note": "竹林七贤洗澡及节目周边插科不承接。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "west-residence"
+      ],
+      "note": "王融识人语注明传记叙述，不把预言当事实证明。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "west-residence"
+      ],
+      "note": "写明帝起用与定策，不写不可证的即时转投心理。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "west-residence",
+        "yiyang"
+      ],
+      "note": "承接萧鸾用萧衍参与军政和对魏作战。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "yiyang"
+      ],
+      "note": "交代北魏南进压力，未将每次南征均解释成掩护迁都。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "yiyang"
+      ],
+      "note": "校义阳，明确495年救援及隶王广。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "yiyang"
+      ],
+      "note": "校义阳在今信阳、守方南齐、敌将刘昶王肃及孝文帝卒499；未采三十万亲率说。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "yiyang"
+      ],
+      "note": "承接夜进贤首山；满山插旗未见所读本纪支持。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "yiyang"
+      ],
+      "note": "承接魏军不测援军数量和内外夹击；旌旗计保留缺口。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "yiyang",
+        "two-courts"
+      ],
+      "note": "接军政声望与后续转折，未称已证其生平首次对魏作战。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "two-courts"
+      ],
+      "note": "承接宝融、颖胄与江陵建康双重权力关系。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "two-courts"
+      ],
+      "note": "写颖胄死后权力变化，不用抑郁确诊死因。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "two-courts",
+        "abdication"
+      ],
+      "note": "承接北魏换帝及加官封爵；未断言绝无北方压力或先代追封全部细节。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "abdication"
+      ],
+      "note": "校殊礼与梁公封国；赞拜不名不同于原转写再名不败。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "abdication"
+      ],
+      "note": "写十郡、九锡及沈约催促受禅具体过程。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "abdication"
+      ],
+      "note": "按通鉴还原劝进，不将节目模拟对白标成实录。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "abdication"
+      ],
+      "note": "只概述符瑞合法性语言；弟弟具体组织造瑞未据所读原典确认。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "abdication"
+      ],
+      "note": "未写金龙大蛇的即席布置；童谣制造具体过程待核。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "abdication"
+      ],
+      "note": "未回听行中水原音；本篇未确认萧衍找小伙现编的说法。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "abdication",
+        "baling"
+      ],
+      "note": "写称帝受禅及转入巴陵王处置。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "baling"
+      ],
+      "note": "承接封巴陵王及新朝疑虑；岳阳楼记课堂插话不写。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "baling"
+      ],
+      "note": "承接郑伯禽进生金的使者行动。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "baling"
+      ],
+      "note": "写拒金饮酒、醉后被杀，不能确写吞金死亡；后代类比留后篇。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "baling"
+      ],
+      "note": "写前帝遇害与葬礼矛盾；未据此证公告病死具体措辞。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "zhongli-siege"
+      ],
+      "note": "接元英围钟离与梁初边防。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "zhongli-siege"
+      ],
+      "note": "分506围攻与507救援、北徐州地理及曹景宗督军二十万口径。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-yan-rise",
+      "sectionIds": [
+        "bridges-on-fire"
+      ],
+      "note": "详写水涨焚桥、溃败及更生；不把古史数目和最大胜仗排名当精确统计。"
+    }
+  ]
+}

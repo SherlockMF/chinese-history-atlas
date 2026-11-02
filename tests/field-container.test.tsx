@@ -126,3 +126,31 @@ it("does not mount any iframe in disabled mode", async () => {
   await waitFor(() => expect(screen.getByText("现场版本准备中")).toBeVisible());
   expect(container.querySelector("iframe")).toBeNull();
 });
+
+const webgl = getFieldConfig({ mode: "webgl", playerUrl: "/history-field/li-jingxun/index.html" });
+it("blocks Unity downloads on mobile devices while keeping the archive available", () => {
+  vi.spyOn(window.navigator, "userAgent", "get").mockReturnValue("Android Mobile");
+  const { container } = render(<FieldContainer config={webgl} />);
+  expect(screen.getByText("现场探索建议使用桌面浏览器")).toBeVisible();
+  expect(container.querySelector("iframe")).toBeNull();
+  expect(screen.getByRole("link", { name: "返回调查档案" })).toHaveAttribute("href", "/archive/li-jingxun");
+});
+it("allows Unity more than 15 seconds and displays loader failure with retry", () => {
+  vi.useFakeTimers();
+  render(<FieldContainer config={webgl} />);
+  const frame = screen.getByTitle<HTMLIFrameElement>("李静训墓现场 Player");
+  expect(frame.getAttribute("sandbox")).toContain("allow-pointer-lock");
+  act(() => vi.advanceTimersByTime(16_000));
+  expect(screen.queryByRole("alert")).toBeNull();
+  Object.defineProperty(frame, "contentDocument", { configurable: true, value: document.implementation.createHTMLDocument() });
+  const loader = frame.contentDocument!.createElement("div");
+  loader.id = "history-field-loader";
+  loader.dataset.state = "failed";
+  frame.contentDocument!.body.appendChild(loader);
+  act(() => vi.advanceTimersByTime(1_000));
+  expect(screen.getByRole("alert")).toHaveTextContent("Unity 加载失败");
+  send(frame, ready);
+  expect(screen.getByRole("alert")).toHaveTextContent("Unity 加载失败");
+  fireEvent.click(screen.getByRole("button", { name: "重试加载" }));
+  expect(screen.getByTitle("李静训墓现场 Player")).not.toBe(frame);
+});

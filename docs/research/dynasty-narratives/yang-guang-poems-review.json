@@ -1,0 +1,342 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：通读隋下P173–P188、P194–P200及隋中P211–P215共28段，核全隋诗3、乐府诗集38/47、营东京诏、隋书3/4、通鉴185、旧唐1，并对读神女典故、皮日休与张养浩作品。将诗的文本、创作年次、史事、史臣后评及主播现代感受分开；未回听音频，私人心理与群体心理没有因讨论主题相近便计完整承接。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "corrected": 5,
+    "partial": 17,
+    "uncertain": 6
+  },
+  "rows": [
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "names-after-death"
+      ],
+      "note": "校正自称明皇帝为杨侗死后追谥，并列唐高祖追谥炀帝；保留从作品观察人物的入口，不把不同诗风直接排为人生阶段，炀字恰当为主播判断而非本文确证。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "wall-and-empire"
+      ],
+      "note": "校篇名为饮马长城窟行，肃肃、横漠据诗集还原；补前四句及北巡筑城背景，但没有把创作日期定为某一次西巡或北巡当日。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "wall-and-empire"
+      ],
+      "note": "入朝夜校为入朝谒，长城候随全隋诗所用底本，不以侯/候字形独断转写错误；解释朝会与功业自陈，傲视天下作为文本声调分析，不声称由诗句测定一切私人心态。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "names-after-death",
+        "moon-on-the-river",
+        "women-in-the-water"
+      ],
+      "note": "据全隋诗与乐府诗集校还两首全文，说明瀁/漾异文与旧曲题；取消缺乏年次证据的后期定年，不把清丽题材自动当败亡前自弃的证明。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "women-in-the-water"
+      ],
+      "note": "解释汉水神女传统及娥皇女英的典故，分别核列仙传与列女传；原段死不冤为评论，不沿袭以文学神女判断现实罪责的推论。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "wall-and-empire",
+        "moon-on-the-river"
+      ],
+      "note": "用动静、将与带及帝王功业叙述实质展示诗才与声调；一生唯一追求让所有人服从的绝对心理归纳没有当作可证事实纳入。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "edicts-and-cost"
+      ],
+      "note": "补营东京诏民惟国本等公开措辞，并对照征役的实际代价；原稿说心里不会考虑人民，公开诏令无法直接证实或证伪私人心理，故仅计部分，不以宣言替本人内心作证。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "edicts-and-cost"
+      ],
+      "note": "补史载612年动员规模及转运负担，并区别号称与史书记数；辽宋金西夏的跨朝用兵比较未逐项研究，正常人判断不作史实。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "edicts-and-cost"
+      ],
+      "note": "补高句丽请降与隋军诸将受制于帝旨的具体军事机制；原段辽隋强弱、西夏土地无用的比较没有承接，不能用个案补成完整跨朝论证。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "edicts-and-cost"
+      ],
+      "note": "以征伐诏提出的多项理由及决策后果讨论军事目标；只想听服、追求千古最华丽等私心无法单一坐实，氪金玩家类比未照搬。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P183",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "women-in-the-water",
+        "mirror-at-jiangdu"
+      ],
+      "note": "补照镜问头颈的通鉴记述及江都朝议，分开神女典故与现实罪责；未将写艳诗就应有此下场或与金朝皇帝的笼统比较作为史实承接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P184",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "edicts-and-cost",
+        "mirror-at-jiangdu"
+      ],
+      "note": "以具体政策、丹阳方案及史臣恃才矜己评断展开才智与施政结果的区别；不把并非昏庸推成始终清醒、完全知道后果，也不认定对所有人的统一私人态度。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "mirror-at-jiangdu"
+      ],
+      "note": "原段以缺乏一切常识、从未脚踏实地生活解释私人心理。正文只提示证据边界，没有把这些全称心理判断核定或实质补成事实。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P186",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "mirror-at-jiangdu"
+      ],
+      "note": "宫殿为实体与快乐来源的心理区分缺乏可核本人材料。正文交代无法唯一断定，保留待核，不用提及宫殿便算承接该心理主张。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P187",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "mirror-at-jiangdu"
+      ],
+      "note": "不在意细节、只求悬空满足的内在感受不能由现有诗文与政事记录证实；只写证据限制，不以之计实质承接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P188",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "edicts-and-cost",
+        "canal-and-later-readers"
+      ],
+      "note": "补运河长期功用与征役责任须并论，加入皮日休怀古诗并明后世设问；未沿袭一切行为远离真相的绝对心理论断，也不做未指明网络作者的逐人辩驳。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P194",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "people-after-the-dynasty"
+      ],
+      "note": "保留战乱中普通人生活与读者感受的切入，明确不能给所有人配同一心态；本篇未重述杨勇全生平，相关已在杨勇篇，原段个人反思不改写全民无望实证。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P195",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "people-after-the-dynasty"
+      ],
+      "note": "承接隋统一与随后动荡的时间转换，未说统一后国内绝无战争；转写宋节阳神未回听，不猜人物，永远更差与人人同感留作主播感受而未证。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P196",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "people-after-the-dynasty"
+      ],
+      "note": "承接统一、征辽与地方割据的历史震荡，连接普通家庭可能面临的处境；没有声称所有亲历者均先希望后幻灭，也未在此重复三征战役全程。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P197",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "people-after-the-dynasty"
+      ],
+      "note": "隋末所有人彻底失信、唐建后无人敢信是主播想象，缺乏总体证据。正文明确这层限度，另举孙伏伽具体进谏声音；后者不替代前者的核定。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P198",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "people-after-the-dynasty"
+      ],
+      "note": "原稿已提出张养浩、山坡羊及元曲，本文补全潼关怀古篇名和文本，不把增加精度当纠错；承接文学感受战乱的读法，精神煎熬保留为主播感受而非隋末集体心理实证。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P199",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "people-after-the-dynasty"
+      ],
+      "note": "准确引兴百姓苦亡百姓苦并说明文学后评，保留安定对民生日常的价值；唐朝地位的单一因果与整段时代比较未全面论证，节目集数无须加入正文。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P200",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "people-after-the-dynasty"
+      ],
+      "note": "保留珍惜安稳生活的价值判断，说明唐初仍有战事、整个唐代不是永久无战；没有把唐朝积德等赞语变为因果事实。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P211",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "wall-and-empire"
+      ],
+      "note": "以长城诗的万世策、朝谒告庙承接雄心这一人物评价线索；原段未指明的那些事没有猜补，野心巨大不扩为可测心理诊断。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P212",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "edicts-and-cost"
+      ],
+      "note": "实际补林邑贡绝/奇宝/杨坚启动与流求海上寻访/不从/遣军的史载理由；游戏串场不入正文，不证杨广闲得无事或统一私人欲望。",
+      "resolution": "body-added",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P213",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "mirror-at-jiangdu"
+      ],
+      "note": "官三代出身导致一统四海欲望为因果推测，现有材料不能唯一证实。正文仅说明不能由出身决定私人欲望，未重复家族上升史充当此因果的核定。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P214",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "mirror-at-jiangdu"
+      ],
+      "note": "未受民间疾苦、个人天性与特殊欲望之间的心理因果未证；未因其他人物有不同选择就反推杨广心理已知。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P215",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-guang-poems",
+      "sectionIds": [
+        "wall-and-empire",
+        "mirror-at-jiangdu"
+      ],
+      "note": "诗中的帝国秩序与江都方案承接其规模宏大的追求及后果；全部行为只为显摆、初生牛犊比喻与私人满足强度没有作为核定事实。"
+    }
+  ],
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "隋（中）_clean_v1.md",
+        "paragraph": "P212",
+        "resolution": "body-added"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

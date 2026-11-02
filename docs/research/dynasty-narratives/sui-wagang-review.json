@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-30",
+  "method": "通读隋下P136–P146十一段，对读隋书37、70，旧唐书53、67、68，通鉴183、187，并核说唐27及隋唐演义13文学原文。以粮仓、首领关系、杀翟、童山与偃师、个人投奔顺序形成正文。未回听音频；口号、最强排名、断密涧转写不明的星宿句、小说数字和现代动机概括不以主题相近计作完整承接。",
+  "counts": {
+    "partial": 6,
+    "covered": 1,
+    "corrected": 4
+  },
+  "rows": [
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-wagang",
+      "sectionIds": [
+        "fugitives-at-wagang",
+        "heroes-in-fiction"
+      ],
+      "note": "承接隋末多支武装背景、瓦岗真实存在与后世演义的叙事关系；原段三十六反王七十二烟尘的具体版本及扬州会未逐项核定，没有以文学数字充作史实统计。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-wagang",
+      "sectionIds": [
+        "fugitives-at-wagang",
+        "grain-and-command",
+        "heroes-in-fiction"
+      ],
+      "note": "实质展开翟让先聚众、李密来投与被推魏公的领袖更替，并以说唐程咬金称混世魔王的原文分清文学安排。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-wagang",
+      "sectionIds": [
+        "fugitives-at-wagang",
+        "qin-before-tang",
+        "heroes-in-fiction"
+      ],
+      "note": "补翟让法曹获释、队伍形成，校正李密613败后多年辗转才投瓦岗；程称混世魔王单列文学，史实程为内军将领。未把杀富济贫写作已证口号，也未硬套大魔国国号或现代山寨精确地形。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-wagang",
+      "sectionIds": [
+        "grain-and-command",
+        "qin-before-tang",
+        "defeat-and-roads"
+      ],
+      "note": "承接以粮食、兵力与名将说明瓦岗强盛，正文写王伯当及其他将领；未对所有同期队伍作同口径最强排名，伯当读音插话不作历史事实扩写。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-wagang",
+      "sectionIds": [
+        "defeat-and-roads",
+        "li-mi-and-bodang",
+        "heroes-in-fiction"
+      ],
+      "note": "展开王伯当与李密最终同死、徐世勣籍土让功及赐姓，明确赐姓早于643年凌烟阁；单雄信列其留王结局，徐茂公有说唐文学角色出处。断密建及娄金牛压死娄金狗转写未回听、未核定戏曲版本，未擅自修成确定剧情。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-wagang",
+      "sectionIds": [
+        "qin-before-tang",
+        "heroes-in-fiction"
+      ],
+      "note": "明写名琼字叔宝，以字称呼，校正原段把秦叔宝称作名字的说明；文学节承接秦叔宝英雄形象，不把跨时代遇关公的插话当人物履历。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-wagang",
+      "sectionIds": [
+        "qin-before-tang",
+        "heroes-in-fiction"
+      ],
+      "note": "依据旧唐书校正来护儿姓名，具体写遣使吊秦母及对勇气志节的看重；以隋唐演义原文捕盗都头分列文学，不把讲述中的马快班头扩作史传早年官职。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-wagang",
+      "sectionIds": [
+        "grain-and-command",
+        "qin-before-tang",
+        "banquet-and-split",
+        "defeat-and-roads"
+      ],
+      "note": "补张须陀死后秦琼先附裴仁基再投李密、童山救主与后续归唐，并承接李密推魏公与翟让关系。不断寻找大靠山的统一人格动机未有足够史证，不予照收。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-wagang",
+      "sectionIds": [
+        "surname-and-prophecy"
+      ],
+      "note": "展开李玄英释桃李歌、李密借贾雄术数结盟，以及李浑案安伽陀劝杀李氏与宇文述构陷，区分李氏代隋谶说和实际发生的案件，不写炀帝一概大规模排除全部李姓。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-wagang",
+      "sectionIds": [
+        "fugitives-at-wagang",
+        "grain-and-command",
+        "banquet-and-split"
+      ],
+      "note": "补三策、作战取粮、联络与推让、属下劝进造成的权力冲突，以事实展示李密能力；水浒晁盖宋江的逐层类比未收入，也未把后世小说作为两人关系证据。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-wagang",
+      "sectionIds": [
+        "grain-and-command",
+        "banquet-and-split",
+        "defeat-and-roads",
+        "li-mi-and-bodang"
+      ],
+      "note": "完整承接让位、李密杀翟与裂痕、败王及归唐，重排617杀翟后仍胜、618偃师败、秦程619由王军归唐等时序；将粮赏、连续战事和不同退路展开，纠正所有将领先一起降唐才导致李密失败的单线因果。"
+    }
+  ]
+}

@@ -1,0 +1,3480 @@
+{
+  "date": "2026-10-13",
+  "scope": "注册244篇的标题、摘要、纪年、导语、正文、诗文译文、解释与来源说明完整校读；不是重新语义复核全部6926原段，也没有回听音频。",
+  "summary": {
+    "date": "2026-10-13",
+    "registered": 244,
+    "readComplete": 244,
+    "sections": 1442,
+    "paragraphs": 4430,
+    "structuredPoemLines": 138,
+    "readerFields": 11251,
+    "beforeCharacters": 657689,
+    "afterCharacters": 657247,
+    "issues": []
+  },
+  "remainingTaskCheck": {
+    "explicitIndependentPending": 0,
+    "unfinishedCurrentPlanItems": 0,
+    "historicalLogsPreserved": true
+  },
+  "checks": {
+    "narrativeVitest": {
+      "files": 4,
+      "tests": 274,
+      "exitCode": 0
+    },
+    "typecheck": {
+      "exitCode": 0
+    },
+    "narrativeEslint": {
+      "exitCode": 0
+    },
+    "productionBuild": {
+      "exitCode": 0
+    },
+    "retrieval": {
+      "registered": 244,
+      "sections": 1442,
+      "contextChecks": 1686,
+      "unsafeRejected": 8,
+      "failures": []
+    },
+    "http": {
+      "stories": 244,
+      "checked": 244,
+      "checks": [
+        "HTTP 200",
+        "title",
+        "initial h1",
+        "initial chapter markup"
+      ],
+      "failures": []
+    },
+    "baseline": {
+      "fileHashMismatches": 0,
+      "paragraphHashMismatches": 0,
+      "assessmentUnchanged": true
+    }
+  },
+  "changesCount": 149,
+  "textReplacementCount": 159,
+  "changedFiles": [
+    "data/narratives/abaoji-brothers-salt-feast.ts",
+    "data/narratives/abaoji-rise.ts",
+    "data/narratives/cao-liyong-treaty.ts",
+    "data/narratives/catalog.ts",
+    "data/narratives/chanzhou-crisis.ts",
+    "data/narratives/chen-baxian-rise.ts",
+    "data/narratives/chen-falls.ts",
+    "data/narratives/chen-palace-coup.ts",
+    "data/narratives/chen-succession-crisis.ts",
+    "data/narratives/dai-fall.ts",
+    "data/narratives/dali-conquest-governors.ts",
+    "data/narratives/dashi-leaves-tianzuo.ts",
+    "data/narratives/deguang-bianjing.ts",
+    "data/narratives/donghun-xiao-yan.ts",
+    "data/narratives/feng-dao-mingzong-order.ts",
+    "data/narratives/feng-first-regency.ts",
+    "data/narratives/fengxiang-revolt-and-min-emperor.ts",
+    "data/narratives/gao-cheng.ts",
+    "data/narratives/gao-zhan.ts",
+    "data/narratives/gaolianghe-relief.ts",
+    "data/narratives/haidongqing-touyu.ts",
+    "data/narratives/hailing-shizong-succession.ts",
+    "data/narratives/han-derang-power.ts",
+    "data/narratives/heqiao-battle.ts",
+    "data/narratives/heyin.ts",
+    "data/narratives/hou-jing-defeat.ts",
+    "data/narratives/huan-xuan-fall.ts",
+    "data/narratives/huangchao-daqi.ts",
+    "data/narratives/huangchao-south-and-return.ts",
+    "data/narratives/jiangnan-rebellion.ts",
+    "data/narratives/jin-caizhou-last-transfer.ts",
+    "data/narratives/jin-khitan-three-campaigns.ts",
+    "data/narratives/jin-rebellions-and-grandson-letter.ts",
+    "data/narratives/jin-sanfeng-campaign.ts",
+    "data/narratives/jin-southern-court.ts",
+    "data/narratives/jin-three-last-ministers.ts",
+    "data/narratives/jin-tolui-succession.ts",
+    "data/narratives/jin-zhongdu-last-defenders.ts",
+    "data/narratives/jingzong-frail-court.ts",
+    "data/narratives/later-han-and-guo-wei-rise.ts",
+    "data/narratives/later-tang-shu-and-mutiny.ts",
+    "data/narratives/li-cunxiao-alliance-breaks.ts",
+    "data/narratives/li-cunxu-conquers-yan.ts",
+    "data/narratives/li-cunxu-luzhou-baixiang.ts",
+    "data/narratives/li-yu-words-after-country.ts",
+    "data/narratives/liao-beijing-temples.ts",
+    "data/narratives/liu-shao-coup.ts",
+    "data/narratives/liu-song-founding.ts",
+    "data/narratives/liu-song-palace-violence.ts",
+    "data/narratives/liu-yu-origins.ts",
+    "data/narratives/mingzong-court-and-heirs.ts",
+    "data/narratives/muzong-black-mountain.ts",
+    "data/narratives/northern-han-buffer.ts",
+    "data/narratives/pingyang.ts",
+    "data/narratives/qi-succession-law.ts",
+    "data/narratives/qi-succession-xiao-luan.ts",
+    "data/narratives/renshou-palace.ts",
+    "data/narratives/renshou-succession.ts",
+    "data/narratives/shangyuan-feud.ts",
+    "data/narratives/shatuo-li-keyong.ts",
+    "data/narratives/shengzong-chaimu.ts",
+    "data/narratives/shengzong-seal-poem.ts",
+    "data/narratives/sixteen-prefectures-barrier.ts",
+    "data/narratives/song-unification-campaigns.ts",
+    "data/narratives/sui-goguryeo.ts",
+    "data/narratives/sui-imperial-tours.ts",
+    "data/narratives/sui-japanese-envoys.ts",
+    "data/narratives/sui-khitan-campaign.ts",
+    "data/narratives/sui-offices-law.ts",
+    "data/narratives/sui-takes-power.ts",
+    "data/narratives/taizi-harmed.ts",
+    "data/narratives/tang-court-hedong-distrust.ts",
+    "data/narratives/ten-kingdoms-survival-routes.ts",
+    "data/narratives/tongwan-siege.ts",
+    "data/narratives/wang-jizhong.ts",
+    "data/narratives/wei-culture.ts",
+    "data/narratives/wei-households.ts",
+    "data/narratives/wei-reform-legacy.ts",
+    "data/narratives/wu-mingche-northern-campaign.ts",
+    "data/narratives/xia-five-routes-yongle.ts",
+    "data/narratives/xia-last-cities-two-endings.ts",
+    "data/narratives/xia-mongol-sieges.ts",
+    "data/narratives/xia-renxiao-law-schools.ts",
+    "data/narratives/xia-sanchuankou-war-peace.ts",
+    "data/narratives/xia-tangut-migration.ts",
+    "data/narratives/xia-younger-liang-dowager.ts",
+    "data/narratives/xia-yuanhao-palace-crisis.ts",
+    "data/narratives/xiao-yan-poetry.ts",
+    "data/narratives/xuanwu-empress-hu.ts",
+    "data/narratives/yang-guang-tomb.ts",
+    "data/narratives/yang-jian-origins.ts",
+    "data/narratives/yang-yong-heir.ts",
+    "data/narratives/yelu-bei.ts",
+    "data/narratives/yelu-wuzhi-hengdu.ts",
+    "data/narratives/yongxi-eastern-route.ts"
+  ],
+  "stories": [
+    {
+      "slug": "dali-conquest-governors",
+      "file": "data/narratives/dali-conquest-governors.ts",
+      "seriesId": "dali",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 10
+    },
+    {
+      "slug": "dali-early-kings-gao-rise",
+      "file": "data/narratives/dali-early-kings-gao-rise.ts",
+      "seriesId": "dali",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "dali-fields-temples-memory",
+      "file": "data/narratives/dali-fields-temples-memory.ts",
+      "seriesId": "dali",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 7
+    },
+    {
+      "slug": "dali-yang-revolt-gao-return",
+      "file": "data/narratives/dali-yang-revolt-gao-return.ts",
+      "seriesId": "dali",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 8
+    },
+    {
+      "slug": "duan-siping-founding",
+      "file": "data/narratives/duan-siping-founding.ts",
+      "seriesId": "dali",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 9
+    },
+    {
+      "slug": "duan-zhengyan-later-kings",
+      "file": "data/narratives/duan-zhengyan-later-kings.ts",
+      "seriesId": "dali",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 9
+    },
+    {
+      "slug": "nanzhao-last-kings",
+      "file": "data/narratives/nanzhao-last-kings.ts",
+      "seriesId": "dali",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 8
+    },
+    {
+      "slug": "nanzhao-names-frontiers",
+      "file": "data/narratives/nanzhao-names-frontiers.ts",
+      "seriesId": "dali",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 12
+    },
+    {
+      "slug": "nanzhao-tang-tibet-turns",
+      "file": "data/narratives/nanzhao-tang-tibet-turns.ts",
+      "seriesId": "dali",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 9
+    },
+    {
+      "slug": "piluoge-six-zhao",
+      "file": "data/narratives/piluoge-six-zhao.ts",
+      "seriesId": "dali",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 10
+    },
+    {
+      "slug": "wang-cuodian-court-war",
+      "file": "data/narratives/wang-cuodian-court-war.ts",
+      "seriesId": "dali",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 15
+    },
+    {
+      "slug": "chai-rong-expansion-and-last-march",
+      "file": "data/narratives/chai-rong-expansion-and-last-march.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 12
+    },
+    {
+      "slug": "chenqiao-and-song-power",
+      "file": "data/narratives/chenqiao-and-song-power.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 14
+    },
+    {
+      "slug": "feng-dao-mingzong-order",
+      "file": "data/narratives/feng-dao-mingzong-order.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 10
+    },
+    {
+      "slug": "fengxiang-revolt-and-min-emperor",
+      "file": "data/narratives/fengxiang-revolt-and-min-emperor.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 12
+    },
+    {
+      "slug": "guo-wei-chai-rong-reforms",
+      "file": "data/narratives/guo-wei-chai-rong-reforms.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 14
+    },
+    {
+      "slug": "huangchao-daqi",
+      "file": "data/narratives/huangchao-daqi.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 22
+    },
+    {
+      "slug": "huangchao-south-and-return",
+      "file": "data/narratives/huangchao-south-and-return.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 23
+    },
+    {
+      "slug": "huangchao-uprising",
+      "file": "data/narratives/huangchao-uprising.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "jin-khitan-three-campaigns",
+      "file": "data/narratives/jin-khitan-three-campaigns.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 21
+    },
+    {
+      "slug": "jin-rebellions-and-grandson-letter",
+      "file": "data/narratives/jin-rebellions-and-grandson-letter.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 9
+    },
+    {
+      "slug": "last-tang-army-reward-debt",
+      "file": "data/narratives/last-tang-army-reward-debt.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 8
+    },
+    {
+      "slug": "last-tang-court-remonstrance",
+      "file": "data/narratives/last-tang-court-remonstrance.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 6
+    },
+    {
+      "slug": "later-han-and-guo-wei-rise",
+      "file": "data/narratives/later-han-and-guo-wei-rise.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 15
+    },
+    {
+      "slug": "later-tang-shu-and-mutiny",
+      "file": "data/narratives/later-tang-shu-and-mutiny.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 14
+    },
+    {
+      "slug": "li-cunxiao-alliance-breaks",
+      "file": "data/narratives/li-cunxiao-alliance-breaks.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 12
+    },
+    {
+      "slug": "li-cunxu-conquers-yan",
+      "file": "data/narratives/li-cunxu-conquers-yan.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 14
+    },
+    {
+      "slug": "li-cunxu-luzhou-baixiang",
+      "file": "data/narratives/li-cunxu-luzhou-baixiang.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 14
+    },
+    {
+      "slug": "li-yu-words-after-country",
+      "file": "data/narratives/li-yu-words-after-country.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 12
+    },
+    {
+      "slug": "liang-palace-coups",
+      "file": "data/narratives/liang-palace-coups.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 8
+    },
+    {
+      "slug": "mingzong-court-and-heirs",
+      "file": "data/narratives/mingzong-court-and-heirs.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 11
+    },
+    {
+      "slug": "shangyuan-feud",
+      "file": "data/narratives/shangyuan-feud.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 20
+    },
+    {
+      "slug": "shatuo-li-keyong",
+      "file": "data/narratives/shatuo-li-keyong.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 19
+    },
+    {
+      "slug": "shi-jingtang-khitan-bargain",
+      "file": "data/narratives/shi-jingtang-khitan-bargain.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 13
+    },
+    {
+      "slug": "shu-wu-to-southern-tang",
+      "file": "data/narratives/shu-wu-to-southern-tang.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 10
+    },
+    {
+      "slug": "sixteen-prefectures-strategic-cost",
+      "file": "data/narratives/sixteen-prefectures-strategic-cost.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 10
+    },
+    {
+      "slug": "song-unification-campaigns",
+      "file": "data/narratives/song-unification-campaigns.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 17
+    },
+    {
+      "slug": "tang-court-hedong-distrust",
+      "file": "data/narratives/tang-court-hedong-distrust.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 11
+    },
+    {
+      "slug": "ten-kingdoms-survival-routes",
+      "file": "data/narratives/ten-kingdoms-survival-routes.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 15
+    },
+    {
+      "slug": "wei-bo-and-liang-conquest",
+      "file": "data/narratives/wei-bo-and-liang-conquest.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 19
+    },
+    {
+      "slug": "zhu-wen-tang-end",
+      "file": "data/narratives/zhu-wen-tang-end.ts",
+      "seriesId": "five-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 12
+    },
+    {
+      "slug": "chen-heshang",
+      "file": "data/narratives/chen-heshang.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 16
+    },
+    {
+      "slug": "hailing-moves-zhongdu",
+      "file": "data/narratives/hailing-moves-zhongdu.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 20
+    },
+    {
+      "slug": "hailing-shizong-succession",
+      "file": "data/narratives/hailing-shizong-succession.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 14
+    },
+    {
+      "slug": "hushahu-court-coup",
+      "file": "data/narratives/hushahu-court-coup.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 15
+    },
+    {
+      "slug": "jin-beijing-origins",
+      "file": "data/narratives/jin-beijing-origins.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 16
+    },
+    {
+      "slug": "jin-caizhou-last-transfer",
+      "file": "data/narratives/jin-caizhou-last-transfer.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 15
+    },
+    {
+      "slug": "jin-meng-an-farms-gardens",
+      "file": "data/narratives/jin-meng-an-farms-gardens.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 19
+    },
+    {
+      "slug": "jin-mongol-yehuling",
+      "file": "data/narratives/jin-mongol-yehuling.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 15
+    },
+    {
+      "slug": "jin-sanfeng-campaign",
+      "file": "data/narratives/jin-sanfeng-campaign.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 13
+    },
+    {
+      "slug": "jin-southern-court",
+      "file": "data/narratives/jin-southern-court.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 14
+    },
+    {
+      "slug": "jin-streets-and-memory",
+      "file": "data/narratives/jin-streets-and-memory.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 13
+    },
+    {
+      "slug": "jin-three-last-ministers",
+      "file": "data/narratives/jin-three-last-ministers.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 9,
+      "paragraphs": 28
+    },
+    {
+      "slug": "jin-tolui-succession",
+      "file": "data/narratives/jin-tolui-succession.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 11
+    },
+    {
+      "slug": "jin-zhongdu-last-defenders",
+      "file": "data/narratives/jin-zhongdu-last-defenders.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 17
+    },
+    {
+      "slug": "jin-zhongdu-palaces",
+      "file": "data/narratives/jin-zhongdu-palaces.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 21
+    },
+    {
+      "slug": "li-shier-zhangzong-court",
+      "file": "data/narratives/li-shier-zhangzong-court.ts",
+      "seriesId": "jin",
+      "reader": "root",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 15
+    },
+    {
+      "slug": "abaoji-brothers-salt-feast",
+      "file": "data/narratives/abaoji-brothers-salt-feast.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 19
+    },
+    {
+      "slug": "abaoji-rise",
+      "file": "data/narratives/abaoji-rise.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "balasaghun-layered-rule",
+      "file": "data/narratives/balasaghun-layered-rule.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 10
+    },
+    {
+      "slug": "beiliao-first-yanjing",
+      "file": "data/narratives/beiliao-first-yanjing.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 12
+    },
+    {
+      "slug": "cao-liyong-treaty",
+      "file": "data/narratives/cao-liyong-treaty.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 19
+    },
+    {
+      "slug": "chanzhou-crisis",
+      "file": "data/narratives/chanzhou-crisis.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 16
+    },
+    {
+      "slug": "chenjiagu",
+      "file": "data/narratives/chenjiagu.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 17
+    },
+    {
+      "slug": "chongxi-tribute-war",
+      "file": "data/narratives/chongxi-tribute-war.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 12
+    },
+    {
+      "slug": "dashi-leaves-tianzuo",
+      "file": "data/narratives/dashi-leaves-tianzuo.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 11
+    },
+    {
+      "slug": "dongdan-duanwan",
+      "file": "data/narratives/dongdan-duanwan.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "eastward-campaign-fails",
+      "file": "data/narratives/eastward-campaign-fails.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 2,
+      "paragraphs": 6
+    },
+    {
+      "slug": "emil-first-western-campaign",
+      "file": "data/narratives/emil-first-western-campaign.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 8
+    },
+    {
+      "slug": "gantian-yilie-chengtian",
+      "file": "data/narratives/gantian-yilie-chengtian.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 10
+    },
+    {
+      "slug": "gaolianghe-relief",
+      "file": "data/narratives/gaolianghe-relief.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 19
+    },
+    {
+      "slug": "gurkhan-tianyou",
+      "file": "data/narratives/gurkhan-tianyou.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 6
+    },
+    {
+      "slug": "haidongqing-touyu",
+      "file": "data/narratives/haidongqing-touyu.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 15
+    },
+    {
+      "slug": "han-derang-power",
+      "file": "data/narratives/han-derang-power.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 20
+    },
+    {
+      "slug": "huangtaishu-rebellion",
+      "file": "data/narratives/huangtaishu-rebellion.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 15
+    },
+    {
+      "slug": "jebe-mountain-hunters",
+      "file": "data/narratives/jebe-mountain-hunters.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 2,
+      "paragraphs": 6
+    },
+    {
+      "slug": "jingzong-frail-court",
+      "file": "data/narratives/jingzong-frail-court.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 22
+    },
+    {
+      "slug": "kedun-northern-reserve",
+      "file": "data/narratives/kedun-northern-reserve.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 10
+    },
+    {
+      "slug": "khitan-origins",
+      "file": "data/narratives/khitan-origins.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 17
+    },
+    {
+      "slug": "kirman-after-qara-khitai",
+      "file": "data/narratives/kirman-after-qara-khitai.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 10
+    },
+    {
+      "slug": "kuchlug-enters-court",
+      "file": "data/narratives/kuchlug-enters-court.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 11
+    },
+    {
+      "slug": "liao-beijing-temples",
+      "file": "data/narratives/liao-beijing-temples.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 13
+    },
+    {
+      "slug": "liao-capital-scripts",
+      "file": "data/narratives/liao-capital-scripts.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "liao-jin-titles",
+      "file": "data/narratives/liao-jin-titles.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 10
+    },
+    {
+      "slug": "liao-people-after-dynasty",
+      "file": "data/narratives/liao-people-after-dynasty.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 8
+    },
+    {
+      "slug": "luoyiqing-shuanglu",
+      "file": "data/narratives/luoyiqing-shuanglu.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 11
+    },
+    {
+      "slug": "muzong-black-mountain",
+      "file": "data/narratives/muzong-black-mountain.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 16
+    },
+    {
+      "slug": "northern-han-buffer",
+      "file": "data/narratives/northern-han-buffer.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 22
+    },
+    {
+      "slug": "pusuwan-zhilugu-crisis",
+      "file": "data/narratives/pusuwan-zhilugu-crisis.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 9
+    },
+    {
+      "slug": "puxiannv-second-yanjing",
+      "file": "data/narratives/puxiannv-second-yanjing.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 12
+    },
+    {
+      "slug": "qatwan-contested-plain",
+      "file": "data/narratives/qatwan-contested-plain.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 11
+    },
+    {
+      "slug": "shengzong-chaimu",
+      "file": "data/narratives/shengzong-chaimu.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 13
+    },
+    {
+      "slug": "shengzong-seal-poem",
+      "file": "data/narratives/shengzong-seal-poem.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 10
+    },
+    {
+      "slug": "shizong-huoshendian",
+      "file": "data/narratives/shizong-huoshendian.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 23
+    },
+    {
+      "slug": "sixteen-prefectures-barrier",
+      "file": "data/narratives/sixteen-prefectures-barrier.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 14
+    },
+    {
+      "slug": "taizi-harmed",
+      "file": "data/narratives/taizi-harmed.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 13
+    },
+    {
+      "slug": "tianzuo-accession",
+      "file": "data/narratives/tianzuo-accession.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 13
+    },
+    {
+      "slug": "tianzuo-captivity",
+      "file": "data/narratives/tianzuo-captivity.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 8
+    },
+    {
+      "slug": "wang-jizhong",
+      "file": "data/narratives/wang-jizhong.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 11
+    },
+    {
+      "slug": "waqiao-succession",
+      "file": "data/narratives/waqiao-succession.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 10
+    },
+    {
+      "slug": "xiao-guanyin",
+      "file": "data/narratives/xiao-guanyin.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 15
+    },
+    {
+      "slug": "xiao-guanyin-supplement",
+      "file": "data/narratives/xiao-guanyin-supplement.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 20
+    },
+    {
+      "slug": "xiaosese-jinwang",
+      "file": "data/narratives/xiaosese-jinwang.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 8
+    },
+    {
+      "slug": "xingzong-two-mothers",
+      "file": "data/narratives/xingzong-two-mothers.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 16
+    },
+    {
+      "slug": "xiulunhe-yinjilun",
+      "file": "data/narratives/xiulunhe-yinjilun.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 12
+    },
+    {
+      "slug": "yelu-bei",
+      "file": "data/narratives/yelu-bei.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 15
+    },
+    {
+      "slug": "yelu-deguang-bianjing",
+      "file": "data/narratives/deguang-bianjing.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 17
+    },
+    {
+      "slug": "yelu-wuzhi-hengdu",
+      "file": "data/narratives/yelu-wuzhi-hengdu.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "yeluyixin-power",
+      "file": "data/narratives/yeluyixin-power.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 14
+    },
+    {
+      "slug": "yongxi-eastern-route",
+      "file": "data/narratives/yongxi-eastern-route.ts",
+      "seriesId": "liao",
+      "reader": "liao",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 23
+    },
+    {
+      "slug": "dugu-empress",
+      "file": "data/narratives/dugu-empress.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 22
+    },
+    {
+      "slug": "gao-cheng",
+      "file": "data/narratives/gao-cheng.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 22
+    },
+    {
+      "slug": "gao-huan-yuwen-tai",
+      "file": "data/narratives/gao-huan-yuwen-tai.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 19
+    },
+    {
+      "slug": "gao-wei-poems",
+      "file": "data/narratives/gao-wei-poems.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 22
+    },
+    {
+      "slug": "gao-yang",
+      "file": "data/narratives/gao-yang.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 25
+    },
+    {
+      "slug": "gao-zhan",
+      "file": "data/narratives/gao-zhan.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 23
+    },
+    {
+      "slug": "heqiao-battle",
+      "file": "data/narratives/heqiao-battle.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 23
+    },
+    {
+      "slug": "jiangnan-rebellion",
+      "file": "data/narratives/jiangnan-rebellion.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 21
+    },
+    {
+      "slug": "jinyang-uprising",
+      "file": "data/narratives/jinyang-uprising.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 17
+    },
+    {
+      "slug": "pingyang",
+      "file": "data/narratives/pingyang.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 26
+    },
+    {
+      "slug": "qi-succession-law",
+      "file": "data/narratives/qi-succession-law.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 24
+    },
+    {
+      "slug": "renshou-palace",
+      "file": "data/narratives/renshou-palace.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 16
+    },
+    {
+      "slug": "renshou-succession",
+      "file": "data/narratives/renshou-succession.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 18
+    },
+    {
+      "slug": "shayuan-battle",
+      "file": "data/narratives/shayuan-battle.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 26
+    },
+    {
+      "slug": "shi-wansui",
+      "file": "data/narratives/shi-wansui.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 16
+    },
+    {
+      "slug": "sui-canals-capital",
+      "file": "data/narratives/sui-canals-capital.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 20
+    },
+    {
+      "slug": "sui-capital-stores",
+      "file": "data/narratives/sui-capital-stores.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 26
+    },
+    {
+      "slug": "sui-conquers-chen",
+      "file": "data/narratives/sui-conquers-chen.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 25
+    },
+    {
+      "slug": "sui-examinations",
+      "file": "data/narratives/sui-examinations.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 11
+    },
+    {
+      "slug": "sui-goguryeo",
+      "file": "data/narratives/sui-goguryeo.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 21,
+      "paragraphs": 56
+    },
+    {
+      "slug": "sui-imperial-tours",
+      "file": "data/narratives/sui-imperial-tours.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 10
+    },
+    {
+      "slug": "sui-japanese-envoys",
+      "file": "data/narratives/sui-japanese-envoys.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 10
+    },
+    {
+      "slug": "sui-jiangdu-coup",
+      "file": "data/narratives/sui-jiangdu-coup.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 23
+    },
+    {
+      "slug": "sui-khitan-campaign",
+      "file": "data/narratives/sui-khitan-campaign.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 10
+    },
+    {
+      "slug": "sui-offices-law",
+      "file": "data/narratives/sui-offices-law.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 9,
+      "paragraphs": 30
+    },
+    {
+      "slug": "sui-prosperity-ledger",
+      "file": "data/narratives/sui-prosperity-ledger.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 10
+    },
+    {
+      "slug": "sui-regional-powers",
+      "file": "data/narratives/sui-regional-powers.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 26
+    },
+    {
+      "slug": "sui-southern-expeditions",
+      "file": "data/narratives/sui-southern-expeditions.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 18
+    },
+    {
+      "slug": "sui-takes-power",
+      "file": "data/narratives/sui-takes-power.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 9,
+      "paragraphs": 31
+    },
+    {
+      "slug": "sui-turk-diplomacy",
+      "file": "data/narratives/sui-turk-diplomacy.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 22
+    },
+    {
+      "slug": "sui-wagang",
+      "file": "data/narratives/sui-wagang.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 29
+    },
+    {
+      "slug": "sui-western-tour",
+      "file": "data/narratives/sui-western-tour.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 26
+    },
+    {
+      "slug": "wang-bo-song",
+      "file": "data/narratives/wang-bo-song.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 14
+    },
+    {
+      "slug": "xiaoguan-battle",
+      "file": "data/narratives/xiaoguan-battle.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 16
+    },
+    {
+      "slug": "yang-brothers",
+      "file": "data/narratives/yang-brothers.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 21
+    },
+    {
+      "slug": "yang-guang-poems",
+      "file": "data/narratives/yang-guang-poems.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 29
+    },
+    {
+      "slug": "yang-guang-succession",
+      "file": "data/narratives/yang-guang-succession.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 27
+    },
+    {
+      "slug": "yang-guang-tomb",
+      "file": "data/narratives/yang-guang-tomb.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 14
+    },
+    {
+      "slug": "yang-jian-origins",
+      "file": "data/narratives/yang-jian-origins.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 22
+    },
+    {
+      "slug": "yang-yong-heir",
+      "file": "data/narratives/yang-yong-heir.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 23
+    },
+    {
+      "slug": "zhou-xuan-emperor",
+      "file": "data/narratives/zhou-xuan-emperor.ts",
+      "seriesId": "northern-qi-zhou-sui",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 30
+    },
+    {
+      "slug": "canhe-slope",
+      "file": "data/narratives/canhe-slope.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 25
+    },
+    {
+      "slug": "cui-hao",
+      "file": "data/narratives/cui-hao.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 19
+    },
+    {
+      "slug": "dai-fall",
+      "file": "data/narratives/dai-fall.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 28
+    },
+    {
+      "slug": "dai-kings",
+      "file": "data/narratives/dai-kings.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 15
+    },
+    {
+      "slug": "dai-succession",
+      "file": "data/narratives/dai-succession.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "feng-enters-palace",
+      "file": "data/narratives/feng-enters-palace.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 23
+    },
+    {
+      "slug": "feng-first-regency",
+      "file": "data/narratives/feng-first-regency.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 15
+    },
+    {
+      "slug": "feng-regency",
+      "file": "data/narratives/feng-regency.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 31
+    },
+    {
+      "slug": "heyin",
+      "file": "data/narratives/heyin.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 19
+    },
+    {
+      "slug": "mingyuan-frontiers",
+      "file": "data/narratives/mingyuan-frontiers.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 23
+    },
+    {
+      "slug": "shamohan",
+      "file": "data/narratives/shamohan.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 21
+    },
+    {
+      "slug": "shiyijian",
+      "file": "data/narratives/shiyijian.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 23
+    },
+    {
+      "slug": "six-garrisons",
+      "file": "data/narratives/six-garrisons.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 21
+    },
+    {
+      "slug": "taiwu-rouran",
+      "file": "data/narratives/taiwu-rouran.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 27
+    },
+    {
+      "slug": "tongwan-siege",
+      "file": "data/narratives/tongwan-siege.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 21
+    },
+    {
+      "slug": "tuoba-gui-last-night",
+      "file": "data/narratives/tuoba-gui-last-night.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 18
+    },
+    {
+      "slug": "tuoba-gui-restoration",
+      "file": "data/narratives/tuoba-gui-restoration.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 25
+    },
+    {
+      "slug": "tuoba-liwei",
+      "file": "data/narratives/tuoba-liwei.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "wei-buddhism",
+      "file": "data/narratives/wei-buddhism.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "wei-culture",
+      "file": "data/narratives/wei-culture.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 17
+    },
+    {
+      "slug": "wei-households",
+      "file": "data/narratives/wei-households.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 10,
+      "paragraphs": 33
+    },
+    {
+      "slug": "wei-mothers",
+      "file": "data/narratives/wei-mothers.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 23
+    },
+    {
+      "slug": "wei-name",
+      "file": "data/narratives/wei-name.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 15
+    },
+    {
+      "slug": "wei-reform-legacy",
+      "file": "data/narratives/wei-reform-legacy.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 25
+    },
+    {
+      "slug": "wei-schools-law",
+      "file": "data/narratives/wei-schools-law.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 20
+    },
+    {
+      "slug": "wei-split",
+      "file": "data/narratives/wei-split.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 19
+    },
+    {
+      "slug": "xianbei-origins",
+      "file": "data/narratives/xianbei-origins.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 19
+    },
+    {
+      "slug": "xianwen-abdication",
+      "file": "data/narratives/xianwen-abdication.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 25
+    },
+    {
+      "slug": "xiaowen-luoyang",
+      "file": "data/narratives/xiaowen-luoyang.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 26
+    },
+    {
+      "slug": "xiaowen-southern-campaigns",
+      "file": "data/narratives/xiaowen-southern-campaigns.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 17
+    },
+    {
+      "slug": "xuanwu-empress-hu",
+      "file": "data/narratives/xuanwu-empress-hu.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 28
+    },
+    {
+      "slug": "yuan-xun",
+      "file": "data/narratives/yuan-xun.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 20
+    },
+    {
+      "slug": "yuan-ziyou",
+      "file": "data/narratives/yuan-ziyou.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 27
+    },
+    {
+      "slug": "yuanjia-campaigns",
+      "file": "data/narratives/yuanjia-campaigns.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 24
+    },
+    {
+      "slug": "zhongshan-campaign",
+      "file": "data/narratives/zhongshan-campaign.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 19
+    },
+    {
+      "slug": "zong-ai",
+      "file": "data/narratives/zong-ai.ts",
+      "seriesId": "northern-wei",
+      "reader": "north",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 21
+    },
+    {
+      "slug": "chen-baxian-rise",
+      "file": "data/narratives/chen-baxian-rise.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 23
+    },
+    {
+      "slug": "chen-falls",
+      "file": "data/narratives/chen-falls.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 23
+    },
+    {
+      "slug": "chen-palace-coup",
+      "file": "data/narratives/chen-palace-coup.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 16
+    },
+    {
+      "slug": "chen-succession-crisis",
+      "file": "data/narratives/chen-succession-crisis.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 20
+    },
+    {
+      "slug": "donghun-xiao-yan",
+      "file": "data/narratives/donghun-xiao-yan.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 22
+    },
+    {
+      "slug": "hou-jing-defeat",
+      "file": "data/narratives/hou-jing-defeat.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 25
+    },
+    {
+      "slug": "hou-jing-defection",
+      "file": "data/narratives/hou-jing-defection.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 25
+    },
+    {
+      "slug": "huan-xuan-fall",
+      "file": "data/narratives/huan-xuan-fall.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 28
+    },
+    {
+      "slug": "jiangling-fall",
+      "file": "data/narratives/jiangling-fall.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 19
+    },
+    {
+      "slug": "jiankang-fall",
+      "file": "data/narratives/jiankang-fall.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 24
+    },
+    {
+      "slug": "jiankang-siege",
+      "file": "data/narratives/jiankang-siege.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 25
+    },
+    {
+      "slug": "liang-emperor-buddhism",
+      "file": "data/narratives/liang-emperor-buddhism.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 29
+    },
+    {
+      "slug": "liang-family-indulgence",
+      "file": "data/narratives/liang-family-indulgence.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 19
+    },
+    {
+      "slug": "liang-government",
+      "file": "data/narratives/liang-government.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 19
+    },
+    {
+      "slug": "liu-shao-coup",
+      "file": "data/narratives/liu-shao-coup.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 29
+    },
+    {
+      "slug": "liu-song-deposition",
+      "file": "data/narratives/liu-song-deposition.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 9,
+      "paragraphs": 31
+    },
+    {
+      "slug": "liu-song-founding",
+      "file": "data/narratives/liu-song-founding.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 22
+    },
+    {
+      "slug": "liu-song-last-emperors",
+      "file": "data/narratives/liu-song-last-emperors.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 28
+    },
+    {
+      "slug": "liu-song-palace-violence",
+      "file": "data/narratives/liu-song-palace-violence.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 15,
+      "paragraphs": 54
+    },
+    {
+      "slug": "liu-yilong-northern-campaigns",
+      "file": "data/narratives/liu-yilong-northern-campaigns.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 29
+    },
+    {
+      "slug": "liu-yu-northern-campaigns",
+      "file": "data/narratives/liu-yu-northern-campaigns.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 12,
+      "paragraphs": 47
+    },
+    {
+      "slug": "liu-yu-origins",
+      "file": "data/narratives/liu-yu-origins.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 10,
+      "paragraphs": 35
+    },
+    {
+      "slug": "liu-yu-shu-campaign",
+      "file": "data/narratives/liu-yu-shu-campaign.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 19
+    },
+    {
+      "slug": "qi-founding-yongming",
+      "file": "data/narratives/qi-founding-yongming.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "qi-household-registers",
+      "file": "data/narratives/qi-household-registers.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 17
+    },
+    {
+      "slug": "qi-succession-xiao-luan",
+      "file": "data/narratives/qi-succession-xiao-luan.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 9,
+      "paragraphs": 28
+    },
+    {
+      "slug": "wu-mingche-northern-campaign",
+      "file": "data/narratives/wu-mingche-northern-campaign.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 17
+    },
+    {
+      "slug": "xiao-yan-poetry",
+      "file": "data/narratives/xiao-yan-poetry.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 16
+    },
+    {
+      "slug": "xiao-yan-rise",
+      "file": "data/narratives/xiao-yan-rise.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 24
+    },
+    {
+      "slug": "xiao-zixiang",
+      "file": "data/narratives/xiao-zixiang.ts",
+      "seriesId": "southern-dynasties",
+      "reader": "south-wudai",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "xia-anquan-coup",
+      "file": "data/narratives/xia-anquan-coup.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 14
+    },
+    {
+      "slug": "xia-anquan-jin-war",
+      "file": "data/narratives/xia-anquan-jin-war.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 12
+    },
+    {
+      "slug": "xia-deming-hexi",
+      "file": "data/narratives/xia-deming-hexi.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 7
+    },
+    {
+      "slug": "xia-dewang-last-alliance",
+      "file": "data/narratives/xia-dewang-last-alliance.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 20
+    },
+    {
+      "slug": "xia-dingnan-succession",
+      "file": "data/narratives/xia-dingnan-succession.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 13
+    },
+    {
+      "slug": "xia-five-routes-yongle",
+      "file": "data/narratives/xia-five-routes-yongle.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "xia-heda-rendejing",
+      "file": "data/narratives/xia-heda-rendejing.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 20
+    },
+    {
+      "slug": "xia-huanzong-first-mongol",
+      "file": "data/narratives/xia-huanzong-first-mongol.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "xia-jiqian-return",
+      "file": "data/narratives/xia-jiqian-return.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 9,
+      "paragraphs": 31
+    },
+    {
+      "slug": "xia-last-cities-two-endings",
+      "file": "data/narratives/xia-last-cities-two-endings.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 20
+    },
+    {
+      "slug": "xia-liang-dowager-confined-emperor",
+      "file": "data/narratives/xia-liang-dowager-confined-emperor.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 16
+    },
+    {
+      "slug": "xia-liangzuo-personal-rule",
+      "file": "data/narratives/xia-liangzuo-personal-rule.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 21
+    },
+    {
+      "slug": "xia-mongol-sieges",
+      "file": "data/narratives/xia-mongol-sieges.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 17
+    },
+    {
+      "slug": "xia-mozang-regency",
+      "file": "data/narratives/xia-mozang-regency.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 22
+    },
+    {
+      "slug": "xia-qianshun-liao-jin",
+      "file": "data/narratives/xia-qianshun-liao-jin.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 8,
+      "paragraphs": 25
+    },
+    {
+      "slug": "xia-renxiao-disasters",
+      "file": "data/narratives/xia-renxiao-disasters.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 4,
+      "paragraphs": 10
+    },
+    {
+      "slug": "xia-renxiao-law-schools",
+      "file": "data/narratives/xia-renxiao-law-schools.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "xia-sanchuankou-war-peace",
+      "file": "data/narratives/xia-sanchuankou-war-peace.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "xia-tangut-migration",
+      "file": "data/narratives/xia-tangut-migration.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 18
+    },
+    {
+      "slug": "xia-tombs-descendant-memory",
+      "file": "data/narratives/xia-tombs-descendant-memory.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 13
+    },
+    {
+      "slug": "xia-tongwan-city",
+      "file": "data/narratives/xia-tongwan-city.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 3,
+      "paragraphs": 6
+    },
+    {
+      "slug": "xia-yeli-counterplot",
+      "file": "data/narratives/xia-yeli-counterplot.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 17
+    },
+    {
+      "slug": "xia-younger-liang-dowager",
+      "file": "data/narratives/xia-younger-liang-dowager.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 6,
+      "paragraphs": 19
+    },
+    {
+      "slug": "xia-yuanhao-founding",
+      "file": "data/narratives/xia-yuanhao-founding.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 9,
+      "paragraphs": 26
+    },
+    {
+      "slug": "xia-yuanhao-palace-crisis",
+      "file": "data/narratives/xia-yuanhao-palace-crisis.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 19
+    },
+    {
+      "slug": "xia-zunxu-scholar-emperor",
+      "file": "data/narratives/xia-zunxu-scholar-emperor.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 5,
+      "paragraphs": 15
+    },
+    {
+      "slug": "xia-zunxu-western-service",
+      "file": "data/narratives/xia-zunxu-western-service.ts",
+      "seriesId": "western-xia",
+      "reader": "xia",
+      "readComplete": true,
+      "sections": 7,
+      "paragraphs": 21
+    }
+  ],
+  "retainedDecisions": [
+    {
+      "report": "output/proofread-north-2026-10-13.json",
+      "file": "data/narratives/sui-canals-capital.ts",
+      "field": "sections[why-luoyang].paragraphs[2]",
+      "before": "原节目进一步把东迁解释为靠近南方支持者、摆脱关陇牵制。",
+      "after": "把东迁解释为靠近南方支持者、摆脱关陇牵制，是一种政治解读。",
+      "reason": "只涉及叙述风格，保留原文，不作本轮校错。",
+      "status": "retained"
+    },
+    {
+      "report": "output/proofread-liao-2026-10-13.json",
+      "file": "data/narratives/chanzhou-crisis.ts",
+      "field": "subtitle",
+      "before": "迁都的声浪、一记辇背，与床子弩上的那一箭",
+      "after": "迁都的声浪、辇夫背上的一鞭，与床子弩上的那一箭",
+      "reason": "已由root第一批修正并复读，最终字句见root changes。",
+      "evidence": "本篇#crossing-the-river p2：高琼执挝筑辇夫背；sources changbian-58同引文。",
+      "status": "fixed-by-root"
+    },
+    {
+      "report": "output/proofread-liao-2026-10-13.json",
+      "file": "data/narratives/chanzhou-crisis.ts",
+      "field": "sections[crossing-the-river].title",
+      "before": "过河：辇背上的一鞭",
+      "after": "过河：辇夫背上的一鞭",
+      "reason": "已由root第一批修正并复读，最终字句见root changes。",
+      "evidence": "正文明确辇夫背。",
+      "status": "fixed-by-root"
+    },
+    {
+      "report": "output/proofread-liao-2026-10-13.json",
+      "file": "data/narratives/chanzhou-crisis.ts",
+      "field": "summary",
+      "before": "1004年辽军破德清军、次澶渊，迁都之议四起；寇准固请渡河，高琼执挝筑辇，真宗登北城；张绬床子弩潜发，萧挞凛中额陨——和议从此开始。",
+      "after": "1004年辽军破德清军、次澶渊，迁都之议四起；萧挞凛中弩身亡后，寇准固请渡河，高琼执挝筑辇夫背，真宗登北城；使节往来的和议试探也继续推进。",
+      "reason": "已由root第一批修正并复读，最终字句见root changes。",
+      "evidence": "本篇#early-talks p0、#talin-hit p0明确解释次序，并据长编58。",
+      "status": "fixed-by-root"
+    },
+    {
+      "report": "output/proofread-liao-2026-10-13.json",
+      "file": "data/narratives/han-derang-power.ts",
+      "field": "sections[after-death].paragraphs[1]",
+      "before": "圣宗与太后、诸王公主及臣僚制服行丧",
+      "after": "圣宗与皇后、诸王公主及臣僚制服行丧",
+      "reason": "已由root第一批修正并复读，最终字句见root changes。",
+      "evidence": "亲读 https://zh.wikisource.org/zh-hans/契丹國志/卷十八 ：及薨，帝与后、诸王、公主已下并内外臣僚制服行丧。前句隆运疾另有帝与太后，不与葬礼合并。",
+      "status": "fixed-by-root"
+    },
+    {
+      "report": "output/proofread-liao-2026-10-13.json",
+      "file": "data/narratives/xiao-guanyin-supplement.ts",
+      "field": "sections[virtue-over-beauty].paragraphs[3]",
+      "before": "为什么今天常听到的辽代诗词不多？先要把三个问题分开：当时写过多少、后来保存多少、自己接触过多少。",
+      "after": "可保留主篇xiao-guanyin#afterlife p2的完整讨论，在supplement压为指向该讨论的简短说明；若两页刻意独立阅读，可注明为跨篇重复而不删。",
+      "reason": "两篇可独立阅读，保留跨篇解释性重述；没有同篇重复段。",
+      "evidence": "两篇inventory逐字对读，同段从上述首句至给两朝文学排高下均完全相同。",
+      "status": "retained"
+    }
+  ],
+  "independentReports": [
+    "output/proofread-applied-independent-2026-10-13.json",
+    "output/proofread-south-xia-independent-2026-10-13.json"
+  ],
+  "limits": [
+    "30段not-covered仍为research-closed，不改作已采用。",
+    "152原段涉及uncertain，36候选警示保留。",
+    "先前1174全量与46 E2E为2026-10-11历史证据，本轮只宣称实际重新运行的274定向等检查。",
+    "音频未回听，事实类苑卷77旧源403等原有限度保留。",
+    "同篇无重复段；萧观音两篇独立阅读所需的跨篇解释性重复有意保留。"
+  ],
+  "changes": [
+    {
+      "file": "data/narratives/dali-conquest-governors.ts",
+      "before": "1251年，地方史记祥兴卒，兴智继位。九年后的征服到来时，王廷面对的已不是第一次蒙古进军。",
+      "after": "1251年，地方史记祥兴卒，兴智继位。从1244年的迎战到1253年的征服，相隔九年，王廷面对的已不是第一次蒙古进军。",
+      "reason": "九年起算点为1244，而紧邻句误使1251成为起点。"
+    },
+    {
+      "file": "data/narratives/catalog.ts",
+      "before": "\"period\": \"944—1075年\"",
+      "after": "\"period\": \"938—1076年\"",
+      "reason": "大理早期诸王篇包含新增938年两姓封赏及1076年入贡。"
+    },
+    {
+      "file": "data/narratives/catalog.ts",
+      "before": "\"period\": \"7—8世纪\"",
+      "after": "\"period\": \"7—9世纪\"",
+      "reason": "南诏王名篇含寻阁劝804年朝见诗及丰祐9世纪改名传统。"
+    },
+    {
+      "file": "data/narratives/jin-sanfeng-campaign.ts",
+      "before": "留一条走路，再以生军夹击",
+      "after": "留一条退路，再以生军夹击",
+      "reason": "走路是动作，标题缺少名词；对应正文开放通向钧州的退路。"
+    },
+    {
+      "file": "data/narratives/hailing-shizong-succession.ts",
+      "before": "两个皇帝，各在一座城外",
+      "after": "两个皇帝，争夺同一个年号",
+      "reason": "世宗在东京宣政殿即位，并非城外；该节讲两君均有大定改元计划。"
+    },
+    {
+      "file": "data/narratives/jin-southern-court.ts",
+      "before": "1223年末、元光二年十二月，宣宗因喉痹病危",
+      "after": "元光二年十二月，宣宗因喉痹病危",
+      "reason": "保留原典农历纪年，避免将元光二年十二月与公历1223年末硬等同。",
+      "source": "https://zh.wikisource.org/zh-hans/金史/卷17"
+    },
+    {
+      "file": "data/narratives/jin-caizhou-last-transfer.ts",
+      "before": "烏古论镐",
+      "after": "乌古论镐",
+      "reason": "叙述文字使用简体，统一姓名字形。"
+    },
+    {
+      "file": "data/narratives/jin-three-last-ministers.ts",
+      "before": "河北潰兵",
+      "after": "河北溃兵",
+      "reason": "非引文叙述混入繁体。"
+    },
+    {
+      "file": "data/narratives/jin-three-last-ministers.ts",
+      "before": "授他樞密副使",
+      "after": "授他枢密副使",
+      "reason": "非引文叙述混入繁体。"
+    },
+    {
+      "file": "data/narratives/jin-zhongdu-last-defenders.ts",
+      "before": "滄州陷落",
+      "after": "沧州陷落",
+      "reason": "非引文地名混入繁体。"
+    },
+    {
+      "file": "data/narratives/jin-tolui-succession.ts",
+      "before": "公司比喻和横杀推测",
+      "after": "公司比喻和毒杀推测",
+      "reason": "该节讨论毒水谋杀假说；横杀缺乏对应明确含义，原始台账措辞保留。"
+    },
+    {
+      "file": "data/narratives/gaolianghe-relief.ts",
+      "before": "\"interpretation\": \" 本节涉及战争动员",
+      "after": "\"interpretation\": \"本节涉及战争动员",
+      "reason": "去掉可见首空格。"
+    },
+    {
+      "file": "data/narratives/sixteen-prefectures-barrier.ts",
+      "before": "\"interpretation\": \" 本节涉及战争动员",
+      "after": "\"interpretation\": \"本节涉及战争动员",
+      "reason": "去掉可见首空格。"
+    },
+    {
+      "file": "data/narratives/han-derang-power.ts",
+      "before": "圣宗与太后、诸王公主及臣僚制服行丧",
+      "after": "圣宗与皇后、诸王公主及臣僚制服行丧",
+      "reason": "卷18病中为帝与太后，及薨则帝与后；萧绰1009年已去世，不能参与1011年行丧。",
+      "source": "https://zh.wikisource.org/zh-hans/契丹國志/卷十八"
+    },
+    {
+      "file": "data/narratives/chanzhou-crisis.ts",
+      "before": "迁都的声浪、一记辇背，与床子弩上的那一箭",
+      "after": "迁都的声浪、辇夫背上的一击，与床子弩上的那一箭",
+      "reason": "被击的是辇夫的背，补出人物，并避免一记辇背的漏词。"
+    },
+    {
+      "file": "data/narratives/catalog.ts",
+      "before": "迁都的声浪、一记辇背，与床子弩上的那一箭",
+      "after": "迁都的声浪、辇夫背上的一击，与床子弩上的那一箭",
+      "reason": "同步摘要目录的副标题。"
+    },
+    {
+      "file": "data/narratives/chanzhou-crisis.ts",
+      "before": "1004年辽军破德清军、次澶渊，迁都之议四起；寇准固请渡河，高琼执挝筑辇，真宗登北城；张绬床子弩潜发，萧挞凛中额陨——和议从此开始。",
+      "after": "1004年辽军破德清军、次澶渊，宋廷争论迁都；萧挞凛中弩后，真宗抵达澶州，在寇准与高琼催促下渡河登北城。主将之死、皇帝渡河与早已开始的和议试探，交错改变战局。",
+      "reason": "修正与本篇lead及长编说明相反的先后，不能说萧死才首次议和。"
+    },
+    {
+      "file": "data/narratives/chanzhou-crisis.ts",
+      "before": "过河：辇背上的一鞭",
+      "after": "过河：辇夫背上的一击",
+      "reason": "人物漏字；使用不强定器物类别的一击。"
+    },
+    {
+      "file": "data/narratives/gao-cheng.ts",
+      "before": "即使原是江海间的人，也会因忠义而有所行动。",
+      "after": "本是江海间的人，忠义感动了君子。",
+      "reason": "所展示诗句为“本自江海人，忠义感君子”，现译把“感君子”的感动对象略掉，并增加“因忠义而行动”的意思；宜按本篇所取“感”字译，不混入北史“志义动”异文。",
+      "source": "本篇poem.lines及attribution明署北齐书卷3“忠义感君子”；非调整诗文异文。"
+    },
+    {
+      "file": "data/narratives/gao-cheng.ts",
+      "before": "完整战功与结局另属后续选题。",
+      "after": "",
+      "reason": "“后续选题”是编辑任务安排，读者可见来源说明不应承诺未完成选题。"
+    },
+    {
+      "file": "data/narratives/gao-zhan.ts",
+      "before": "原稿P141另称一侄被当箭靶，未在所核宗室传中找到对应，不擅以孝珩或孝琬代入。",
+      "after": "关于另一宗室成员被当作箭靶的说法，所核宗室传未提供对应记载，不以高孝珩或高孝琬代入。",
+      "reason": "去掉内部P号，保留未核得身份与不擅替代的证据边界。"
+    },
+    {
+      "file": "data/narratives/heqiao-battle.ts",
+      "before": "此处仅作后续战事概述，不将完整攻守战法虚算为逐字稿P072—P075已经详述的内容。",
+      "after": "此处仅概述后续战事，未展开玉壁的完整攻守战法。",
+      "reason": "内部逐字稿覆盖计数进入来源note，改为读者可理解的篇幅与来源范围。"
+    },
+    {
+      "file": "data/narratives/jiangnan-rebellion.ts",
+      "before": "还有临战找出军中过失处斩、进攻退回者再被处死的军法。",
+      "after": "还有临战找出军中有过失者处斩、进攻退回者再被处死的军法。",
+      "reason": "“找出军中过失处斩”漏掉被处斩的人这一对象，变成处斩过失；只补“有…者”。"
+    },
+    {
+      "file": "data/narratives/pingyang.ts",
+      "before": "576年，北周武帝宇文邕再度伐齐，把目标放在晋州、平阳一带。《资治通鉴》记述他的判断：这里地位重要，北齐一定来救，周军便可以围绕这座城寻找决战机会。",
+      "after": "",
+      "reason": "紧邻上节choose-jinzhou第一段已经完整说明576改攻晋州及吸引援军决战的同一判断，此处重述使战事时间倒退；保留留守和齐军夺城新信息。"
+    },
+    {
+      "file": "data/narratives/qi-succession-law.ts",
+      "before": "原稿P130双演几位、高岩依上下文及纪年认作高湛继位，未回听音频；不据转写另造人名。",
+      "after": "",
+      "reason": "内部P号、转写修字与听音频状态是审查台账信息，不属于读者理解古籍来源所需内容。"
+    },
+    {
+      "file": "data/narratives/renshou-palace.ts",
+      "before": "严急督役与作者多死",
+      "after": "严急督役与劳作者大量死亡",
+      "reason": "古籍“作者”指服役营造者，现代来源说明直接用作者多死容易误读为写作者死亡；应释义清楚。"
+    },
+    {
+      "file": "data/narratives/renshou-succession.ts",
+      "before": "没有将逐字稿全部六种释义合称本篇原文。隋唐演义具体版本及六罪句式未完成版本核验。",
+      "after": "其余流传的释义及小说中的六罪句式，不作为本篇原文依据。",
+      "reason": "保留所据谥法条目与未核材料的界限，去掉逐字稿计数与未完成任务语气。"
+    },
+    {
+      "file": "data/narratives/sui-goguryeo.ts",
+      "before": "不采用原稿推算的五百万人总数；来护儿中伏据佯败诱入及散兵俘掠叙述，未据原稿写成受降下船或语言不通致败。",
+      "after": "兵额与馈运人员口径不同，不能据此核定五百万人总数；来护儿中伏据佯败诱入及散兵俘掠叙述，未记受降下船或语言不通致败。",
+      "reason": "去掉原稿核写过程，保留不叠加口径及败因限定。"
+    },
+    {
+      "file": "data/narratives/sui-imperial-tours.ts",
+      "before": "据显仁宫（校正转写“显人”）",
+      "after": "据显仁宫",
+      "reason": "转写修字过程不必出现在读者来源note，直接保留史籍正确宫名。"
+    },
+    {
+      "file": "data/narratives/sui-japanese-envoys.ts",
+      "before": "原稿所说的愤怒有这一记载作为依据，但史书没有记他当场责骂小野妹子的完整对话。",
+      "after": "史书有杨广不悦的记载，却没有记他当场责骂小野妹子的完整对话。",
+      "reason": "去掉原稿核写过程；保留不悦与未记完整对话的分界。"
+    },
+    {
+      "file": "data/narratives/sui-japanese-envoys.ts",
+      "before": "原稿中的这还差不多属于讲述中的拟想，不能转成历史人物的对白。",
+      "after": "“这还差不多”是后人的拟想，不能转成历史人物的对白。",
+      "reason": "删除原稿对照过程，同时给被谈论的拟对白加引号以明示短语边界。"
+    },
+    {
+      "file": "data/narratives/sui-khitan-campaign.ts",
+      "before": "王世充称臣突厥的具体叙述尚未在本篇展开。",
+      "after": "",
+      "reason": "这一来源仅支撑窦建德段；未展开另一故事是编辑工作范围，可不向读者列为后续任务。"
+    },
+    {
+      "file": "data/narratives/sui-offices-law.ts",
+      "before": "未回听原稿身高玩笑及转写疑点。",
+      "after": "",
+      "reason": "音频回听状态和转写玩笑属于核对台账，前句已保留所核史文未见逐人绘图的事实边界。"
+    },
+    {
+      "file": "data/narratives/sui-takes-power.ts",
+      "before": "578后父官职",
+      "after": "578年以后杨坚的官职",
+      "reason": "来源note片语漏“年”且“父官职”指向不清，前后本就列杨坚履历，直接补全人物姓名。"
+    },
+    {
+      "file": "data/narratives/yang-guang-tomb.ts",
+      "before": "与江都篇交叉承接原稿P171，不另算唯一原段。",
+      "after": "江都兵变及暂殡经过另见江都篇。",
+      "reason": "去掉原P定位和唯一原段去重计数，读者可见交叉阅读关系可以保留。"
+    },
+    {
+      "file": "data/narratives/yang-jian-origins.ts",
+      "before": "原段杨敞姓名转写不清，此处以史籍人物独立介绍，未声称恢复音频原字。",
+      "after": "人物姓名与亲属关系据本传。",
+      "reason": "姓名转写及音频恢复属于审查过程；直接说明原典依据即可。"
+    },
+    {
+      "file": "data/narratives/yang-jian-origins.ts",
+      "before": "原段连续乱码不作为姓名证据，姓名另据本传。",
+      "after": "姓名据本传。",
+      "reason": "去掉转写乱码过程，保留名字所据来源。"
+    },
+    {
+      "file": "data/narratives/yang-yong-heir.ts",
+      "before": "云氏与赫连勃勃的具体世系未由本传证明，另传墓志线索未核原文，仍待核。",
+      "after": "本传不能证明云氏与赫连勃勃的具体世系；未经核实的墓志说法不作为本篇依据。",
+      "reason": "仍待核是作者研究任务状态，应改成明确不采用的来源界限，不向读者留下悬置的任务。"
+    },
+    {
+      "file": "data/narratives/dai-fall.ts",
+      "before": "不能一概写成贺氏亲生的两个弟弟",
+      "after": "不能一概写成拓跋珪的两个同母弟弟",
+      "reason": "“贺氏亲生的弟弟”把贺氏写成自己弟弟的生母，是明确关系语病；上下文要区分卫王仪、秦王觚是否均为贺氏所生、与拓跋珪同母。只修称谓主语，不裁定古籍谱系异说。",
+      "source": "同段先明言卫王仪为秦明王翰之子、拓跋珪为寔之子，末句保留秦王觚在贺后传少子记载。"
+    },
+    {
+      "file": "data/narratives/feng-first-regency.ts",
+      "before": "490年卒年四十九可推467年传统记龄二十六",
+      "after": "据490年去世、年四十九，可推467年传统记龄为二十六",
+      "reason": "“490年卒年四十九”年字连接含混，分别明确卒年和记载年龄；不改计龄和早期年龄矛盾的说明。"
+    },
+    {
+      "file": "data/narratives/heyin.ts",
+      "before": "本篇只展开原稿P075–P076的主干，北伐详细战史另列选题。",
+      "after": "本篇概述北伐与洛阳易手的主干，未展开完整战史。",
+      "reason": "原P范围和另列选题属于编辑覆盖台账；读者来源note仅说明本文选取史文的范围即可。"
+    },
+    {
+      "file": "data/narratives/tongwan-siege.ts",
+      "before": "427诱战与赫连昌定后续",
+      "after": "427年诱战与赫连昌、赫连定的后续经历",
+      "reason": "两个人名被省写成“赫连昌定”，容易看成一个名字；应补全姓名与分隔。"
+    },
+    {
+      "file": "data/narratives/abaoji-brothers-salt-feast.ts",
+      "before": "数年之后，另一部史书又把夺权写成盐池旁的一席牛酒",
+      "after": "另一部史书则把夺权写成盐池旁的一席牛酒",
+      "reason": "数年之后给盐池宴安上先后关系，与末节明确不能将盐池宴编年接在诸弟叛乱后矛盾。",
+      "source": "#salt-and-a-feast p2明确具体时间及与诸弟之乱关系不宜强行凑齐。"
+    },
+    {
+      "file": "data/narratives/abaoji-rise.ts",
+      "before": "原稿把部分战功提前放在护卫任内，容易让官职与战争的先后颠倒。",
+      "after": "",
+      "reason": "正文直接比较原稿，是写作流程说明。",
+      "source": "同节已有完整具体官职与年份，不需以原稿错误作故事结尾。"
+    },
+    {
+      "file": "data/narratives/cao-liyong-treaty.ts",
+      "before": "两个互相矛盾的数字",
+      "after": "两个相距甚远的上限",
+      "reason": "最高可许百万与严格上限三十万并不逻辑矛盾，三十万同时符合两条件；原段意思是不同严格程度。",
+      "source": "同节p0注明不得已时可接受数额、p1为寇准不得过三十万，避免绝对矛盾表述。"
+    },
+    {
+      "file": "data/narratives/dashi-leaves-tianzuo.ts",
+      "before": "原稿更强烈的侮辱场景未采用。",
+      "after": "",
+      "reason": "读者解读混入回补过程。",
+      "source": "同段前后已有充分史源限度，无需在正文描述改稿取舍。"
+    },
+    {
+      "file": "data/narratives/catalog.ts",
+      "before": "《长编》写了班师，别史写了驴车——一场仗的两种记法",
+      "after": "两翼援兵赶到，城下的连胜在一夜之间逆转",
+      "reason": "目录元数据未与实际正文副标题同步。",
+      "source": "亲读data/narratives/catalog.ts中该slug条目及inventory实际正文；root亦报告同差异。"
+    },
+    {
+      "file": "data/narratives/haidongqing-touyu.ts",
+      "before": "原段把“取鹰—捕鹅—得珠”串为一条生计链；正文保留古籍叙述，并说明珠蚌与鹅嗉两种取珠描述的层次。",
+      "after": "古籍留下“取鹰—捕鹅—得珠”的叙述；珠蚌与鹅嗉两种取珠描述应分别看待。",
+      "reason": "原段、正文保留等为写作流程痕；取珠叙事层级应保留。",
+      "source": "同节p1区分古籍记闻与动物学事实。"
+    },
+    {
+      "file": "data/narratives/haidongqing-touyu.ts",
+      "before": "节目以“皇帝忘批，首领误会”解释起兵。正文恢复授官迟延和怠政的史载，保留心理对话的史源边界",
+      "after": "授官迟延和怠政有史载，但因拒舞被记恨的心理对话没有相应记录",
+      "reason": "恢复、保留是改稿工作语，改成直接说明证据边界。",
+      "source": "后句1114六月实际获授、不能说始终未获任命应保留。"
+    },
+    {
+      "file": "data/narratives/han-derang-power.ts",
+      "before": "末两段为编辑评价，保留原段对用人、族群界限与长期合作的讨论",
+      "after": "末两段对用人、族群界限与长期合作的讨论为编辑评价",
+      "reason": "保留原段是写作过程，不是读者需要的史源层级。",
+      "source": "后半不将普遍民族评价或魅力猜想当史实保留。"
+    },
+    {
+      "file": "data/narratives/jingzong-frail-court.ts",
+      "before": "“匡嗣以善医，直长乐宫，皇后视之犹子”匡嗣的医术",
+      "after": "“匡嗣以善医，直长乐宫，皇后视之犹子”。匡嗣的医术",
+      "reason": "引文结束与解释句之间漏句号，两句话直接粘连。",
+      "source": "直接读正文；补标点不动引文本身。"
+    },
+    {
+      "file": "data/narratives/liao-beijing-temples.ts",
+      "before": "原稿“胸径7.5米”未找到可复核测量记录，暂不采用",
+      "after": "所列资料未提供可复核的胸径测量记录",
+      "reason": "流程说明混入读者解读；后句胸径与胸围差别和证据限度应保留。",
+      "source": "同篇dajue-tree.note说明未提供测量记录，可将原稿数字取舍移至该source note。"
+    },
+    {
+      "file": "data/narratives/muzong-black-mountain.ts",
+      "before": "雉尾掉落、鹿少一只就杀掌养人，原稿是具体化铺演，现读本纪没有这两项动因",
+      "after": "本纪没有把雉尾掉落或鹿少一只记为这些杀戮的动因",
+      "reason": "原稿与现读是工作过程；改成直接说明史源边界，不动暴行事实或诊断边界。",
+      "source": "同解读后半明确残酷有原典、不另诊断，应保留。"
+    },
+    {
+      "file": "data/narratives/catalog.ts",
+      "before": "太原城下的大哥之争，与一个“侄皇帝”小国的二十八年",
+      "after": "太原城下的援兵，与一个“侄皇帝”小国的二十八年",
+      "reason": "目录保留旧副标题，而已注册正文已改。",
+      "source": "亲读catalog.ts对应slug及实际正文。"
+    },
+    {
+      "file": "data/narratives/northern-han-buffer.ts",
+      "before": "是后周对北汉、对辽的战争，原稿在辽篇中插叙",
+      "after": "是后周对北汉、对辽的战争",
+      "reason": "原稿插叙为工作说明，可移来源note；不改战役对象。",
+      "source": "本解释后续辽史编年视角仍保留。"
+    },
+    {
+      "file": "data/narratives/northern-han-buffer.ts",
+      "before": "拟对白与都统赞成急战的错置已改。",
+      "after": "所列史源不载拟对白，也没有记都统赞成急战。",
+      "reason": "错置已改为修改过程，直接说明原典边界即可。",
+      "source": "本节p2都统沙主张待后军，与敌烈抹只主张急战区别明确。"
+    },
+    {
+      "file": "data/narratives/shengzong-chaimu.ts",
+      "before": "太后韩德让相继谢幕后",
+      "after": "太后、韩德让相继谢幕后",
+      "reason": "两个人名之间漏顿号，会读成名叫韩德让的太后。",
+      "source": "lead与#curtain-falls明确萧太后、韩德让两人。"
+    },
+    {
+      "file": "data/narratives/shengzong-seal-poem.ts",
+      "before": "圣宗挑中的题目是那方传国玉玺。",
+      "after": "这首相传归于圣宗的诗，以传国玉玺为题。",
+      "reason": "本段确定署名与同篇明确未定作者的证据边界冲突。",
+      "source": "lead和#the-poem p0：宋人笔记只称北主；辽史拾遗编排不等于已证明圣宗署名。"
+    },
+    {
+      "file": "data/narratives/shengzong-seal-poem.ts",
+      "before": "从玺的传说化传承，到圣宗一朝的治绩评价与身后交棒，收束辽03全卷。",
+      "after": "从玺的传说化传承，读到圣宗一朝的治绩评价与身后交棒。",
+      "reason": "辽03全卷是逐字稿编排/工作流程，不是故事内容。",
+      "source": "本篇已有相关故事史源，可省略流程。"
+    },
+    {
+      "file": "data/narratives/shengzong-seal-poem.ts",
+      "before": "统和末年圣宗朝政绩与编年背景；1031年圣宗崩、兴宗继位。",
+      "after": "统和末年圣宗朝政绩与编年背景；1031年圣宗崩、兴宗继位另据卷17。",
+      "reason": "来源note把1031记事挂错卷。",
+      "source": "本篇sources[liao-17]已明确1031帝崩，卷15属统和编年，不含太平十一年。"
+    },
+    {
+      "file": "data/narratives/sixteen-prefectures-barrier.ts",
+      "before": "京畿四州：水库下面有旧城",
+      "after": "京畿五州：水库下面有旧城",
+      "reason": "正文列出檀、顺、新、妫、儒五州，标题计数误。",
+      "source": "同节p0全部五个州名。"
+    },
+    {
+      "file": "data/narratives/sixteen-prefectures-barrier.ts",
+      "before": "比辽宋战争的年代晚得多",
+      "after": "比这里讲述的10世纪战事晚得多",
+      "reason": "把整个辽宋战争都写成早于1044，超出正文实际10世纪战役范围。",
+      "source": "同篇period936—986背景；系列澶渊1004、重熙1042仍交涉，辽宋边境争端延续。"
+    },
+    {
+      "file": "data/narratives/catalog.ts",
+      "before": "936—979年背景",
+      "after": "936—986年背景",
+      "reason": "目录年限遗漏正文实际覆盖的986雍熙三路。",
+      "source": "亲读catalog.ts与正文period、#why-youzhou p2。"
+    },
+    {
+      "file": "data/narratives/taizi-harmed.ts",
+      "before": "昏君与奸臣：节目的收束讨论",
+      "after": "昏君与奸臣",
+      "reason": "标题包含节目编排/工作流，不是内容层信息。",
+      "source": "同节已有独立政治责任讨论。"
+    },
+    {
+      "file": "data/narratives/wang-jizhong.ts",
+      "before": "两年后，澶渊议和的信从他手里递出。",
+      "after": "次年，澶渊议和的信从他手里递出。",
+      "reason": "1003被俘、1004议和，相隔一年；两年后会指1005。",
+      "source": "同篇#wangdu-capture p0与#new-life-in-liao p2明确年份。"
+    },
+    {
+      "file": "data/narratives/catalog.ts",
+      "before": "两年后，澶渊议和的信从他手里递出。",
+      "after": "次年，澶渊议和的信从他手里递出。",
+      "reason": "同步目录：1003被俘、1004议和，相隔一年；两年后会指1005。",
+      "source": "同篇#wangdu-capture p0与#new-life-in-liao p2明确年份。"
+    },
+    {
+      "file": "data/narratives/wang-jizhong.ts",
+      "before": "父戍瓦桥关，子陷望都城，身后成了一场和议的引线",
+      "after": "父戍瓦桥关，子陷望都城，被俘后成了一场和议的引线",
+      "reason": "身后通常指死后；王继忠活着传递议和信息，宋廷误报死亡不是实际死亡。",
+      "source": "lead明确宋追赠而其仍存世。"
+    },
+    {
+      "file": "data/narratives/catalog.ts",
+      "before": "父戍瓦桥关，子陷望都城，身后成了一场和议的引线",
+      "after": "父戍瓦桥关，子陷望都城，被俘后成了一场和议的引线",
+      "reason": "同步目录：身后通常指死后；王继忠活着传递议和信息，宋廷误报死亡不是实际死亡。",
+      "source": "lead明确宋追赠而其仍存世。"
+    },
+    {
+      "file": "data/narratives/yelu-bei.ts",
+      "before": "密报劝进",
+      "after": "密报请讨",
+      "reason": "劝进通常指劝称帝；这里是劝已为皇帝的太宗讨李从珂。",
+      "source": "亲读辽史72：倍密报太宗曰从珂弑君，盍讨之。https://zh.wikisource.org/zh-hans/遼史/卷72"
+    },
+    {
+      "file": "data/narratives/catalog.ts",
+      "before": "密报劝进",
+      "after": "密报请讨",
+      "reason": "同步目录：劝进通常指劝称帝；这里是劝已为皇帝的太宗讨李从珂。",
+      "source": "亲读辽史72：倍密报太宗曰从珂弑君，盍讨之。https://zh.wikisource.org/zh-hans/遼史/卷72"
+    },
+    {
+      "file": "data/narratives/yelu-bei.ts",
+      "before": "写信劝进的人死于被劝进的失败者之手",
+      "after": "写信请讨的人死于被讨伐者之手",
+      "reason": "倍劝讨从珂，杀倍者从珂不是倍劝进的对象，现句主客关系错误。",
+      "source": "同篇#two-letters-south及亲讀辽史72；不改从珂令壮士杀倍的事实。"
+    },
+    {
+      "file": "data/narratives/deguang-bianjing.ts",
+      "before": "羊马西楼移回阿保机时期，原稿将两段合成太宗对话予以校正。",
+      "after": "羊马西楼之语属于阿保机时期，不与太宗母子对话合为一场。",
+      "reason": "移回、予以校正是流程语；时序区别保留。",
+      "source": "同节p0对德光、p1对阿保机两场明确。"
+    },
+    {
+      "file": "data/narratives/yelu-wuzhi-hengdu.ts",
+      "before": "屋质的成绩，是让横渡两岸没有立刻互相残杀；",
+      "after": "屋质的成绩，是让横渡两岸没有立刻互相残杀。",
+      "reason": "段落在分号后终止，没有后续分句；改句号即可完整收束，不虚补失落内容。",
+      "source": "本节最后一段、整篇最后一句。"
+    },
+    {
+      "file": "data/narratives/yongxi-eastern-route.ts",
+      "before": "宋人从此怕听到“于越至矣”。",
+      "after": "宋人后来用“于越至矣”止儿啼。",
+      "reason": "summary将989记载直接接到986战役结果，正文却明确不是986当场追加威名；从此和全称宋人易扩大。",
+      "source": "同篇#qigou-collapse p4明确止儿啼记于统和七年989战功之后。"
+    },
+    {
+      "file": "data/narratives/catalog.ts",
+      "before": "宋人从此怕听到“于越至矣”。",
+      "after": "宋人后来用“于越至矣”止儿啼。",
+      "reason": "同步目录：summary将989记载直接接到986战役结果，正文却明确不是986当场追加威名；从此和全称宋人易扩大。",
+      "source": "同篇#qigou-collapse p4明确止儿啼记于统和七年989战功之后。"
+    },
+    {
+      "file": "data/narratives/wei-culture.ts",
+      "before": "原稿相关汉武帝、刘宋表述按史料校正，口述还是转写所误尚未回听。",
+      "after": "年号归属按世祖本纪核定。",
+      "reason": "转写修订及回听状态应保留在审查台账，不漏入读者来源note。"
+    },
+    {
+      "file": "data/narratives/wei-households.ts",
+      "before": "李波的妹妹名叫雍容",
+      "after": "李波的妹妹字雍容",
+      "reason": "所展示诗句明言“字雍容”，译文应保留字与名的区别。"
+    },
+    {
+      "file": "data/narratives/wei-reform-legacy.ts",
+      "before": "承接北魏06 P155的王谢堂前燕引诗",
+      "after": "用于讨论王谢门第的文学记忆",
+      "reason": "去掉内部逐字稿P编号；保留诗歌与历史制度证据不可混同的限制。"
+    },
+    {
+      "file": "data/narratives/xuanwu-empress-hu.ts",
+      "before": "他立太子时已有十余岁",
+      "after": "他被立为太子时已有十余岁",
+      "reason": "指宣武元恪于497年受册（483年出生），不是512年他册立元诩；补被动标记以避免同段两次立储混淆。"
+    },
+    {
+      "file": "data/narratives/xuanwu-empress-hu.ts",
+      "before": "女婴时距写经数日，与本纪逐日记载并列。",
+      "after": "女婴继位到改立元钊，本传记为相隔数日，与本纪逐日记载并列。",
+      "reason": "“时距写经数日”为明显错片语，无法表达继位时间差；正文infant-succession已明确本传数日、本纪甲寅乙卯连续日的差别，按现有正文补明即可。"
+    },
+    {
+      "file": "data/narratives/xuanwu-empress-hu.ts",
+      "before": "原稿元祥校为元详。",
+      "after": "",
+      "reason": "正确人名已在同一来源说明给出，删除内部转写校稿说明。"
+    },
+    {
+      "file": "data/narratives/gao-cheng.ts",
+      "before": "本篇仅作家族叙述的引入，",
+      "after": "本篇仅作家族叙述的引入。",
+      "reason": "独立复验发现删除后逗号悬空，补句号。"
+    },
+    {
+      "file": "data/narratives/sui-khitan-campaign.ts",
+      "before": "据619年窦建德依倚突厥与护送隋皇室成员；",
+      "after": "据619年窦建德依倚突厥与护送隋皇室成员。",
+      "reason": "删除后分号悬空，补句号。"
+    },
+    {
+      "file": "data/narratives/feng-dao-mingzong-order.ts",
+      "before": "“克帝师”是节目戏谑，没有因果证据。",
+      "after": "“克帝师”是戏谑称法，没有因果证据。",
+      "expectedOccurrences": 1,
+      "reason": "可保留称法与因果边界，移除不在页面交代来源的节目工作语境。",
+      "source": "文字层面的来源语境清理；不改变冯道的评价。"
+    },
+    {
+      "file": "data/narratives/fengxiang-revolt-and-min-emperor.ts",
+      "before": "德械师、美式师与当代职场类比不移入故事；",
+      "after": "",
+      "expectedOccurrences": 1,
+      "reason": "向读者展示了作者决定不移入材料的编写过程，与故事解释无关。",
+      "source": "原句是编辑取舍说明，不是史源内容；无需改台账。"
+    },
+    {
+      "file": "data/narratives/huangchao-daqi.ts",
+      "before": "亲读张仲武之子直方、出奔京师、迎灞上、谋劫巢与屠其族段，校正旧文仅因通鉴略写而否定族诛。",
+      "after": "张直方为张仲武之子，出奔京师后迎黄巢于灞上；本传还记谋劫黄巢与屠其族，应与《通鉴》略文合读。",
+      "expectedOccurrences": 1,
+      "reason": "后半句展示旧稿修订过程；改为本来源实际补明的事实与史源差异。",
+      "source": "现有来源说明与正文entry-and-order相互印证，改措辞不改史实或台账。"
+    },
+    {
+      "file": "data/narratives/huangchao-south-and-return.ts",
+      "before": "本次独立亲读相关编年：李系精兵五万、潭州尽杀戍兵流尸蔽江、荆门轻骑诱敌林伏、段彦谟接替、六月别将陷睦婺，纠正旧文漏写。",
+      "after": "本卷还记李系精兵五万、潭州戍兵被杀与流尸蔽江、荆门轻骑诱敌林伏、段彦谟接替，以及六月别将攻陷睦、婺二州。",
+      "expectedOccurrences": 1,
+      "reason": "本次独立亲读、纠正旧文漏写是工作过程；保留具体定位内容即可。",
+      "source": "来源note中的明确编辑过程文字；本篇对应五节已完整叙述相关事实。"
+    },
+    {
+      "file": "data/narratives/catalog.ts",
+      "before": "四次错过的招安，一个绕遍半个中国的圈子",
+      "after": "官印、降书与伏兵：一支起事队伍怎样绕回长安",
+      "expectedOccurrences": 1,
+      "reason": "catalog仍保留旧副标题，正文现已采用较谨慎版本；列表与故事页metadata漏同步。",
+      "source": "只读实际catalog导出与本篇完整正文对比；授官、请降、将帅争功和疫病转向均比固定四次/半中国的概括具体。"
+    },
+    {
+      "file": "data/narratives/jin-khitan-three-campaigns.ts",
+      "before": "逐字稿中的“西楼有羊马”则见《新五代史》",
+      "after": "“西楼有羊马”的劝谏则见《新五代史》",
+      "expectedOccurrences": 1,
+      "reason": "正文混入逐字稿核对过程；不改变劝谏对象与年代限定。",
+      "source": "本段已明确是阿保机南下救张文礼时述律所言，而非945年攻晋；只移除过程词。"
+    },
+    {
+      "file": "data/narratives/jin-rebellions-and-grandson-letter.ts",
+      "before": "原稿现代“大炮”“幼鸟不怕鹰”的比喻不用作史料；",
+      "after": "现代“大炮”“幼鸟不怕鹰”的比喻不能作为史料；",
+      "expectedOccurrences": 1,
+      "reason": "去掉原稿工作语境，保留比喻与史实的边界。",
+      "source": "文字层面调整，不改变称孙不臣的解释。"
+    },
+    {
+      "file": "data/narratives/later-han-and-guo-wei-rise.ts",
+      "before": "刘知远违背许归乡的信誓杀张琏等，赦重威又在临终后诛其父子，",
+      "after": "刘知远违背许归乡的信誓杀张琏等；杜重威虽获赦，仍在刘知远死后被诛，三子一同遇害。",
+      "expectedOccurrences": 1,
+      "reason": "原句继续以刘知远为诛杀主体，形成死后本人下令的矛盾。建议改被动，避免再误归已登位的隐帝。",
+      "source": "亲读output/research-source-cache/資治通鑑-卷287.txt：刘知远殂于万岁殿，苏逢吉等秘不发丧，庚辰下诏斩重威及弘璋、弘璉、弘璨。"
+    },
+    {
+      "file": "data/narratives/later-han-and-guo-wei-rise.ts",
+      "before": "亲属党与大批遭诛。",
+      "after": "亲属和党羽大批遭诛。",
+      "expectedOccurrences": 1,
+      "reason": "亲属与党与是并列对象，缺少分隔易误读为亲属党。",
+      "source": "段内指伏诛大臣的亲属与党羽，属现代叙述标点整理。"
+    },
+    {
+      "file": "data/narratives/later-tang-shu-and-mutiny.ts",
+      "before": "军人雇卖妻子、出售孩子",
+      "after": "军人有“雇妻鬻子”者",
+      "expectedOccurrences": 1,
+      "reason": "把原典雇妻、鬻子合成雇卖妻子，容易将不同动作混读；雇字有原典依据，不应机械改为鬻。",
+      "source": "亲读資治通鑑-卷274.txt：军士乏食，有雇妻鬻子者，老弱采蔬于野……。"
+    },
+    {
+      "file": "data/narratives/later-tang-shu-and-mutiny.ts",
+      "before": "李继岌尚在回蜀途中",
+      "after": "李继岌尚在自蜀班师途中",
+      "expectedOccurrences": 1,
+      "reason": "征蜀军从成都东返，回蜀把返回方向写反。",
+      "source": "亲读資治通鑑-卷275.txt：魏王继岌至兴平闻洛阳乱，复引兵而西；武功后又亟东行，最后至渭南。原先是自蜀东返。"
+    },
+    {
+      "file": "data/narratives/li-cunxiao-alliance-breaks.ts",
+      "before": "原稿将895去世者误作王重荣，校为王重盈；将李继鹏误作李继徽，分别校正。",
+      "after": "895年去世者为王重盈；争夺皇帝的凤翔将领是李继鹏，须与王重荣、李继徽分别。",
+      "expectedOccurrences": 1,
+      "reason": "当前措辞展示原稿纠错过程；可保留人物辨析而面向读者说明。",
+      "source": "本篇正文与通鉴260对应人物已经校清；建议不动史实。"
+    },
+    {
+      "file": "data/narratives/li-cunxu-conquers-yan.ts",
+      "before": "夜读春秋",
+      "after": "夜读《春秋》",
+      "expectedOccurrences": 1,
+      "reason": "此处指书名，前后已用《春秋》，宜统一书名号。",
+      "source": "同段下一句明确旧五代史记十三岁习《春秋》。"
+    },
+    {
+      "file": "data/narratives/li-cunxu-conquers-yan.ts",
+      "before": "救滄州",
+      "after": "救沧州",
+      "expectedOccurrences": 1,
+      "reason": "非引文正文夹入繁体字。",
+      "source": "正文使用简体叙述；地名不变。"
+    },
+    {
+      "file": "data/narratives/li-cunxu-conquers-yan.ts",
+      "before": "順州",
+      "after": "顺州",
+      "expectedOccurrences": 1,
+      "reason": "非引文正文夹入繁体字。",
+      "source": "正文使用简体叙述；地名不变。"
+    },
+    {
+      "file": "data/narratives/li-cunxu-luzhou-baixiang.ts",
+      "before": "原音未回听。",
+      "after": "",
+      "expectedOccurrences": 1,
+      "reason": "音频校核状态是工作过程，不是该节史料解释；删除展示不等于声称已回听。",
+      "source": "此次校读不回听，报告method仍保留未回听限制。"
+    },
+    {
+      "file": "data/narratives/li-yu-words-after-country.ts",
+      "before": "李煜；以亲读古词文本核字，不据转写定本。",
+      "after": "李煜；据古词传本。",
+      "expectedOccurrences": 1,
+      "reason": "诗歌署名不需要展示对转写定本的工作过程。",
+      "source": "本篇另列虞美人古词来源，来源层次不因去掉编辑过程而改变。"
+    },
+    {
+      "file": "data/narratives/mingzong-court-and-heirs.ts",
+      "before": "926明宗承位及文学官配置，原稿上源驿归功不径落实。",
+      "after": "926年明宗承位及文学官配置；上源驿救主另据《旧五代史》卷35。",
+      "expectedOccurrences": 1,
+      "reason": "原稿归功不径落实是旧工作说明，且当前正文已据旧五代35明确救主，来源note应说明实际分工。",
+      "source": "同篇ren-and-an首段与jiuwudai-35 note均已明确旧史翼武皇逾垣及随后掌亲骑。"
+    },
+    {
+      "file": "data/narratives/shangyuan-feud.ts",
+      "before": "逐字稿引的是流传中的组合版本；",
+      "after": "流传中还有将这些异文组合起来的版本；",
+      "expectedOccurrences": 1,
+      "reason": "说明传本差异即可，不在正文展示逐字稿对读过程。",
+      "source": "同段已经并列三十年前/犹忆当年、着尽/脱尽等来源差异，保留不硬定本的边界。"
+    },
+    {
+      "file": "data/narratives/shangyuan-feud.ts",
+      "before": "黄巢的从子黄浩（《新唐书》作“浩”，口述写作“皓”且误为“儿子”）",
+      "after": "黄巢的从子黄浩",
+      "expectedOccurrences": 1,
+      "reason": "姓名与亲属关系正文已正确，括注只在展示对口述错误的改稿过程，可移回台账。",
+      "source": "本篇sources[xin-tang-225]已明确从子黄浩；不改叙述事实。"
+    },
+    {
+      "file": "data/narratives/shangyuan-feud.ts",
+      "before": "長安",
+      "after": "长安",
+      "expectedOccurrences": 1,
+      "reason": "非引文正文繁简混用。",
+      "source": "全文简体叙述；地名不变。"
+    },
+    {
+      "file": "data/narratives/catalog.ts",
+      "before": "狼虎谷的三种结局，与一场差点改写历史的雨",
+      "after": "狼虎谷的史书与传说，上源驿夜袭与成都受俘",
+      "expectedOccurrences": 1,
+      "reason": "catalog仍为旧副标题，现正文强调史书、传说与具体场景，应同步。",
+      "source": "本篇分别保留自刎、斩首与遁僧传说，不将雨夜反事实作为确证。"
+    },
+    {
+      "file": "data/narratives/shatuo-li-keyong.ts",
+      "before": "口述的“团团包围”稍有夸张，实情是一败再败。",
+      "after": "这记述的是屡次战败，并不等于始终被团团包围。",
+      "expectedOccurrences": 1,
+      "reason": "原句将口述校稿过程带入正文；改为事实范围辨析。",
+      "source": "同句旧五代史原文为屡为重荣所败；建议保留该引文。"
+    },
+    {
+      "file": "data/narratives/shatuo-li-keyong.ts",
+      "before": "唱词据节目转写，未回听音频，未冒称核定京剧底本。",
+      "after": "所引唱词为口述流传版本，未按京剧底本核定，不能用作晚唐军队编制的证据。",
+      "expectedOccurrences": 1,
+      "reason": "移除节目转写和回听状态的工作过程，保留未核底本的实际来源限度。",
+      "source": "本节明确文学流传，编者没有亲核剧本或回听；校核台账仍保留未回听说明。"
+    },
+    {
+      "file": "data/narratives/catalog.ts",
+      "before": "一支被召回的雇佣军，一个叛变的将军，与一段戏台上的家谱",
+      "after": "一支被召回的边军，一个倒戈的将军，与一段戏台上的家谱",
+      "expectedOccurrences": 1,
+      "reason": "catalog未同步现正文副标题；雇佣军给召回边军的政治关系增添不必要定性。",
+      "source": "本篇详述沙陀赐姓、流亡、杂部募兵与朝廷诏书召回，正文既有较谨慎表述。"
+    },
+    {
+      "file": "data/narratives/song-unification-campaigns.ts",
+      "before": "分清原稿合叙。",
+      "after": "联络蜡丸书与随后据口述绘成的军事地图是不同材料。",
+      "expectedOccurrences": 1,
+      "reason": "原稿合叙是工作过程，可用材料差异直接向读者说明。",
+      "source": "本篇shu首段已区分蜡书告密与画工绘图，保留史源关系。"
+    },
+    {
+      "file": "data/narratives/tang-court-hedong-distrust.ts",
+      "before": "昭宗借兵讨强藩，最终还得用诏书承认败者要求撤销的处分。",
+      "after": "昭宗借兵讨强藩，最终还得以诏书恢复李克用的官爵。",
+      "expectedOccurrences": 1,
+      "reason": "本役败的是朝廷军，求撤销处分的是获胜的李克用；原句错称败者，且承认处分语义不顺。",
+      "source": "亲读https://zh.wikisource.org/zh-hant/資治通鑑/卷258大顺二年：张濬兵败，李克用上表，赐克用诏，悉复其官爵，使归晋阳。"
+    },
+    {
+      "file": "data/narratives/ten-kingdoms-survival-routes.ts",
+      "before": "未核原稿具体年度贡物清单。",
+      "after": "未核定各年度的具体贡物清单。",
+      "expectedOccurrences": 1,
+      "reason": "保留统计核证限度，去掉原稿工作语境。",
+      "source": "本篇earlier-recap已不将茶瓷等列成固定贸易账。"
+    },
+    {
+      "file": "data/narratives/chen-baxian-rise.ts",
+      "before": "派钱明截江乘粮船",
+      "after": "派钱明到江乘截击齐军粮船",
+      "expectedOccurrences": 1,
+      "reason": "江乘为地名，现串接成截江乘粮船容易误读成乘船动作；补介词与所属词。",
+      "source": "亲读通鉴166：遣别将钱明将水军出江乘，邀击齐人粮运，尽获其船米；陈书1亦同。"
+    },
+    {
+      "file": "data/narratives/chen-falls.ts",
+      "before": "后两书的叙述不能算作两份独立证言",
+      "after": "《通鉴》与《南史》有关妻事的记载不能算作两份独立证言",
+      "expectedOccurrences": 1,
+      "reason": "本段依次提通鉴、南史、陈书；后两书按字面是南史与陈书，而陈书本传恰不载妻事。应明确指前述记妻事的两书，避免指代错误。",
+      "source": "同段及sources[chen-31]/[nan-67]/[tongjian-177]已分别说明陈书不载妻事，待根保留这项来源分层。"
+    },
+    {
+      "file": "data/narratives/chen-falls.ts",
+      "before": "“功高赏薄、不要令其领兵”是原稿的概述，不能伪作所核《通鉴》的原话；正文据实呈现阻止出战和决策反复。",
+      "after": "《通鉴》记陈廷阻止出战及决策反复；不能把“功高赏薄、不要令其领兵”当作该书原话。",
+      "expectedOccurrences": 1,
+      "reason": "保留引语边界，去掉原稿概述和正文处理过程。",
+      "source": "本篇blocked-orders已叙实际决策反复，属于面向读者的来源说明清理。"
+    },
+    {
+      "file": "data/narratives/chen-falls.ts",
+      "before": "末段诗句按传本校文；原音尚未回听，不能反推转写错误的实际读音。文学成就与政务失败分别评价。",
+      "after": "诗句据《乐府诗集》传本，文学成就与政务失败分别评价。",
+      "expectedOccurrences": 1,
+      "reason": "回听与转写错误的实际读音是工作过程；保留诗的传本来源和评价边界。",
+      "source": "诗的attribution与yuefu-22来源已明确，不声称此次回听。"
+    },
+    {
+      "file": "data/narratives/chen-falls.ts",
+      "before": "保留原稿关于人的时间尺度、人物评价和交流的思考，收紧“所有经验皆失败”“族群界限完全不重要”等绝对说法；",
+      "after": "讨论人的时间尺度、人物评价和交流，不将“所有经验皆失败”“族群界限完全不重要”等绝对说法当成历史结论；",
+      "expectedOccurrences": 1,
+      "reason": "保留、收紧是作者改稿过程；改为本节实际讨论范围。",
+      "source": "本节完整内容已分纪年、人物与文化交流，保留史书/价值判断分层。"
+    },
+    {
+      "file": "data/narratives/chen-falls.ts",
+      "before": "，未回听原音。",
+      "after": "。",
+      "expectedOccurrences": 1,
+      "reason": "面向读者的诗歌来源note无需显示原音回听状态。",
+      "source": "本轮不回听，method和原有台账不改。"
+    },
+    {
+      "file": "data/narratives/chen-palace-coup.ts",
+      "before": "谭騏驎",
+      "after": "谭骐驎",
+      "expectedOccurrences": 1,
+      "reason": "非引文正文中騏为繁体，应统一简体；驎属于姓名用字，保留不擅改麟。",
+      "source": "全文简体叙述，人物不变。"
+    },
+    {
+      "file": "data/narratives/chen-succession-crisis.ts",
+      "before": "未经回听或另行版本考证，不消除这项疑点。",
+      "after": "未完成进一步的版本考证，不强行消除这项疑点。",
+      "expectedOccurrences": 1,
+      "reason": "生年/卒年年龄是古籍内在异文问题，回听不能解决；去掉音频工作过程但保留疑点。",
+      "source": "前句明确陈书554生、570卒年十九不合，不把十七/十九定成确数。"
+    },
+    {
+      "file": "data/narratives/donghun-xiao-yan.ts",
+      "before": "他留下自己牵制鲁山",
+      "after": "他亲自率兵牵制鲁山",
+      "expectedOccurrences": 1,
+      "reason": "留下自己搭配生硬，原意为萧衍自己承担鲁山方向的围守。",
+      "source": "亲读梁书01高祖部署：吾自后围鲁山，以通沔汉；王茂、曹景宗率军济岸，与正文分工一致。"
+    },
+    {
+      "file": "data/narratives/hou-jing-defeat.ts",
+      "before": "彭雋",
+      "after": "彭隽",
+      "expectedOccurrences": 2,
+      "reason": "非引文正文繁简混用；姓名只转换字形，不改变人物。",
+      "source": "全文简体叙述，雋的简体为隽。"
+    },
+    {
+      "file": "data/narratives/hou-jing-defeat.ts",
+      "before": "璽绶",
+      "after": "玺绶",
+      "expectedOccurrences": 1,
+      "reason": "非引文正文夹繁体璽。",
+      "source": "字形统一，礼仪名物不变。"
+    },
+    {
+      "file": "data/narratives/hou-jing-defeat.ts",
+      "before": "羊鶤",
+      "after": "羊鹍",
+      "expectedOccurrences": 6,
+      "reason": "叙述姓名有繁体鶤的简化对应，建议正文统一简体；来源书目可保留传本字形。",
+      "source": "仅字形统一，不改羊侃之子身份、转船或刺杀情节；若项目姓名展示统一保留古字，可保留而不是史误。"
+    },
+    {
+      "file": "data/narratives/xia-five-routes-yongle.ts",
+      "before": "李昌祚校刘昌祚；李宪不沿用原稿七万无出处。",
+      "after": "将领为刘昌祚；李宪兵数不采用无来源的七万之说。",
+      "reason": "校、原稿描述制作过程，可改为读者可理解的姓名与证据说明。",
+      "source": "完整校读该节正文与解读；建议仅清理校稿过程措辞，保留史源差异及未证边界。"
+    },
+    {
+      "file": "data/narratives/xia-last-cities-two-endings.ts",
+      "before": "夏主否认说过讥讽，阿沙敢不承认出言",
+      "after": "夏主否认说过讥讽，阿沙敢不则承认自己说过",
+      "reason": "阿沙敢不为完整人名，与承认紧接容易误读为不承认；实际两人态度相反。",
+      "source": "亲读 https://zh.wikisource.org/wiki/元朝秘史/卷14 ：不儿罕说我不曾说；有阿沙敢不说是我说来。仅补断句词，不改人名异译。"
+    },
+    {
+      "file": "data/narratives/xia-mongol-sieges.ts",
+      "before": "蒙古推进到中兴府，安全亲自督将士守城，仍不能攻破。",
+      "after": "蒙古推进到中兴府，安全亲自督将士守城，蒙古军仍不能攻破。",
+      "reason": "中间切换到安全后仍不能攻破主语不明，容易读成安全未能攻破自己的城；补明攻方。",
+      "source": "同篇说攻方引水攻城、未攻入都城，补主语不改变战果或史源。"
+    },
+    {
+      "file": "data/narratives/xia-renxiao-law-schools.ts",
+      "before": "国主与皇后轮流上课",
+      "after": "国主与皇后也来训导",
+      "reason": "正文与原典只记帝后时为训导，标题轮流上课加入明确交替安排，与本篇不列固定授课安排的限定不合。",
+      "source": "重新亲读 https://zh.wikisource.org/wiki/西夏書事/35 ：仁孝与后罔氏亦时为条教训导之。无轮流的明确记载；仅收紧标题，不删训导史实。"
+    },
+    {
+      "file": "data/narratives/xia-sanchuankou-war-peace.ts",
+      "before": "铁剪校铁杵；黄九德校黄德和。",
+      "after": "兵器为铁杵，将领为黄德和。",
+      "reason": "这是转写改字台账措辞，读者解读直接说明正确兵器、人名即可。",
+      "source": "完整校读该节正文与解读；建议仅清理校稿过程措辞，保留史源差异及未证边界。"
+    },
+    {
+      "file": "data/narratives/xia-tangut-migration.ts",
+      "before": "八姓纠正原转写",
+      "after": "八姓据唐书",
+      "reason": "原转写的纠正属于校稿过程，史源归属可直接说明；不改变族源判断边界。",
+      "source": "完整校读该节正文与解读；建议仅清理校稿过程措辞，保留史源差异及未证边界。"
+    },
+    {
+      "file": "data/narratives/xia-tangut-migration.ts",
+      "before": "仆固怀恩的族源、婚姻与失和补据本传",
+      "after": "仆固怀恩的族源、婚姻与失和据本传记载",
+      "reason": "补据是作者补写过程措辞，只去补字。",
+      "source": "完整校读该节正文与解读；建议仅清理校稿过程措辞，保留史源差异及未证边界。"
+    },
+    {
+      "file": "data/narratives/xia-younger-liang-dowager.ts",
+      "before": "关系年代校正；对动机与贬称的限制为编辑判断",
+      "after": "对动机与贬称的限制为编辑判断",
+      "reason": "关系年代校正是工作过程标签，关系和年代已经在正文呈现。",
+      "source": "完整校读该节正文与解读；建议仅清理校稿过程措辞，保留史源差异及未证边界。"
+    },
+    {
+      "file": "data/narratives/xia-yuanhao-palace-crisis.ts",
+      "before": "清卷18先夺妇、再废后，与节目叙事顺序不同。",
+      "after": "《西夏书事》卷18记先夺妇、再废后。",
+      "reason": "节目顺序比较属于核稿过程；保留清代材料的明确先后。",
+      "source": "完整校读该节正文与解读；建议仅清理校稿过程措辞，保留史源差异及未证边界。"
+    },
+    {
+      "file": "data/narratives/dali-conquest-governors.ts",
+      "field": "first",
+      "before": "前战只依据晚出地方史所存线索。九河地望、战术和伤亡待更充分核证，宋祭高禾亦不当作宋军出战。 所读原典不足以确认九河地望、三千或九千伤亡及九河塔；窝阔台1241卒，不是1244退军的当年新丧原因。",
+      "after": "前战只依据晚出地方史所存线索。九河地望、战术和伤亡待更充分核证，宋祭高禾亦不当作宋军出战。所读原典不足以确认九河地望、三千或九千伤亡及九河塔；窝阔台1241卒，不是1244退军的当年新丧原因。",
+      "reason": "移除中文句间多余空格，保持全部材料边界。"
+    },
+    {
+      "file": "data/narratives/dali-conquest-governors.ts",
+      "field": "office",
+      "before": "中庆不写成比大理更北的故乡替代，也不以忽必烈个人思乡作迁治原因。路总管府与行省不同，段实早期总领诸城与1274职掌更定亦分别表述。 1270合两万户为大理路据地理志；信苴日传1274已称行省平章，地理志1276写立省与改中庆，保留两处记述的不同节点，不强合为唯一成立年份。",
+      "after": "中庆不写成比大理更北的故乡替代，也不以忽必烈个人思乡作迁治原因。路总管府与行省不同，段实早期总领诸城与1274职掌更定亦分别表述。1270合两万户为大理路据地理志；信苴日传1274已称行省平章，地理志1276写立省与改中庆，保留两处记述的不同节点，不强合为唯一成立年份。",
+      "reason": "移除中文句间多余空格，保持全部材料边界。"
+    },
+    {
+      "file": "data/narratives/jin-southern-court.ts",
+      "field": "prince-leak",
+      "before": "《守纯传》把密议标作兴定四年九月，与高琪本传1219年十二月伏诛的纪年不相合。本篇承接两传一致的泄密经过，保留纪年抵牾，不凭节目情节改定日期。 节目把杀人案受害者转写为英王妻儿，正文按高琪本传校正为高琪妻与其奴赛不，不补不存在的宗室遇害情节。",
+      "after": "《守纯传》把密议标作兴定四年九月，与高琪本传1219年十二月伏诛的纪年不相合。本篇承接两传一致的泄密经过，保留纪年抵牾，不凭节目情节改定日期。节目把杀人案受害者转写为英王妻儿，正文按高琪本传校正为高琪妻与其奴赛不，不补不存在的宗室遇害情节。",
+      "reason": "移除中文句间多余空格，保持全部材料边界。"
+    },
+    {
+      "file": "data/narratives/dashi-leaves-tianzuo.ts",
+      "field": "capture-and-flight",
+      "before": "宋人国志中的“大实”故事有鲜明人物塑造；与辽金本纪交集之外的细节保留来源层级。 向导经过另据金史74；尚无充分依据的释放五子、赐女真妻等全套赏赐不据此补造。",
+      "after": "宋人国志中的“大实”故事有鲜明人物塑造；与辽金本纪交集之外的细节保留来源层级。向导经过另据金史74；尚无充分依据的释放五子、赐女真妻等全套赏赐不据此补造。",
+      "reason": "移除中文句间多余空格，保持全部材料边界。"
+    },
+    {
+      "file": "data/narratives/northern-han-buffer.ts",
+      "field": "no-one-loves-war",
+      "before": "厌战、静观其变、对峙自乱等均为节目分析，东吴为类比；不将厌战心理归给辽、宋、北汉任何一方当事人。 本节涉及战争动员、地理原因及替代方案时为明确编辑解读，不能当作史书原载或确证当事人心理。",
+      "after": "厌战、静观其变、对峙自乱等均为节目分析，东吴为类比；不将厌战心理归给辽、宋、北汉任何一方当事人。本节涉及战争动员、地理原因及替代方案时为明确编辑解读，不能当作史书原载或确证当事人心理。",
+      "reason": "移除中文句间多余空格，保持全部材料边界。"
+    },
+    {
+      "file": "data/narratives/huan-xuan-fall.ts",
+      "before": "补充多重顾虑，不把原段所说打不过改成只有这一原因。",
+      "after": "这里有多重顾虑，不宜将降服只归因于判断打不过桓玄。",
+      "expectedOccurrences": 1,
+      "reason": "原段所说及改成属于编写过程；保留多因解释。",
+      "source": "本篇a-surrender已区分惧桓玄声势与担心司马元显容纳，来源边界不变。"
+    },
+    {
+      "file": "data/narratives/huan-xuan-fall.ts",
+      "before": "刘裕以‘不还便打’相威胁的对白",
+      "after": "刘裕以“不还便打”相威胁的对白",
+      "expectedOccurrences": 1,
+      "reason": "一级引号宜用双引号，不在没有外层双引号时单用单引号。",
+      "source": "现代中文叙述的引号层级调整，不把拟对白变成史书原话。"
+    },
+    {
+      "file": "data/narratives/liu-shao-coup.ts",
+      "before": "建康歌谣据此校转写，交代北朝敌国叙事的立场；与后篇重复的原稿P074按段键去重。",
+      "after": "建康歌谣见于本卷，须留意北朝敌国叙事的立场。",
+      "expectedOccurrences": 1,
+      "reason": "面向读者的来源说明混入原稿段号、台账去重流程；不改变歌谣出处与立场限度。",
+      "source": "已全文亲读该篇及本来源note；去重记录保留于核对台账。"
+    },
+    {
+      "file": "data/narratives/liu-song-founding.ts",
+      "before": "《宋书》朱超石传记417年北伐途中",
+      "after": "《宋书·朱超石传》记，417年北伐途中",
+      "expectedOccurrences": 1,
+      "reason": "“朱超石传记”连写易把“传记”误读成名词；补书名号层级与逗号，明确传名和“记”这一谓语。",
+      "source": "当前句后接北伐战事，所引sources[song-48]明确为朱超石传。"
+    },
+    {
+      "file": "data/narratives/liu-song-palace-violence.ts",
+      "before": "富强之家整片山岭地圈占",
+      "after": "富强之家把整片山岭圈占",
+      "expectedOccurrences": 1,
+      "reason": "缺少“把”字，“整片山岭地圈占”语序不通；调整局部语序即可，政策内容不变。",
+      "source": "阅读全文，句中富强之家为施事，山岭为圈占对象。"
+    },
+    {
+      "file": "data/narratives/liu-yu-origins.ts",
+      "before": "六名为对口述归纳的辨析，不使用药名谐称为人物排名，不把蜀主身份、间接战争责任与亲手杀戮混同。",
+      "after": "六位君主的结局涉及不同身份与死亡经过，不能把蜀主身份、间接战争责任与亲手杀戮混为一谈。",
+      "expectedOccurrences": 1,
+      "reason": "“对口述归纳”“不使用药名谐称”是写作取舍说明，打断读者；保留名号与责任区分。",
+      "source": "本节三个正文段已经分别叙明六人结局，无须把未采用的谐称展示给读者。"
+    },
+    {
+      "file": "data/narratives/liu-yu-origins.ts",
+      "before": "核全词，校正逐字稿中孙仲谋、寄奴、元嘉、佛狸等转写；按文学回望呈现，不作为武力排名与战场细节的证据。",
+      "after": "全词中的孙仲谋、寄奴、元嘉、佛狸分属不同人物与时代；按文学回望阅读，不作为武力排名与战场细节的证据。",
+      "expectedOccurrences": 1,
+      "reason": "删除逐字稿转写校正流程，保留读者所需的人物时代和文学史料限度。",
+      "source": "已全文阅读正文及八行词句，候选不改变作品文本。"
+    },
+    {
+      "file": "data/narratives/qi-succession-xiao-luan.ts",
+      "before": "原稿所讲的丧中作乐，有这一层具体记述；至于登基第二天和逐句威胁，则不是该处原文。",
+      "after": "丧中作乐的记载有具体的时间与场合，不能推定为登基第二天发生，也不宜增添逐句威胁。",
+      "expectedOccurrences": 1,
+      "reason": "将原稿核对过程改为读者可理解的记载限度，不改变大殓后召乐伎的叙述。",
+      "source": "前句已明确南史大殓结束后召乐伎，全文阅读确认这是原稿过程说明。"
+    },
+    {
+      "file": "data/narratives/qi-succession-xiao-luan.ts",
+      "before": "原文把乐声解释成哭声，带着回护与讽刺的张力，并没有直接说出“大齐宫殿的悲歌”。",
+      "after": "这段回答把乐声解释成哭声，带着回护与讽刺的张力。",
+      "expectedOccurrences": 1,
+      "reason": "未采用的“大齐宫殿的悲歌”属于讲述取舍，不必要展示；保留回护与讽刺解读。",
+      "source": "本段前句为王敬则与萧坦之的实际问答；删除的只是否认未使用对白。"
+    },
+    {
+      "file": "data/narratives/wu-mingche-northern-campaign.ts",
+      "before": "原稿“梁实宴”未回听。史书所记梁士彦是先被击败、退守彭城的周将；封锁清水出口并俘吴明彻的救援主帅是王軌，二者分工不能合成一个人。",
+      "after": "梁士彦是先被击败、退守彭城的周将；封锁清水出口并俘吴明彻的救援主帅是王轨，二者分工不能合成一个人。",
+      "expectedOccurrences": 1,
+      "reason": "“原稿梁实宴未回听”是转写核对过程，宜留于台账；读者只需明确两位周将的分工。",
+      "source": "全文阅读，正文已分清梁士彦与王軌；本次未回听音频，此限制继续保留于报告及原台账。"
+    },
+    {
+      "file": "data/narratives/wu-mingche-northern-campaign.ts",
+      "before": "王軌",
+      "after": "王轨",
+      "expectedOccurrences": 5,
+      "reason": "简体正文中的“軌”可统一为“轨”；仅字形统一，不更换人物。",
+      "source": "完整阅读本篇，正文其余通用字为简体；同篇多次出现同一人名。"
+    },
+    {
+      "file": "data/narratives/xiao-yan-poetry.ts",
+      "before": "周公吐哺、天下归心，区别节目误识。",
+      "after": "“周公吐哺，天下归心”见于本诗，用于理解求贤之愿。",
+      "expectedOccurrences": 1,
+      "reason": "“区别节目误识”属于核对过程，改为诗句在本篇的用途；文本不变。",
+      "source": "本篇different-voices段已用该句说明曹操求贤，来源说明无需交代节目误识。"
+    }
+  ]
+}

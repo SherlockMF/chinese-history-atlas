@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "corrected": 5,
+    "partial": 20,
+    "covered": 3
+  },
+  "rows": [
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "diplomacy"
+      ],
+      "note": "时代归附金而非蒙，外交礼节逐事件实写。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "diplomacy"
+      ],
+      "note": "归附与外交自主、疆域表述；海陵功过类比及心理台词不作史实。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "diplomacy"
+      ],
+      "note": "归附与外交自主、疆域表述；海陵功过类比及心理台词不作史实。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "diplomacy"
+      ],
+      "note": "归附与外交自主、疆域表述；海陵功过类比及心理台词不作史实。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "diplomacy"
+      ],
+      "note": "归附与外交自主、疆域表述；海陵功过类比及心理台词不作史实。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "diplomacy"
+      ],
+      "note": "归附与外交自主、疆域表述；海陵功过类比及心理台词不作史实。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "diplomacy"
+      ],
+      "note": "归附与外交自主、疆域表述；海陵功过类比及心理台词不作史实。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "diplomacy"
+      ],
+      "note": "归附与外交自主、疆域表述；海陵功过类比及心理台词不作史实。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "diplomacy"
+      ],
+      "note": "金134百头帐为进献，先拒是已有贡物之例；夏表陈诚与邻国所见而非解释用途，容百人未断言。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "diplomacy"
+      ],
+      "note": "归附与外交自主、疆域表述；海陵功过类比及心理台词不作史实。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "diplomacy"
+      ],
+      "note": "归附与外交自主、疆域表述；海陵功过类比及心理台词不作史实。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "horse"
+      ],
+      "note": "马伤、近臣进谏停止追责与后赏写入。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "horse"
+      ],
+      "note": "清36命执治道者戮、阿华谏止确有记载，补回命杀；没有无明文法律这段谏辞。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "horse",
+        "law"
+      ],
+      "note": "天盛法典规模制度实写，马伤引发编法因果未证。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "law"
+      ],
+      "note": "法典制度价值有据，世界唯一中世纪最高评价不当事实。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "law"
+      ],
+      "note": "成文规则与皇帝纳谏区分，不保证每行为现代依法。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "schools"
+      ],
+      "note": "宗室7—15皆得入学，非强制义务教育。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "schools"
+      ],
+      "note": "清35原文皆得入学，帝后时为训导；强制入学与每月分日均不沿用。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "schools"
+      ],
+      "note": "太学释奠孔帝、野利仁荣追封具体年次。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "restraint"
+      ],
+      "note": "禁奢1193卒70位55有据，赈灾贪案不具体杜撰。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "restraint"
+      ],
+      "note": "长治文化成果置于灾荒内乱之旁，百年无战与统治鼎盛价值判断有限定。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "restraint"
+      ],
+      "note": "长治文化成果置于灾荒内乱之旁，百年无战与统治鼎盛价值判断有限定。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "restraint"
+      ],
+      "note": "长治文化成果置于灾荒内乱之旁，百年无战与统治鼎盛价值判断有限定。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "restraint"
+      ],
+      "note": "长治文化成果置于灾荒内乱之旁，百年无战与统治鼎盛价值判断有限定。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "schools"
+      ],
+      "note": "儒学科举及本族文字并行，不笼统讲教育。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "settled-country"
+      ],
+      "note": "定居与教育先后关系纠正。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "settled-country"
+      ],
+      "note": "辽金并非建国才首次有州城；党项迁徙与已有定居制度分开。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-renxiao-law-schools",
+      "sectionIds": [
+        "settled-country"
+      ],
+      "note": "城市与邻国变化解释，不以简单汉化优劣排列兴亡。"
+    }
+  ]
+}

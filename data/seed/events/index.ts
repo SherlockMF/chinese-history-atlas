@@ -1,4 +1,5 @@
 import { northernQiZhouSuiEvents } from "./northern-qi-zhou-sui";
+import { expansionEvents } from "@/data/series/expansion";
 import { fiveDynastiesEvents } from "./five-dynasties";
 import { lateTangEvents } from "./late-tang";
 import { liaoSongEvents } from "./liao-song";
@@ -12,4 +13,4 @@ export const legacyEvents = orderEvents([
   ...liaoSongEvents,
 ]);
 
-export const events = orderEvents([...legacyEvents, ...northernQiZhouSuiEvents]);
+export const events = orderEvents([...legacyEvents, ...northernQiZhouSuiEvents, ...expansionEvents]);

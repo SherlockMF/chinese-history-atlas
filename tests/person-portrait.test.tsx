@@ -45,7 +45,7 @@ describe("person portrait provenance", () => {
     expect(screen.getByRole("img", { name: "述律平画像" })).toBeVisible();
     expect(screen.getByText("无参考画像")).toBeVisible();
     fireEvent.click(screen.getByText("画像依据与说明"));
-    expect(screen.getByText(/本次未找到可靠参考画像/)).toBeVisible();
+    expect(screen.getByText(/本幅未采用传世本人肖像/)).toBeVisible();
     expect(screen.queryByRole("link", { name: /参考画像/ })).not.toBeInTheDocument();
   });
 

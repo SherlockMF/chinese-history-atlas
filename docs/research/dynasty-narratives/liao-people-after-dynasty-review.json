@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11根代理独立复核：逐P对读原稿、正文及史源；辽末话本与史载分层，宗王与齐妃有出处情节补入，西迁纪年及亲属异说保留。独立语义核对完成；音频未回听，partial不作全段覆盖。",
+  "counts": {
+    "not-needed": 3,
+    "partial": 10,
+    "corrected": 1,
+    "covered": 1
+  },
+  "rows": [
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P198",
+      "baselineVerdict": "partial",
+      "assessment": "not-needed",
+      "storySlug": "liao-people-after-dynasty",
+      "sectionIds": [],
+      "note": "节目制作回忆及称赞开篇。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P199",
+      "baselineVerdict": "covered",
+      "assessment": "not-needed",
+      "storySlug": "liao-people-after-dynasty",
+      "sectionIds": [],
+      "note": "五集收束感言，无新增历史命题。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P207",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-people-after-dynasty",
+      "sectionIds": [
+        "talent-and-state"
+      ],
+      "note": "名臣与国运感叹承接，不将才华等同治理。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P210",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-people-after-dynasty",
+      "sectionIds": [
+        "talent-and-state"
+      ],
+      "note": "才艺与政治能力区分承接，奥运比喻不作事实。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P211",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "liao-people-after-dynasty",
+      "sectionIds": [],
+      "note": "提名印象人物串场。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P212",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liao-people-after-dynasty",
+      "sectionIds": [
+        "talent-and-state"
+      ],
+      "note": "人才储备不足观点受预警被弃置事例限定。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P213",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-people-after-dynasty",
+      "sectionIds": [
+        "talent-and-state"
+      ],
+      "note": "屋质具体能力承接，诸葛亮和每次都对不作绝对事实。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P214",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liao-people-after-dynasty",
+      "sectionIds": [
+        "talent-and-state"
+      ],
+      "note": "屋质预警、早期政局与善终承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P215",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-people-after-dynasty",
+      "sectionIds": [
+        "poetry-and-city"
+      ],
+      "note": "两位后妃汉文创作、诗题和辽代建筑承接，不能由华字作现代身份定论。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P216",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-people-after-dynasty",
+      "sectionIds": [
+        "poetry-and-city"
+      ],
+      "note": "北京辽代城市文化与融合承接，不称族群文化完全一样。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P218",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-people-after-dynasty",
+      "sectionIds": [
+        "people-and-images"
+      ],
+      "note": "达斡尔后裔说与云南祖源自述分层承接；“本人”转写未确证音。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P219",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-people-after-dynasty",
+      "sectionIds": [
+        "people-and-images"
+      ],
+      "note": "迁徙混居、地方祖源证据与限度承接，绝大部分在身边未作人口结论。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P220",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-people-after-dynasty",
+      "sectionIds": [
+        "people-and-images"
+      ],
+      "note": "辽墓髡发图像承接，模仿发式玩笑略。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P236",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-people-after-dynasty",
+      "sectionIds": [
+        "poetry-and-city"
+      ],
+      "note": "现代整体历史视角承接，但战国、内战只是类比。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P237",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-people-after-dynasty",
+      "sectionIds": [
+        "poetry-and-city"
+      ],
+      "note": "各族历史与融合的编辑解读承接，节目预告略。"
+    }
+  ]
+}

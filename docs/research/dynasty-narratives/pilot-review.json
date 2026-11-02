@@ -1,0 +1,1454 @@
+{
+  "date": "2026-09-30",
+  "method": "逐段阅读原稿并与新增故事比较；只确认可辨实质主张。covered=实质承接；partial=尚有未展开主张；corrected=有来源的校正或来源层次限定；not-needed=纯插话。不是史实全部无争议，也不是原音复听。",
+  "counts": {
+    "covered": 52,
+    "corrected": 32,
+    "partial": 44,
+    "not-needed": 1,
+    "not-covered": 1
+  },
+  "rows": [
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch"
+      ],
+      "note": "梁士彦镇守平阳与一万精兵已有正文。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch"
+      ],
+      "note": "高纬与冯淑妃田猎已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch"
+      ],
+      "note": "按通鉴区分告急与陷城奏报，未沿用原稿混合的先后次序。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch"
+      ],
+      "note": "高阿那肱压下战报及淡化战事已有正文，口语对白改为有归属的转述。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch"
+      ],
+      "note": "陷城消息终于上报已承接；讲述中对高纬心理的模拟未照录。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch"
+      ],
+      "note": "再猎一围及高纬允诺已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch",
+        "speech"
+      ],
+      "note": "私人偏好压过责任的评价已承接；长期宿醉及自信重夺江山的猜测未采用。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "dispatch",
+        "breach"
+      ],
+      "note": "田猎后回军、开始围城已承接，插科打诨省略。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "breach"
+      ],
+      "note": "围城昼夜攻打和城墙危急已承接；十万主力数字没有在此确证。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "breach"
+      ],
+      "note": "梁士彦誓死先上的意思及守城困境已承接，年代玩笑省略。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "breach"
+      ],
+      "note": "守军奋战、攻军猛攻及城墙被破已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "breach"
+      ],
+      "note": "城墙陷落、欲乘势入城而被叫停已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "breach"
+      ],
+      "note": "高纬等待冯淑妃观战已承接，现代称呼未作为史料对白。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "breach"
+      ],
+      "note": "将观战等待与造远桥分开；桥为看石上遗迹，非高台观战。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "breach"
+      ],
+      "note": "保留这段富戏剧性的史籍记载，未将其升级为独立证实的现场事实。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision"
+      ],
+      "note": "周军援平阳及宇文宪察阵已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision"
+      ],
+      "note": "察阵后认为可以击破已承接；先破敌再吃饭的具体对白未展开。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision"
+      ],
+      "note": "周武帝巡阵呼名、慰勉将士已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "pingyang",
+      "sectionIds": [],
+      "note": "纯插话和玩笑，没有另设故事。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision"
+      ],
+      "note": "两军开始交战已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "pingyang",
+      "sectionIds": [],
+      "note": "2026-09-30复查：齐军尚未溃败不等于双方实力相当；正文未实质处理这一战力比较，降为未承接，比较问题留待专项核写。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision"
+      ],
+      "note": "局部稍退、冯淑妃惊呼、穆提婆催逃已有正文。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision"
+      ],
+      "note": "穆提婆劝逃已承接；陆令萱母子及电视剧对比未展开。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision",
+        "speech"
+      ],
+      "note": "皇帝出逃影响军心已承接；想象士卒回忆高氏祖先的心理未照录。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "decision"
+      ],
+      "note": "军队溃散及高延宗全军退回已写；战损数字和弃甲距离未展开。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "speech"
+      ],
+      "note": "尚有组织抵抗和动员机会已承接；三条现代口吻谏言未逐条作为史实采用。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "speech"
+      ],
+      "note": "斛律孝卿撰辞、希望慷慨流泪激励军心已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "speech"
+      ],
+      "note": "临众忘词已承接；紧张及演讲心理的现代模拟未采用。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "speech"
+      ],
+      "note": "高纬发笑、左右同笑、士卒失去战心已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "speech"
+      ],
+      "note": "军心失去信任已承接；自认天命不在的虚拟独白未采用。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "speech"
+      ],
+      "note": "幼主改为高恒，出逃地改为济州，577年邺陷与被俘已承接。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "pingyang",
+      "sectionIds": [
+        "speech"
+      ],
+      "note": "政权失守与统治者责任评价已承接；高纬被杀年份尚未在样章展开。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "mobilization"
+      ],
+      "note": "元弘嗣、东莱、造船三百与昼夜督役已承接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "mobilization"
+      ],
+      "note": "工匠泡水与伤亡按通鉴注明；删除古代造船一律泡水的技术泛化。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "mobilization"
+      ],
+      "note": "水手、弩手、岭南兵员与戎车征发已承接；各项精确数额未全部写入。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "mobilization"
+      ],
+      "note": "民夫运输和供给压力已承接；未使用含混的陆军三路总分法。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "mobilization"
+      ],
+      "note": "不采用四百万民夫加总五百万为准确统计，分别说明史书兵额和馈运口径。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "fleet"
+      ],
+      "note": "来护儿海路攻平壤及应待诸军会合已承接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "mobilization"
+      ],
+      "note": "611年备战、612年出师分开，未照用首次战争始于611年七月的说法。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "bridge"
+      ],
+      "note": "宇文恺修辽水浮桥已承接；辽阳现代老城定位未在样章展开。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "bridge"
+      ],
+      "note": "桥短未及岸与高句丽居高攻击已承接，不虚构诱敌修桥的心理。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "bridge"
+      ],
+      "note": "据史书恢复麦铁杖、钱士雄、孟叉姓名，未把ASR讹字写入正文。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "bridge"
+      ],
+      "note": "接桥后陆军渡河取胜已承接；不将其误写为海路来护儿已在辽水会师。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "orders"
+      ],
+      "note": "三道互通、军事奏报待批已承接；杨广抢功心理未当事实采用。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "orders"
+      ],
+      "note": "受降及抚纳规则已承接；各军独立受降使制度未单独展开。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "orders"
+      ],
+      "note": "请降停攻、先报皇帝、错失战机的关键经过已承接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "orders"
+      ],
+      "note": "节目游戏比喻在编者读史中说明；模拟人物想法不作史实。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "orders"
+      ],
+      "note": "辽东守军请降使隋军停攻已承接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "orders"
+      ],
+      "note": "往返奏报间守军修复防御、反复拒战已承接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "orders"
+      ],
+      "note": "辽东久攻不下已承接；没有推为所有城市都实行同一种诈降办法。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "orders"
+      ],
+      "note": "行动受制、兵力优势难转成战果的解释已承接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "fleet"
+      ],
+      "note": "来护儿水军及所选四万精兵攻平壤已承接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "fleet"
+      ],
+      "note": "据通鉴改为初胜、轻进、追入外城中伏，不是下船时遇诈降。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "fleet"
+      ],
+      "note": "失序来自入城俘掠的记载；未将语言不通假说采作确证原因。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "fleet"
+      ],
+      "note": "明确交代语言假说缺乏本处支持；水军方言问题未另核语言史资料。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "fleet",
+        "rations"
+      ],
+      "note": "数千返船、失去陆军接应能力以及九路军继续深入已承接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "rations"
+      ],
+      "note": "九军深入和士兵负重已承接；各路平均四五万人没有据此推定。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "rations"
+      ],
+      "note": "用史书三石以上负重说明困境，不以未核换算的三十公斤断言。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "rations"
+      ],
+      "note": "士卒途中弃粮的实质已写为帐下掘坑埋粮，口语对白省略。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "rations"
+      ],
+      "note": "严禁弃粮与无法承重、途中粮将尽的矛盾已承接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "rations"
+      ],
+      "note": "乙支文德到隋营诈降察看虚实已承接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "rations"
+      ],
+      "note": "观察虚实已承接；成本收益十元比喻及国王心理未照录。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "rations"
+      ],
+      "note": "补出于仲文密旨与刘士龙阻止，不将放还解释为可证的君子之战表态。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "rations"
+      ],
+      "note": "于仲文后悔并遣人召回文德已承接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "rations"
+      ],
+      "note": "文德渡水离去、看出饥色并战而退已承接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "rations"
+      ],
+      "note": "连续战术胜利下士兵愈疲的经过已承接，现代有氧运动比喻省略。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "rations",
+        "retreat"
+      ],
+      "note": "疲弊、平壤难攻、借诈降退师、半渡遇袭与卫军独全已有正文。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "retreat"
+      ],
+      "note": "军资损失、远征失败与对手善用战术的评价已有正文。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "非僧人、小字陈和尚、名彝字良佐及文史爱好已承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "父乞哥及嘉陵江战殁已承接；父名异写未另核，家族精神不当遗传事实。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "陈和尚被掠、母留丰州由从兄照料；不按原稿暗示全家同被捕。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "主帅赏识留帐下已承接；据画像推断长相的说明未采用。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "托探母请求暂返并被监送已承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "与斜烈杀监卒、奉母南奔已承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "失马推车与渡河、宣宗惊异已承接，不增加具体会见场景。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "进入禁卫、随斜烈任事与性格在案中显露的主线已承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "prison"
+      ],
+      "note": "斗殴裁断为杖责，非只骂一名下属。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "prison"
+      ],
+      "note": "说明杖责后郁郁死，不写成被骂即死。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "prison"
+      ],
+      "note": "死者妻控告、陈和尚被系狱已承接，造反玩笑省略。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "prison"
+      ],
+      "note": "法律与军纪问题有编辑说明；现代PUA类比及具体法条未采用。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "prison"
+      ],
+      "note": "病后入朝、皇帝问瘦与拟赦情节已写，皇帝校为哀宗。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "prison",
+        "victories"
+      ],
+      "note": "台谏异议、斜烈死后赦免和领兵已承接，不把君主用人评价写成定论。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "remonstrance"
+      ],
+      "note": "军事批评与耿直评价已承接；族姓轻蔑的动机没有资料支撑。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "remonstrance"
+      ],
+      "note": "宴会当面追问批评之事已承接，现代社交插话省略。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "remonstrance"
+      ],
+      "note": "陈和尚承认批评、蒲阿要求当面提意见已承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "victories"
+      ],
+      "note": "2026-10-03回补：补写正大八年正月速不台破小关、焚掠卢氏朱阳，陈和尚与夹谷泽往援、追至谷口而还，并录《金史》卷112“两省辄称大捷”的限定；本传所称“倒回谷之胜”通常即指此役，两传地名记法不同。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "victories"
+      ],
+      "note": "大昌原与倒回谷战功已写；追击路线、蓝田定位和全部对手未核入。；2026-10-03回补后驰援经过与大昌原首捷均已写入。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "victories",
+        "last-words"
+      ],
+      "note": "局部胜绩无法扭转三峰山败局的转折已承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "last-words"
+      ],
+      "note": "按金史分清三峰山败退和钧州城破后求见，不写成战到一半主动停战。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "last-words"
+      ],
+      "note": "求见主将及史书未记主将姓名已承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "last-words"
+      ],
+      "note": "报出身份并陈述自身选择已承接，现代演绎对白未冒作引语。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "last-words"
+      ],
+      "note": "怕死于乱军被误认为负国、要明确死节的自述已承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "last-words"
+      ],
+      "note": "拒降与酷刑结局已承接；具体肢体伤害未逐项展开。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "last-words"
+      ],
+      "note": "敌军试图迫降已承接；借投降击碎金朝心理防线的动机尚属节目推断。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "last-words"
+      ],
+      "note": "受刑不屈已承接；豁口等酷刑部位细节未逐项写入。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "last-words"
+      ],
+      "note": "2026-09-30复查补读元好问碑文，确作马酒；正文并列金史马湩与碑文马酒，酹祭与赞语已承接，不再将酒字判错。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "last-words"
+      ],
+      "note": "追赠镇南军节度使、褒忠庙塑像刻石已承接。"
+    },
+    {
+      "file": "金03_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chen-heshang",
+      "sectionIds": [
+        "last-words"
+      ],
+      "note": "2026-09-30核定元好问碑文并补入百馀年赞语；明确为尚书左丞转述朔方所闻，不当作史家逐一比较全部将领的定论。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "empress"
+      ],
+      "note": "诗乐才能与领军太后形象的区别已写；第一女诗人排名未作确定结论。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "empress",
+        "hunt"
+      ],
+      "note": "才华、入宫与田猎故事已承接；外貌比较及清宁三年说法未沿用。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "hunt"
+      ],
+      "note": "伏虎林诗按焚椒录文学流传呈现，明确不能证明射虎后才命名。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "hunt",
+        "afterlife"
+      ],
+      "note": "昂扬气势及首句有呈现；全诗、其他女性文学比较未展开。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "hunt",
+        "afterlife"
+      ],
+      "note": "政治姿态与文学气势可供讨论；南邦、鸭绿江各指向的扩展解释尚未逐项核源。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "hunt"
+      ],
+      "note": "翌日射虎为焚椒录叙事，清宁纪年及地名成因不按原稿确证。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "hunt",
+        "afterlife"
+      ],
+      "note": "昂扬到愁思的文学转折已写，不把存诗当作已核定生活年表。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "afterlife"
+      ],
+      "note": "research-closed：以辽史耶律良传的清宁集、庆会集及焚椒录萧观音作品说明写作、传世、个人接触三层不同；未建立全辽金作品总量或课程选本统计，不采用因少见即断言文学差。疑问已有范围明确的答复，研究结案。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "afterlife"
+      ],
+      "note": "节目文学评价被明确讨论和限定，未据少量存诗否定辽金文学整体。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "hunt"
+      ],
+      "note": "劝谏田猎故事按文学流传承接；应制诗全文和题名异文未专题展开。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "hunt"
+      ],
+      "note": "劝谏主题已承接；以德事君的具体引文和主持人插话没有逐句采用。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P183",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "hunt"
+      ],
+      "note": "因劝谏而受冷落仅作焚椒录叙事归属，不当已确认因果。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P184",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "hunt"
+      ],
+      "note": "冷落与回心院相连的文学情节已承接，不写成可核定冷宫制度事实。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "hunt"
+      ],
+      "note": "十首及等待君王的情绪已写；唐代回心院命名典故未另核。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P186",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "poem"
+      ],
+      "note": "据传本校正装绣帐诗句和贶字音义，未宣称听清原音。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P187",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "poem"
+      ],
+      "note": "遮光、不愿照见愁容与期待恩宠的细读已承接并标为编者释义。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P188",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "accusation"
+      ],
+      "note": "赵惟一能奏曲已承接；与前朝乐工流言的类比未展开。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P189",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "accusation"
+      ],
+      "note": "赵惟一奏曲、单登嫉怨及旧家婢身份按焚椒录转述，不写成重元宠妻。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P190",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "accusation"
+      ],
+      "note": "清子、乙辛关系及构陷渠道按文学流传处理，补明清子为朱顶鹤妻。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P191",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "accusation"
+      ],
+      "note": "十香词在设局中的作用已写；十部位作品全文及青丝一首未收录。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "accusation"
+      ],
+      "note": "抄词设局已承接；政治敏感度低的心理推断和文风高下未当事实。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P193",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "accusation"
+      ],
+      "note": "假称宋后作品的情节有归属；皇后对宋后敬仰的内心猜测不照录。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P194",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "accusation"
+      ],
+      "note": "二绝说辞、亲笔抄词及附怀古诗的故事已按来源承接。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P195",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "accusation",
+        "afterlife"
+      ],
+      "note": "怀古诗被解释为私情的主题已承接；全诗异文及赵飞燕典故待进一步校读。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P196",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "accusation"
+      ],
+      "note": "拆出赵惟一三字的故事有呈现，按传本将解释者落实为张孝杰。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P197",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "afterlife"
+      ],
+      "note": "华夷身份阅读问题已限定，未核入华夏/华夷题名异文。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P198",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "afterlife"
+      ],
+      "note": "不以有争议的作品断定政治身份，原稿具体华夷对象推断未展开。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P199",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "accusation"
+      ],
+      "note": "铁骨朵击后等细节注明焚椒录出处，不与辽史简传混同。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P200",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "accusation"
+      ],
+      "note": "求代母死与诗文情绪已承接；以回心院辩护的具体对白未另核。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P201",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "record",
+        "accusation"
+      ],
+      "note": "赐后自尽、族诛惟一依辽史写，不以原稿凌迟说代替史文。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P202",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "record"
+      ],
+      "note": "送还尸身于家有明确说明，不沿用弃尸荒野叙述，年龄口径未单列。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P203",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xiao-guanyin",
+      "sectionIds": [
+        "record"
+      ],
+      "note": "乙辛参与构陷已承接，指出野兽说不受两处所读材料支持。"
+    }
+  ],
+  "independentReview": "complete",
+  "independentReport": "final-unadopted-liao-wudai-independent.md"
+}

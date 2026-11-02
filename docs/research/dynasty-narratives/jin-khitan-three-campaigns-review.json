@@ -1,0 +1,729 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿，对照正文及对应原典独立复核；未回听音频。",
+  "counts": {
+    "corrected": 11,
+    "partial": 15,
+    "covered": 35,
+    "not-needed": 4,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "补旧五代81加封及襄州地域、期限免屋税，不误写全国废税。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "943灾荒及括粮损民已用；不是大家从此任何税都免、迅速全体富足。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "旱水蝗与944契丹南征已用；地震与老天惩戒未核此段独立时点，不照录。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wind-at-yangcheng"
+      ],
+      "note": "西楼羊马实为阿保机救张文礼时太后劝语；补945对德光的真正劝谏。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "贝州被攻、吴峦投井已用；封狼居胥比喻舍弃。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "重贵亲至澶州御敌已用，祖孙电话笑谈不录。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [],
+      "note": "爷爷教训孙子拟对白，无独立战场行动。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "多面军队防守及各将尽力已用；三路整齐分组与人格魅力一因不虚定。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "刘知远河东击退入侵而未全力入援已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "未入援的政治后果已用；保存夺位的唯一内心不直接代言。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [],
+      "note": "主持人假作刘知远立刻调枪夺权的设想，不当真实出兵。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "未追不能自动证明安全或忠诚的战役判断由连续战事承接；宜将剩勇追穷寇不是五代原语。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [],
+      "note": "战神宇宙大将军玩笑，不列为刘知远封爵。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [],
+      "note": "包抄西路必能断德光后路、取十六州的战棋假设，非实际战果。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "戚城高行周符彦卿被围、景延广阻诸将互援已用；重贵夹挤必胜的假设不留。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "重贵亲救戚城、马家口夺河岸垒阻东攻已用；斩哪一个将领口述未定位不乱补名。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "雨阻晋军追击已用；天故意折磨后晋的因果舍弃。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "晋军因雨未陷退兵伏、随后澶州苦战已用；潭州转写改澶州，不误混湖南。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "澶州万弩齐发与阵势不动阻契丹已用，浴血不补无源伤亡数。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "景延广主称孙不臣而战中闭壁的反差已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "famine-and-qicheng"
+      ],
+      "note": "北退后景延广疑诈不追并外调已用；若出击必灭辽收十六州的反事实不采用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wind-at-yangcheng"
+      ],
+      "note": "945重贵病仍筹亲征、杜威等出师已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wind-at-yangcheng"
+      ],
+      "note": "马全节张彦泽等与北面出军已用；德光为报仇搓火的心理与初未集结细日未虚定。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wind-at-yangcheng"
+      ],
+      "note": "补945正月皇甫遇慕容彦超数千骑遇数万、榆林店救仆与安审琦援，非马张三月佯败伏击。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wind-at-yangcheng"
+      ],
+      "note": "前哨战已具体恢复并校时间人物；残句所俘将领未能定位。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wind-at-yangcheng"
+      ],
+      "note": "闻八万、杜威退泰州南行、被追阳城已用；不因今保定代替古泰州路线。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wind-at-yangcheng"
+      ],
+      "note": "白团卫村筑行寨的障碍为鹿角，补大风缺水被围，不写皇帝本人在场督营。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wind-at-yangcheng"
+      ],
+      "note": "契丹铁鹞下马拔鹿角而非踩铁蒺藜不能冲，按通鉴284改写。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wind-at-yangcheng"
+      ],
+      "note": "晋将利用风沙主动出击、步骑同出已用；并非只是绕开己埋铁刺。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wind-at-yangcheng"
+      ],
+      "note": "敌败、德光车后骆驼逃、晋饥渴无远追已用；太后返后嘲讽整段拟语舍弃。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wind-at-yangcheng"
+      ],
+      "note": "返幽州整军、败将受杖已用；不是此胜即可结束全部战事。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "false-surrender"
+      ],
+      "note": "946赵延寿与刘延祚诈降诱再攻幽燕已用；石重贵膨胀心理不虚定。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "false-surrender"
+      ],
+      "note": "拟取瀛莫幽燕与洗割地屈辱的动机已用政策目标；千古一帝长拟对白删去。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "false-surrender"
+      ],
+      "note": "杜威欲望与赵莹警告、密降求帝已用；军功还是天下的私下自问不写。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "false-surrender"
+      ],
+      "note": "朝廷任杜威、增派宿卫尽在前线已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "false-surrender"
+      ],
+      "note": "宫中禁军空虚使都城暴露已用；皇帝太信而必须今晚决战的串语不录。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "false-surrender"
+      ],
+      "note": "杜威偏裨置酒、催粮不议军务已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "false-surrender"
+      ],
+      "note": "李谷提桥夜火夹击而被拒、遣去催粮已用，不止问何时出征的无名对白。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "false-surrender"
+      ],
+      "note": "契丹截道合围与杜威密求降已用；一出来必打死敌的反事实不承接。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wang-qing-last"
+      ],
+      "note": "王清二千夺桥大军不继、杜威求帝条件已用，求降不是普通互相逼降谈判。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wang-qing-last"
+      ],
+      "note": "德光假许中原帝号引杜威降已用；小度和不听妈妈玩笑舍弃。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wang-qing-last"
+      ],
+      "note": "杜威出阵令脱甲、将士痛哭已用；王清故事在此前出击时点，不混投降后才战。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wang-qing-last"
+      ],
+      "note": "王清水北不退死战、杜威不发一骑已用；判断值得效命保持评价不替死者代言。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wang-qing-last"
+      ],
+      "note": "军士不愿降与割地羞耻感的评价已用；全时代气节扯淡的绝对说法不留。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wang-qing-last"
+      ],
+      "note": "两胜之后主将带降、士众哭的反差已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wang-qing-last"
+      ],
+      "note": "杜威赭袍已用；脱衣戏谑不改事实层次。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wang-qing-last"
+      ],
+      "note": "欲帝而获袍的错觉已用；后宫三千、德光捂嘴暗笑没有有源现场。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wang-qing-last"
+      ],
+      "note": "赵延寿也得赭袍，两件袍未兑现两帝位已用；方世玉手镯类比舍弃。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "wang-qing-last"
+      ],
+      "note": "两人帝梦与张彦泽二千骑先入大梁已用；吃人的全部传闻未据此概括。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "capital-falls"
+      ],
+      "note": "张彦泽入开封、宿卫不足与掠都已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "capital-falls"
+      ],
+      "note": "石重贵欲赴火、薛超止之与桑维翰死已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "capital-falls"
+      ],
+      "note": "桑先前筹割地与公共代价已评价；中原罪人不是未分层的本人口号。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "capital-falls"
+      ],
+      "note": "桑失职后不逃、求见而未救晋的处境已用，评价可与忠诚并立。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "capital-falls"
+      ],
+      "note": "桑被彦泽看守杀害并伪自缢，不写直接在契丹军阵战死；死者忠不能必证主君全部人格。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "capital-falls"
+      ],
+      "note": "忠私君与割地国家后果的分层已用，不以局限性自动免去责任。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "capital-falls"
+      ],
+      "note": "亡国前问执政、被拘杀的过程已用；站面辽军送死的想象不当现场，北迁另接下节。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "captivity-and-retreat"
+      ],
+      "note": "947皇室北迁及断食李谷相助已用；终死今辽宁、墓志与博物馆物件本次未亲核不补。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "captivity-and-retreat"
+      ],
+      "note": "德光开封用中原仪制、国号辽政治名号已用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [],
+      "note": "国号辽由冯道首倡本次无可靠原典，不纳事实；原稿亦主动说明未找到记载。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "captivity-and-retreat"
+      ],
+      "note": "冯道在朝称臣已用；只是皇帝换了工作照旧的单一人物标签不替代具体任职。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "captivity-and-retreat"
+      ],
+      "note": "补1115金太祖镔铁与金的国号修辞，区分947命名。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "captivity-and-retreat"
+      ],
+      "note": "打草谷掠财畜与各地结群反抗已用；不能概括所有契丹官全被杀。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "captivity-and-retreat"
+      ],
+      "note": "德光不能久驻而北返已用；本来就无意久居的内心不虚定。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "captivity-and-retreat"
+      ],
+      "note": "三失与劫掠据通鉴286已用；所引民谣未在亲读通鉴定位，不署伪引，马达各地军例未逐补。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "captivity-and-retreat"
+      ],
+      "note": "临城发疾、栾城危、杀胡林卒据通鉴已用，不把未经证实义军杀死与此并为确定版本。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "jin-khitan-three-campaigns",
+      "sectionIds": [
+        "captivity-and-retreat"
+      ],
+      "note": "剖腹实盐载北为遗体处置，向南而葬遗言未核不补；不能只凭地名确认谋杀。"
+    }
+  ]
+}

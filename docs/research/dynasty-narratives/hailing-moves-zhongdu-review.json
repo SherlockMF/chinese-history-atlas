@@ -1,0 +1,452 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：J02：金01 P068–105。核海陵夺位、营城迁都迁陵时序及营建人员；题临安诗按后世传录作文学传统，保留版本与归属边界。 已完整阅读所列原稿并查核所引史源；未回听音频，根代理已完成 38 段独立交叉复核，诗句已据《宋稗𩔖钞》卷八核对。原始基线不变。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "corrected": 18,
+    "partial": 14,
+    "not-covered": 1,
+    "not-needed": 3,
+    "covered": 1,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "bedchamber-coup"
+      ],
+      "note": "校金熙宗人名，承接酗酒暴杀和海陵夺位。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "bedchamber-coup"
+      ],
+      "note": "补组织密谋，不沿用年少魁梧即正面评价及临时起意说。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "bedchamber-coup",
+        "capital-and-power"
+      ],
+      "note": "纠正无预议继位、因未汉化不知父子继承的概括；原典已有预议。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "bedchamber-coup"
+      ],
+      "note": "舍我其谁发生在事前密谋；弑后是忽土提醒初议。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "capital-and-power"
+      ],
+      "note": "校1151决策与1153迁居；灭辽终局不在太祖时期。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "capital-and-power"
+      ],
+      "note": "承接夺位与迁都政治联系，动机心理不冒充直接史证。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "capital-and-power"
+      ],
+      "note": "承接旧京宗室权力与屠戮，恐别人仿杀仍为解释。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "capital-and-power"
+      ],
+      "note": "补阿城旧都及清洗，未以不正得位单因解释所有杀戮。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "capital-and-power"
+      ],
+      "note": "承接汉文与诗歌形象；不同意笼统视为伟大诗人或直接比同北魏孝文。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "capital-and-power"
+      ],
+      "note": "制度文化借用已承接，不泛化所有北方政权都自认文化不够。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [],
+      "note": "辽自认唐朝正统是专门法统命题。城市、经史和官制承续只能证明某些制度与文化联系，不能证明唯一政治自认；本次不追加没有可定位诏书/史论依据的法统宣言，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-needed",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "capital-and-power"
+      ],
+      "note": "纠正只要改称皇帝便有嫡长继承及安全保证的推理。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "capital-and-power"
+      ],
+      "note": "阿骨打之前后称号转变未专篇重述，纠正海陵此前没有帝制的暗示。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "capital-and-power"
+      ],
+      "note": "汗与帝不能简单等于选举/世袭二分；不据称号推稳定性。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "capital-and-power"
+      ],
+      "note": "韩着寒颤口语笑话不补写，制度主张已在邻段校正。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "capital-and-power"
+      ],
+      "note": "天命称帝不能作为皇权自动稳定的事实命题。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "capital-and-power"
+      ],
+      "note": "承接迁都解释，辽金称帝后更替必稳定的通论未接受。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "old-city-new-project"
+      ],
+      "note": "承接利用既有辽南京扩建的选址条件。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "old-city-new-project"
+      ],
+      "note": "承接幽州辽南京城市沿革；登幽州台歌及每一具体交通功能未另考。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "old-city-new-project"
+      ],
+      "note": "补悯忠寺沿革：645年为追悼东征阵亡将士建寺、1733年更名及清代主体建筑；建寺纪念不证明死者全部葬此，原段葬卒推断不采纳。",
+      "resolution": "body-added",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "old-city-new-project"
+      ],
+      "note": "建筑延续已补，拒绝把唐到辽写成政治直接承继。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "old-city-new-project"
+      ],
+      "note": "补天宁寺塔现存辽塔确年；最老排名及陶然亭唐窑未证未补。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "old-city-new-project",
+        "wushan-poem"
+      ],
+      "note": "承接联络北方与中原及南向想象，不把第四帝等于占地还少作因果。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "wushan-poem"
+      ],
+      "note": "逐句补诗与译解，校车书、别疆封，注明盍/一异文及后世传录。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "wushan-poem"
+      ],
+      "note": "校吴山并解释诗中南征图景，不补成确实已到杭州。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "old-city-new-project"
+      ],
+      "note": "1153仍改置南京北京，纠正迁都后其他京城全部取消。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "ancestors-follow"
+      ],
+      "note": "按答海反对可证，贵族全体一律反对及语言恐惧无证不补。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "ancestors-follow"
+      ],
+      "note": "迁陵至大房山可证；1155迁太祖太宗后于1153迁都。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [],
+      "note": "朱棣类比不改变金代故事，未扩展跨朝对比。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [],
+      "note": "类比时间口误与调侃无需形成正文。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "ancestors-follow"
+      ],
+      "note": "纠正先迁祖陵逼迁都顺序，不把忠孝对白伪作原典。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "ancestors-follow"
+      ],
+      "note": "强制迁族及毁旧居可证，但逐个大臣祖坟皆被刨迁的具体场面未证。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "ancestors-follow",
+        "builders"
+      ],
+      "note": "行动及强制性已补，个人喜好评价与城门命名审美未冒作事实。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "builders"
+      ],
+      "note": "校张浩，按监护工作记载称组织营建，避免现代总设计师头衔。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "builders"
+      ],
+      "note": "校东明王后传述与本姓高，校刘筈；不混淆渤海王族和高句丽祖源传统。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "builders"
+      ],
+      "note": "燕人为宛平地方人；补远祖刘怦与仕辽家世，非西周燕国遗民。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "builders"
+      ],
+      "note": "补多种背景的官员协作，不把女真学习路径一概断作经渤海二手输入。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hailing-moves-zhongdu",
+      "sectionIds": [
+        "builders"
+      ],
+      "note": "校卢彦伦、孔彦舟，金史核前三人监工；揽辔录直接记规模多出孔彦舟，承接其营建作用并区分规划与监工。"
+    }
+  ],
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "金01_clean_v1.md",
+        "paragraph": "P078",
+        "resolution": "research-closed"
+      },
+      {
+        "file": "金01_clean_v1.md",
+        "paragraph": "P087",
+        "resolution": "body-added"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

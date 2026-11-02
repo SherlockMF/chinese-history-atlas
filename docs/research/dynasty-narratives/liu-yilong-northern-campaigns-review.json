@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-01",
+  "method": "逐段完整通读南朝02 P035–P054，并对读既有北魏元嘉篇。核宋书5、41、61、68、通鉴121、122、125、126和魏书4上下，八节按治理与战争交错叙述；不把引用范围当已覆盖，不由局部战果推定全线获胜或稳定占领。原判取baseline，未回听音频。待独立交叉复核。 主代理另行完整读取所列原稿、正文与每条台账，完成独立逐段语义对照，并复查关键原典、纪年与章节范围。",
+  "counts": {
+    "corrected": 7,
+    "partial": 10,
+    "covered": 3
+  },
+  "rows": [
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "envoys-and-fields"
+      ],
+      "note": "426巡行、访官政善恶及赈恤已具体展开；宋书明载遣大使，纠正皇帝本人立即逐处巡游的叙法，另写亲临延贤堂听讼。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "envoys-and-fields"
+      ],
+      "note": "高年鳏寡幼孤与病疾者的赈给、地方信息上报已承接；询访由使者与郡县执行，诏愿如亲览并不等于本人四处亲问，未保证每个问题都迅速解决。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "envoys-and-fields"
+      ],
+      "note": "核440山泽禁断、444种粮给贷与旧陂修复、445湖熟废田；未把这些不同措施合成向每户发荒山，荆州经验直接复制各地的具体链条仍未独立查明。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "envoys-and-fields",
+        "orders-and-outcomes"
+      ],
+      "note": "承接元嘉治绩及424至453跨元嘉三十年的统治，用劝农赈贷和史论展开；政策带来多快的经济增长没有可据量值，不把帝王本纪当民众生活全貌。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "envoys-and-fields",
+        "orders-and-outcomes"
+      ],
+      "note": "以反复灾荒、种粮匮乏与征发具体承接治世仍有民生困难的评价；历史上所有治世仅等于短暂温饱、民众始终苦难的全称比较未逐一核定。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "a-brother-at-court"
+      ],
+      "note": "写义康429入辅、侍疾与权力集中、440出朝至451被杀；限定府僚查取易储旧事时传记记义康不知，不编全体兄弟心理，并纠正刘义符嫡长子称谓。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "a-brother-at-court",
+        "henan-430"
+      ],
+      "note": "430到彦之北进及洛阳虎牢碻磝滑台先后入宋均展开；义康最后处置晚于首次北伐，不能先平全部家事才出兵。汉以来四城战略史未另逐朝铺开。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "henan-430"
+      ],
+      "note": "明确对手拓跋焘及魏反攻，宋方出兵前遣使告魏、魏预定冬季再取，纠正全靠打冷不防而取得诸城的说法。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "henan-430",
+        "different-fronts",
+        "orders-and-outcomes"
+      ],
+      "note": "承接宋书遥制兵略批评，并区分430疾病退军、450征发不足及452徐爰衔旨；430军力不足的量化判断和由调研推固定心理没有坐实，现代集团军连队比喻不当古代编制。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "henan-430",
+        "orders-and-outcomes"
+      ],
+      "note": "承接宋方失去滑台与首轮北伐失败，补431陷城和援军受阻；过度指挥作为唯一失利原因未采，叙述视角变化保留为同一城攻守易位。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "xuanhu-450",
+        "orders-and-outcomes"
+      ],
+      "note": "承接430与450相隔二十年及期间治理、赈恤；没有认定文帝事先安排了整整二十年休养期，期间边患亦未停止。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "orders-and-outcomes"
+      ],
+      "note": "用攻日战时仰听成旨的史论和徐爰携方略解释远方命令与前线变化的距离，承接过细遥控损及应变的核心讨论，并限定不作为三次失败的单一解释。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "xuanhu-450",
+        "orders-and-outcomes"
+      ],
+      "note": "承接远方命令应变局限与450拓跋焘亲率十万的史籍叙述，明确数目属春季进攻；饮马长江作为从头固定的人生目标未获同样证明，冬临江过程在后节另写。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "xuanhu-450"
+      ],
+      "note": "陈宪不足千人守悬瓠、42日围攻、汝阳袭辎与另路援军、魏四月退均展开，补袭辎军随后败散；烧辎重直接唯一促成撤军及只要不再动就无事的反事实推想未采。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "different-fronts",
+        "the-war-returns"
+      ],
+      "note": "核刘义恭为众军节度、各路将领分工；保留陕城潼关真实战果，区分攻取与以洛阳为目标，以及东败时西路仍推进。转写人名、全线同步高歌猛进的叙述得到限定；元嘉词句作为后世文学记忆，建祠沿革未复原。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "the-war-returns"
+      ],
+      "note": "承接文帝失败后仍寻找出兵机会及宋文帝与魏太武帝的身份，接452闻丧再伐；自认只是机缘巧合败战、与父亲较劲等内心对白未证，不将文武谥号玩笑写为生前称号。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "the-war-returns",
+        "qiaoao-452"
+      ],
+      "note": "承接450后两年即452的北魏宫变，并交代宋方再次部署北伐的时序；回忆节目提示不另作历史内容。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "the-war-returns",
+        "qiaoao-452"
+      ],
+      "note": "宗爱杀拓跋焘、立拓跋余与宋文帝闻丧更谋北伐均由通鉴具体承接；机会判断有史籍行动依据，口语式自白没有照录。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "qiaoao-452"
+      ],
+      "note": "分列萧思话张永碻磝、鲁爽等许洛、臧质西路，纠正地道烧营攻具发生在碻磝而非虎牢；保留鲁爽长社大索局部战果与进虎牢后撤，收地与代价比例未量化，不扩大成全战皆无所获。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liu-yilong-northern-campaigns",
+      "sectionIds": [
+        "qiaoao-452",
+        "orders-and-outcomes"
+      ],
+      "note": "三次未实现稳定收复目标、424至453长期统治及治理战争交错已承接；不抹去各次局部战果，未逐帝比较在位最长，也未展开诸子家庭生活及下一段宫变。"
+    }
+  ]
+}

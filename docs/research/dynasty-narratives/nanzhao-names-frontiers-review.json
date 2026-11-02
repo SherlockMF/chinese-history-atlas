@@ -1,0 +1,444 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核：逐读台账所列原P、正文全部节与对应原典缓存，核查实际承接并纠正错位；未回听音频，不把候选计为全覆盖。",
+  "audioReviewed": false,
+  "counts": {
+    "partial": 14,
+    "not-needed": 10,
+    "corrected": 3,
+    "covered": 10,
+    "uncertain": 4
+  },
+  "rows": [
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "land"
+      ],
+      "note": "承接南中历史背景；七擒及汉郡设置未铺成南诏建国实录。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [],
+      "note": "强制划县与品牌营销类比不承担历史叙事。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "covered",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "land"
+      ],
+      "note": "明确王国不能缩成现代大理市；后世行政区类比不作依据。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "land"
+      ],
+      "note": "承接王国疆域动态、不同区域掌控程度不一。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [],
+      "note": "转回南诏话题的串场无独立史实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "land"
+      ],
+      "note": "承接太和都城与蒙氏王统；738起算与13主不概括为全时期唯一划法。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "land"
+      ],
+      "note": "正文使用羊苴咩城；逐字读音的现场讨论不复现。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "covered",
+      "assessment": "not-needed",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [],
+      "note": "试读生僻字与听众问答不承接为史实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [],
+      "note": "汉字读音与古族语音节的具体对应未落实，不能以普通话猜解。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "land"
+      ],
+      "note": "承接向爨地、安南等区域交通关系，不将国界固定化。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "land"
+      ],
+      "note": "保留安南吐蕃区域关系；女王地名与泰国现代映射未核不采用。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "land"
+      ],
+      "note": "骠国及北方道路进入疆域叙述，区别古国与现代国家。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "land",
+        "names"
+      ],
+      "note": "承接跨区域扩张与王名引入；征服斯里兰卡无充分证据不恢复。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [],
+      "note": "引出绕口王名的提问没有独立内容。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "承接连名首尾及兄弟继承线索；不机械照录全部转写姓名。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "明确阁逻凤到异牟寻隔凤伽异，不能仅按首尾字认父子。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "劝龙晟、劝利、丰祐兄弟关系与放弃连名进入正文。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "汉字音译不等于当时发音；具体民族文字假定未采用。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "承接汉字记名和南诏命名背景，不以汉字使用推单一族属。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "诏为君长、蒙舍在诸诏之南的命名线索落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "蒙舍蒙嶲越析与三浪构成诸诏格局。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "古籍乌蛮白蛮分类与现代民族分开，不照搬越析即现代纳西的绝对关系。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "保留蒙舍蒙嶲格局；同出哀牢的具体族谱未作确定事实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [],
+      "note": "洱海观景与租车旅游插话不进入王国故事。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [],
+      "note": "粉色汽车、拍照等旅游闲谈无历史承接。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "origin"
+      ],
+      "note": "承接细奴逻开端的地方记忆；避乱迁徙族谱未获得当时材料印证。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "蒙舍位于南方及后来兼并诸诏的国名变化进入正文。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [],
+      "note": "原住者与迁入者心理类比无材料依据。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "origin"
+      ],
+      "note": "张乐进求让位故事按晚出传统呈现，不确认为实录。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "origin"
+      ],
+      "note": "婚女与让国联系进入传说节，年龄及情感细节不补造。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "origin"
+      ],
+      "note": "让位被用来说明蒙氏正统起源，保留故事层次。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "origin"
+      ],
+      "note": "旧主主动让权的传统进入正文；幸福心理推测不当事实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "seal"
+      ],
+      "note": "羁縻名号与地方世袭之间的关系落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "seal"
+      ],
+      "note": "采用地理志关于世袭和版籍的具体制度；贞观末细节未据本节材料定年。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [],
+      "note": "敕、皇帝问、敬问三等文书的完整等级对照本轮未核实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [],
+      "note": "把某种问候套用所有羁縻国的等级表尚缺直接原典。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [],
+      "note": "日本与南诏在此三等级中的精确定位及实际控制比较不采用。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [],
+      "note": "模拟皇帝与使者对白不作为历史对话。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [],
+      "note": "受命者反应的现代口吻演绎不进入正文。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [],
+      "note": "现场拟对白延续，没有独立可核线索。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "nanzhao-names-frontiers",
+      "sectionIds": [
+        "seal"
+      ],
+      "note": "纠正唐廷先挑国王的模型：地方传承与朝廷册封并行。"
+    }
+  ],
+  "independentReview": {
+    "reviewer": "finish_jin_xia_dali",
+    "status": "complete",
+    "paragraphCount": 41,
+    "audioReviewed": false
+  }
+}

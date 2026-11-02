@@ -94,6 +94,15 @@ describe("MockLlmProvider", () => {
     ]);
   });
 
+  it("does not invent a year for evidence with no date", async () => {
+    const answer = await new MockLlmProvider().generateAnswer({
+      message: "一件未标年代的事", context,
+      retrievedEvidence: [{ eventId: "undated", sourceId: "history-event:undated", title: "未标年代事件", summary: "有依据的事件。", sourceRefs: ["《史书》"], marker: "²", matchKind: "title", matchedQueryYears: [] }],
+    });
+    expect(answer.answer).not.toContain("undefined");
+    expect(answer.relatedYears).toEqual([]);
+  });
+
   it("limits answer relations and sources to the two selected evidence items", async () => {
     const evidence = [
       ["first", "第一事件", 936],

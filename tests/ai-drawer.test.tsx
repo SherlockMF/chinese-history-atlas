@@ -3,6 +3,7 @@ import userEvent from "@testing-library/user-event";
 import { beforeEach, describe, expect, it } from "vitest";
 
 import { AiSuggestionChips } from "@/features/ai/ai-suggestion-chips";
+import { AiMessage } from "@/features/ai/ai-message";
 import { useHistoryStore } from "@/features/history-state/history-store";
 import type { AiAnswer } from "@/types/ai";
 
@@ -38,5 +39,12 @@ describe("AiSuggestionChips", () => {
       selectedPerson: "shi-jingtang",
       selectedEvent: "founding-later-jin",
     });
+  });
+});
+
+describe("AiMessage narrative sources", () => {
+  it("links a sourced answer back to its story chapter", () => {
+    render(<AiMessage answer={{ ...answer, relatedPeople: [], relatedEvents: [], relatedYears: [], sources: [{ sourceId: "narrative:liao:xiao-guanyin:poems", title: "萧观音 · 诗文", href: "/series/liao/stories/xiao-guanyin#poems" }] }} />);
+    expect(screen.getByRole("link", { name: "萧观音 · 诗文" })).toHaveAttribute("href", "/series/liao/stories/xiao-guanyin#poems");
   });
 });

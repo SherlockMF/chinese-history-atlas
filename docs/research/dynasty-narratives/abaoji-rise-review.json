@@ -1,0 +1,396 @@
+{
+  "date": "2026-10-02",
+  "method": "L03：辽组子代理完整阅读列出原段、检索并阅读所列原典后逐段自审；未回听音频，root已完成原段全文与史源独立交叉复核，页面待批量验证，原基线不变。",
+  "counts": {
+    "corrected": 11,
+    "covered": 7,
+    "partial": 12,
+    "uncertain": 1,
+    "not-needed": 4
+  },
+  "rows": [
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "fields-and-forges"
+      ],
+      "note": "872出生已在武周约一个半世纪后，不沿用又百年模糊接续。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "fields-and-forges"
+      ],
+      "note": "承接迭剌部与祖父匀德实家世。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "fields-and-forges"
+      ],
+      "note": "承接农业，原典不支持祖父经营直接发生安史之乱期间。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "settlers-and-captives"
+      ],
+      "note": "承接北迁现象，不按现代南北舒适度推导迁民选择。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "settlers-and-captives"
+      ],
+      "note": "以战争和避乱的实际记录承接原因，不断言唐时南方整体不发达。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "settlers-and-captives"
+      ],
+      "note": "投下包括俘虏及私属，不写纯粹包容吸纳。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "settlers-and-captives"
+      ],
+      "note": "核头下军州产权税收关系，僧侣麻痹与配婚统一制度未证。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "settlers-and-captives"
+      ],
+      "note": "不通婚普遍规则未找到支持，明确保留未核，不宣称已有反证。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [],
+      "note": "中关村孵化园插话未添实质历史命题。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "fields-and-forges",
+        "settlers-and-captives"
+      ],
+      "note": "父名校撒剌的，承接铁冶与迁民；不证明所有技术单一族属来源。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "fields-and-forges",
+        "the-armed-companion"
+      ],
+      "note": "承接伯父释鲁任于越与家族势力。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "fields-and-forges",
+        "the-armed-companion"
+      ],
+      "note": "保留高位与掌权意义，幕府仅类比，不当作相同制度。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "a-child-in-a-hidden-tent"
+      ],
+      "note": "承接赐姓未替代旧族称，不用大贺被击败解释全部消失。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "a-child-in-a-hidden-tent"
+      ],
+      "note": "承接历次八部构成变化。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "fields-and-forges"
+      ],
+      "note": "农业军粮、铁器武备关系作为分析，不写必然战争定律。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "a-child-in-a-hidden-tent"
+      ],
+      "note": "神光异香与体如三岁列传说层。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [],
+      "note": "相信神话才有趣的现代插话略。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "a-child-in-a-hidden-tent"
+      ],
+      "note": "承接早慧异象与祖母隐藏，不以部落争斗确定其心理动机。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "a-child-in-a-hidden-tent"
+      ],
+      "note": "别帐隐养不等于成年前没出帐，删除编造活动与外貌。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "a-child-in-a-hidden-tent"
+      ],
+      "note": "转入遥辇统治实际背景，不将公开成年登场仪式确证。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "a-child-in-a-hidden-tent"
+      ],
+      "note": "统一痕德堇官名背景，音译玩笑不作史实。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "the-armed-companion"
+      ],
+      "note": "护卫官名按本纪挞马狘沙里；不把错误转写当正式名称。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "the-armed-companion",
+        "from-general-to-ruler"
+      ],
+      "note": "代北征伐放在任夷离堇之后，补桃山战事。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "the-armed-companion",
+        "from-general-to-ruler"
+      ],
+      "note": "901先任夷离堇、902再攻代北；曷鲁用族弟不误定近堂兄弟。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "the-armed-companion",
+        "from-general-to-ruler"
+      ],
+      "note": "释鲁二儿评价有据；纠正曷鲁第一位于越及全辽仅三位。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [],
+      "note": "卧龙凤雏和公司玩笑无新增命题。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "the-armed-companion"
+      ],
+      "note": "展开对室韦与幽州军镇交错战争。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "from-general-to-ruler"
+      ],
+      "note": "核903任于越，未把乱世排名或幕府比喻作事实。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "from-general-to-ruler"
+      ],
+      "note": "遗命与劝进按辽史记载呈现，非无条件现场实录。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "from-general-to-ruler"
+      ],
+      "note": "保留三让与曷鲁劝进，提示正当性叙述和后世记录层次。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "covered",
+      "assessment": "corrected",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "two-beginnings"
+      ],
+      "note": "907最高统治权与916建元称帝分开，同时说明辽史907帝位措辞。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "two-beginnings"
+      ],
+      "note": "明确两个起点及九年间隔意义。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [],
+      "note": "普鲁士大选侯比喻与节目互动不并入辽史。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "two-beginnings"
+      ],
+      "note": "年份差218/209明确口径；帝数不能自动推出稳定。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "abaoji-rise",
+      "sectionIds": [
+        "two-beginnings"
+      ],
+      "note": "承接亲弟挑战转场，九年不是无所事事等待。"
+    }
+  ]
+}

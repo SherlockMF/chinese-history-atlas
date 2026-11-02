@@ -1,0 +1,513 @@
+{
+  "date": "2026-10-11",
+  "method": "逐读所列原P、全部正文与各节实际引用原典后独立交叉复核；逐P说明已用线索、校正或限定部分，baselineVerdict保留。未回听音频。",
+  "counts": {
+    "covered": 10,
+    "partial": 21,
+    "not-needed": 1,
+    "corrected": 13
+  },
+  "rows": [
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "peace-and-marriage"
+      ],
+      "note": "亲政约16岁、战疲求和实写。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "peace-and-marriage"
+      ],
+      "note": "初拒后允分年过程，无皇帝抱怨独白。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "peace-and-marriage"
+      ],
+      "note": "道宗遣使解和已写。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "peace-and-marriage"
+      ],
+      "note": "三国人物评分聊天不入史。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "peace-and-marriage"
+      ],
+      "note": "宋486年底誓表称凶党伏诛；清31四月点名嵬保没、㖫结讹遇被诛，已补姓名与外交前因；未写乾顺亲手执刀。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "peace-and-marriage"
+      ],
+      "note": "岁赐复，未将母毒杀和本人不恨对白作确事。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "peace-and-marriage"
+      ],
+      "note": "道宗拒婚清辑，国际信用动机与内心对白不证。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "peace-and-marriage"
+      ],
+      "note": "使李至忠校名、1102请婚与天祚继位区分。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "peace-and-marriage"
+      ],
+      "note": "1105成安宗女下嫁实证，喝美同意戏未证。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "renewed-frontier"
+      ],
+      "note": "徽宗接续与边策改变写入。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "renewed-frontier"
+      ],
+      "note": "宋开边实际招降筑城，不概认专为燕云练手动机。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "renewed-frontier"
+      ],
+      "note": "1104石堡窖粟夺城实写。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "renewed-frontier"
+      ],
+      "note": "辽斡旋有据，夏非只防守，列实际反击。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "renewed-frontier",
+        "chage"
+      ],
+      "note": "宋夏战果不同，不能概认都无战力。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "renewed-frontier"
+      ],
+      "note": "辽外交与1106通好，全部返还地未证。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "renewed-frontier",
+        "chage"
+      ],
+      "note": "此后战争再起写入，未复演蔡童拒和台词。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "chage"
+      ],
+      "note": "察哥、统安战具体，无兴庆灵州城大战；音频林州候选留未听。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "chage"
+      ],
+      "note": "胜后和谈与后续受挫时间分，明君理由作编辑分析。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "chage"
+      ],
+      "note": "战争成本和谈判空间已讲，不作本人计算独白。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "chage",
+        "rescue-liao"
+      ],
+      "note": "宋夏收兵与金兴接续，岁赐金额不虚列未核。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "rescue-liao"
+      ],
+      "note": "1122五千援西京不及实写。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "rescue-liao"
+      ],
+      "note": "李良辅三万、宜水斡鲁娄室、暴水分明。音频候选未听。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "rescue-liao"
+      ],
+      "note": "问起居送粮有据，日常无限给军马未证。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "rescue-liao"
+      ],
+      "note": "1123再援可敦馆遭霸德山金兵阻止，正文有完整对应；不混1122宜水败。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "rescue-liao"
+      ],
+      "note": "遣迎请临不等于正式入夏国都。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "rescue-liao"
+      ],
+      "note": "册帝是辽使到夏，不编在宫当面册封。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "new-lord"
+      ],
+      "note": "金事辽旧礼、未来捕送与割地条件已写。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "new-lord"
+      ],
+      "note": "誓表天祚不在境，未真实献帝，1125金捕。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "new-lord"
+      ],
+      "note": "献天祚定位戏删，用辽30应州获事实。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "new-lord"
+      ],
+      "note": "1124事金与1125成安不食死分，非自缢；成安正名。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "promised-land"
+      ],
+      "note": "辽亡后金宋战、夏趁机取地写入。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "promised-land"
+      ],
+      "note": "边城扩张实写同时不夸全部城占尽。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "promised-land"
+      ],
+      "note": "武州云内西安边州校名，宋兀室清兀术异记分，不强安宗弼。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "promised-land"
+      ],
+      "note": "夺许地后使被拘实据，无金将戏谑台词。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "promised-land"
+      ],
+      "note": "1127重画界，非先换天祚才许地逻辑。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "promised-land"
+      ],
+      "note": "北鄙置换有界线，非陕西西北所有地。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "promised-land",
+        "frontier-value"
+      ],
+      "note": "不加回天德云内，边界反复与土地有价值写入。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "frontier-value"
+      ],
+      "note": "非只养骆驼，耕牧盐铁粮窖是本朝实据。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "frontier-value"
+      ],
+      "note": "无人馋地作为百年生存单因果不成立，改军道外交分析。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "frontier-value"
+      ],
+      "note": "1128定边、1136西宁、1137三州分别叙述。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "long-reign"
+      ],
+      "note": "寿56/宋57、在位首尾54与实历53口径明，未诊正常死亡。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "long-reign"
+      ],
+      "note": "梁党摄政结束实写，巅峰评价以具体作为解释。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "long-reign"
+      ],
+      "note": "蕃学外国学并存，非全原文化落后论；毒杀依前篇版本。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "long-reign"
+      ],
+      "note": "国学三百、养贤务供养已写；补清31所记1103甘州卧佛寺与为母供佛，光瑞以该书记述限定；三代比喻不作史实。"
+    },
+    {
+      "file": "西夏04_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-qianshun-liao-jin",
+      "sectionIds": [
+        "peace-and-marriage",
+        "long-reign"
+      ],
+      "note": "英明谨慎守成是1102李至忠求婚赞语，非西夏死后统一定评。"
+    }
+  ],
+  "independentReview": "complete"
+}

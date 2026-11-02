@@ -37,7 +37,7 @@ export function PersonGraph({ center, people, relations, onFocus }: { center: Pe
   const graphPeople = [center, ...others];
   const nodes: PortraitNode[] = graphPeople.map((person, index) => {
     const isCenter = index === 0;
-    const angle = (Math.PI * 2 * (index - 1)) / Math.max(others.length, 1);
+    const angle = (Math.PI * 2 * (index - 1)) / (others.length === 3 ? 4 : Math.max(others.length, 1));
     return {
       id: person.id,
       type: "person",

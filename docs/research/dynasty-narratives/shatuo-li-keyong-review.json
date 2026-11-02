@@ -1,0 +1,433 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核39条原段、全部正文及旧五代25/1、新五代1/36、通鉴254/255相关原文；纠正史源已载却被旧补稿错误排除的沙苑、伏尸三十里、吐谷浑；补两次召回、全部口述唱词，区别史实/传统/未证心理，音频未回听。",
+  "counts": {
+    "covered": 22,
+    "corrected": 7,
+    "not-needed": 5,
+    "partial": 5
+  },
+  "rows": [
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "zhuye-origins"
+      ],
+      "note": "沙陀兵再至与李克用登场承接，与上篇883年收京战事衔接。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "zhuye-origins"
+      ],
+      "note": "沙陀为西突厥别部承接为通行表述。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "zhuye-origins"
+      ],
+      "note": "本姓按《旧五代史》卷25“本姓朱耶氏”；“朱邪”为通行异写，注记并存。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "zhuye-origins"
+      ],
+      "note": "籍贯更正：其先“陇右金城人”（今兰州一带），克用生于神武川之新城（今应县一带）；口述“祖籍朔州金城”系两个金城混淆。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [],
+      "note": "应县木塔与口音玩笑段，无实质命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "zhuye-origins"
+      ],
+      "note": "军事领袖家世与骁勇已写；先天残疾未证，未将一目微眇诊断为天生失明。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "zhuye-origins"
+      ],
+      "note": "飞虎子、鸦军、独眼龙均有史文；黑衣与战威解释鸦军，不以作战速度作称谓词源；先天失明不坐实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "zhuye-origins",
+        "exile-and-recall"
+      ],
+      "note": "赐姓在父赤心一代及出讨党项均入文。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "exile-and-recall"
+      ],
+      "note": "赫连铎趁父出征袭振武、父子经数轮唐军征讨奔达靼，恢复此前漏写的败逃前因。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "exile-and-recall"
+      ],
+      "note": "通鉴254明确陈景思监军率沙陀、萨葛、安庆、吐谷浑；不将吐谷浑擅自删掉。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "exile-and-recall"
+      ],
+      "note": "绛州退兵由瞿稹建议；难制三万兵发生在回代北崞西募兵之后，按两史还原时序。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "exile-and-recall"
+      ],
+      "note": "李友金请召李克用的实质建议已写，不能因有玩笑就整段not-needed。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "exile-and-recall"
+      ],
+      "note": "881诏召及太原索钱粮、剽掠和退还，882再召分开；官衔注说明不混授任时点。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "exile-and-recall"
+      ],
+      "note": "通鉴255一万七千有确切史文，非仅称另有所本；与旧五代三万五千合部及不同阶段并列。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [],
+      "note": "乌鸦性格玩笑段，无实质命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [],
+      "note": "乌鸦玩笑延续段，无实质命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "recapture-changan"
+      ],
+      "note": "黄揆巢弟；通鉴255883正月沙苑实有战事，旧台账“另属光启”错误删除；梁田陂伏尸三十里也有直接史文，按史书战场描述补回。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "recapture-changan"
+      ],
+      "note": "各镇表现分化，不把此前多年已有勤王者概称883才回来；亲读拓跋881已勤王。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P183",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "recapture-changan"
+      ],
+      "note": "881拓跋思恭同盟讨巢及十二月夏州定难军号；西夏尚未成立，“第一个”未由史文证实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P184",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "recapture-changan"
+      ],
+      "note": "收京东走过程已写；原段“大战将都死”不成立，尚让林言等仍活，未照搬。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "zhu-wen-enter"
+      ],
+      "note": "朱温砀山人登场承接，细节见下。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P186",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "zhu-wen-enter"
+      ],
+      "note": "新五代1父朱诚以五经授徒、排行三及好勇不治生业已写；祖父也是教师未证。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P187",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "zhu-wen-enter"
+      ],
+      "note": "同州战况更正：按史文“屡为重荣所败”，口述“团团包围”为渲染；上表被扣按“表章十上，为伪左军使孟楷所蔽，不达”逐字承接。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P188",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "zhu-wen-enter"
+      ],
+      "note": "孟楷扣表已写；忌惮而想害朱温属未证心理，解释放interpretation。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P189",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "zhu-wen-enter"
+      ],
+      "note": "降唐求出路已写；不把不是为了百姓/理想的拟想断言当心理史实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P190",
+      "baselineVerdict": "partial",
+      "assessment": "not-needed",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [],
+      "note": "拟对白段，无新增史实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P191",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "zhu-wen-enter"
+      ],
+      "note": "赐名按“乃诏授帝左金吾卫大将军，充河中行营副招讨使，仍赐名全忠”；“全忠”的讽刺保留为后人读法。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "two-camps"
+      ],
+      "note": "李朱并为围巢主力承接；统一称朱温的口径说明保留。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P193",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "two-camps"
+      ],
+      "note": "矛盾构成晚唐主旋律的概括承接；李存勖预告注明本系列后篇。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P194",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "shisan-taibao"
+      ],
+      "note": "收养义子有史可依、“十三太保”为演义戏曲系统，转入《珠帘寨》。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P195",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [],
+      "note": "认干儿子玩笑段，无实质命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P196",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "shisan-taibao"
+      ],
+      "note": "干儿笼络将领的实效承接为理解层。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P197",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "shisan-taibao"
+      ],
+      "note": "明确此唱段数十一太保，首句完整引入，并限定为口述唱词版本。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P198",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "shisan-taibao"
+      ],
+      "note": "二至六太保唱词全部补入戏曲节，不再用省略号虚报完整消费。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P199",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "shisan-taibao"
+      ],
+      "note": "七至十太保及亚赛秦叔宝唱词全部补入。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P200",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "shisan-taibao"
+      ],
+      "note": "唱词收束按戏曲层引用；主持人表演话题为闲谈。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P201",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "two-camps"
+      ],
+      "note": "两种经营方式与成败关系作为编辑分析处理，拒绝单因解释。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P202",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "two-camps"
+      ],
+      "note": "賞赐与拟制亲缘笼络并列，指出义儿也有争功背叛，精确映射two-camps。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P203",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shatuo-li-keyong",
+      "sectionIds": [
+        "shisan-taibao"
+      ],
+      "note": "李存孝确有其人、安敬思被掠与真实骑战写入，打虎形象另置演义层，纠正原台账仅当演义人物。"
+    }
+  ],
+  "independentReview": "completed"
+}

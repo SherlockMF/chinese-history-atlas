@@ -1,0 +1,470 @@
+{
+  "date": "2026-10-02",
+  "items": [
+    {
+      "queue": "S16",
+      "variable": "xiaoYanRise",
+      "summary": {
+        "slug": "xiao-yan-rise",
+        "seriesId": "southern-dynasties",
+        "title": "从西邸到淮水：萧衍的半生进取",
+        "subtitle": "竟陵八友、义阳解围、受禅与钟离大捷",
+        "summary": "一名出入文会的齐朝官员怎样成为梁武帝，又如何依靠将领守住新朝的淮河战线。",
+        "period": "约480年代—507年",
+        "category": "人物与战役",
+        "eventIds": [
+          "southern-liang-founded"
+        ],
+        "personIds": [
+          "xiao-yan"
+        ]
+      },
+      "counts": {
+        "partial": 16,
+        "corrected": 7,
+        "not-needed": 5,
+        "covered": 7,
+        "uncertain": 3
+      },
+      "reviewFile": "xiao-yan-rise-review.json",
+      "independentReview": "root completed; page verification pending",
+      "slug": "xiao-yan-rise",
+      "exportName": "xiaoYanRise",
+      "queueIds": [
+        "S16"
+      ],
+      "recordCount": 38
+    },
+    {
+      "queue": "S17",
+      "variable": "liangFamilyIndulgence",
+      "summary": {
+        "slug": "liang-family-indulgence",
+        "seriesId": "southern-dynasties",
+        "title": "库门打开以后：梁武帝与他的亲人",
+        "subtitle": "萧宏的败军、永兴公主的阴谋与萧综出奔",
+        "summary": "皇帝怎样一次次宽宥弟弟，又怎样面对离国改名的儿子；亲情并没有免去其他人付出的代价。",
+        "period": "505—约531年",
+        "category": "宫廷与宗室",
+        "eventIds": [],
+        "personIds": [
+          "xiao-yan"
+        ]
+      },
+      "counts": {
+        "partial": 8,
+        "covered": 5,
+        "corrected": 5,
+        "uncertain": 2
+      },
+      "reviewFile": "liang-family-indulgence-review.json",
+      "independentReview": "root completed; page verification pending",
+      "slug": "liang-family-indulgence",
+      "exportName": "liangFamilyIndulgence",
+      "queueIds": [
+        "S17"
+      ],
+      "recordCount": 20
+    },
+    {
+      "queue": "S18",
+      "variable": "liangGovernment",
+      "summary": {
+        "slug": "liang-government",
+        "seriesId": "southern-dynasties",
+        "title": "两只函与六百卷书：梁武帝的治国日常",
+        "subtitle": "用人、地方升迁、申诉、律令与《通史》",
+        "summary": "从徐勉拒绝夜间请托，到公车府门前的两只投书函，看梁武帝如何尝试把勤政变成制度。",
+        "period": "502—530年代",
+        "category": "政治与制度",
+        "eventIds": [
+          "southern-liang-founded"
+        ],
+        "personIds": [
+          "xiao-yan"
+        ]
+      },
+      "counts": {
+        "partial": 19,
+        "not-needed": 1,
+        "corrected": 7,
+        "covered": 5
+      },
+      "reviewFile": "liang-government-review.json",
+      "independentReview": "root completed; page verification pending",
+      "slug": "liang-government",
+      "exportName": "liangGovernment",
+      "queueIds": [
+        "S18"
+      ],
+      "recordCount": 32
+    },
+    {
+      "queue": "S19",
+      "variable": "xiaoYanPoetry",
+      "summary": {
+        "slug": "xiao-yan-poetry",
+        "seriesId": "southern-dynasties",
+        "title": "不只江山：萧衍诗中的离人、芳树与莫愁",
+        "subtitle": "读《有所思》《河中之水歌》《子夜歌》与《芳树》",
+        "summary": "一个亲自统军、建立王朝的人，也写衣上余香与欲进还羞；从四首诗中看他如何转换说话的位置。",
+        "period": "南齐—南梁时期",
+        "category": "诗文与人物",
+        "eventIds": [],
+        "personIds": [
+          "xiao-yan"
+        ]
+      },
+      "counts": {
+        "partial": 12,
+        "not-needed": 4,
+        "corrected": 5,
+        "covered": 1,
+        "uncertain": 1,
+        "not-covered": 1
+      },
+      "reviewFile": "xiao-yan-poetry-review.json",
+      "independentReview": "root completed; page verification pending",
+      "slug": "xiao-yan-poetry",
+      "exportName": "xiaoYanPoetry",
+      "queueIds": [
+        "S19"
+      ],
+      "recordCount": 24
+    },
+    {
+      "queue": "S20",
+      "queueIds": [
+        "S20"
+      ],
+      "slug": "liang-emperor-buddhism",
+      "variable": "liangEmperorBuddhism",
+      "exportName": "liangEmperorBuddhism",
+      "recordCount": 27,
+      "summary": {
+        "slug": "liang-emperor-buddhism",
+        "seriesId": "southern-dynasties",
+        "title": "法衣与衮服：梁武帝的四次舍身",
+        "subtitle": "从三教之学、达摩公案到同泰寺与铁钱",
+        "summary": "皇帝脱下御服，百官拿钱奉赎；在一再举行的宗教仪式之外，民间的铁钱越来越重，直言的臣子却越来越沉默。",
+        "period": "517—547年",
+        "category": "信仰与政治",
+        "eventIds": [],
+        "personIds": [
+          "xiao-yan"
+        ]
+      },
+      "counts": {
+        "not-needed": 2,
+        "partial": 17,
+        "covered": 2,
+        "corrected": 5,
+        "uncertain": 1
+      },
+      "reviewFile": "liang-emperor-buddhism-review.json",
+      "independentReview": "root completed; page verification pending"
+    },
+    {
+      "queue": "S21",
+      "queueIds": [
+        "S21"
+      ],
+      "slug": "hou-jing-defection",
+      "variable": "houJingDefection",
+      "exportName": "houJingDefection",
+      "recordCount": 40,
+      "summary": {
+        "slug": "hou-jing-defection",
+        "seriesId": "southern-dynasties",
+        "title": "一封假信：侯景怎样走到梁朝门内",
+        "subtitle": "从高欢身边的重将，到寿阳城里的危险客人",
+        "summary": "高欢给他的信有一个暗记，梁武帝给他的承诺却经不起另一封信的试探。侯景带着军队、失地和野心南来，逐渐把梁朝的内部裂缝连到一起。",
+        "period": "547—548年",
+        "category": "降将与宫廷",
+        "eventIds": [],
+        "personIds": [
+          "hou-jing",
+          "xiao-yan"
+        ]
+      },
+      "counts": {
+        "partial": 17,
+        "corrected": 10,
+        "not-needed": 2,
+        "covered": 11
+      },
+      "reviewFile": "hou-jing-defection-review.json",
+      "independentReview": "root completed; page verification pending"
+    },
+    {
+      "queue": "S22",
+      "queueIds": [
+        "S22"
+      ],
+      "slug": "jiankang-siege",
+      "variable": "jiankangSiege",
+      "exportName": "jiankangSiege",
+      "recordCount": 36,
+      "summary": {
+        "slug": "jiankang-siege",
+        "seriesId": "southern-dynasties",
+        "title": "采石无人：羊侃与台城的第一场冬雨",
+        "subtitle": "侯景越过长江，守城者怎样接住接连而来的攻势",
+        "summary": "一支数千人的军队利用换防空隙渡江，宫廷内应打开道路；羊侃则在惊乱的人群中组织抵抗，把楼车、木驴、火攻和亲情要挟一一挡回城外。",
+        "period": "548年",
+        "category": "战役与人物",
+        "eventIds": [],
+        "personIds": [
+          "hou-jing",
+          "xiao-yan",
+          "yang-kan"
+        ]
+      },
+      "counts": {
+        "covered": 12,
+        "not-needed": 1,
+        "partial": 12,
+        "corrected": 8,
+        "not-covered": 1,
+        "uncertain": 2
+      },
+      "reviewFile": "jiankang-siege-review.json",
+      "independentReview": "root completed; page verification pending"
+    },
+    {
+      "queue": "S23",
+      "queueIds": [
+        "S23"
+      ],
+      "slug": "jiankang-fall",
+      "variable": "jiankangFall",
+      "exportName": "jiankangFall",
+      "recordCount": 27,
+      "summary": {
+        "slug": "jiankang-fall",
+        "seriesId": "southern-dynasties",
+        "title": "援军就在城外：台城陷落与梁武帝之死",
+        "subtitle": "从青塘一战到“宇宙大将军”",
+        "summary": "城外并非没有战斗，城内也并非一开始没有粮食；真正断裂的是补给、协同与信任。侯景攻入宫城以后，活着的皇帝和散去的诸军共同见证了朝廷失去实权。",
+        "period": "549—550年",
+        "category": "围城与权力",
+        "eventIds": [],
+        "personIds": [
+          "hou-jing",
+          "xiao-yan",
+          "xiao-gang",
+          "xiao-yi"
+        ]
+      },
+      "counts": {
+        "partial": 12,
+        "covered": 9,
+        "corrected": 5,
+        "not-needed": 1
+      },
+      "reviewFile": "jiankang-fall-review.json",
+      "independentReview": "root completed; page verification pending"
+    },
+    {
+      "queue": "S24",
+      "queueIds": [
+        "S24"
+      ],
+      "slug": "hou-jing-defeat",
+      "variable": "houJingDefeat",
+      "exportName": "houJingDefeat",
+      "recordCount": 25,
+      "summary": {
+        "slug": "hou-jing-defeat",
+        "seriesId": "southern-dynasties",
+        "title": "皇帝做成了，退路却没有了",
+        "subtitle": "王僧辩、陈霸先东下与侯景最后一条船",
+        "summary": "巴陵城使侯景的攻势停住，王僧辩与陈霸先把粮船和军队连到一起；称帝、败逃、船上反杀之后，王伟还想用一首诗求生。",
+        "period": "550—552年",
+        "category": "战役与诗文",
+        "eventIds": [],
+        "personIds": [
+          "hou-jing",
+          "xiao-gang",
+          "xiao-yi",
+          "wang-sengbian",
+          "chen-baxian"
+        ]
+      },
+      "counts": {
+        "partial": 11,
+        "covered": 8,
+        "not-needed": 1,
+        "corrected": 4,
+        "uncertain": 1
+      },
+      "reviewFile": "hou-jing-defeat-review.json",
+      "independentReview": "root completed; page verification pending"
+    },
+    {
+      "queue": "S25",
+      "queueIds": [
+        "S25"
+      ],
+      "slug": "jiangling-fall",
+      "variable": "jianglingFall",
+      "exportName": "jianglingFall",
+      "recordCount": 12,
+      "summary": {
+        "slug": "jiangling-fall",
+        "seriesId": "southern-dynasties",
+        "title": "胜利之后，又一座孤城",
+        "subtitle": "从建康劫余到江陵陷落与梁陈易代",
+        "summary": "侯景死后，建康没有立刻恢复安定；宗室内战、蜀地失守与江陵被围接连发生，梁元帝的书楼和王朝一起走到了火光之中。",
+        "period": "552—557年",
+        "category": "战乱与易代",
+        "eventIds": [],
+        "personIds": [
+          "xiao-yi",
+          "chen-baxian",
+          "wang-sengbian"
+        ]
+      },
+      "counts": {
+        "partial": 6,
+        "corrected": 6
+      },
+      "reviewFile": "jiangling-fall-review.json",
+      "independentReview": "root completed; page verification pending"
+    },
+    {
+      "queue": "S26",
+      "queueIds": [
+        "S26"
+      ],
+      "slug": "chen-baxian-rise",
+      "variable": "chenBaxianRise",
+      "exportName": "chenBaxianRise",
+      "recordCount": 30,
+      "summary": {
+        "slug": "chen-baxian-rise",
+        "seriesId": "southern-dynasties",
+        "title": "从岭南到帝位：陈霸先的几次渡江",
+        "subtitle": "一个小吏的军旅、盟友的决裂与建康保卫战",
+        "summary": "陈霸先由地方小吏进入萧映幕府，经历交州远征、侯景之乱和王僧辩之变；建康城外的断粮与决战，最终把他推向陈朝帝位。",
+        "period": "503—559年",
+        "category": "人物与战役",
+        "eventIds": [],
+        "personIds": [
+          "chen-baxian",
+          "wang-sengbian",
+          "chen-qian"
+        ]
+      },
+      "counts": {
+        "partial": 15,
+        "covered": 7,
+        "corrected": 7,
+        "not-needed": 1
+      },
+      "reviewFile": "chen-baxian-rise-review.json",
+      "independentReview": "root completed; page verification pending"
+    },
+    {
+      "queue": "S27",
+      "queueIds": [
+        "S27"
+      ],
+      "slug": "chen-succession-crisis",
+      "variable": "chenSuccessionCrisis",
+      "exportName": "chenSuccessionCrisis",
+      "recordCount": 32,
+      "summary": {
+        "slug": "chen-succession-crisis",
+        "seriesId": "southern-dynasties",
+        "title": "出不出这道宫门",
+        "subtitle": "陈蒨继位、陈顼回国与陈伯宗的皇位",
+        "summary": "陈霸先死后，一柄剑催出了新君；陈蒨死后，一道要求辅政王出宫的命令，又把叔侄、皇后与顾命大臣推到无法互信的局面。",
+        "period": "559—570年",
+        "category": "宫廷与继承",
+        "eventIds": [],
+        "personIds": [
+          "chen-qian",
+          "chen-xu",
+          "chen-bozong"
+        ]
+      },
+      "counts": {
+        "partial": 15,
+        "covered": 10,
+        "not-needed": 2,
+        "corrected": 3,
+        "uncertain": 2
+      },
+      "reviewFile": "chen-succession-crisis-review.json",
+      "independentReview": "root completed; page verification pending"
+    },
+    {
+      "queue": "S28",
+      "queueIds": [
+        "S28"
+      ],
+      "slug": "wu-mingche-northern-campaign",
+      "variable": "wuMingcheNorthernCampaign",
+      "exportName": "wuMingcheNorthernCampaign",
+      "recordCount": 10,
+      "summary": {
+        "slug": "wu-mingche-northern-campaign",
+        "seriesId": "southern-dynasties",
+        "title": "水能送来胜利，也能截断归途",
+        "subtitle": "吴明彻从淮南凯旋到吕梁被俘",
+        "summary": "徐陵推荐熟悉淮左的吴明彻统军，秦郡与寿阳相继归陈；五年后，熟悉的水战环境中多了一道铁锁车轮，北伐主力失去了归路。",
+        "period": "573—578年",
+        "category": "北伐战役",
+        "eventIds": [],
+        "personIds": [
+          "chen-xu",
+          "wu-mingche",
+          "xiao-mohe"
+        ]
+      },
+      "counts": {
+        "partial": 3,
+        "covered": 5,
+        "corrected": 1,
+        "uncertain": 1
+      },
+      "reviewFile": "wu-mingche-northern-campaign-review.json",
+      "independentReview": "root completed; page verification pending"
+    },
+    {
+      "queue": "S29",
+      "queueIds": [
+        "S29"
+      ],
+      "slug": "chen-palace-coup",
+      "variable": "chenPalaceCoup",
+      "exportName": "chenPalaceCoup",
+      "recordCount": 13,
+      "summary": {
+        "slug": "chen-palace-coup",
+        "seriesId": "southern-dynasties",
+        "title": "药刀之后，珠帘之前",
+        "subtitle": "陈叔陵之变与陈后主的宫廷",
+        "summary": "陈宣帝病榻旁的一把药刀，险些改变继承；陈叔宝带伤即位，母亲处理政务，宫廷随后在三座新阁、诗歌和近侍之间形成新的权力秩序。",
+        "period": "582—584年及以后",
+        "category": "宫廷故事",
+        "eventIds": [],
+        "personIds": [
+          "chen-shubao",
+          "chen-shuling",
+          "chen-shujian",
+          "zhang-lihua"
+        ]
+      },
+      "counts": {
+        "covered": 4,
+        "partial": 4,
+        "corrected": 5
+      },
+      "reviewFile": "chen-palace-coup-review.json",
+      "independentReview": "root-completed",
+      "reviewReport": "cross-review-s29.md"
+    }
+  ]
+}

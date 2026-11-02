@@ -1,0 +1,455 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原稿并校读所列原典。正文与口述评价、转写疑点分层；没有回听音频。独立交叉复核待完成。",
+  "counts": {
+    "partial": 22,
+    "not-needed": 4,
+    "covered": 9,
+    "corrected": 6
+  },
+  "rows": [
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "salt-dispute"
+      ],
+      "note": "两人长期争衡作为开篇背景；原述平黄巢功劳比较与朱温自问的心理未写为史实。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [],
+      "note": "残句与朝代串场，没有可独立使用的事件。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "salt-dispute"
+      ],
+      "note": "两人争衡的叙事主线入开篇；主播选角不作为史实。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [],
+      "note": "主播对朱温的个人好恶及价值观邀同，不转成读者须同意的结论。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "salt-dispute"
+      ],
+      "note": "后半田令孜线索进入盐池冲突；前半主持人串场不入故事。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "salt-dispute"
+      ],
+      "note": "田令孜促调王重荣、与之冲突已用；卢携旧事属前集背景，本篇不重复。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "salt-dispute"
+      ],
+      "note": "河中节度使拒绝离镇及地盘利益已用；现代割据比喻未保留。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "salt-dispute"
+      ],
+      "note": "王重荣假称奉密令并示伪诏已明确叙述，史源为新唐书187，不误说真实朝廷密令。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "salt-dispute"
+      ],
+      "note": "执意讨朱温及伪诏归因已承接；对焦笑谈、终身执念的绝对心理判断不使用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [],
+      "note": "主持人设想皇帝如何操控二虎相争，非原典可证的具体密谋。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "salt-dispute"
+      ],
+      "note": "唐廷只肯调停、使河东不满已用；皇帝肱骨拟对白不保留。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "salt-dispute"
+      ],
+      "note": "出兵施压的行动已有；敲山震虎仅放解释，不当内心独白。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "salt-dispute"
+      ],
+      "note": "武力与朝廷裁决冲突已用；十三太保、二郎虎棒等形容未当战阵事实。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "salt-dispute"
+      ],
+      "note": "王重荣拒绝调任，维护原镇地盘的核心已用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "salt-dispute"
+      ],
+      "note": "朱玫、李昌符及神策军讨河中、河东合兵已用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "salt-dispute"
+      ],
+      "note": "合兵援王重荣已用；王重荣属于朱温势力的概括撤去，改写其独立利益。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "salt-dispute"
+      ],
+      "note": "进逼长安与僖宗播迁已用；沿路焚掠主体按溃军记载，不把全部焚火都给李克用；不虚定其仅示威心理。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "xiang-prince"
+      ],
+      "note": "朱玫拥立襄王已用；人人跃跃欲试的概括及漫长口述插段不作逐人事实。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "xiang-prince"
+      ],
+      "note": "李煴被拥立及李克用接新君文书后的处置已叙述。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "xiang-prince"
+      ],
+      "note": "新五代4阳诺而不行与通鉴焚诏上表分层写，不能用口述不听概括一切表态；拟对白删去。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "xiang-prince"
+      ],
+      "note": "应允后不进军据新五代4已用；对契丹的类比及观察形势心理不当确实动机。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "court-campaign"
+      ],
+      "note": "僖宗888卒、弟昭宗继位与890背景已用；末位有所作为是评价，不冒作年表事实。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "court-campaign"
+      ],
+      "note": "云州受挫、赫连铎李匡威朱全忠联请讨河东已用；更早邢洺磁全序及疯狗对白不复述。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "court-campaign"
+      ],
+      "note": "昭宗念其复兴功绩、顾虑征讨已用；替兄消怨的内心推演未入。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "court-campaign"
+      ],
+      "note": "四品以上朝议、十之六七反对与牵制强藩局面已用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "court-campaign"
+      ],
+      "note": "张濬主战及逼反风险已用；两个假设结局保持为分析，未写张濬现场长对白。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "court-campaign"
+      ],
+      "note": "禁军败后朝廷更难自立的后果已用；中央最后精锐全数数字无证，不虚定。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "court-campaign"
+      ],
+      "note": "朱全忠阴赂张濬据新五代4补入；副帅为孙揆，韩建负责军粮，不沿用韩建副使；潞州兵变投汴亦用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "court-campaign"
+      ],
+      "note": "葛从周入潞、官军失败与掠晋绛慈隰已用；阴地关确切交战位置本篇未单列。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "court-campaign"
+      ],
+      "note": "河东胜后劫掠已用；以沙陀族属推导天生抢掠的概括不采用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "court-campaign"
+      ],
+      "note": "晋绛战果与民地被掠已承接；横扫一切的无限范围、假想不仁不义对白删去。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "court-campaign"
+      ],
+      "note": "通鉴258上表自称罪人、指责张濬邀功；新五代4表辞慢侮入文，不编对白。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "court-campaign"
+      ],
+      "note": "新五代4天子引咎、优诏答复入文；原述惭愧情绪与逐字赔礼未实录化。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [],
+      "note": "游戏机与OG插话，不是唐代人物对白。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "court-campaign"
+      ],
+      "note": "后半复官安抚已用；游戏话题全部舍弃。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "hebei-loop"
+      ],
+      "note": "891围云州、赫连铎出逃已用；百余日的时长未另展开。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "hebei-loop"
+      ],
+      "note": "取临城及镇州攻战已用；晋绛与河北属不同阶段，纠正一条连续狂飙及进太原劫自地的含混转写。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "hebei-loop"
+      ],
+      "note": "李匡威救镇、河东受挫已用；卢龙地理不简化为秦皇岛，克星及鞋名笑谈删去。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "hebei-loop"
+      ],
+      "note": "镇州与河东多阶段拉锯已用；892每次进退未逐战展开，球鞋串场舍弃。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "hebei-loop"
+      ],
+      "note": "朱全忠在兖郓扩张已补，纠正只旁观等待的概括；不代言其高兴心理。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tang-court-hedong-distrust",
+      "sectionIds": [
+        "hebei-loop"
+      ],
+      "note": "李匡威再次援王镕、之后失幽州及镇州政变已承接。"
+    }
+  ]
+}

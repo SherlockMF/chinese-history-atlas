@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原稿并校读所列原典。正文与口述评价、转写疑点分层；没有回听音频。独立交叉复核待完成。",
+  "counts": {
+    "not-needed": 3,
+    "covered": 10,
+    "partial": 4
+  },
+  "rows": [
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [],
+      "note": "主持人整理时间线感叹；904事件由后段承担，无独立内容需写。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [
+        "cui-and-move"
+      ],
+      "note": "904杀崔胤、逼迁洛阳及改元天祐已用，并加其谋自卫与朱友伦死触发疑心。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [
+        "cui-and-move"
+      ],
+      "note": "李克用拒天祐而仍称天复据新五代4已用；正统判断作为政治立场说明。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [
+        "assassination"
+      ],
+      "note": "杀昭宗、立李柷已用；擎天柱评价未当本人自称。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [
+        "baima"
+      ],
+      "note": "905裴枢等三十余朝官白马遇害已用，补柳璨星变与李振建议。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [
+        "baima"
+      ],
+      "note": "李振屡试不第及清浊双关、投尸黄河已用；怨恨与政治清洗分开解释。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [
+        "baima"
+      ],
+      "note": "唐廷人事基础受损、魏王九锡过程已用；儿皇帝及全国士族一天消失的极端说法不保留。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [],
+      "note": "封魏王像曹操及名字不吉的主播笑谈，不作政治因果。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [],
+      "note": "司马篡魏用来预示梁亡的类比，非此段唐梁事件。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [
+        "baima"
+      ],
+      "note": "九锡拒受、刘仁恭受围求援已用；二者年代与行动分节，不把残缺串场当连贯事件。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [
+        "yan-jin"
+      ],
+      "note": "燕晋旧仇和求救关系已用；借公司、大哥拟对白舍弃。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [
+        "yan-jin"
+      ],
+      "note": "李存勖劝救已用；好儿子、人生最成功的绝对评价未照录。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [
+        "yan-jin"
+      ],
+      "note": "河东与幽沧共同牵制朱温的判断、援燕理由已用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [
+        "yan-jin"
+      ],
+      "note": "李克用同意援救及907受禅已用，分开906会师潞州与907礼制。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [
+        "liang-founded"
+      ],
+      "note": "更名朱晃与接受帝位已用；忠谁的拟独白不沿用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [
+        "liang-founded"
+      ],
+      "note": "朱晃新名已用；北京小流氓字义笑谈不作为命名理由。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "zhu-wen-tang-end",
+      "sectionIds": [
+        "liang-founded"
+      ],
+      "note": "开平、梁、开封东都洛阳西都、大安府及哀帝被杀已用；907改称天祐另据新五代4补足。"
+    }
+  ]
+}

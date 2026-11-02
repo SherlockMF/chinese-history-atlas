@@ -1,6 +1,63 @@
 @import "tailwindcss";
 @import "maplibre-gl/dist/maplibre-gl.css";
 
+.site-shell {
+  width: calc(100% - 2 * clamp(1rem, 4vw, 4rem));
+  max-width: 1360px;
+  min-width: 0;
+  margin-inline: auto;
+}
+
+.history-place-marker {
+  max-width: 150px;
+  border: 1px solid #17282466;
+  border-radius: 4px;
+  padding: 5px 8px;
+  background: #f3f0e7f2;
+  color: #172824;
+  font: 12px "Microsoft YaHei", sans-serif;
+  box-shadow: 0 2px 6px #17282420;
+  cursor: pointer;
+}
+.history-place-marker[data-active="true"] { border-color: #9f4036; color: #9f4036; }
+.history-place-marker[data-selected="true"] { background: #9f4036; color: #fff; border-color: #9f4036; z-index: 1; }
+.history-place-marker:focus-visible { outline: 3px solid #b79755; outline-offset: 3px; }
+
+.city-plan-marker {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: #703b2e;
+  font: 600 13px "Noto Serif SC", "Songti SC", "SimSun", serif;
+  white-space: nowrap;
+}
+.city-plan-marker > span {
+  display: block;
+  padding: 3px 5px;
+  background: #f4f0e5e8;
+  border-radius: 2px;
+}
+.city-plan-marker--label > span { font-size: 14px; letter-spacing: .08em; }
+.city-plan-marker--gate { width: 13px; height: 13px; background: #914535; border: 2px solid #f6f1e6; box-shadow: 0 0 0 1px #914535; }
+.city-plan-marker--gate > span { position: absolute; top: 11px; left: 50%; transform: translateX(-50%); font-size: 12px; }
+.city-plan-marker--gate[data-side="north"] > span { top: auto; bottom: 11px; }
+.city-plan-marker--gate[data-side="west"] > span { top: 50%; left: auto; right: 13px; transform: translateY(-50%); }
+.city-plan-marker--gate[data-side="east"] > span { top: 50%; left: 13px; transform: translateY(-50%); }
+.city-overlay-comparing .city-plan-marker--gate[data-layer="gates"][data-side="north"] > span { bottom: 30px; }
+.city-plan-marker[data-layer="comparison"] { color: #37583b; }
+.city-plan-marker--gate[data-layer="comparison"] { background: #466d4a; box-shadow: 0 0 0 1px #466d4a; }
+.city-plan-marker[data-layer="water"] { color: #266475; }
+.city-plan-marker[data-selected="true"] { z-index: 2; }
+.city-plan-marker[data-selected="true"] > span { background: #753c2e; color: #fff9ee; }
+.city-plan-marker:hover > span { box-shadow: 0 0 0 1px currentColor; }
+.city-plan-marker:focus-visible { outline: 3px solid #b79755; outline-offset: 4px; z-index: 3; }
+@media (max-width: 640px) {
+  .city-plan-marker--label > span { font-size: 11px; letter-spacing: 0; }
+  .city-plan-marker--gate > span { font-size: 10px; padding: 2px; }
+  .city-plan-marker--gate { width: 10px; height: 10px; }
+}
+
 @theme inline {
   --color-ink: var(--ink);
   --color-paper: var(--paper);
@@ -170,6 +227,49 @@ input,
 select,
 textarea {
   -webkit-tap-highlight-color: transparent;
+}
+
+.narrative-playback-progress {
+  transition: transform 100ms linear;
+}
+
+.narrative-route-segment {
+  transition: stroke-dashoffset 100ms linear;
+}
+
+.narrative-traveller {
+  transition: transform 100ms linear;
+}
+
+.narrative-map-node {
+  transition: background-color 350ms ease, color 350ms ease, opacity 350ms ease, box-shadow 350ms ease;
+}
+
+.narrative-scene-enter {
+  animation: narrative-scene 650ms ease-out both;
+}
+
+.narrative-point-pulse {
+  animation: narrative-pulse 1.4s ease-out infinite;
+}
+
+@keyframes narrative-scene {
+  from { transform: translateY(10px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes narrative-pulse {
+  from { r: 18px; opacity: 0.9; }
+  to { r: 34px; opacity: 0; }
+}
+
+.timeline-year-enter {
+  animation: timeline-year-enter 240ms ease-out both;
+}
+
+@keyframes timeline-year-enter {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 @media (prefers-reduced-motion: reduce) {

@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-30",
+  "method": "人工通读北魏02 P106–P124共19段，对读魏书2与通鉴108、109；情节、地名、统计单位与政权灭亡节点分别核对，未回听音频。",
+  "counts": {
+    "partial": 4,
+    "corrected": 8,
+    "covered": 7
+  },
+  "rows": [
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "last-expedition"
+      ],
+      "note": "亲征复仇背景与恢复士气已写；将血性归于民族性格的泛论未采纳。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "last-expedition"
+      ],
+      "note": "密发、开山通道、平城与陈留公身份已写；战国中山和呼沱河地理插话未展开。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "last-expedition"
+      ],
+      "note": "拓跋虔战死和部落被收取已写，三万余家不作三万守兵；史记欲走、不知所适不固定逃盛乐。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "last-expedition"
+      ],
+      "note": "主将战死引起诸部动摇的后果已写，不补全军内心对白。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "last-expedition"
+      ],
+      "note": "拓跋珪面临危急、慕容垂亲征已写；魏方士兵集体讨论投降能否存活的对白未采用。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "illness"
+      ],
+      "note": "参合陂积骸、祭奠及士卒恸哭已展开。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "illness"
+      ],
+      "note": "病退、四月沮阳死、秘丧返中山与慕容宝继位已写；疾病因果保持史家叙述层次。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "illness"
+      ],
+      "note": "396年皇始和天子旌旗已写，与398正式称帝分开，纠正人名及魏军击败慕容垂的印象。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "illness"
+      ],
+      "note": "396年八月亲征已写，慕容垂撤军死亡为四月而非六月。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "three-cities"
+      ],
+      "note": "并州井陉到三城分兵已展开，李栗与拓跋仪姓名校正，补久攻和柏肆危机纠正无往不利印象。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "three-cities",
+        "agreement"
+      ],
+      "note": "信都失守、慕容凤走、送还拓跋觚与割常山以西的和议均已写。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "agreement"
+      ],
+      "note": "拓跋珪答应、慕容宝反悔均承接。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "agreement"
+      ],
+      "note": "背约已写，明确史书没有酒后反悔对白，不能当事实。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "agreement",
+        "closed-gate"
+      ],
+      "note": "再围中山及慕容宝出走后拟夜入的时序已写；战国中山都城地望仍未展开。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "closed-gate"
+      ],
+      "note": "王建阻夜入、以士卒盗府库为由延至白昼及其志在虏掠的史述已展开。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "closed-gate"
+      ],
+      "note": "巢车劝降与恐重蹈参合陂命运的回应已写。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "closed-gate"
+      ],
+      "note": "拓跋珪唾王建以通鉴动作承接，保留君主决策责任，不拟辱骂对白。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "aftermath"
+      ],
+      "note": "围困、饥疫、城内更替、义台之战与397取中山分步展开；非次年立即灭尽后燕。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "zhongshan-campaign",
+      "sectionIds": [
+        "aftermath"
+      ],
+      "note": "望都恒岭至代直道、中山行台、迁民及398平城宫室宗庙社稷已展开；国号详接下篇。"
+    }
+  ]
+}

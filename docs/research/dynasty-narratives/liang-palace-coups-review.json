@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原稿并校读所列原典。正文与口述评价、转写疑点分层；没有回听音频。独立交叉复核待完成。",
+  "counts": {
+    "partial": 4,
+    "covered": 3,
+    "corrected": 1,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-palace-coups",
+      "sectionIds": [
+        "court-sources"
+      ],
+      "note": "帝王侵害与继承偏爱已有原典叙述；不把曹操政治婚姻类比或变态宣泄心理当证据。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-palace-coups",
+      "sectionIds": [
+        "court-sources"
+      ],
+      "note": "宿将畏小过被杀已具体落韩勍，宫廷屠戮风险已用；任何看不顺眼都杀的全称不照录。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liang-palace-coups",
+      "sectionIds": [
+        "court-sources"
+      ],
+      "note": "召外镇诸子妻入宫与王氏受宠据通鉴已用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-palace-coups",
+      "sectionIds": [
+        "court-sources"
+      ],
+      "note": "诸子争宠涉及妻室的权力关系已用；所有儿子主动奉妻的笼统说法未逐人证明。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "liang-palace-coups",
+      "sectionIds": [
+        "father-killed"
+      ],
+      "note": "912朱友珪夺位及朱友文妻受宠牵连继承已用，不只以性事一因概括。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liang-palace-coups",
+      "sectionIds": [
+        "father-killed",
+        "counter-coup"
+      ],
+      "note": "凤历及朱友贞联外镇禁军反政变已用；旧五第四子、新五第三子系异文，原稿第三子不一概判错；洛阳事按二月。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "liang-palace-coups",
+      "sectionIds": [
+        "counter-coup"
+      ],
+      "note": "朱友珪命仆杀己的过程已用；末帝身份是后续，不随串场提前结束后梁。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "liang-palace-coups",
+      "sectionIds": [
+        "counter-coup"
+      ],
+      "note": "朱友贞即位后战争仍继续十年已用；923灭梁在W12承接，本篇只铺结局。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "liang-palace-coups",
+      "sectionIds": [],
+      "note": "主持人本期收束与末帝尚未死的对话，无新事件。"
+    }
+  ]
+}

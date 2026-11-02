@@ -1,0 +1,185 @@
+{
+  "date": "2026-09-30",
+  "method": "通读本项全部原段并核对所列原始史籍，按正文的实际承接逐段登记；未回听音频。",
+  "counts": {
+    "covered": 4,
+    "partial": 1,
+    "corrected": 10
+  },
+  "rows": [
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "cui-hao",
+      "sectionIds": [
+        "trusted-adviser"
+      ],
+      "note": "三朝历仕、给事秘书及明元朝顾问经历已展开。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "cui-hao",
+      "sectionIds": [
+        "trusted-adviser"
+      ],
+      "note": "承接崔浩在太武朝参与军国决策、官至司徒及受到倚重；并以盖吴北道建议未获采纳说明高度信任仍有具体分歧。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "cui-hao",
+      "sectionIds": [
+        "trusted-adviser",
+        "court-conflicts"
+      ],
+      "note": "国家扩大后的朝廷多种利益与选官争议已写；完整族群构成与矛盾随国力必然上升的概括没有作为定论。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "cui-hao",
+      "sectionIds": [
+        "court-conflicts"
+      ],
+      "note": "以崔浩荐五州士、太子重资历的具体争议取代全体汉人升高必损全体鲜卑的零和概括。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "cui-hao",
+      "sectionIds": [
+        "court-conflicts",
+        "stone-history"
+      ],
+      "note": "奉命修史及实际职责已写，反对者并非据民族便可认作一体，不确立所有贵族预谋杀浩。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "cui-hao",
+      "sectionIds": [
+        "stone-history",
+        "gao-yun"
+      ],
+      "note": "务从实录和褒贬职责已写，碑文已佚不虚构具体不堪内容；高允的直笔辩解同时保留。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "cui-hao",
+      "sectionIds": [
+        "stone-history",
+        "gao-yun"
+      ],
+      "note": "没有史官写史免死制度保证，明确高允受赦是当次君主裁决。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "cui-hao",
+      "sectionIds": [
+        "stone-history",
+        "gao-yun"
+      ],
+      "note": "闵湛郗标建议、崔浩认可与路旁刻石展示过程已写；没有把想象中的父子相杀逐条填回佚碑。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "cui-hao",
+      "sectionIds": [
+        "stone-history",
+        "gao-yun"
+      ],
+      "note": "公开展示与暴扬国恶告发已写；婚姻细节和皇帝羞愤心理无原碑可证，不当史实。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "cui-hao",
+      "sectionIds": [
+        "gao-yun",
+        "punishment"
+      ],
+      "note": "诘问、震怒、诛杀与求情过程承接；结尾明确不用未开化族属判断解释暴力。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "cui-hao",
+      "sectionIds": [
+        "gao-yun",
+        "punishment"
+      ],
+      "note": "卢郭柳与崔氏株连范围按史文，并补崔模崔赜获免和其他史官只诛其身，不重复所有沾亲者一人不剩。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "cui-hao",
+      "sectionIds": [
+        "regret"
+      ],
+      "note": "补《通鉴》诛崔浩后悔之及李孝伯病讯中的改口，分开《释老志》灭佛语境；后悔不能倒证案发仅为冲动。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "cui-hao",
+      "sectionIds": [
+        "regret"
+      ],
+      "note": "承接共同生活需寻相处之道这一节目观点，标明它不能据以排除权力冲突。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "cui-hao",
+      "sectionIds": [
+        "stone-history",
+        "regret"
+      ],
+      "note": "奉命修史与公开之后触怒朝廷的认知冲突展开，不替当事人编对白。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "cui-hao",
+      "sectionIds": [
+        "regret"
+      ],
+      "note": "保留共同生活与政治冲突的讨论，并用高允关于史官职责的答问收束；明确诛后悔意不能替已执行的诏令免责，不采用族属决定残暴的评价。"
+    }
+  ]
+}

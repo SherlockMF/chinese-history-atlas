@@ -1,0 +1,385 @@
+{
+  "date": "2026-09-30",
+  "method": "人工阅读BW01所列34段并对照六节正文与古籍、刻石释文。实质承接与校正承接分别登记；具体材料未核或独立支线未展开者保留partial。未回听音频。",
+  "counts": {
+    "partial": 9,
+    "covered": 8,
+    "corrected": 17
+  },
+  "rows": [
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "鲜卑与拓跋的范围已说明；西夏王族自述的独立问题仍另待核写。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "匈奴势力变动与鲜卑兴起已承接，未核定原稿关于西夏谱系的否定判断。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "汉、匈奴与鲜卑兴起的阅读背景已承接；节目追溯朝代的口语串场不另展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "东胡记载与拓跋祖地线索已说明；笼统的蒙古语系归类尚未独立核写。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "以《后汉书》明确说明东胡之支的古籍记载。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "保留东胡支系记载，同时限制由此直接推成鲜卑、契丹、蒙古同一血缘链。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "other-accounts"
+      ],
+      "note": "列出《国语》鲜卑／鲜牟异文和旧注，不能直接据为汉魏鲜卑出自东夷的定论。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "other-accounts"
+      ],
+      "note": "保留东夷古注的讨论，黄河下游范围、蚩尤和太昊归属未作独立论证。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "other-accounts"
+      ],
+      "note": "说明原稿未具名陶器材料尚不足核验；具体遗址、器物和来源论证仍缺。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "other-accounts"
+      ],
+      "note": "陶器与族源推断的证据问题已说明，蚩尤历史比喻与相关具体考古材料未展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "other-accounts"
+      ],
+      "note": "山戎说与秦长城徒役说保留为索隐所收旧说，未把未具名考古联系写作已证事实。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "other-accounts"
+      ],
+      "note": "秦役人传说依古注限定，未沿用确定汉人血统及鲜少卑陋的拆字解释。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "other-accounts"
+      ],
+      "note": "明确未核实字面拆解可作词源依据，不把原稿的设想当成定论。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "以《后汉书》东胡解释与冒顿打击叙述为据，不扩写原稿笼统的攻打方向及部落分配。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "依山得名、战败分散与诸部分布分别处理，不把地域分类当作固定的行政三分。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "branches"
+      ],
+      "note": "慕容部、诸燕及小说慕容复作为读史入口已承接，区分史实与文学角色。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "branches"
+      ],
+      "note": "诸燕不是同一政权、小说复燕愿望的阅读线索已承接。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "branches"
+      ],
+      "note": "限制诸燕全部被北魏消灭的概括，说明多种不同结局。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "branches"
+      ],
+      "note": "宇文部及小说与史实的区分已点出，宇文化及、宇文成都的逐人辨析未展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "branches"
+      ],
+      "note": "拓跋一支与其他部落分开说明；阴山南北的具体时段和地域界线未作专题展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "branches"
+      ],
+      "note": "吐谷浑西迁、秃发南凉、乞伏西秦的对应已承接；读音玩笑不另列。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "branches"
+      ],
+      "note": "部落与多个政权的关系已说明，五胡类别名单与十六国逐一对应未展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "以北匈奴余众自号鲜卑的史例承接人群吸收和重新组合的观点。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "校正鲜卑、契丹、蒙古只是同一批人依次换名的说法。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "不把不同政权等同同一血统人群，也不把外貌当作古代部落的判据。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "names"
+      ],
+      "note": "保留流动与吸收的观点，不按泛化的蒙古人长相分类；具体西伯利亚、回鹘迁入例未当事实补造。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "discovery"
+      ],
+      "note": "1980年明确为北魏刻石发现，并补出反复探查过程，非首次发现山洞。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "imperial-envoy"
+      ],
+      "note": "嘎仙洞地点、太武帝遣中书侍郎李敞祭祖及北魏认作祖庭均有对应。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "discovery"
+      ],
+      "note": "区分朝廷追认祖地、迁徙记忆和全体鲜卑起源；魏书与刻石互证已说明。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "imperial-envoy"
+      ],
+      "note": "祝文据公布释文节选、解释南迁和入主中原，原稿讹句未沿用；不扩写皇帝内心。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "migration-memory"
+      ],
+      "note": "保留南迁与回望祖先的解释，不将森林生活必然艰苦及现代城市玩笑写为史实。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "migration-memory"
+      ],
+      "note": "纠正草原生活必然优于森林的单线解释，区分祝文自述与实际生计。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "migration-memory"
+      ],
+      "note": "序纪开头已记畜牧射猎，不支持走出森林后不会放马；迁徙原因保留限度。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianbei-origins",
+      "sectionIds": [
+        "imperial-envoy"
+      ],
+      "note": "校正祭辞释文，保留皇祖可寒、皇妣可敦与配天语言并用的具体观察。"
+    }
+  ]
+}

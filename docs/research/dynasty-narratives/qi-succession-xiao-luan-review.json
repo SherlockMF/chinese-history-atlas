@@ -1,0 +1,495 @@
+{
+  "date": "2026-10-02",
+  "method": "S14：南朝03 P089–P129、P151–P153，核南齐书4/5/6/7/35/38、南史5/43、通鉴136/138/139。 完整阅读所列原段并对照原典后由主代理自审；未回听音频，2026-10-02独立子代理已逐段重读原稿、正文及原典完成交叉复核。基线不变。",
+  "counts": {
+    "partial": 18,
+    "covered": 14,
+    "corrected": 12
+  },
+  "rows": [
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "four-generations"
+      ],
+      "note": "以493年文惠太子先卒衔接，未延续子响十几岁误述。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "four-generations"
+      ],
+      "note": "太子萧长懋先父去世、长孙改立皇太孙已承接。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "four-generations"
+      ],
+      "note": "独立交叉复核：补南史所记武帝下舆抱持号恸的皇孙，保留宠爱背景；可爱懂事作为武帝所见形象，不确认全部内心。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "four-generations"
+      ],
+      "note": "独立交叉复核：南史卷5明确记昭业在东宫迎拜号恸、绝而复苏，武帝下舆抱持，现已补入；不把原稿安慰对白冒充史书引语。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "western-mansion"
+      ],
+      "note": "萧子良的宗亲位置、西邸文人群体已承接。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "western-mansion"
+      ],
+      "note": "八友王融不作竹林王戎，八人名单据通鉴。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "four-generations"
+      ],
+      "note": "以南齐书史论立嫡以长说明传孙制度依据。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "four-generations"
+      ],
+      "note": "明确昭业并非幼童，不以儿戏式幼龄印象替代时序。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "four-generations"
+      ],
+      "note": "南史太翁拔白发故事以记载层级收入开篇。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "four-generations"
+      ],
+      "note": "承接四世的自豪与家族继承期望，不扩大为确定内心全部独白。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "western-mansion"
+      ],
+      "note": "王融倾向子良与拥立准备有据；劝告的原稿口语不作逐字实录。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "western-mansion"
+      ],
+      "note": "承接朝臣选择与王融立子良企图；辱骂式预测未写作史书记言。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "western-mansion"
+      ],
+      "note": "校为中书郎、受宁朔将军职主持募兵，非现代化侍卫长。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "western-mansion"
+      ],
+      "note": "独立交叉复核：武帝暂绝、王融拟矫诏与拦阻东宫仗已承接；让子良侍疾纯为防反的动机未证，原covered下调partial。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "western-mansion"
+      ],
+      "note": "帝苏召太孙、委鸾有据；子良在侧的心理原因不补写。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "western-mansion"
+      ],
+      "note": "萧鸾排云龙门、扶太孙登殿与扶出子良的动作已承接。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "yellow-paper"
+      ],
+      "note": "萧鸾为道成兄道生之子、武帝堂弟、昭业祖父同辈，校正辈分混写。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "yellow-paper"
+      ],
+      "note": "承接武帝临终节葬主张；全部丧仪条目未逐条展开。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "yellow-paper"
+      ],
+      "note": "对照俭约遗命与昭业取用库藏；未将武帝塑造成没有任何宫殿营建。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "four-generations"
+      ],
+      "note": "容仪、隶书、禁字迹妄出及丧礼表现有对应记载。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "yellow-paper"
+      ],
+      "note": "补富商索钱和黄纸许官；现代金额类比不承接。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "yellow-paper"
+      ],
+      "note": "以库藏、宠幸和私人关系承接宫廷放纵，不照抄渲染性细节。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "yellow-paper"
+      ],
+      "note": "补赏赐与国丧胡乐、史书评价；不给现代心理诊断。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "the-western-passage"
+      ],
+      "note": "独立交叉复核：493登位至494七月废杀的时序以及萧鸾、萧谌的行动见西弄节，章节映射改指实际内容。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "the-western-passage"
+      ],
+      "note": "王融被昭业杀、子良494卒与鸾杀昭业分开；不称鸾依次谋杀两人。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "the-western-passage"
+      ],
+      "note": "独立交叉复核：正文承接昭业自刺未死、颈缠帛并被舆出；未把醉酒怯懦写成伤势与动作的确定医学原因。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "the-western-passage"
+      ],
+      "note": "自刺未死、帛缠颈、舆出西弄被杀，不作后来病死。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "a-bowl-of-fish"
+      ],
+      "note": "昭文约三个月在位与蒸鱼需录公命的故事已展开。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "a-bowl-of-fish"
+      ],
+      "note": "昭文降海陵王、鸾登位与十一月遇害分开；鸾的辈分见前节。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "a-bowl-of-fish"
+      ],
+      "note": "清洗宗王与亲支转移有据，不把全体宗室灭尽写成事实。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "a-bowl-of-fish"
+      ],
+      "note": "独立交叉复核：萧鸾清除高、武诸子在494称帝前已开始，纠正先登位再首次杀宗室的顺序。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "a-bowl-of-fish"
+      ],
+      "note": "独立交叉复核：本段萧道成在位五年应指萧鸾494至498，正文时序已澄清；未把所有非其直系全部灭尽写成事实。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "at-the-ancestral-temple"
+      ],
+      "note": "独立交叉复核：新核南史43及通鉴139，补萧锋借萧遥光回应萧鸾的当面对话与对方失色，校人名为萧锋；补修柏赋展示其自况。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "at-the-ancestral-temple"
+      ],
+      "note": "独立交叉复核：当面对答已补并解释其中讽刺，不添若无养育早饿死等原稿扩演独白，仍partial。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "at-the-ancestral-temple"
+      ],
+      "note": "不敢就府捕、使兼太庙祠官、夜遣兵有据。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "at-the-ancestral-temple"
+      ],
+      "note": "独立交叉复核：本段核心为兼太庙祠官及夜遣兵捕，正文有直接承接；让他去侍奉祖先的戏拟命令未当原话。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "at-the-ancestral-temple"
+      ],
+      "note": "夜捕最终被杀及二十岁已承接。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "the-silver-cup"
+      ],
+      "note": "独立交叉复核：节用与私宴银器形成有据的反差；并非收到进贡后一概声称砸尽，细节归到上寿银酒枪与曲宴两次场面，宫中全部奢华未全面论证。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "the-silver-cup"
+      ],
+      "note": "按南齐38改为熔太官上寿银酒枪、后来曲宴满席银器的两次对话，不写泛砸器物。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "the-last-instruction"
+      ],
+      "note": "498年病逝及传位萧宝卷已承接。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "the-last-instruction"
+      ],
+      "note": "保留不可在人后遗训及后果；子君暴行转S15，原稿极端排名不承接。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "music-in-mourning"
+      ],
+      "note": "独立交叉复核：补大殓始毕召乐伎，另分灵车出殡称疾返内奏胡乐，不限定即位第二天。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "music-in-mourning"
+      ],
+      "note": "独立交叉复核：南史卷5有乐伎畏威从事、哽咽流涕，已补入；杀乐工的威胁对白未证，仍partial。"
+    },
+    {
+      "file": "南朝03_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "qi-succession-xiao-luan",
+      "sectionIds": [
+        "music-in-mourning"
+      ],
+      "note": "明确王敬则问、萧坦之答内人哭；大齐宫殿悲歌为节目引申，非原话。"
+    }
+  ]
+}

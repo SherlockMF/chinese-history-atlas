@@ -1,0 +1,414 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "partial": 18,
+    "not-needed": 2,
+    "covered": 11,
+    "corrected": 5
+  },
+  "rows": [
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "turn"
+      ],
+      "note": "德旺次子献宗事实，献谥=命定败亡推理不当史。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "turn"
+      ],
+      "note": "汉献帝漫谈非夏史，比较在解读边界。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "turn"
+      ],
+      "note": "悲情与帝王比较作编辑解读，不沿混蛋标签。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "turn"
+      ],
+      "note": "政策行动支撑末期评价，预知无力回天不替代事。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "turn"
+      ],
+      "note": "改附蒙攻金为修金和年次金清并记。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "turn"
+      ],
+      "note": "稳定邻境国力分析，非仅钱穷或从无金错。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "shazhou"
+      ],
+      "note": "1224联系漠北外援。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "shazhou"
+      ],
+      "note": "联盟尝试非完整夹击作战部署已成。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "shazhou",
+        "last-record"
+      ],
+      "note": "蒙古得知异图与仇质理由，无内心复仇誓。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "shazhou"
+      ],
+      "note": "沙州火穴守半年解围，非1月后守将战死。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "shazhou"
+      ],
+      "note": "银州败援散请求降。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "shazhou",
+        "hostage"
+      ],
+      "note": "许质止围后不遣。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "hostage"
+      ],
+      "note": "1225孛秃高良惠选宗贤王号车旗。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "hostage"
+      ],
+      "note": "宗室明建议非验亲骗局。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "hostage"
+      ],
+      "note": "宗族条件实，贵族气质蒙骗是假想。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "hostage"
+      ],
+      "note": "德旺修金拒束质。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "hostage"
+      ],
+      "note": "行动制约顾虑实，主持人反问评价有限。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "hostage",
+        "turn"
+      ],
+      "note": "国运/早登必救反事实非确史。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "turn",
+        "hostage"
+      ],
+      "note": "金衰弱据李谏，穷帮穷嘲讽不用。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "counterfactual"
+      ],
+      "note": "出走编辑设想非国主实际拒计划。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "counterfactual"
+      ],
+      "note": "百骑出逃数量设想不实。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "counterfactual"
+      ],
+      "note": "大石比较未等同可行路。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "counterfactual"
+      ],
+      "note": "西辽已亡边境蒙古影响限制。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "counterfactual"
+      ],
+      "note": "宗室代君献城免杀非确保证。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "counterfactual"
+      ],
+      "note": "夜突隐身份逃为设想，无君确部署。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "counterfactual"
+      ],
+      "note": "主持人缜密玩笑非史。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "hostage"
+      ],
+      "note": "李元吉虎狼反复启兵金衰劝。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "hostage",
+        "seven"
+      ],
+      "note": "求直言不等所有和议拒绝只主战。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "seven"
+      ],
+      "note": "张公辅七事第一聚溃安衣食。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "seven"
+      ],
+      "note": "第二坚盟信指纳质蒙古非只联金，第三修城。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "seven"
+      ],
+      "note": "第四军政与第五金互烽援非漠北。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "seven"
+      ],
+      "note": "第六俭储第七察机战不等唯一能跑就跑。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "seven"
+      ],
+      "note": "听七策含纳质，所以不能认只肯听主战。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "negotiation"
+      ],
+      "note": "使名单兄弟年号岁赐争。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "negotiation",
+        "last-record"
+      ],
+      "note": "无钱非岁币唯一因，纳仇与余部个别。"
+    },
+    {
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-dewang-last-alliance",
+      "sectionIds": [
+        "last-record"
+      ],
+      "note": "纳仇粮与蒙亲征源，罗三请退藏史补。"
+    }
+  ]
+}

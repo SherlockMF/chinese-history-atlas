@@ -4,10 +4,10 @@ import { sourced } from "./northern-qi-zhou-sui-sources";
 export const northernQiZhouSuiDynasties: Dynasty[] = [
   {
     id: "southern-liang", name: "南梁", shortName: "南梁", startYear: 502, endYear: 557,
-    capital: "建康，后迁江陵", displayRole: "neighbor", predecessorIds: [], successorIds: ["chen", "western-liang"],
+    capital: "建康；梁元帝时在江陵，梁敬帝时复在建康", displayRole: "neighbor", predecessorIds: [], successorIds: ["chen", "western-liang"],
     summary: "萧氏建立的南朝梁。侯景之乱后各地势力分裂；本专题550年地图只用梁旧域表达南方背景，不表示朝廷统一有效控制。",
     color: "#9b8b57", rulerPeriods: [], contentOrigin: "historical-extension", verificationStatus: "reviewed",
-    sourceRefs: ["《梁书》卷一、卷四 — https://zh.wikisource.org/wiki/梁書/卷01", "《陈书》卷二（557年代梁） — https://zh.wikisource.org/wiki/陳書/卷2"],
+    sourceRefs: ["《梁书》卷一 — https://zh.wikisource.org/wiki/梁書/卷01", "《梁书》卷四 — https://zh.wikisource.org/wiki/梁書/卷04", "《梁书》卷五（梁元帝在江陵） — https://zh.wikisource.org/wiki/梁書/卷05", "《梁书》卷六（梁敬帝还建康） — https://zh.wikisource.org/wiki/梁書/卷06", "《陈书》卷二（557年代梁） — https://zh.wikisource.org/wiki/陳書/卷2"],
   },
   {
     id: "western-liang", name: "后梁（江陵）", shortName: "后梁", startYear: 555, endYear: 587,

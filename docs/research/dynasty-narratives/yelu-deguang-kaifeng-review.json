@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-02",
+  "method": "L08：辽组子代理完整阅读列出原段、检索并阅读所列原典后逐段自审；未回听音频，独立交叉复核待主代理完成，原基线不变。",
+  "counts": {
+    "partial": 9,
+    "covered": 2,
+    "corrected": 6
+  },
+  "rows": [
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "the-price-of-an-emperor"
+      ],
+      "note": "承接称父与割燕云背景；原段节目倒叙转场不必照搬。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "the-price-of-an-emperor"
+      ],
+      "note": "太宗官制扩展及石敬瑭求援条件承接；继位年已在L06说明。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "the-price-of-an-emperor"
+      ],
+      "note": "称臣父礼与割地条件完整保留，不附会便宜父子笑谈，年龄比较非核心未展开。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "the-price-of-an-emperor"
+      ],
+      "note": "燕云取得与后周收瀛莫说明，并非全境原封不动至明；地理不是宋所有战争单因。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "the-price-of-an-emperor"
+      ],
+      "note": "关隘价值有机制说明，现代网友和香山旅游地点反事实不作史实。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "the-price-of-an-emperor"
+      ],
+      "note": "说明今京津部分及冀晋北部，区域并非全等于今行政区；后晋依附关系承接。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "grandson-without-vassalage"
+      ],
+      "note": "景延广等主张有其具体责任，桑维翰反对，非全体汉臣煽动；不以智力贬语替代解释。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "grandson-without-vassalage",
+        "a-mothers-warning"
+      ],
+      "note": "称孙不臣的政治性质、太后反问分节承接。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "a-mothers-warning"
+      ],
+      "note": "保留征服后治理的顾虑；西楼牛羊系新五代72述律反对阿保机援镇州时语境，不移给德光。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "a-mothers-warning"
+      ],
+      "note": "新五代73反问有据，但不扩成所有老贵族思想与虚构反驳对白。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "a-mothers-warning",
+        "three-campaigns-to-kaifeng"
+      ],
+      "note": "947入汴前有多次战争及945败退；安民语按通鉴，不用魔鬼/解放改写。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "three-campaigns-to-kaifeng"
+      ],
+      "note": "安民原文我亦人也汝曹勿惧，外貌类比和北京人不怕等推断不采。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "feeding-an-army-by-plunder"
+      ],
+      "note": "打草谷与括借及运财有据，受害范围按数百里区域，非开洛百里全踏白地。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "feeding-an-army-by-plunder",
+        "departing-and-three-errors"
+      ],
+      "note": "刘知远先观望后称帝、其他反抗分别说明，探母兼天气理由有原文；不称所有燕云节度使齐反。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "departing-and-three-errors"
+      ],
+      "note": "三失第三为不及时遣诸节度使还镇，非没有派契丹节度使覆盖。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "departing-and-three-errors",
+        "the-road-ends-at-luancheng"
+      ],
+      "note": "治理失衡分析与病亡承接；不进行优于蒙古的无依据比较。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "yelu-deguang-kaifeng",
+      "sectionIds": [
+        "the-road-ends-at-luancheng"
+      ],
+      "note": "栾城/杀胡林按史书，病卒非被杀或吓死；不凭地名反推百姓命名传说为事实。"
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "date": "2026-10-02",
+  "method": "J04：金01 P139–167。逐段读原稿，核兵志田制、世宗语言衣装政策、行宫与后世园林资料；保留制度成因和地方传说的不确定性。 已完整阅读所列原稿并查核所引史源；未回听音频，辽组非起草代理已完成原段全文、正文、逐段台账与引文上下文的独立交叉复核；页面待主代理批验。原始基线不变。",
+  "counts": {
+    "partial": 10,
+    "corrected": 11,
+    "covered": 4,
+    "uncertain": 2,
+    "not-needed": 2
+  },
+  "rows": [
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "households-and-arms"
+      ],
+      "note": "回应分制治理与认同问题，但未将辽概括为现代一国两制及纯空间隔离。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "households-and-arms"
+      ],
+      "note": "辽上京北皇城宫殿基址与原稿北边无房基相反，以考古纠正。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "households-and-arms"
+      ],
+      "note": "补猛安谋克军事编户概念与生产动员。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "households-and-arms"
+      ],
+      "note": "核千夫长百夫长、三百户早于世宗；不说同一制度数百年后改名八旗。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "households-and-arms"
+      ],
+      "note": "大定七至十谋克而非固定八个；平时佃渔射猎承接。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "households-and-arms"
+      ],
+      "note": "自备糗粮是供给方式，不是不用准备军粮。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "households-and-arms",
+        "land-and-rent"
+      ],
+      "note": "各军均受后勤约束；补迁中都后耕食，女真也非原本全无务农。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "land-and-rent"
+      ],
+      "note": "给田给牛自养已补，清代跑马圈地只可比较不直接套用。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "land-and-rent"
+      ],
+      "note": "自养目标与部分人不会/不能种植已补，不能说所有女真人不会农事。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "land-and-rent"
+      ],
+      "note": "明确土地佃给当地汉人、租课供生活。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "land-and-rent",
+        "decline-and-old-customs"
+      ],
+      "note": "据世宗批评写富户租田饮宴，战斗力立即全体衰败不作单因定论。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "land-and-rent"
+      ],
+      "note": "军户不亲耕问题承接，清代铁杆庄稼比喻不扩为同制。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "land-and-rent"
+      ],
+      "note": "世宗明确区分土地肥瘠并查报告失实，纠正皇帝根本不知肥瘠的概括。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "land-and-rent"
+      ],
+      "note": "补薄田和较好土地差别及安置困难，不沿用现代房产面积类比。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "land-and-rent",
+        "decline-and-old-customs"
+      ],
+      "note": "补生计与军队组织联系；不把娱乐放鹰直接证明全国战斗力急跌。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "corrected",
+      "assessment": "uncertain",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "decline-and-old-customs"
+      ],
+      "note": "贫富分化与凝聚力讨论已补，中都破前祭太祖叹将士的笔记、人名时点未证。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "decline-and-old-customs"
+      ],
+      "note": "衰败多因与动机边界明确；不能证明海陵迁都动机必然全善。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "decline-and-old-customs"
+      ],
+      "note": "禁改汉姓学南人装束非禁所有汉语，补皇孙两种语言应诉和女真字经史。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "decline-and-old-customs",
+        "hills-and-palaces"
+      ],
+      "note": "旧俗认同可论；被城圈住失去野性只是心理解释，不充史实。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "hills-and-palaces",
+        "gardens-after-jin"
+      ],
+      "note": "行宫游猎与现代公园分开，纠正大雪山来自金的含混暗示。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "gardens-after-jin"
+      ],
+      "note": "原稿已自言胡说的阿城雪山调侃不作事实，正文仅明确现代滑梯层。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "gardens-after-jin"
+      ],
+      "note": "大小滑梯童年感受不另写；与阿城无已证关系已说明。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "gardens-after-jin"
+      ],
+      "note": "现代滑梯不能作为金代园林证据；不混一段话内古今层。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "hills-and-palaces"
+      ],
+      "note": "香山寺1186为重修，补赐名田栗钱；动机不只模拟森林。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "hills-and-palaces"
+      ],
+      "note": "皇陵与山麓行宫可证，不能把谒陵一概解释为当公园玩。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "hills-and-palaces"
+      ],
+      "note": "茶楼顶歇凉台方志可核，与老人对弈及得名因果仍属传说。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "gardens-after-jin"
+      ],
+      "note": "钓鱼台据清地志记金游幸，琼华岛金史已见；纠正全是清代及未经分层保留。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "gardens-after-jin"
+      ],
+      "note": "保留熟悉山水与历史多层连接的阅读体验。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "jin-meng-an-farms-gardens",
+      "sectionIds": [
+        "gardens-after-jin"
+      ],
+      "note": "金而非秦的时代已明确，个人十年未翻书不作正文，现存建筑非全部原构。"
+    }
+  ]
+}

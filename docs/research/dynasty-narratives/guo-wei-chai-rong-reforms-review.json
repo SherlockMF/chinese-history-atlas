@@ -1,0 +1,528 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11收尾独立复核：逐读指定原P、现正文及所用原典；实义评价以编辑解读承接，未证心理、比例和全称判断明确研究结案；未回听音频。",
+  "counts": {
+    "covered": 16,
+    "not-needed": 5,
+    "partial": 17,
+    "corrected": 9
+  },
+  "rows": [
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "guo-frugality"
+      ],
+      "note": "郭威从自身节用与停止珍贡起改革已写；武夫都必骄奢不作普遍人性定论。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [],
+      "note": "动画片《骄傲的将军》对白和代际插话，没有朝代史实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "guo-frugality"
+      ],
+      "note": "只用后半郭威限制奢侈的线索；动画角色的肚子笑谈删去。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "guo-frugality"
+      ],
+      "note": "省珍贡及避免劳民已用；吴越百姓都是我的拟独白不编入。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "guo-frugality",
+        "temples-and-copper"
+      ],
+      "note": "铜器收缴分清柴荣955政策并有法物例外，不写郭威把所有金铜砸尽；募兵目标只作政策分析。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "guo-frugality"
+      ],
+      "note": "返田复业由罢营田、赐田庐耕牛和免旧牛课具体承接；动画串场舍弃。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "guo-frugality",
+        "army-selection"
+      ],
+      "note": "返田生计与财用关系已用；黄巢杀尽五姓七望、全部无文士的绝对断言不采用。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "army-selection"
+      ],
+      "note": "武力拥立风险由新君入侵与军法两节承接；大臣全目不识丁不作史实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "army-selection"
+      ],
+      "note": "整军与任贤由选简兵员、王朴平边策承接；不虚定郭威在位已清除所有藩镇。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "guo-frugality"
+      ],
+      "note": "郭威954卒、柴荣继位已写，951—954年号跨度不当足四整年寿。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "chai-heir"
+      ],
+      "note": "柴荣为郭妻柴氏侄、郭为其姑父已用，清理断句后的家族关系。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "chai-heir"
+      ],
+      "note": "幼时入郭家已用；现代邢台地理只作出身背景，家道变迁未铺成完整游历传。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "chai-thirty-years"
+      ],
+      "note": "定位五代史补5世宗问卜及旧五代119同源注引，补青年江陵贩茶故事；调查民间诸问题的完整游历心理仍未证。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "chai-heir"
+      ],
+      "note": "随郭威进入军政并承位已用；靠姑父的笑谈不替代具体继承背景。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "chai-thirty-years"
+      ],
+      "note": "五代史补5世宗问王朴运祚有三十年答语，以笔记问答分层，不作命数确证。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [],
+      "note": "主播假设自己如何回答皇帝寿命的插话，与历史事件无关。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [],
+      "note": "两位主持人接续抬杠和千秋万代对白，没有独立史事。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "chai-thirty-years",
+        "army-selection"
+      ],
+      "note": "补五代史补5十年开拓、养民、太平三期；问答未逐项列灭十国收十六州，具体攻取次序另有平边策。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "army-selection"
+      ],
+      "note": "燕地未复与北方威胁由平边策及高平战线承接；十六州长城各段已在W20另篇展开，本篇不重复全图。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "army-selection"
+      ],
+      "note": "平天下目标及北汉首年入侵已用；非每一处燕地都无天险，地理细论不虚补。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "chai-heir"
+      ],
+      "note": "954北汉借契丹兵南下已用，主播过去节目串场不入。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "chai-heir"
+      ],
+      "note": "北汉主刘崇身份已用；其为刘知远弟的背景在史源，正文未另铺整篇北汉建国史。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "chai-heir",
+        "gaoping-rout"
+      ],
+      "note": "晋阳割据与契丹支援由入侵和太原撤围承接；刘崇不是汉亡才从京城流亡太原。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "chai-heir"
+      ],
+      "note": "954继位后决定亲征与北汉契丹联兵已用。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "chai-heir"
+      ],
+      "note": "初立军威的重要性由新朝承风险叙述；自拟我要往下说话的独白不采用。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "chai-heir"
+      ],
+      "note": "冯道反对亲征及柴荣援唐太宗为例已用，追加大山压卵对问的原典线索。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "chai-heir"
+      ],
+      "note": "冯道质问太宗之才已用；不能由此写立即被罢相，正文和解释分清官职与劝谏。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "chai-heir",
+        "gaoping-rout"
+      ],
+      "note": "删掉冯道因劝谏罢相的错误因果；后半樊爱能何徽退军由高平节承接。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "gaoping-rout"
+      ],
+      "note": "赵匡胤参加挽回高平败局已用，未来必成皇帝的预言笑谈舍弃。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "gaoping-rout"
+      ],
+      "note": "赵临阵武勇已用；一条杆棒评书形容及个人无人敌不写确定武力排名。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "gaoping-rout"
+      ],
+      "note": "赵张两翼进击与柴荣冒矢石督战已用，不把胜利全归赵一人。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "gaoping-rout"
+      ],
+      "note": "刘崇带百余骑逃、契丹未全投入后撤已写，纠正单骑；外姓继承疑虑为解释而非所有大臣同心证据。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [],
+      "note": "主播询问赢仗后该做什么的接话，无额外史实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [],
+      "note": "主播承认没预习后设想自己当新帝的互动，不冒作柴荣实际会议。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "army-selection"
+      ],
+      "note": "research-closed：正文实际提出先与辽谈的战略问题，并说明胜利筹码不保证对方接受；这是主播建议的编辑讨论，不虚构柴荣会谈或条约。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "gaoping-rout",
+        "army-selection"
+      ],
+      "note": "胜后问责逃军由高平节的军法与选简节承接。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "gaoping-rout"
+      ],
+      "note": "樊爱能何徽退走及赵匡胤作战对照已用；未来宋太祖称号只作后人称呼。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "army-selection"
+      ],
+      "note": "整顿军务的主线已用；大棍比武形象无原典细节不编。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "gaoping-rout",
+        "army-selection"
+      ],
+      "note": "诛樊何及军使等七十余人的严军法已用；天下目标由平边策承接。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "gaoping-rout"
+      ],
+      "note": "对退走无代价旧习的编辑分析已用；保实力的统一心理不当逐将确实动机。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "gaoping-rout"
+      ],
+      "note": "改变旧军习气已用；此后绝不再出现藩镇的拟宣誓不作成功事实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "army-selection"
+      ],
+      "note": "去弱留壮、募天下壮士、赵选殿前诸班及操练赏功已用；兵法课程细目未编。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "gaoping-rout"
+      ],
+      "note": "高平后直逼太原而撤围已用，纠正北边问题已彻底解决；不把之后北汉战说成即刻灭国。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "army-selection"
+      ],
+      "note": "先江淮、后燕地、河东最后的平边策已写；后蜀四州具体战另由W27承接。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "army-selection"
+      ],
+      "note": "财用与战争的关系已写，后蜀物产丰富不足独证先攻动机，不列未核资源清单。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "temples-and-copper"
+      ],
+      "note": "敕额寺院保留、无额废与禁私度已用；禁出家不是无条件一刀切，补许可条件。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "guo-wei-chai-rong-reforms",
+      "sectionIds": [
+        "temples-and-copper"
+      ],
+      "note": "废寺通鉴30336与新五代3336异文、50日收铜给价、5斤隐匿死及法物例外已写。"
+    }
+  ],
+  "independentReview": "complete",
+  "independentReport": "final-unadopted-liao-wudai-independent.md"
+}

@@ -1,0 +1,293 @@
+{
+  "date": "2026-10-11",
+  "method": "逐读所列原P、全部正文与各节实际引用原典后独立交叉复核；逐P说明已用线索、校正或限定部分，baselineVerdict保留。未回听音频。",
+  "counts": {
+    "corrected": 5,
+    "partial": 12,
+    "covered": 5,
+    "uncertain": 3
+  },
+  "rows": [
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "five-routes"
+      ],
+      "note": "亲读五路名额，校刘昌祚、高8.7万种9.3万；不沿用李宪7万无定位。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "five-routes"
+      ],
+      "note": "辽求援确有，未证实际陈兵救夏与假意保护秉常动机。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "five-routes",
+        "empty-country"
+      ],
+      "note": "补宦官将帅实际分工与问策，删宦官身份自动等于无能推断。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "empty-country"
+      ],
+      "note": "老将坚壁清野、集中精兵、轻骑断粮已入正文。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "empty-country"
+      ],
+      "note": "聚兴灵据清25校宋灵夏；各城数百假降未证，列真降实例。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "empty-country"
+      ],
+      "note": "清野断粮与兴灵集精兵写入empty-country；未把吴中误字直接入故事，灵州也非一概无水沙漠。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "five-routes",
+        "lingzhou"
+      ],
+      "note": "以实际高刘争功、各路不同瓶颈取代全部互不听令概说。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "empty-country"
+      ],
+      "note": "每城专留吃饭降兵未核；正文真降有粮与兵役消耗不等于证实该计。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "empty-country"
+      ],
+      "note": "米脂受降及安抚实证；拒降便全城不降的心理推演未作事实。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "empty-country"
+      ],
+      "note": "粮道失继已写，不沿用全部被降军吃垮的单因果。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "empty-country"
+      ],
+      "note": "专意带错路无实据；被俘夏官引粮窖有相反可核细节。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "empty-country"
+      ],
+      "note": "故意多走三天具体未核，湿沙雪饥与行军延误有据。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "lingzhou"
+      ],
+      "note": "到灵州高刘先后与粮疲实写，非兵数最少两路：高8.7万。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "lingzhou",
+        "five-routes"
+      ],
+      "note": "高刘止攻夺兵与决渠写足；李宪有战果故不称所有路全败同样。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "empty-country",
+        "restore-throne"
+      ],
+      "note": "清野迁民耗损写入，编借口的揣测不作全体败将事实。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "new-fort"
+      ],
+      "note": "沈括知延州，横山与古乌延方案、徐择永乐区分。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "new-fort"
+      ],
+      "note": "永乐在银夏宥、筑城及无水地势写入；未借名称宣告永安。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "new-fort",
+        "last-night"
+      ],
+      "note": "号30万、初守1万、徐援7万分开；补半渡、水寨、掘井与断援。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "last-night"
+      ],
+      "note": "城陷死将与神宗哭实据；曲珍等逃生，不称主以下尽死。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "restore-throne"
+      ],
+      "note": "夏困弊及1083复政实据；民怨必然迫梁放人的单因果未证。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "restore-throne"
+      ],
+      "note": "1083复政与1085乙埋死，名位与军政网络仍分。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "restore-throne"
+      ],
+      "note": "乙逋承相、老梁后死已具年份，不混新梁。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "restore-throne"
+      ],
+      "note": "1086七月26岁忧愤史评保留，抑郁症医学诊断删。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "restore-throne"
+      ],
+      "note": "成年遭囚、长期制约体现处境，不替秉常虚构抱负独白。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-five-routes-yongle",
+      "sectionIds": [
+        "restore-throne"
+      ],
+      "note": "乾顺三岁继位与下一次后族摄政接篇。"
+    }
+  ],
+  "independentReview": "complete"
+}

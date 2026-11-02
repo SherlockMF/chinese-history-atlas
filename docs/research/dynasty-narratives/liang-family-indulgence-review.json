@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-02",
+  "method": "S17：已完整阅读本篇所列原段，对照正文及列明原典逐段自审；子代理起草，主代理已独立阅读全文原段、原典与逐段台账并完成交叉复核；页面验证待补。未回听音频；基线保持不变。",
+  "counts": {
+    "partial": 8,
+    "covered": 5,
+    "corrected": 5,
+    "uncertain": 2
+  },
+  "rows": [
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "luokou-army",
+        "returning-coffin"
+      ],
+      "note": "以制度责任展开仁慈评价，未把一生失败归成单一性格。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "luokou-army"
+      ],
+      "note": "承接宋齐相残教训与家族宽容，节目友谊玩笑不写。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "luokou-army"
+      ],
+      "note": "写505年命六弟萧宏统军及统帅缺陷。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "luokou-army"
+      ],
+      "note": "分505出师与506暴雨溃败，展开先逃引发解体；不主张应斩为唯一结论。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "luokou-army",
+        "unequal-punishment"
+      ],
+      "note": "写复任加官，同时补多次降免，纠正从未批评或处罚。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "luokou-army",
+        "returning-coffin"
+      ],
+      "note": "承接奖惩不均及军民承担代价的评价。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "treasure-house"
+      ],
+      "note": "写密报甲仗与饮宴查库。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "treasure-house"
+      ],
+      "note": "写库室财富和皇帝查验过程。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "treasure-house",
+        "unequal-punishment"
+      ],
+      "note": "承接阿六、私通记载，并补禁侵夺民业；不照搬帝王比较调侃。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "unequal-punishment"
+      ],
+      "note": "依南史还原伏刀被擒、公主被送出后恚死，非只是随意送出宫。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "unequal-punishment"
+      ],
+      "note": "承接亲情与处罚矛盾，不为皇帝补无法证实的即时内心独白。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "uncertain",
+      "assessment": "uncertain",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "birth-doubt"
+      ],
+      "note": "正文依南史校为萧综、吴淑媛；原转写姓名与音频未回听，疑点保留，不以叙述替代回听。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "uncertain",
+      "assessment": "uncertain",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "birth-doubt"
+      ],
+      "note": "区分萧综与萧统；七月生子是史书疑云而非亲子确证，原音未回听。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "birth-doubt"
+      ],
+      "note": "承接母亲失宠与告知，纠正吴景辉；不把萧衍已知非亲生认定为事实。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "birth-doubt"
+      ],
+      "note": "承接身世疑虑与练儿小名；心理归因仅据行为，不将模拟对白当实录。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "birth-doubt",
+        "night-departure"
+      ],
+      "note": "校楝树、萧综出奔及彭城场景；南史记砍树在徐州，不笼统写南兖州。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "night-departure"
+      ],
+      "note": "写改名萧赞、为东昏服丧及朝廷除籍，不说此前全无愤怒或仅为不吉利。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "night-departure",
+        "returning-coffin"
+      ],
+      "note": "接儿先父死与关系反复，寿命调侃不写。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "returning-coffin"
+      ],
+      "note": "依南史写梁人盗柩归、帝以子礼附葬，未虚构亲派人接尸。"
+    },
+    {
+      "file": "南朝04_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liang-family-indulgence",
+      "sectionIds": [
+        "returning-coffin"
+      ],
+      "note": "保留理解皇帝选择的讨论，同时指出行为后果，不能确认其内心从不愤怒。"
+    }
+  ]
+}

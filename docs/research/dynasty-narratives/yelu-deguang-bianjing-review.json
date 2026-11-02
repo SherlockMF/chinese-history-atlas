@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读16实质原段与P028导读、全文和台账，亲读辽3/4/45、旧75/81、通鉴280/283/285/286/294相关与国志3/新史72太后劝阻；恢复真史源对话、钱藏库北运并纠官制、亲属、三失释义，audio未回听；P028纯引入与玩笑不另计历史覆盖。",
+  "counts": {
+    "covered": 9,
+    "partial": 2,
+    "corrected": 5
+  },
+  "rows": [
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "two-conditions"
+      ],
+      "note": "补927—947在位及辽45官分南北具体职事，936父礼土地岁帛有通鉴280，不再只以通行叙述挂官制。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "two-conditions"
+      ],
+      "note": "石敬瑭892/德光902出生亲读旧75辽3，补年长十岁仍认父；救援条件与倍只请讨弑君区别明确。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "sixteen-prefectures"
+      ],
+      "note": "割州、南北官与军事影响实用；补959部分收复限定整块至明概括，明徐达全收结论未在本篇另核。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "sixteen-prefectures"
+      ],
+      "note": "通道与关隘影响已用，西山香山具体反事实战法未展开，不能只广泛谈影响就整段覆盖。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "sixteen-prefectures"
+      ],
+      "note": "燕云地理范围与石晋对辽关系过渡；具体战和变化移入下节。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "sixteen-prefectures",
+        "sun-not-minister"
+      ],
+      "note": "亲读旧81敬儒子敬瑭养子，纠原稿亲子；主战并非全臣一致，通鉴283李崧反对、冯道游移、景倡改礼补明。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "sun-not-minister",
+        "empress-view"
+      ],
+      "note": "称孙不称臣与“十万横磨剑”按《通鉴》卷285追责段；述律后出场转入下节分层核述。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "empress-view"
+      ],
+      "note": "国志3真实有太后劝阻不可居汉地，恢复旧正文误删；羊马西楼新史72确是对阿保机，分开两次对话。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "empress-view"
+      ],
+      "note": "国志3汉人为胡主/德光不能的反问确有史载，保留史书所载对话；通鉴936知情不证太后从未反对。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "liao-in-bianjing"
+      ],
+      "note": "947年正月备法驾入汴御崇元殿受百官贺、二月建国号大辽改元大同按《辽史》卷4原文；入城年月与改号分开。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "liao-in-bianjing"
+      ],
+      "note": "登城楼宣言按《通鉴》卷286“我亦人也，汝曹勿惧……汉兵引我至此耳”；“我不是魔鬼”为节目口语对应，不冒称史文。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "liao-in-bianjing"
+      ],
+      "note": "通鉴286明确未颁兵、皆蓄内库欲辇归，离汴又载府库北行，补原稿钱不就地分的真实细节；不扩为全地区田被踏平。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "north-and-three-losses"
+      ],
+      "note": "刘知远晋阳即位改元天福十二年按《通鉴》卷286；北归名义“天时向暑……欲暂至上国省太后”有史文，对应“看我妈”玩笑。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "north-and-three-losses"
+      ],
+      "note": "辽4三失第三原义不遽遣节度还镇，纠原稿铺自己制度的释义，前二征敛次序按原文。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "north-and-three-losses"
+      ],
+      "note": "承接地方节帅未及时归任的治理失误，不再把铺辽制度/先于蒙古当已证反思；比较只留解释说明。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "yelu-deguang-bianjing",
+      "sectionIds": [
+        "north-and-three-losses"
+      ],
+      "note": "辽4高邑不豫栾城崩、通鉴286病甚杀胡林卒；去無来源民间流传断言及惊死具体死因，地名由来未核。"
+    }
+  ],
+  "independentReview": "completed"
+}

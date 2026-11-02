@@ -1,0 +1,674 @@
+{
+  "date": "2026-10-11",
+  "method": "独立重读61条原段、全部正文及通鉴252—254相关编年、新唐书225下；补早期起兵、部署、诱敌和换将，修宋威劫使/朝廷杀使、潭州两书规模、睦婺月序和曹全晸881死亡，逐行复查真实覆盖。音频未回听。",
+  "counts": {
+    "covered": 36,
+    "partial": 4,
+    "not-needed": 5,
+    "corrected": 16
+  },
+  "rows": [
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "qizhou-amnesty"
+      ],
+      "note": "补入875饥荒重赋、亲属募集数千响应王仙芝与转战起点，未虚构相识对话或私人冲突。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "qizhou-amnesty"
+      ],
+      "note": "补入875饥荒重赋、亲属募集数千响应王仙芝与转战起点，未虚构相识对话或私人冲突。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "qizhou-amnesty"
+      ],
+      "note": "补入875饥荒重赋、亲属募集数千响应王仙芝与转战起点，未虚构相识对话或私人冲突。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "qizhou-amnesty"
+      ],
+      "note": "补入875饥荒重赋、亲属募集数千响应王仙芝与转战起点，未虚构相识对话或私人冲突。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "qizhou-amnesty"
+      ],
+      "note": "补早期沂州作战归王仙芝而非黄巢个人；禹县路线未逐项核实，不虚报全覆盖。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "qizhou-amnesty"
+      ],
+      "note": "汝州执王镣按《通鉴》卷252“执刺史王镣。镣，铎之从父兄弟也”。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "qizhou-amnesty"
+      ],
+      "note": "王镣说合与招安动议承接，对话为节目拟写不采。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "qizhou-amnesty"
+      ],
+      "note": "蕲州刺史名按《通鉴》作裴渥（口述“裴偓”更正）；授官“左神策军押牙兼监察御史”逐字采用。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "qizhou-amnesty"
+      ],
+      "note": "神策军为中央禁军的背景承接。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [],
+      "note": "进体制玩笑段，无实质命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "qizhou-amnesty"
+      ],
+      "note": "黄巢反对招安承接，原话见P065。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "qizhou-amnesty"
+      ],
+      "note": "怒语按《通鉴》原文“始者共立大誓，横行天下，今独取官赴左军，使此五千馀众安所归乎！”逐字引用（口述异文不采）。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "qizhou-amnesty"
+      ],
+      "note": "五千馀众无所归的追问承接为史文层。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "qizhou-amnesty"
+      ],
+      "note": "无明确政治目标的判断保留为节目分析；“动手”按《通鉴》“因殴仙芝，伤其首”写入。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "qizhou-amnesty"
+      ],
+      "note": "拒受命、裴渥逃走与三千二千分军均补入；水浒拟类比无需转成史实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "chongtian-south"
+      ],
+      "note": "补黄巢求右卫将军而未至郓州解甲，另有广州及高骈招安，投降主义单人标签不足以概括。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "missed-peaces"
+      ],
+      "note": "王仙芝再请降承接为招安线索。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "missed-peaces"
+      ],
+      "note": "杨复光招降与使者成行按《通鉴》卷253“仙芝遣尚君长等请降于复光”。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "missed-peaces"
+      ],
+      "note": "宋威劫使按“宋威遣兵于道中劫取君长等”写入；贪功动机为节目分析。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [],
+      "note": "信息不发达玩笑段，无实质命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "missed-peaces"
+      ],
+      "note": "宋威为朝廷命官、藩镇养寇自重的心态按节目分析层；“飞鸟尽良弓藏”为口述引喻。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "missed-peaces"
+      ],
+      "note": "宋威劫取报功，朝廷审讯后斩使；878罢宋威通鉴列久病，新唐书联系杀降及讨贼无功，不能归为宋威当场杀使。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "missed-peaces"
+      ],
+      "note": "宋威劫取报功，朝廷审讯后斩使；878罢宋威通鉴列久病，新唐书联系杀降及讨贼无功，不能归为宋威当场杀使。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "missed-peaces"
+      ],
+      "note": "荆南遇沙陀兵按《通鉴》卷253“时有沙陀五百在襄阳……沙陀纵骑奋击，破之”落实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "missed-peaces"
+      ],
+      "note": "黄梅之败按“大破王仙芝于黄梅，杀五万馀人，追斩仙芝，传首”写入；878年二月为乾符五年。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "chongtian-south"
+      ],
+      "note": "尚让率部分余众归巢，不是王仙芝所有旧部全部归顺；王重隐另活动。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "chongtian-south"
+      ],
+      "note": "王仙芝名号更正：《新唐书》只记“妄号大将军”，口述“顶天大将军”史无其文；黄巢“冲天大将军”按《通鉴》。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "chongtian-south"
+      ],
+      "note": "对名号水平的评价保留为节目观点；史文另有“妄称率土大将军”。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "chongtian-south"
+      ],
+      "note": "虔吉饶信、宣州未克、浙东七百里山路及福州补齐；王重隐陷洪州未能证明与黄巢会合。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "guangzhou-and-pestilence"
+      ],
+      "note": "广州陷落、李迢被俘、反聚敛宣言已承接；号称百万及队伍名声良好没有可靠规模/行为证据，不以宣言代实绩。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "guangzhou-and-pestilence"
+      ],
+      "note": "广州陷落、李迢被俘、反聚敛宣言已承接；号称百万及队伍名声良好没有可靠规模/行为证据，不以宣言代实绩。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "guangzhou-and-pestilence"
+      ],
+      "note": "瘴疫减员按“士卒罹瘴疫死者什三四，其徒劝之北还以图大事”。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "guangzhou-and-pestilence"
+      ],
+      "note": "北返决策承接，补充“巢从之”的史文落点。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "rafts-north"
+      ],
+      "note": "桂州沿湘江经衡永至潭州再逼江陵，非一开始直奔武汉；王铎江陵、李系潭州部署补入，通鉴五万精兵另有土团不等确切十万。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "rafts-north"
+      ],
+      "note": "桂州沿湘江经衡永至潭州再逼江陵，非一开始直奔武汉；王铎江陵、李系潭州部署补入，通鉴五万精兵另有土团不等确切十万。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "rafts-north"
+      ],
+      "note": "桂州沿湘江经衡永至潭州再逼江陵，非一开始直奔武汉；王铎江陵、李系潭州部署补入，通鉴五万精兵另有土团不等确切十万。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "rafts-north"
+      ],
+      "note": "通鉴记尽杀戍兵流尸蔽江，新唐书另记兵十余万；旧文把所有十万说成纯口述渲染失实，已并列两史文本口径。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "rafts-north"
+      ],
+      "note": "补曹全晸轻骑诱敌、刘巨容林伏、停追与曹续追、段彦谟代使而止；P092旧映射到高骈节错误现修。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "rafts-north"
+      ],
+      "note": "补曹全晸轻骑诱敌、刘巨容林伏、停追与曹续追、段彦谟代使而止；P092旧映射到高骈节错误现修。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [],
+      "note": "吴三桂永历类比闲谈，无唐末新命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "rafts-north"
+      ],
+      "note": "补曹全晸轻骑诱敌、刘巨容林伏、停追与曹续追、段彦谟代使而止；P092旧映射到高骈节错误现修。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "rafts-north"
+      ],
+      "note": "补曹全晸轻骑诱敌、刘巨容林伏、停追与曹续追、段彦谟代使而止；P092旧映射到高骈节错误现修。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "rafts-north"
+      ],
+      "note": "两将停追原因与朝廷换将冲突承接，编辑解释明确；不把安史以后所有阶段一概说成完全失控。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "卢携荐高骈承接。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "张璘归属更正：高骈部将，口述“黄巢派大将张璘”说反；黄巢退鄱阳信州按史文方向。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "信州疾疫按“黄巢屯信州，遇疾疫，卒徒多死”；“死者十之三四”出自岭南之疫，两次瘟疫不混。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "朝廷欲调诸道会剿承接，转入高骈遣还的转折。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "黄巢假投降贿张璘按“巢以金啖璘，且致书请降于高骈，求骈保奏”。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [],
+      "note": "贿赂过程拟对白段，无新增史实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [],
+      "note": "拟对白延续段，无新增史实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "高骈上奏按“恐分其功，乃奏贼不日当平，不烦诸道兵，请悉遣归。朝廷许之”。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "朝廷同意遣兵已写；卢氏谱系与具体财政动机未核实，不虚报背景均入正文。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "黄巢告绝按“贼诇知诸道兵已北渡淮，乃告绝于骈，且请战”。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "通鉴六月黄巢别将陷睦婺，非五月黄巢亲军；池州六月月序未由此次材料确证，采用亲读编年。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "七月采石渡江按“秋，七月，黄巢自采石渡江，围天长、六合，兵势甚盛”。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "渡淮与军势恢复承接；幸存者必然全有免疫力不具证据，解释栏明确不据此解释。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "姓名依通鉴曹全晸，坚战与不救详写，评价注明编辑观点。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "原段实义为奋战无人援，六千兵退屯泗上与高骈不救已具体承接，不能整段因玩笑略去。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "881年十月战死不能提前880；史书此条为兄子曹存实留后，无儿子此战死亡确证，保留史料范围。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "881年十月战死不能提前880；史书此条为兄子曹存实留后，无儿子此战死亡确证，保留史料范围。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-south-and-return",
+      "sectionIds": [
+        "gaopiao-and-zhanglin"
+      ],
+      "note": "高骈扬州自守称病与十月申州至颍宋徐兖补齐，旧台账称地名已保留而正文实际无，现修实。"
+    }
+  ],
+  "independentReview": "completed"
+}

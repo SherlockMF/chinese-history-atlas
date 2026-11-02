@@ -1,10 +1,11 @@
 import Link from "next/link";
 
 import { orderEvents } from "@/data/seed/events/order-events";
-import { MAP_MIN_YEAR } from "@/lib/history/year-range";
+import { fiveDynastiesConfig } from "@/data/series/five-dynasties/config";
+import type { HistorySeriesConfig } from "@/types/series";
 import type { HistoricalEvent, Person } from "@/types/history";
 
-export function PersonLifeEvents({ person, events }: { person: Person; events: HistoricalEvent[] }) {
+export function PersonLifeEvents({ person, events, series = fiveDynastiesConfig }: { person: Person; events: HistoricalEvent[]; series?: HistorySeriesConfig }) {
   const lifeEvents = orderEvents(events.filter((event) => event.personIds.includes(person.id)));
   return (
     <section aria-label={`${person.name}的生平事件`} className="mt-5 rounded-2xl border border-ink/15 bg-white/30 p-5">
@@ -15,9 +16,9 @@ export function PersonLifeEvents({ person, events }: { person: Person; events: H
         {lifeEvents.map((event) => <li key={event.id} className="relative pl-5">
           <span aria-hidden="true" className="absolute -left-1 top-2 size-2 rounded-full bg-cinnabar" />
           <p className="font-serif text-lg text-cinnabar">{event.startYear}{event.endYear && event.endYear > event.startYear ? `—${event.endYear}` : ""}</p>
-          <Link href={`/explore/${event.id}?year=${event.startYear}`} className="mt-1 block font-serif text-lg leading-7 underline decoration-ink/20 underline-offset-4 hover:text-cinnabar focus-visible:outline-cinnabar">{event.title}</Link>
+          <Link href={`/explore/${event.id}?year=${event.startYear}${series.id === "five-dynasties" ? "" : `&series=${series.slug}`}`} className="mt-1 block font-serif text-lg leading-7 underline decoration-ink/20 underline-offset-4 hover:text-cinnabar focus-visible:outline-cinnabar">{event.title}</Link>
           <p className="mt-2 text-xs leading-6 text-muted">{event.summary}</p>
-          {event.startYear >= MAP_MIN_YEAR ? <Link href={`/map?year=${event.startYear}&event=${event.id}`} aria-label={`在地图查看${event.title}`} className="mt-2 inline-flex min-h-9 items-center text-xs text-cinnabar underline underline-offset-4 focus-visible:outline-cinnabar">看当年地图 ↗</Link> : <span className="mt-2 block text-xs text-muted">唐末前史 · 暂无当年疆域图</span>}
+          {event.startYear >= (series.mapMinYear ?? series.timelineMinYear) ? <Link href={`${series.id === "five-dynasties" ? "" : `/series/${series.slug}`}/map?year=${event.startYear}&event=${event.id}`} aria-label={`在地图查看${event.title}`} className="mt-2 inline-flex min-h-9 items-center text-xs text-cinnabar underline underline-offset-4 focus-visible:outline-cinnabar">看当年地图 ↗</Link> : <span className="mt-2 block text-xs text-muted">唐末前史 · 暂无当年疆域图</span>}
         </li>)}
       </ol> : <p className="mt-5 text-sm leading-7 text-muted">尚未收录这位人物的关联事件，不代表其生平没有重要经历。</p>}
     </section>

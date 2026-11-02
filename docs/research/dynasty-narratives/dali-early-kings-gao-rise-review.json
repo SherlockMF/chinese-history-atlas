@@ -1,0 +1,857 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：独立复核：逐读台账所列原P、正文全部节与对应原典缓存，核查实际承接并纠正错位；未回听音频，不把候选计为全覆盖。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "audioReviewed": false,
+  "counts": {
+    "covered": 7,
+    "partial": 50,
+    "corrected": 11,
+    "uncertain": 2,
+    "not-needed": 4
+  },
+  "rows": [
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession"
+      ],
+      "note": "思平身后思英继位与很快失位进入正文。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession"
+      ],
+      "note": "叔侄继承不是单按名字辈分推出，具体思良争位有源。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession"
+      ],
+      "note": "王名不作整齐汉式辈分规则，未编统一命名制度。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession"
+      ],
+      "note": "思英淫戏是旁注异述，与叔争位本条并列。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession"
+      ],
+      "note": "居丧失德不能凭口述升级为确定主因，诸书不同明确。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession"
+      ],
+      "note": "思良争位废为僧与滇载记死异述区分，不断为被杀。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession"
+      ],
+      "note": "思英出家带废立背景，不作为无压力自愿禅位。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "two-families"
+      ],
+      "note": "亲读地方史开国董迦罗相国、高方岳侯及思聪条，补两姓同时在权力圈与高智升后期增长；思聪朝董氏退出与具体争权过程无此原文，研究关闭，不虚补政治斗争。",
+      "resolution": "body-added",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "two-families"
+      ],
+      "note": "补宋与大理确有联系和1076年贡使的精确史书节点；思聪时寄宋太祖互助信及董高交替没有在所读原典成立，研究关闭，不填书信内容。",
+      "resolution": "body-added",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [],
+      "note": "三十七部叛乱所涉严宗等转写姓名未核定，暂不编史。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [],
+      "note": "宗齐戴连等姓名与叛乱时序缺可靠对照，不恢复为完整事件。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "songborder"
+      ],
+      "note": "玉斧画河故事按地方传统承接，不声称出自宋实录。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "songborder"
+      ],
+      "note": "皇帝在地图划界而非亲到大渡河现场。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "songborder"
+      ],
+      "note": "王全斌平蜀后请求取云南的地方讲述保留。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "songborder"
+      ],
+      "note": "借唐战教训解释止兵是地方史叙述，不编帝臣对白。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "songborder"
+      ],
+      "note": "宋史贡使贸易纠正三百年完全不通的结论。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "school"
+      ],
+      "note": "素英述传灯录的地方记录落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "school"
+      ],
+      "note": "佛教文字活动承接，未把国君佛学著述推作全民同课程。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "school"
+      ],
+      "note": "儒佛教育共存据李京观察，学校细密组织未杜撰。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "school"
+      ],
+      "note": "僧教童与选官方式联系实际入文。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "covered",
+      "assessment": "corrected",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "school"
+      ],
+      "note": "不支持人人先出家再应试的统一流程。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "school"
+      ],
+      "note": "佛书与六经并用不等于先佛后儒全国统一课程。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "school"
+      ],
+      "note": "僧人与教育关系保留，考试科目等级未建立完整新制。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "school"
+      ],
+      "note": "官员培养据李京文字，不把常识科举制度直接投射。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "school"
+      ],
+      "note": "僧人可有家室的观察明确，不能用中原刻板印象抹去。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "school"
+      ],
+      "note": "教童多佛书也读六经入文，未设人人必须僧籍。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "school"
+      ],
+      "note": "信仰与选官联系承接，人数和全民识字率不推断。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "school"
+      ],
+      "note": "元代观察有时间界限，不以此无差别证明全前理。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "school"
+      ],
+      "note": "儒佛并用的实际证据入文，统一考核细则未核不新增。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "school"
+      ],
+      "note": "寺院教育作为社会资源分析，非宗教单因国家模型。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "school"
+      ],
+      "note": "素英佛学形象与后代教育联系，不以24/25年异文强合。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession"
+      ],
+      "note": "素廉王统位置保留；记事少不等于无政绩。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession"
+      ],
+      "note": "纠正没有查到作为即什么都未做的推论。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession",
+        "school"
+      ],
+      "note": "素隆避位为僧有地方记载，不由此证明所有王自愿。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "corrected",
+      "assessment": "not-needed",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [],
+      "note": "MBTI、辽夏君主内外向类比是节目笑谈，不作为史实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession",
+        "school"
+      ],
+      "note": "礼佛与政治变动并陈，个人信仰推测不事实化。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession",
+        "school"
+      ],
+      "note": "不是每位国君都出家，遇弑被废另列。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [],
+      "note": "小说天龙寺武学阵法不作历史僧侣履历。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession",
+        "school"
+      ],
+      "note": "正文不将出家君主一概写成同寺方丈，王统中的僧籍不能证明太庙与住持为一套班子。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession",
+        "school"
+      ],
+      "note": "出家与君主身份关系有正文承接，但太庙和寺院方丈同一班子未获证。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession"
+      ],
+      "note": "政治退位与避位为僧分别叙述，不认定其他皇帝只有太上皇一种退位形式。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession",
+        "school"
+      ],
+      "note": "王统中反复避位为僧承接，不写全体君王模式。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession",
+        "school"
+      ],
+      "note": "佛教文字活动与退位并陈，出家心理吸引力仅作可能解释，不替人物确定内心。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [],
+      "note": "钓鱼、台球、打猎的娱乐类比未承载需补的历史事实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [],
+      "note": "游戏厅、道士选择的笑谈不作古代退位制度材料。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession",
+        "school"
+      ],
+      "note": "寺院与政治可共存，王位退出仍逐人判。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession",
+        "school"
+      ],
+      "note": "不以出家推出自愿、方丈和共同寺名三重等式。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession",
+        "school"
+      ],
+      "note": "历史僧王与小说人物身份差异明确。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession",
+        "school"
+      ],
+      "note": "宗教非每次政权更替唯一原因的解释落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "succession",
+        "garden"
+      ],
+      "note": "素兴承继到园苑故事，谱系异述不按名字硬认。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "garden"
+      ],
+      "note": "素兴三年与东京宫苑依地方史呈现。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "garden"
+      ],
+      "note": "东京营宫植花的场景承接，非同时代建筑复原。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "garden"
+      ],
+      "note": "春登堤与云津桥名称进入园苑故事。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "garden"
+      ],
+      "note": "绕道金棱黄花景物明确。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "garden"
+      ],
+      "note": "萦城银棱白花景物明确。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "garden"
+      ],
+      "note": "玉案三泉与九曲流觞场景承接。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "garden"
+      ],
+      "note": "载酒宴游与斗草簪花按地方记述，不编新对白。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "garden"
+      ],
+      "note": "昼夜行乐与失德评判的关系明确。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "garden"
+      ],
+      "note": "素馨名与受宠的传说未独立考种，不扩大为植物学证明。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "garden"
+      ],
+      "note": "春日宴游的具体景物已补；原段对艺术与荒淫的现代评价不直接替换史书政治评价。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "garden"
+      ],
+      "note": "草随舞而动不确认为实测现象。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "garden"
+      ],
+      "note": "歌花舞草的美丽细节保留材料层次。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "garden"
+      ],
+      "note": "1044废素兴立思廉有源承接，花草失德为叙事道德联系。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-needed",
+      "assessment": "corrected",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "garden"
+      ],
+      "note": "被废不等于被暗杀，所读条目无杀王记录。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "gaorise"
+      ],
+      "note": "1044思廉立及高氏渐强落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "gaorise"
+      ],
+      "note": "1063高智升讨杨允贤及胜后加官授地落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "gaorise"
+      ],
+      "note": "杨允贤叛乱实际承接，王后族身份未证不写。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "gaorise"
+      ],
+      "note": "白崖茹甸鄯阐封地有书载，祖出义宁推测不定论。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "gaorise"
+      ],
+      "note": "太保德侯鄯阐侯职位与子孙世袭落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "gaorise"
+      ],
+      "note": "军功转为可继承政治资本为依据授封的分析。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "gaorise"
+      ],
+      "note": "宋军1053昆仑关及归仁铺战败侬军落实。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "gaorise"
+      ],
+      "note": "侬智高赴大理与尸首、宋廷索取的异述分源；求援原因不补未经证实的内心。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "gaorise"
+      ],
+      "note": "《宋史》写段国来使及宋廷验尸，不把狄青本人写成亲赴大理取首。"
+    },
+    {
+      "file": "大理（下）_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dali-early-kings-gao-rise",
+      "sectionIds": [
+        "gaorise"
+      ],
+      "note": "政治消息宋理往来保留，具体送首因果不由一书抹平。"
+    }
+  ],
+  "independentReview": {
+    "reviewer": "finish_jin_xia_dali",
+    "status": "complete",
+    "paragraphCount": 74,
+    "audioReviewed": false
+  },
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "大理（下）_clean_v1.md",
+        "paragraph": "P047",
+        "resolution": "body-added"
+      },
+      {
+        "file": "大理（下）_clean_v1.md",
+        "paragraph": "P048",
+        "resolution": "body-added"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

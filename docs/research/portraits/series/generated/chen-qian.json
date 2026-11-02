@@ -1,0 +1,14 @@
+{
+  "id": "chen-qian",
+  "name": "陈蒨",
+  "generator": "crop of public-domain reference (Yan Liben, Emperors scroll, via Wikimedia Commons)",
+  "reference": "docs/research/portraits/series/references/chen-qian.jpg",
+  "source": {
+    "title": "传阎立本《历代帝王图》陈文帝局部（波士顿美术博物馆藏）",
+    "url": "https://commons.wikimedia.org/wiki/File:Chen_Wendi_Tang.jpg"
+  },
+  "note": "依据传世肖像重新创作；画中约45岁，年龄、光影与部分细节为艺术处理。",
+  "asset": "public/portraits/series/chen-qian.webp",
+  "width": 1086,
+  "height": 1448
+}

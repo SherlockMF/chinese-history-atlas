@@ -1,7 +1,7 @@
 "use client";
 
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import { type ReactNode, useCallback, useEffect, useRef } from "react";
+import { Suspense, type ReactNode, useCallback, useEffect, useRef } from "react";
 import { getRouteSeries } from "@/data/series";
 
 import { useHistoryStore } from "./history-store";
@@ -21,16 +21,21 @@ function routeHref(route: RouteSnapshot) {
 }
 
 export function HistoryProvider({ children }: { children: ReactNode }) {
+  return <><Suspense fallback={null}><HistoryUrlSync /></Suspense>{children}</>;
+}
+
+function HistoryUrlSync() {
   const pathname = usePathname();
   const router = useRouter();
   const searchParams = useSearchParams();
   const query = searchParams.toString();
-  const series = getRouteSeries(pathname);
+  const series = getRouteSeries(pathname, searchParams.get("series"));
   const routePrefix = (pathname.startsWith("/series/") || series.id !== "five-dynasties") ? `/series/${series.slug}` : "";
   const initialized = useRef(false);
   const observedRoute = useRef<RouteSnapshot | null>(null);
   const latestDesiredRoute = useRef<RouteSnapshot | null>(null);
-  const pendingInternalRoute = useRef<RouteSnapshot | null>(null);
+  const pendingInternalRoute = useRef<(RouteSnapshot & { local: boolean }) | null>(null);
+  const pendingInternalRoutes = useRef<RouteSnapshot[]>([]);
   const applyingUrl = useRef(false);
 
   const resetStoreFromUrl = useCallback((incomingQuery: string) => {
@@ -65,6 +70,7 @@ export function HistoryProvider({ children }: { children: ReactNode }) {
       observedRoute.current = incoming;
       latestDesiredRoute.current = incoming;
       pendingInternalRoute.current = null;
+      pendingInternalRoutes.current = [];
       useHistoryStore.getState().reset({ ...parseHistoryQuery(query, series), series, routePrefix });
       initialized.current = true;
       return;
@@ -75,6 +81,7 @@ export function HistoryProvider({ children }: { children: ReactNode }) {
       observedRoute.current = incoming;
       latestDesiredRoute.current = incoming;
       pendingInternalRoute.current = null;
+      pendingInternalRoutes.current = [];
       resetStoreFromUrl(query);
       return;
     }
@@ -85,9 +92,19 @@ export function HistoryProvider({ children }: { children: ReactNode }) {
     if (pendingInternalRoute.current) {
       if (routesMatch(incoming, desired)) {
         pendingInternalRoute.current = null;
+        pendingInternalRoutes.current = [];
         return;
       }
-      pendingInternalRoute.current = desired;
+      // Native history already changed the URL; an older React snapshot must not replay navigation.
+      if (pendingInternalRoute.current.local) {
+        if (pendingInternalRoutes.current.some(route => routesMatch(route, incoming))) return;
+        pendingInternalRoute.current = null;
+        pendingInternalRoutes.current = [];
+        latestDesiredRoute.current = incoming;
+        resetStoreFromUrl(query);
+        return;
+      }
+      pendingInternalRoute.current = { ...desired, local: false };
       router.replace(routeHref(desired), { scroll: false });
       return;
     }
@@ -112,14 +129,31 @@ export function HistoryProvider({ children }: { children: ReactNode }) {
         pathname: observed.pathname,
         query: serializeHistoryQuery(state),
       };
+      const onEventPage = observed.pathname.startsWith("/explore/");
+      const onNarrativePage = ["jin-sixteen-kingdoms", "western-jin", "eastern-jin"].includes(state.series.id) &&
+        (onEventPage || observed.pathname === `/series/${state.series.slug}` || observed.pathname === `/series/${state.series.slug}/map`);
+      if (onEventPage || onNarrativePage) {
+        const previousQuery = new URLSearchParams(observed.query);
+        const desiredQuery = new URLSearchParams(desired.query);
+        for (const key of [...(onEventPage ? ["series", "path"] : []), ...(onNarrativePage ? ["sequence", "step"] : [])]) {
+          const value = previousQuery.get(key);
+          if (value) desiredQuery.set(key, value);
+        }
+        desired.query = desiredQuery.toString();
+      }
       latestDesiredRoute.current = desired;
       if (
         pendingInternalRoute.current ||
         !routesMatch(desired, observed)
       ) {
-        pendingInternalRoute.current = desired;
-        if ((observed.pathname === "/map" || /^\/series\/[^/]+\/map$/.test(observed.pathname)) && state.currentYear !== previous.currentYear) {
-          // Map years are client-side state; no RSC navigation per playback tick.
+        const localMapYear = (observed.pathname === "/map" || /^\/series\/[^/]+\/map$/.test(observed.pathname)) && state.currentYear !== previous.currentYear;
+        const localTimelineYear = (observed.pathname === "/timeline" || /^\/series\/[^/]+\/timeline$/.test(observed.pathname)) && state.currentYear !== previous.currentYear;
+        const localPerson = (observed.pathname === "/people" || /^\/series\/[^/]+\/people$/.test(observed.pathname)) && state.selectedPerson !== previous.selectedPerson;
+        pendingInternalRoute.current = { ...desired, local: localMapYear || localTimelineYear || localPerson };
+        // A local update can supersede server navigations whose snapshots have not arrived yet.
+        pendingInternalRoutes.current.push(desired);
+        if (localMapYear || localTimelineYear || localPerson) {
+          // These views already hold their data; an RSC replace can race a subsequent story link.
           window.history.replaceState(null, "", routeHref(desired));
         } else {
           router.replace(routeHref(desired), { scroll: false });
@@ -128,5 +162,5 @@ export function HistoryProvider({ children }: { children: ReactNode }) {
     });
   }, [router]);
 
-  return children;
+  return null;
 }

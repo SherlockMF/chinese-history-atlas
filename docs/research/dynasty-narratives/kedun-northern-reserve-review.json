@@ -1,0 +1,296 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11根代理独立复核：逐P对读原稿、正文及史源；辽末话本与史载分层，宗王与齐妃有出处情节补入，西迁纪年及亲属异说保留。独立语义核对完成；音频未回听，partial不作全段覆盖。",
+  "counts": {
+    "covered": 9,
+    "corrected": 4,
+    "not-needed": 1,
+    "partial": 12
+  },
+  "rows": [
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "old-garrison"
+      ],
+      "note": "可敦辽朝边防据点承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "old-garrison"
+      ],
+      "note": "蒙古国鄂尔浑一带恢复，非内蒙；二万为旧驻军口径。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "old-garrison"
+      ],
+      "note": "可敦女性称号承接，古城名不定为齐妃首创。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [],
+      "note": "睡王、催更玩笑。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "palace-and-princess"
+      ],
+      "note": "皇位两系背景承接，具体横渡故事不重复。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "palace-and-princess"
+      ],
+      "note": "穆宗同母弟罨撒葛、969景宗继位与逃返已据辽8/64具体补入。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "palace-and-princess"
+      ],
+      "note": "国阿辇斡鲁朵、永兴宫与骑军职能恢复，不限为私家护卫。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "palace-and-princess"
+      ],
+      "note": "因惧出逃、召还释罪据辽64补入；携妻及整支永兴宫军未获同等证据。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "palace-and-princess"
+      ],
+      "note": "契丹国志卷十三明载萧绰长姐嫁齐王，姊妹关系已具体补入。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "palace-and-princess"
+      ],
+      "note": "召还释罪为可考核心已补入；托亲传话对白及因掌军才召回仍属节目演绎。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "palace-and-princess"
+      ],
+      "note": "辽8记969三月入朝、四月进齐王，已补具体时序。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "palace-and-princess"
+      ],
+      "note": "叔辈宗王与后妃姊夫的婚姻关系、亡后追赠核心已补；各论各的玩笑略。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "palace-and-princess"
+      ],
+      "note": "972追赠皇太叔据辽8/64补；齐妃领兵据契丹国志分层，丈夫死即掌全部宫卫及太妃由此自动封授未定。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "palace-and-princess"
+      ],
+      "note": "994皇太妃领永兴宫与乌古兵西征承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "palace-and-princess"
+      ],
+      "note": "可敦旧名、1004奏置与西北防御承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "palace-and-princess"
+      ],
+      "note": "西北族群边防与驻军承接，东北必安全推测不采用。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "seven-eighteen"
+      ],
+      "note": "大石皇族旗号与可敦动员承接，不据翰林身份定所有心理。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "seven-eighteen"
+      ],
+      "note": "七州十八部会盟承接，远方不知危局心理未采用。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "seven-eighteen"
+      ],
+      "note": "整军、器甲、官属与休整承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "failed-allies"
+      ],
+      "note": "联合宋夏目标的背景承接，具体使期未核。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "failed-allies"
+      ],
+      "note": "夏金臣属与北宋覆亡承接，不称一支金军使两朝同步投降。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "failed-allies"
+      ],
+      "note": "辽名分延续承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "failed-allies"
+      ],
+      "note": "边地与西迁条件承接，东征西征分另篇。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P187",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "old-garrison"
+      ],
+      "note": "蒙古国重镇、驻军防御承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P188",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "old-garrison"
+      ],
+      "note": "旧边防与大石重新聚兵承接，不称两百年原封不动。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P189",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "kedun-northern-reserve",
+      "sectionIds": [
+        "failed-allies"
+      ],
+      "note": "金压力转接西迁篇，不采余睹围城必迫弃城唯一因果。"
+    }
+  ]
+}

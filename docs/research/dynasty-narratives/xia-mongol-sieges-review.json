@@ -1,0 +1,347 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "covered": 7,
+    "partial": 18,
+    "corrected": 3,
+    "uncertain": 2
+  },
+  "rows": [
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "second-invasion"
+      ],
+      "note": "1207称成吉思与清记废立来伐。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "second-invasion"
+      ],
+      "note": "出征实迹与练兵解释分开。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "second-invasion"
+      ],
+      "note": "废立为清记讨伐名义，不自带汗的正义独白。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "second-invasion"
+      ],
+      "note": "斡罗孩被取，今址与战略目的未强确定。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "second-invasion",
+        "jin"
+      ],
+      "note": "1207金章宗，1209永济。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "second-invasion",
+        "jin"
+      ],
+      "note": "蒙古后来伐金，试援作为推论而非目的证言。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "jin"
+      ],
+      "note": "金拒援真实背景，宫廷私情不借当既定开战理由。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "second-invasion"
+      ],
+      "note": "本战具体屠城威胁原话未核，不泛民族唯一恐吓。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "second-invasion"
+      ],
+      "note": "拒敌集兵有据，宋辽金绝无屠杀文明决斗不沿。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "second-invasion"
+      ],
+      "note": "城取有据，40余日及全城屠尽未在所读源核，保候选。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "second-invasion"
+      ],
+      "note": "反复远征经验为解释，攻城每项演习无虚细。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "second-invasion",
+        "jin"
+      ],
+      "note": "驻军粮匮退与1209不援区分，练兵心得非证言。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "heir"
+      ],
+      "note": "1209高昌归附非灭掉。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "heir"
+      ],
+      "note": "世子五万、黑水城北与兀剌海关口有清40依据，正文补路线；原述上次屠城和必同一城未经核实。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "heir"
+      ],
+      "note": "高令公被获、高逸不屈清说；西璧被俘与讹答劝降不是一人。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "pass"
+      ],
+      "note": "两山夹路外卫与嵬名来拒。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "pass"
+      ],
+      "note": "旧监军额7万非必本战加5万12万，初胜两月诱伏。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "pass",
+        "capital"
+      ],
+      "note": "关口失守与都城坚守，精锐皆亡无据。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "capital"
+      ],
+      "note": "围都亲守不能破，引水筑堤。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "jin"
+      ],
+      "note": "求金援写入，未来金败经验不提前。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "jin"
+      ],
+      "note": "清记群臣夹攻主不许，不只是没人想。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "jin",
+        "capital"
+      ],
+      "note": "外交代价与水城实况，不单一策略必然论。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "capital"
+      ],
+      "note": "外堤决蒙古不能支撤围，无数额损兵。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "capital"
+      ],
+      "note": "讹答招谕、夏请和。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "right-hand"
+      ],
+      "note": "右手出力承诺。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "right-hand"
+      ],
+      "note": "辅助政治意义写，不唯一马鞭刀工具词源。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "right-hand"
+      ],
+      "note": "城居急速征进不便的自陈。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "right-hand"
+      ],
+      "note": "骆驼毛织鹰鹞实项，武器此处未证。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "right-hand"
+      ],
+      "note": "察合纳女名字有据，第一美女不确证。"
+    },
+    {
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-mongol-sieges",
+      "sectionIds": [
+        "right-hand"
+      ],
+      "note": "婚贡与继续依附结果，不替个人羞耻与永济功过全盘下结论。"
+    }
+  ]
+}

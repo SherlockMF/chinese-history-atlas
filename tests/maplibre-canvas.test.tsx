@@ -36,6 +36,8 @@ const maplibre = vi.hoisted(() => {
     project: vi.fn(() => ({ x: 320, y: 180 })),
     remove: vi.fn(),
     setFilter: vi.fn(),
+    setPaintProperty: vi.fn(),
+    stop: vi.fn(),
   };
   const mapConstructor = vi.fn();
 
@@ -423,6 +425,62 @@ describe("MapLibreCanvas", () => {
     fire("style.load");
     expect(maplibre.instance.fitBounds).toHaveBeenCalledWith(expect.any(Array), expect.objectContaining({ duration: 0, padding: { top: 40, right: 20, bottom: 120, left: 20 } }));
     width.mockRestore();
+  });
+
+  it("fits atlas snapshots on desktop and when the snapshot extent changes", () => {
+    const width = vi.spyOn(HTMLElement.prototype, "clientWidth", "get").mockReturnValue(1200);
+    try {
+      const { rerender } = render(<MapLibreCanvas atlas={atlas} year={546} fitToData {...createCallbacks()} />);
+      fire("style.load");
+      expect(maplibre.instance.fitBounds).toHaveBeenCalledTimes(1);
+      const updated = { ...atlas, warnings: ["new snapshot"] };
+      rerender(<MapLibreCanvas atlas={updated} year={612} fitToData {...createCallbacks()} />);
+      expect(maplibre.instance.fitBounds).toHaveBeenCalledTimes(2);
+    } finally { width.mockRestore(); }
+  });
+
+  it("applies the narrative camera on initial load and respects reduced motion", () => {
+    const bounds: [[number, number], [number, number]] = [[112, 30], [118, 35]];
+    render(<MapLibreCanvas atlas={atlas} year={943} {...createCallbacks()} viewBounds={bounds} reducedMotion mutedRealms />);
+    fire("style.load");
+    expect(maplibre.instance.fitBounds).toHaveBeenLastCalledWith(bounds, expect.objectContaining({ duration: 0 }));
+    expect(maplibre.instance.setPaintProperty).toHaveBeenCalledWith("atlas-realms-fill", "fill-opacity", ["*", ["coalesce", ["get", "coverageOpacity"], 1], 0.12]);
+  });
+
+  it("restores the full extent when leaving a narrative on the same snapshot", () => {
+    const callbacks = createCallbacks();
+    const bounds: [[number, number], [number, number]] = [[112, 30], [118, 35]];
+    const { rerender } = render(<MapLibreCanvas atlas={atlas} year={943} {...callbacks} viewBounds={bounds} reducedMotion fitToData />);
+    fire("style.load");
+    maplibre.instance.fitBounds.mockClear();
+    rerender(<MapLibreCanvas atlas={atlas} year={943} {...callbacks} reducedMotion fitToData />);
+    expect(maplibre.instance.fitBounds).toHaveBeenCalledTimes(1);
+    expect(maplibre.instance.fitBounds.mock.calls[0][0]).not.toEqual(bounds);
+    expect(maplibre.instance.fitBounds).toHaveBeenCalledWith(expect.any(Array), expect.objectContaining({ duration: 0 }));
+  });
+
+  it("renders coverage fragments without duplicating labels and clears them for the next atlas", () => {
+    const feature = atlas.realms.features[0];
+    const realmFills: AtlasDataset["realmFills"] = { type: "FeatureCollection", features: [0.02, 1].map(coverageOpacity => ({ ...feature, properties: { ...feature.properties, coverageOpacity } })) };
+    const callbacks = createCallbacks();
+    const { rerender } = render(<MapLibreCanvas atlas={{ ...atlas, realmFills }} year={327} {...callbacks} />);
+    fire("style.load");
+    expect(maplibre.sources.realms.setData).toHaveBeenLastCalledWith(realmFills);
+    expect(maplibre.sources.realmLabels.setData.mock.lastCall![0].features).toHaveLength(1);
+    fire("click", "atlas-realms-fill", { features: [realmFills.features[0]] });
+    expect(callbacks.onSelectRegion).toHaveBeenCalledWith(expect.objectContaining({ dynastyId: feature.properties.dynastyId }));
+    rerender(<MapLibreCanvas atlas={atlas} year={943} {...callbacks} />);
+    expect(maplibre.sources.realms.setData).toHaveBeenLastCalledWith(atlas.realms);
+  });
+  it("uses the narrative camera duration and stops camera movement on pause", () => {
+    const callbacks = createCallbacks();
+    const bounds: [[number, number], [number, number]] = [[110, 30], [114, 36]];
+    const { rerender } = render(<MapLibreCanvas atlas={atlas} year={943} {...callbacks} viewBounds={bounds} cameraPlaying cameraDurationMs={2200} />);
+    fire("style.load");
+    rerender(<MapLibreCanvas atlas={atlas} year={943} {...callbacks} viewBounds={[[111, 31], [115, 37]]} cameraPlaying cameraDurationMs={2200} />);
+    expect(maplibre.instance.fitBounds).toHaveBeenLastCalledWith(expect.any(Array), expect.objectContaining({ duration: 2200 }));
+    rerender(<MapLibreCanvas atlas={atlas} year={943} {...callbacks} cameraPlaying={false} cameraDurationMs={2200} />);
+    expect(maplibre.instance.stop).toHaveBeenCalledOnce();
   });
 
 });

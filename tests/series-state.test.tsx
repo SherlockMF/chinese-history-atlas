@@ -36,7 +36,8 @@ describe("series state and timeline", () => {
   it("renders configured years and track labels, and steps to 609", async () => {
     useHistoryStore.getState().reset({ series, currentYear: 608 });
     render(<Timeline events={[]} series={series} />);
-    expect(screen.getByLabelText("直接选择年份")).toHaveValue("608");
+    expect(screen.getByLabelText("直接选择年份")).toBeDisabled();
+    expect(screen.getByLabelText("直接选择年份")).toHaveValue("");
     expect(screen.getByRole("button", { name: "北齐" })).toBeVisible();
     expect(screen.queryByText("五代主线")).not.toBeInTheDocument();
     await userEvent.click(screen.getByRole("button", { name: "下一年" }));

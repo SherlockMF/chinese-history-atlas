@@ -1,0 +1,451 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读隋上P057–P09539段，校读隋书1/2/24/25/27/28/29/46、通典23及通鉴176；依原典区分年次、制度文本与落实，未回听音频。",
+  "counts": {
+    "partial": 18,
+    "covered": 6,
+    "corrected": 14,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "central-offices"
+      ],
+      "note": "改周六官与制度继受实写；山东整体政治成熟度高于关陇的地域比较未作确定结论。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "central-offices"
+      ],
+      "note": "说明卢辩创六官、官名有变及隋改制；全体系职掌不明、普遍推诿低效的概括未核，未写为事实。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "central-offices"
+      ],
+      "note": "改制、三省中枢及简化分工图的作用与局限已解释。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "uncertain",
+      "assessment": "corrected",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "central-offices"
+      ],
+      "note": "五省完整名单据隋书校读，区分三师不主事与三公议事；不冒充回听纠出原音。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "central-offices"
+      ],
+      "note": "秘书省典籍、著作太史及内侍宫务具体说明，纠正不起作用和立法/历法混淆，三省职掌不简化为现代三部门。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "central-offices"
+      ],
+      "note": "承接北齐对隋影响与多朝继受；北齐三省已到何种成熟程度的完整对照未展开。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "central-offices"
+      ],
+      "note": "保留制度积累线索，不用高氏一半精神病解释制度；北齐律细目本篇未重复展开。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "central-offices"
+      ],
+      "note": "写北齐与北周制度资源的共同作用；杨坚看不上南方、不愿学习南方的心理因果未核。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "central-offices",
+        "six-departments"
+      ],
+      "note": "尚书六曹采用隋初都官度支名，继述583民部等变化，不把熟悉的名单一开始就固定。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "six-departments"
+      ],
+      "note": "官员考选与各曹分工实写；限制三省六部从隋到清始终不变的说法。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "six-departments"
+      ],
+      "note": "财政户籍、主客礼仪、兵籍军务、刑政工程及属司依原典还原；未回听断狱/工部等转写。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "six-departments"
+      ],
+      "note": "保留按事务设部门的比较并限定不可套现代政府；逐个现代部委沿革未展开。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "six-departments"
+      ],
+      "note": "用前代积累与隋初改制替代从周汉直翻到今天的断代概括，也不机械认作唯一首项工作。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "fewer-levels"
+      ],
+      "note": "隋前地方碎片化和郡层级问题实写；汉代州由监察到行政、各朝分郡原因与虚设的十郡五十县比例未逐朝展开。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "fewer-levels"
+      ],
+      "note": "多设官署的成本与人才压力实写；把所有析郡归为给人安排工作、特定一拆四例没有依据。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "fewer-levels"
+      ],
+      "note": "每设官署须配僚属、增加成本具体承接。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "fewer-levels"
+      ],
+      "note": "十羊九牧署杨尚希，制度引文校为存要去闲、并小为大；按奏表解释裁省。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "fewer-levels"
+      ],
+      "note": "583十一月罢郡，508为580北周建置统计，纠正开皇十年才完成的年次。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "fewer-levels"
+      ],
+      "note": "解释裁去层级而非五百现代地级市；不能从裁省推出所有原官员皆无用。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "soldiers-register"
+      ],
+      "note": "北周除县籍与590军人入籍分时叙述，军府统领仍旧，不把兵役与生产绝对隔离。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "soldiers-register"
+      ],
+      "note": "军人缺乡里田宅的诏令原因已写；杨坚因养闲兵收不到税而改革的具体心理动机未核。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "household-checks",
+        "land-and-tax",
+        "soldiers-register"
+      ],
+      "note": "户籍与土地、军役联系，以及貌阅与授田的关系已实写。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "household-checks"
+      ],
+      "note": "户口隐漏影响征收已写；所有隐户皆由门阀地主垄断、国家财富完全被其占有的总括未核，不当成单一机制。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "household-checks"
+      ],
+      "note": "按人核验户籍与年龄已写；逐人绘肖像的程序未见所核史文，保留未核而不借核籍主题算完整。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "covered",
+      "assessment": "not-needed",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [],
+      "note": "主持人自称身高与容貌的玩笑，末句严核人口复述邻段，不独立扩写。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "household-checks"
+      ],
+      "note": "貌阅核人与籍、增加44.3万丁，并区分丁口口径。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "household-checks"
+      ],
+      "note": "164.15万人是新附登记而非全国总数已纠正；战争削弱门阀因而清查易行的独立因果未查实。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "land-and-tax"
+      ],
+      "note": "前代授田延续、永业与还受、园宅及仆隶税课实写；不同口数具体田额与继承手续没有穷尽。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "land-and-tax",
+        "soldiers-register"
+      ],
+      "note": "奴婢受田额度不等占有奴婢上限，590军民籍帐相接已写；诸多奴婢占有问题全部解决的说法未证。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "land-and-tax",
+        "soldiers-register",
+        "law-and-ruler"
+      ],
+      "note": "制度与生产、供给关系已解释并示缺田限制；开皇粮仓实际储量、温饱与生育因果本篇未全面研究。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "land-and-tax",
+        "soldiers-register",
+        "law-and-ruler"
+      ],
+      "note": "官制、户籍、田地与军役的作用合并回看，保留分年推进。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "kaihuang-law",
+        "law-and-ruler"
+      ],
+      "note": "北周大律及晚期刑书反复分阶段，宽法与实际用刑分开，不把乱世必重典作普遍规律。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "kaihuang-law",
+        "law-and-ruler"
+      ],
+      "note": "酷刑与治理矛盾用法外用刑及司法救人展开；若生活在南朝如何求生的节目推演不作为史事复写。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "kaihuang-law"
+      ],
+      "note": "杨坚辅政删略旧律后另作刑书要制，由静帝颁行，纠正只删原刑书的简述；偷鸡/杀人同死是节目假设，未视作真实条文。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "kaihuang-law"
+      ],
+      "note": "581更定与583再修、枭首轘裂及鞭刑废除分清；宫刑废除的具体时间未在本篇核定。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "kaihuang-law"
+      ],
+      "note": "删条统计与五刑完整写入；581反逆连坐、586限制及后期没家具体区别，纠正不再灭族的全称判断。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "death-review"
+      ],
+      "note": "595三奏而后决实写并校正三次法院复审说；汉文帝到隋的完整刑制沿革未展开。 交叉复核另注明：刑法志系于595年，本纪系于596年，纪年差异保留。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "death-review",
+        "law-and-ruler"
+      ],
+      "note": "592诸州不得便决皆令大理覆治的原文与595三奏分开；三奏非现代三级审级，法典与执行的反差实写。 交叉复核另注明：刑法志系于595年，本纪系于596年，纪年差异保留。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "sui-offices-law",
+      "sectionIds": [
+        "death-review",
+        "law-and-ruler"
+      ],
+      "note": "修律对刑制和程序的贡献、后续严刑矛盾都承接，不把制度愿景写成始终兑现。"
+    }
+  ]
+}

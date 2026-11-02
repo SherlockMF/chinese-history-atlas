@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读北齐P132—P144共13段，对读北齐书7/9/11/12/50、北史52及通鉴168/169，逐段检查身份、时间、强迫关系与成稿覆盖；未回听音频。保留历史事件所需信息，未证动作、性关系或人物不得由相邻情节反推，不用移除细节冒充完整承接。",
+  "counts": {
+    "corrected": 5,
+    "covered": 3,
+    "partial": 5
+  },
+  "rows": [
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-zhan",
+      "sectionIds": [
+        "before-the-throne",
+        "gao-bainian",
+        "abdication"
+      ],
+      "note": "区分560年高湛与高演共同诛杨愔、561年末即位、565年传位，并实写其未保护高百年。没有把杨愔之死放在高湛称帝后；近四年的帝位与此后太上皇掌权分开。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-zhan",
+      "sectionIds": [
+        "empress-under-threat",
+        "gao-bainian"
+      ],
+      "note": "辨李祖娥为高洋妻、元氏为高澄妻；高澄侵辱弟妇保留为高洋后来报复时的自述，不把指控层次抹平。高湛以杀子胁迫李祖娥、怀孕生女及高百年后来被害已分别承接，未用遗传或家族疾病解释。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gao-zhan",
+      "sectionIds": [
+        "empress-under-threat"
+      ],
+      "note": "完整承接李祖娥受强迫、怀孕后难以面对儿子、非自愿的核心内容；明确杀子威胁与恐惧而从，未把羞惭改写成双方自愿。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-zhan",
+      "sectionIds": [
+        "empress-under-threat"
+      ],
+      "note": "具名太原王高绍德，并核为高洋与李祖娥之子；不得见、因腹大而发怒的话发生于孕期，校正原段出生后才见面并痛骂的时间顺序。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-zhan",
+      "sectionIds": [
+        "miaosheng-temple"
+      ],
+      "note": "承接生女不举、高湛以女死为由杀高绍德、李祖娥受重责入渠后苏醒、牛车送妙胜寺为尼；女婴被掐、荆条、宫女抢救、寺在城外等具体情节未核。将麻袋按史料改绢囊，不用生女不举四字反推确定致死手法；余生另补入关及隋时返乡，限定就此永无波折的收束。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-zhan",
+      "sectionIds": [
+        "miaosheng-temple",
+        "he-shikai"
+      ],
+      "note": "李祖娥苏醒、胡皇后为高湛妻及和士开获得亲狎宠信已写；高湛同性性行为的确定判断未获所核史源清楚证实，未以此或家族遗传解释暴行。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-zhan",
+      "sectionIds": [
+        "he-shikai"
+      ],
+      "note": "核名和士开，写王府参军、善握槊、亲近高湛，以及与胡后对坐握槊；古籍亲狎恩幸不足直接证明原段男宠所指的具体性关系，此项保留未证。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-zhan",
+      "sectionIds": [
+        "he-shikai",
+        "gao-xiaoyu"
+      ],
+      "note": "胡后与和士开私通按后妃传承接，劝谏者校为高澄长子高孝瑜，并写高湛曾采纳，限定凡进谏子侄一律被杀。三人共同性行为未核，不由两条关系拼成事实。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-zhan",
+      "sectionIds": [
+        "gao-xiaoyu"
+      ],
+      "note": "劝胡后不与臣下接手者为高孝瑜，非高孝珩；原典为高湛先深纳其言，后因高叡和士开谗言及摩女事件生变。未添加皇帝当面讥讽家风或因侄自居长子即设杀局的对白。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-zhan",
+      "sectionIds": [
+        "gao-xiaoyu"
+      ],
+      "note": "实写563年太子婚夜、三十七杯、娄子彦车中下毒及西华门投水，受害者校为高孝瑜，并分出兄弟孝珩；补明摩女私语是当场触发点，非已证预谋婚宴邀杀。原段另一个侄子被当靶乱箭射死的人物与事件未核，未用他人事迹填空。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gao-zhan",
+      "sectionIds": [
+        "gao-bainian"
+      ],
+      "note": "贾德胄教字、收集敕字上奏及皇帝据以召高百年已实写，联系其旧太子身份与天象猜疑；主持人对暴行的感慨由事件本身承接，不当成医学诊断。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-zhan",
+      "sectionIds": [
+        "gao-bainian"
+      ],
+      "note": "校赤为敕、井为池；写当面验字、重责中求为叔父奴仍被杀，并交代先前天象猜疑。识得笔迹不等于证实谋反；不逐项复述伤害动作。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gao-zhan",
+      "sectionIds": [
+        "abdication"
+      ],
+      "note": "核565年彗星、太史易主解释、传位高纬，并补祖珽和士开事先谋划、太上皇仍掌军国事务与去世纪年，完整承接退位核心且避免将天象当成已验证因果。"
+    }
+  ]
+}

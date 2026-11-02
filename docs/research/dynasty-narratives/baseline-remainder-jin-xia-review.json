@@ -1,0 +1,555 @@
+{
+  "date": "2026-10-11",
+  "method": "逐读旧基线尚无新台账的50段与对应正文；核金史24/18、宋史485，沿用已独立复核原典。新增观点明标编辑解读；音频未回听。finish_liao独立逐读50P、实质正文及相关原典已完成；问题逐项修后复核关闭。",
+  "audioReviewed": false,
+  "counts": {
+    "corrected": 16,
+    "not-needed": 6,
+    "partial": 27,
+    "covered": 1
+  },
+  "rows": [
+    {
+      "storySlug": "jin-streets-and-memory",
+      "file": "金01_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "sectionIds": [
+        "city-gates"
+      ],
+      "reason": "补十三门名单、名称评价与现代地名边界；光泰门因宣宗游苑增开尚无本段原典支持，未当事实采用。"
+    },
+    {
+      "storySlug": "jin-streets-and-memory",
+      "file": "金01_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "sectionIds": [
+        "city-gates"
+      ],
+      "reason": "补十三门名单、名称评价与现代地名边界；光泰门因宣宗游苑增开尚无本段原典支持，未当事实采用。"
+    },
+    {
+      "storySlug": "jin-streets-and-memory",
+      "file": "金01_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "sectionIds": [
+        "city-gates"
+      ],
+      "reason": "补十三门名单、名称评价与现代地名边界；光泰门因宣宗游苑增开尚无本段原典支持，未当事实采用。"
+    },
+    {
+      "storySlug": "jin-streets-and-memory",
+      "file": "金01_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "sectionIds": [
+        "city-gates"
+      ],
+      "reason": "补十三门名单、名称评价与现代地名边界；光泰门因宣宗游苑增开尚无本段原典支持，未当事实采用。"
+    },
+    {
+      "storySlug": "jin-streets-and-memory",
+      "file": "金01_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "sectionIds": [
+        "city-gates"
+      ],
+      "reason": "补十三门名单、名称评价与现代地名边界；光泰门因宣宗游苑增开尚无本段原典支持，未当事实采用。"
+    },
+    {
+      "storySlug": "jin-streets-and-memory",
+      "file": "金01_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "partial",
+      "assessment": "not-needed",
+      "sectionIds": [],
+      "reason": "现代出行提示、亲近历史感想及邀请访古；旧城叠合感已纳入城门节，不重复节目串场。"
+    },
+    {
+      "storySlug": "jin-streets-and-memory",
+      "file": "金01_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "partial",
+      "assessment": "not-needed",
+      "sectionIds": [],
+      "reason": "现代出行提示、亲近历史感想及邀请访古；旧城叠合感已纳入城门节，不重复节目串场。"
+    },
+    {
+      "storySlug": "jin-streets-and-memory",
+      "file": "金01_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "partial",
+      "assessment": "not-needed",
+      "sectionIds": [],
+      "reason": "现代出行提示、亲近历史感想及邀请访古；旧城叠合感已纳入城门节，不重复节目串场。"
+    },
+    {
+      "storySlug": "hailing-moves-zhongdu",
+      "file": "金02_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "sectionIds": [
+        "capital-and-power"
+      ],
+      "reason": "迁都中都的回顾已承接；口述鸭子桥、景风门的具体现代定位未在此确定。"
+    },
+    {
+      "storySlug": "jin-zhongdu-last-defenders",
+      "file": "金02_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "sectionIds": [
+        "two-cities"
+      ],
+      "reason": "不采用迁都后很快亡国的含混短时感：1153迁中都、1214南迁、1215陷中都、1234亡金分开。"
+    },
+    {
+      "storySlug": "hailing-moves-zhongdu",
+      "file": "金02_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "wushan-poem"
+      ],
+      "reason": "诗已有原文及晚出归属提示；节目伟大皇帝为个人评价，不据诗确证。"
+    },
+    {
+      "storySlug": "jin-zhongdu-last-defenders",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "sectionIds": [
+        "southward-court"
+      ],
+      "reason": "回顾宣宗南迁采用1214实际编年，不以即位后三年混算。"
+    },
+    {
+      "storySlug": "jin-zhongdu-last-defenders",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "sectionIds": [
+        "southward-court"
+      ],
+      "reason": "回顾宣宗南迁采用1214实际编年，不以即位后三年混算。"
+    },
+    {
+      "storySlug": "jin-zhongdu-last-defenders",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "sectionIds": [
+        "chenghui-last-day",
+        "southward-court",
+        "jinzhong-flight"
+      ],
+      "reason": "承晖赴死、太子留都和尽忠弃妃逃走分三节承接；明早八点半、锁门等口述对白不作原典事实。"
+    },
+    {
+      "storySlug": "jin-zhongdu-last-defenders",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "sectionIds": [
+        "two-cities"
+      ],
+      "reason": "1214南迁至1234亡金近20年，不能把口述16年作定数。"
+    },
+    {
+      "storySlug": "jin-three-last-ministers",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P224",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "cui-coup"
+      ],
+      "reason": "崔立释药安国的个人暴行已有史源故事；不采用对三教九流群体的贬斥概括。"
+    },
+    {
+      "storySlug": "jin-three-last-ministers",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P225",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "sectionIds": [],
+      "reason": "道德感慨后转入下一话题，个人暴行的评价已在该篇承接，不重复转场。"
+    },
+    {
+      "storySlug": "jin-caizhou-last-transfer",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P226",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "possible-alliance"
+      ],
+      "reason": "补三国类比、宋金夏旧敌结盟难题及侮辱与灭国的因果边界；口述反事实、单一动机不升级为史实。"
+    },
+    {
+      "storySlug": "jin-caizhou-last-transfer",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P229",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "sectionIds": [
+        "possible-alliance"
+      ],
+      "reason": "补三国类比、宋金夏旧敌结盟难题及侮辱与灭国的因果边界；口述反事实、单一动机不升级为史实。"
+    },
+    {
+      "storySlug": "jin-caizhou-last-transfer",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P230",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "sectionIds": [
+        "possible-alliance"
+      ],
+      "reason": "补三国类比、宋金夏旧敌结盟难题及侮辱与灭国的因果边界；口述反事实、单一动机不升级为史实。"
+    },
+    {
+      "storySlug": "xia-zunxu-western-service",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P231",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "refusal"
+      ],
+      "reason": "拒西征兵与阿沙敢不答话在夏篇实际承接；所谓夏主主动顶撞改为臣子抢答，虚拟对白不采。"
+    },
+    {
+      "storySlug": "jin-caizhou-last-transfer",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P235",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "possible-alliance"
+      ],
+      "reason": "补三国类比、宋金夏旧敌结盟难题及侮辱与灭国的因果边界；口述反事实、单一动机不升级为史实。"
+    },
+    {
+      "storySlug": "jin-caizhou-last-transfer",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P236",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "possible-alliance"
+      ],
+      "reason": "补三国类比、宋金夏旧敌结盟难题及侮辱与灭国的因果边界；口述反事实、单一动机不升级为史实。"
+    },
+    {
+      "storySlug": "jin-caizhou-last-transfer",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P237",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "possible-alliance"
+      ],
+      "reason": "补三国类比、宋金夏旧敌结盟难题及侮辱与灭国的因果边界；口述反事实、单一动机不升级为史实。"
+    },
+    {
+      "storySlug": "jin-caizhou-last-transfer",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P238",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "sectionIds": [
+        "possible-alliance"
+      ],
+      "reason": "补三国类比、宋金夏旧敌结盟难题及侮辱与灭国的因果边界；口述反事实、单一动机不升级为史实。"
+    },
+    {
+      "storySlug": "jin-caizhou-last-transfer",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P239",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "possible-alliance"
+      ],
+      "reason": "补三国类比、宋金夏旧敌结盟难题及侮辱与灭国的因果边界；口述反事实、单一动机不升级为史实。"
+    },
+    {
+      "storySlug": "jin-mongol-yehuling",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P242",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "cavalry-or-combined"
+      ],
+      "reason": "补关隘、兵力与协调关系；一次侮辱解释全部战局、统帅睡眠及心理是节目解释或想象，现有原典不能确证。"
+    },
+    {
+      "storySlug": "jin-mongol-yehuling",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P243",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "sectionIds": [
+        "cavalry-or-combined"
+      ],
+      "reason": "补关隘、兵力与协调关系；一次侮辱解释全部战局、统帅睡眠及心理是节目解释或想象，现有原典不能确证。"
+    },
+    {
+      "storySlug": "jin-mongol-yehuling",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P244",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "cavalry-or-combined"
+      ],
+      "reason": "补关隘、兵力与协调关系；一次侮辱解释全部战局、统帅睡眠及心理是节目解释或想象，现有原典不能确证。"
+    },
+    {
+      "storySlug": "jin-mongol-yehuling",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P245",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "cavalry-or-combined"
+      ],
+      "reason": "补关隘、兵力与协调关系；一次侮辱解释全部战局、统帅睡眠及心理是节目解释或想象，现有原典不能确证。"
+    },
+    {
+      "storySlug": "jin-caizhou-last-transfer",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P246",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "possible-alliance"
+      ],
+      "reason": "卫王受贡敌意在联盟短注承接；睡觉会见无本纪支持、琼华岛诗回溯未在本节采用，保留partial。"
+    },
+    {
+      "storySlug": "jin-caizhou-last-transfer",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P247",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "possible-alliance"
+      ],
+      "reason": "卫王受贡敌意在联盟短注承接；睡觉会见无本纪支持、琼华岛诗回溯未在本节采用，保留partial。"
+    },
+    {
+      "storySlug": "jin-caizhou-last-transfer",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P256",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "sectionIds": [
+        "ruler-note"
+      ],
+      "reason": "补能战与能治、金清制度比较的编辑评价；不以民族联系等同国家、不以单一汉化优劣解释兴亡，跨时代诗句类比未据为事实。"
+    },
+    {
+      "storySlug": "jin-caizhou-last-transfer",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P257",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "ruler-note"
+      ],
+      "reason": "补能战与能治、金清制度比较的编辑评价；不以民族联系等同国家、不以单一汉化优劣解释兴亡，跨时代诗句类比未据为事实。"
+    },
+    {
+      "storySlug": "jin-caizhou-last-transfer",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P258",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "ruler-note"
+      ],
+      "reason": "补能战与能治、金清制度比较的编辑评价；不以民族联系等同国家、不以单一汉化优劣解释兴亡，跨时代诗句类比未据为事实。"
+    },
+    {
+      "storySlug": "jin-caizhou-last-transfer",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P259",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "ruler-note"
+      ],
+      "reason": "补能战与能治、金清制度比较的编辑评价；不以民族联系等同国家、不以单一汉化优劣解释兴亡，跨时代诗句类比未据为事实。"
+    },
+    {
+      "storySlug": "jin-caizhou-last-transfer",
+      "file": "金03_clean_v1.md",
+      "paragraph": "P261",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "ruler-note"
+      ],
+      "reason": "补能战与能治、金清制度比较的编辑评价；不以民族联系等同国家、不以单一汉化优劣解释兴亡，跨时代诗句类比未据为事实。"
+    },
+    {
+      "storySlug": "xia-tombs-descendant-memory",
+      "file": "西夏01_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "sectionIds": [
+        "name-and-script"
+      ],
+      "reason": "补强邻间仍争取自主位置的编辑解读；与南诏的整段政局比较未当相同历史采用。"
+    },
+    {
+      "storySlug": "xia-yuanhao-palace-crisis",
+      "file": "西夏02_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "sectionIds": [
+        "judgment"
+      ],
+      "reason": "对元昊宫廷暴力的评价已有明示编辑解读，补准确P登记。"
+    },
+    {
+      "storySlug": "xia-liang-dowager-confined-emperor",
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "sectionIds": [
+        "prison"
+      ],
+      "reason": "秉常求宋与被囚在本节承接；谅祚亲政对比在前篇，辽一定不援的假设未作史实。"
+    },
+    {
+      "storySlug": "xia-anquan-jin-war",
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "sectionIds": [],
+      "reason": "串讲卫绍王与铁木真后发笑的转场，不属李安全事迹；受贡故事已有金篇专节。"
+    },
+    {
+      "storySlug": "xia-anquan-jin-war",
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "sectionIds": [],
+      "reason": "串讲卫绍王与铁木真后发笑的转场，不属李安全事迹；受贡故事已有金篇专节。"
+    },
+    {
+      "storySlug": "xia-anquan-jin-war",
+      "file": "西夏05_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "sectionIds": [
+        "attack-jin"
+      ],
+      "reason": "安全在蒙古撤后攻金已写；后讲金朝的转场不纳夏君生平。"
+    },
+    {
+      "storySlug": "xia-tombs-descendant-memory",
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "sectionIds": [
+        "name-and-script"
+      ],
+      "reason": "补迁徙多阶段、蕃书纪事翻译及自主选择的编辑解释；不采单次从全青海迁陕北、文字无用途或确定身份焦虑等绝对说。"
+    },
+    {
+      "storySlug": "xia-tombs-descendant-memory",
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "sectionIds": [
+        "name-and-script"
+      ],
+      "reason": "补迁徙多阶段、蕃书纪事翻译及自主选择的编辑解释；不采单次从全青海迁陕北、文字无用途或确定身份焦虑等绝对说。"
+    },
+    {
+      "storySlug": "xia-tombs-descendant-memory",
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "sectionIds": [
+        "name-and-script"
+      ],
+      "reason": "补迁徙多阶段、蕃书纪事翻译及自主选择的编辑解释；不采单次从全青海迁陕北、文字无用途或确定身份焦虑等绝对说。"
+    },
+    {
+      "storySlug": "xia-tombs-descendant-memory",
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "sectionIds": [
+        "name-and-script"
+      ],
+      "reason": "补迁徙多阶段、蕃书纪事翻译及自主选择的编辑解释；不采单次从全青海迁陕北、文字无用途或确定身份焦虑等绝对说。"
+    },
+    {
+      "storySlug": "xia-tombs-descendant-memory",
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "sectionIds": [
+        "name-and-script"
+      ],
+      "reason": "补迁徙多阶段、蕃书纪事翻译及自主选择的编辑解释；不采单次从全青海迁陕北、文字无用途或确定身份焦虑等绝对说。"
+    },
+    {
+      "storySlug": "xia-tombs-descendant-memory",
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "sectionIds": [
+        "name-and-script"
+      ],
+      "reason": "补迁徙多阶段、蕃书纪事翻译及自主选择的编辑解释；不采单次从全青海迁陕北、文字无用途或确定身份焦虑等绝对说。"
+    },
+    {
+      "storySlug": "xia-tombs-descendant-memory",
+      "file": "西夏06_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "sectionIds": [
+        "name-and-script"
+      ],
+      "reason": "补迁徙多阶段、蕃书纪事翻译及自主选择的编辑解释；不采单次从全青海迁陕北、文字无用途或确定身份焦虑等绝对说。"
+    }
+  ],
+  "independentReview": "finish_liao-completed",
+  "independentReport": "baseline-remainder-jin-xia-independent.md"
+}

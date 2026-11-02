@@ -1,0 +1,944 @@
+{
+  "date": "2026-10-11",
+  "items": [
+    {
+      "queueIds": [
+        "L01"
+      ],
+      "slug": "khitan-origins",
+      "exportName": "khitanOrigins",
+      "summary": {
+        "slug": "khitan-origins",
+        "seriesId": "liao",
+        "title": "从松漠到木叶山：契丹怎样讲述自己的来处",
+        "subtitle": "史书中的战争，祭坛上的白马青牛",
+        "summary": "从北魏记载、大贺氏与武周战争，走进木叶山的始祖故事，再看遥辇时代的部落与权力。",
+        "period": "4世纪末—9世纪",
+        "category": "族源与传说",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 30,
+      "independentReview": "root-completed"
+    },
+    {
+      "queueIds": [
+        "L02"
+      ],
+      "slug": "liao-beijing-temples",
+      "exportName": "liaoBeijingTemples",
+      "summary": {
+        "slug": "liao-beijing-temples",
+        "seriesId": "liao",
+        "title": "砖塔与经石：北京寺院里留下的辽代",
+        "subtitle": "从天宁寺塔到清水院，辨认一座城市叠加的年代",
+        "summary": "走近辽代砖塔、清水院古碑与房山石经，看佛教、工匠与城市生活怎样跨过朝代，同时分清辽代遗物与后世重建。",
+        "period": "10—12世纪及后世遗存",
+        "category": "城市与文化",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 17,
+      "independentReview": "root-completed"
+    },
+    {
+      "queueIds": [
+        "L03"
+      ],
+      "slug": "abaoji-rise",
+      "exportName": "abaojiRise",
+      "summary": {
+        "slug": "abaoji-rise",
+        "seriesId": "liao",
+        "title": "迭剌部的家底：阿保机怎样走到可汗面前",
+        "subtitle": "农田、铁冶与一个始终佩刀相从的族弟",
+        "summary": "追溯阿保机父祖的经营、战争迁民与曷鲁的辅佐，分开开国祥瑞、907年的权力更替和916年的建元称帝。",
+        "period": "9世纪—916年",
+        "category": "人物与建国",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 35,
+      "independentReview": "root-completed"
+    },
+    {
+      "queueIds": [
+        "L04"
+      ],
+      "slug": "abaoji-brothers-salt-feast",
+      "exportName": "abaojiBrothersSaltFeast",
+      "summary": {
+        "slug": "abaoji-brothers-salt-feast",
+        "seriesId": "liao",
+        "title": "旗鼓与盐池：阿保机怎样留住汗位",
+        "subtitle": "三次诸弟之乱，与另一条开国叙事",
+        "summary": "逐年讲清911—913年的亲族叛乱、追击与赦罚，再把盐池宴放回《新五代史》的叙述，辨认权力集中背后的不同记忆。",
+        "period": "911—916年前后",
+        "category": "宫廷与权力",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 24,
+      "independentReview": "root-completed"
+    },
+    {
+      "queueIds": [
+        "L05"
+      ],
+      "slug": "liao-capital-scripts",
+      "exportName": "liaoCapitalScripts",
+      "summary": {
+        "slug": "liao-capital-scripts",
+        "seriesId": "liao",
+        "title": "皇都、文字与白沟：辽朝怎样长成一个国家",
+        "subtitle": "城墙之内的两种传统，河水之上的一首元诗",
+        "summary": "从皇都营建、南北官制与契丹文字，走到白沟边界和曹伯启的诗，看辽朝如何把部落、州县与不同人群组织起来。",
+        "period": "916—14世纪",
+        "category": "制度与文化",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 17,
+      "independentReview": "root-completed"
+    },
+    {
+      "queueIds": [
+        "L06"
+      ],
+      "slug": "dongdan-duanwan",
+      "exportName": "dongdanDuanwan",
+      "summary": {
+        "slug": "dongdan-duanwan",
+        "seriesId": "liao",
+        "title": "渤海、东丹与断腕太后的选择",
+        "subtitle": "一句“思先帝否”，一匹马缰，与一次当众的自断",
+        "summary": "从亲征渤海与东丹册立，写到阿保机病逝扶余、三子采薪、述律后以殉葬之名清洗朝堂、赵思温反问断腕与执辔选立太宗。",
+        "period": "925—927年",
+        "category": "继承与宫廷",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 25,
+      "independentReview": "completed",
+      "counts": {
+        "covered": 15,
+        "corrected": 3,
+        "partial": 6,
+        "uncertain": 1
+      },
+      "legacyDraftSlug": "shulu-regency",
+      "file": "data/narratives/dongdan-duanwan.ts",
+      "reviewFile": "dongdan-duanwan-review.json",
+      "reviewReport": "cross-review-old-liao.md"
+    },
+    {
+      "queueIds": [
+        "L07"
+      ],
+      "slug": "yelu-bei",
+      "exportName": "yeluBei",
+      "summary": {
+        "slug": "yelu-bei",
+        "seriesId": "liao",
+        "title": "人皇王耶律倍：让国的人，海上的诗",
+        "subtitle": "卫队、万卷书与一场不被接受的殉国",
+        "summary": "从受疑徙居与跨海密召，写到立木刻诗、载书奔唐、密报劝进与遇害改葬，收在天显五年册李胡为皇太弟。",
+        "period": "926—930年及身后追谥",
+        "category": "人物与继承",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 10,
+      "independentReview": "completed",
+      "counts": {
+        "partial": 4,
+        "covered": 3,
+        "corrected": 3
+      },
+      "legacyDraftSlug": "yelu-bei-sea",
+      "file": "data/narratives/yelu-bei.ts",
+      "reviewFile": "yelu-bei-review.json",
+      "reviewReport": "cross-review-old-liao.md"
+    },
+    {
+      "queueIds": [
+        "L08"
+      ],
+      "slug": "yelu-deguang-bianjing",
+      "exportName": "deguangBianjing",
+      "summary": {
+        "slug": "yelu-deguang-bianjing",
+        "seriesId": "liao",
+        "title": "耶律德光入汴，为何又撤了回来",
+        "subtitle": "两个条件、一个国号与三条亲口的检讨",
+        "summary": "从石敬瑭的称子割地写到灭晋入汴、改号大辽、打草谷与括借激起反抗，北归途中黎阳渡自述三失，病逝栾城。",
+        "period": "936—947年",
+        "category": "战役 · 制度 · 外交",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 16,
+      "independentReview": "completed",
+      "counts": {
+        "covered": 9,
+        "partial": 2,
+        "corrected": 5
+      },
+      "legacyDraftSlug": "yelu-deguang-kaifeng",
+      "file": "data/narratives/deguang-bianjing.ts",
+      "reviewFile": "yelu-deguang-bianjing-review.json",
+      "reviewReport": "cross-review-old-liao.md"
+    },
+    {
+      "queueIds": [
+        "L09"
+      ],
+      "slug": "yelu-wuzhi-hengdu",
+      "exportName": "yeluWuzhiHengdu",
+      "summary": {
+        "slug": "yelu-wuzhi-hengdu",
+        "seriesId": "liao",
+        "title": "横渡的筹：耶律屋质怎样拦住一场内战",
+        "subtitle": "祖母、孙子与被扣作人质的家人",
+        "summary": "太宗死后，军中拥立耶律阮，述律平力保李胡；耶律屋质奔走两营，把皇位之争拉回到双方将付出的真实代价。",
+        "period": "947年及后续",
+        "category": "宫廷与调停",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 19,
+      "independentReview": "completed",
+      "counts": {
+        "covered": 10,
+        "not-needed": 1,
+        "partial": 4,
+        "corrected": 4
+      },
+      "file": "data/narratives/yelu-wuzhi-hengdu.ts",
+      "reviewFile": "yelu-wuzhi-hengdu-review.json",
+      "reviewReport": "cross-review-old-liao.md"
+    },
+    {
+      "queueIds": [
+        "L10"
+      ],
+      "slug": "shizong-huoshendian",
+      "exportName": "shizongHuoshendian",
+      "summary": {
+        "slug": "shizong-huoshendian",
+        "seriesId": "liao",
+        "title": "紫袍脱下之后：火神淀的弑君与平乱",
+        "subtitle": "世宗的宽纵、察割的眼泪与屋质重新聚起的军队",
+        "summary": "几次被宽宥的谋反没有消散。951年的南征途中，察割杀死世宗，屋质换下紫袍逃出，再把迟疑的寿安王和四散的宿卫重新组织起来。",
+        "period": "947—951年",
+        "category": "宫廷与政变",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 46,
+      "independentReview": "completed",
+      "counts": {
+        "covered": 13,
+        "partial": 22,
+        "corrected": 10,
+        "not-needed": 1
+      },
+      "file": "data/narratives/shizong-huoshendian.ts",
+      "reviewFile": "shizong-huoshendian-review.json",
+      "reviewReport": "cross-review-old-liao.md"
+    },
+    {
+      "queueIds": [
+        "L11"
+      ],
+      "slug": "muzong-black-mountain",
+      "file": "data/narratives/muzong-black-mountain.ts",
+      "exportName": "muzongBlackMountain",
+      "summary": {
+        "slug": "muzong-black-mountain",
+        "seriesId": "liao",
+        "title": "睡王的宫廷与黑山之变",
+        "subtitle": "睡王的十八年，与怀州行宫的最后一夜",
+        "summary": "穆宗在位十八年，本纪两卷不过四千余字：酗酒、许官、叛乱与杀戮占满纸页；屋质、挞烈支撑国政；应历十九年，猎罢欢饮的皇帝死于怀州行宫近侍之手。",
+        "period": "951—969年",
+        "category": "继承与宫廷",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 27,
+      "counts": {
+        "covered": 8,
+        "not-needed": 1,
+        "partial": 14,
+        "corrected": 4
+      },
+      "reviewFile": "muzong-black-mountain-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao.md"
+    },
+    {
+      "queueIds": [
+        "L12"
+      ],
+      "slug": "jingzong-frail-court",
+      "file": "data/narratives/jingzong-frail-court.ts",
+      "exportName": "jingzongFrailCourt",
+      "summary": {
+        "slug": "jingzong-frail-court",
+        "seriesId": "liao",
+        "title": "病弱的景宗与被他启用的人",
+        "subtitle": "从柴堆里活下来的孩子，到替他断国的皇后",
+        "summary": "景宗幼遭火神淀之乱，即位后婴风疾，在位十三年。他起用萧思温、高勋、韩匡嗣，纳郭袭之谏，屋质得善终；又谕史馆书皇后言亦称“朕”，国事渐决于萧绰。",
+        "period": "969—982年",
+        "category": "继承与宫廷",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 41,
+      "counts": {
+        "partial": 16,
+        "corrected": 10,
+        "covered": 13,
+        "not-needed": 2
+      },
+      "reviewFile": "jingzong-frail-court-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao.md"
+    },
+    {
+      "queueIds": [
+        "L13"
+      ],
+      "slug": "sixteen-prefectures-barrier",
+      "file": "data/narratives/sixteen-prefectures-barrier.ts",
+      "exportName": "sixteenPrefecturesBarrier",
+      "summary": {
+        "slug": "sixteen-prefectures-barrier",
+        "seriesId": "liao",
+        "title": "十六州究竟挡住了什么",
+        "subtitle": "一张需要对照古今的地名清单",
+        "summary": "把幽云十六州逐州对回今地，分出山前七州与山后九州，再看辽宋战争为什么反复奔向幽州，以及哪些说法超出了地理能解释的范围。",
+        "period": "936—986年背景",
+        "category": "地理 · 边防",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 15,
+      "counts": {
+        "covered": 10,
+        "partial": 2,
+        "corrected": 3
+      },
+      "reviewFile": "sixteen-prefectures-barrier-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao.md"
+    },
+    {
+      "queueIds": [
+        "L14"
+      ],
+      "slug": "northern-han-buffer",
+      "file": "data/narratives/northern-han-buffer.ts",
+      "exportName": "northernHanBuffer",
+      "summary": {
+        "slug": "northern-han-buffer",
+        "seriesId": "liao",
+        "title": "夹在辽宋之间的北汉",
+        "subtitle": "太原城下的援兵，与一个“侄皇帝”小国的二十八年",
+        "summary": "北汉自周广顺元年称帝，历四主二十九年而亡。辽以叔父自居，屡次出兵援汉拒周拒宋：后周高平、忻口，宋两伐太原，979年白马岭一败，援绝国灭。",
+        "period": "951—979年",
+        "category": "战役 · 外交",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 51,
+      "counts": {
+        "covered": 17,
+        "corrected": 10,
+        "partial": 24
+      },
+      "reviewFile": "northern-han-buffer-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao.md"
+    },
+    {
+      "queueIds": [
+        "L15"
+      ],
+      "slug": "gaolianghe-relief",
+      "file": "data/narratives/gaolianghe-relief.ts",
+      "exportName": "gaoliangheRelief",
+      "summary": {
+        "slug": "gaolianghe-relief",
+        "seriesId": "liao",
+        "title": "高梁河：城墙、地道与换旗的援军",
+        "subtitle": "两翼援兵赶到，城下的连胜在一夜之间逆转",
+        "summary": "979年宋军平北汉后攻幽州，韩德让与耶律学古守城，斜轸取败军青旗诱敌，休哥与他分翼击破宋军。地道、夜袭与负伤追击都有具体出处；双炬和杨业救驾则需分清叙事层次。",
+        "period": "979年",
+        "category": "战役",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 45,
+      "counts": {
+        "partial": 28,
+        "corrected": 6,
+        "not-needed": 2,
+        "covered": 9
+      },
+      "reviewFile": "gaolianghe-relief-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao.md"
+    },
+    {
+      "queueIds": [
+        "L16"
+      ],
+      "slug": "waqiao-succession",
+      "file": "data/narratives/waqiao-succession.ts",
+      "exportName": "waqiaoSuccession",
+      "summary": {
+        "slug": "waqiao-succession",
+        "seriesId": "liao",
+        "title": "高梁河之后：瓦桥关与景宗托孤",
+        "subtitle": "瓦桥关的三捷，焦山的遗诏，与幼主身边的三位重臣",
+        "summary": "980年景宗亲征瓦桥关，休哥三捷拜于越；两年后景宗崩于焦山。斜轸与韩德让受顾命，萧太后摄政，休哥负责南边军务，幼主隆绪的继位由此获得支撑。",
+        "period": "980—982年",
+        "category": "战役 · 继承",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 13,
+      "counts": {
+        "covered": 6,
+        "not-needed": 1,
+        "partial": 5,
+        "corrected": 1
+      },
+      "reviewFile": "waqiao-succession-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao.md"
+    },
+    {
+      "queueIds": [
+        "L17"
+      ],
+      "slug": "han-derang-power",
+      "file": "data/narratives/han-derang-power.ts",
+      "exportName": "hanDerangPower",
+      "summary": {
+        "slug": "han-derang-power",
+        "seriesId": "liao",
+        "title": "韩德让为何能进入皇族的权力中心",
+        "subtitle": "顾命臣、皇族谱与乾陵旁的画像",
+        "summary": "韩德让辅立幼主、总领宿卫，后来赐姓耶律、出宫籍、隶季父房。《契丹国志》还记下父礼、问起居与御容殿画像；这些特殊礼遇，与萧绰的婚约传闻须分别理解。",
+        "period": "982—1011年",
+        "category": "人物 · 制度",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 36,
+      "counts": {
+        "corrected": 12,
+        "covered": 15,
+        "partial": 8,
+        "not-needed": 1
+      },
+      "reviewFile": "han-derang-power-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao.md"
+    },
+    {
+      "queueIds": [
+        "L18"
+      ],
+      "slug": "yongxi-eastern-route",
+      "file": "data/narratives/yongxi-eastern-route.ts",
+      "exportName": "yongxiEasternRoute",
+      "summary": {
+        "slug": "yongxi-eastern-route",
+        "seriesId": "liao",
+        "title": "雍熙北伐东路：军粮、争功与岐沟关",
+        "subtitle": "最能打的援军不肯接战，最强的主力被拖到溃散",
+        "summary": "986年宋军三路伐辽：曹彬东路持重缓行却中途变阵，休哥以轻骑绝粮道耗敌，太后与圣宗亲征，岐沟关一战东路主力崩溃——宋人从此怕听到“于越至矣”。",
+        "period": "986年",
+        "category": "战役",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 41,
+      "counts": {
+        "corrected": 14,
+        "covered": 13,
+        "partial": 14
+      },
+      "reviewFile": "yongxi-eastern-route-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao.md"
+    },
+    {
+      "queueIds": [
+        "L19"
+      ],
+      "slug": "chenjiagu",
+      "file": "data/narratives/chenjiagu.ts",
+      "exportName": "chenjiagu",
+      "summary": {
+        "slug": "chenjiagu",
+        "seriesId": "liao",
+        "title": "陈家谷没有等来的援军",
+        "subtitle": "三州撤民的方案，一句诛心话，与无人接应的谷口",
+        "summary": "东路败后，杨业提出以大石路、石碣谷分段接出三州百姓；王侁激其出战，陈家谷援军提前离开。杨业力战被擒、不食三日死，潘美与两名监军分别受罚。",
+        "period": "986年",
+        "category": "战役 · 人物",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 28,
+      "counts": {
+        "corrected": 11,
+        "covered": 8,
+        "partial": 9
+      },
+      "reviewFile": "chenjiagu-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao.md"
+    },
+    {
+      "queueIds": [
+        "L20"
+      ],
+      "slug": "xiulunhe-yinjilun",
+      "file": "data/narratives/xiulunhe-yinjilun.ts",
+      "exportName": "xiulunheYinjilun",
+      "summary": {
+        "slug": "xiulunhe-yinjilun",
+        "seriesId": "liao",
+        "title": "名将也会轻敌：休哥与尹继伦",
+        "subtitle": "被大军无视的一千人，与“当避黑面大王”",
+        "summary": "989年徐河之战：休哥数万骑南下，从巡边小队尹继伦身边“不击而过”；尹继伦衔枚尾随，趁其会食纵击，休哥中臂先遁——契丹军从此相戒“当避黑面大王”。",
+        "period": "989年及身后",
+        "category": "战役 · 人物",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 22,
+      "counts": {
+        "corrected": 8,
+        "covered": 7,
+        "partial": 6,
+        "not-needed": 1
+      },
+      "reviewFile": "xiulunhe-yinjilun-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao.md"
+    },
+    {
+      "queueIds": [
+        "L21"
+      ],
+      "slug": "wang-jizhong",
+      "file": "data/narratives/wang-jizhong.ts",
+      "exportName": "wangJizhong",
+      "summary": {
+        "slug": "wang-jizhong",
+        "seriesId": "liao",
+        "title": "王继忠：两朝之间的说客",
+        "subtitle": "父戍瓦桥关，子陷望都城，身后成了一场和议的引线",
+        "summary": "真宗藩邸旧臣王继忠，咸平六年望都之战被围不援、陷于契丹；真宗为他追赠立子，辽太后以康默记族女妻之——两年后，澶渊议和的信从他手里递出。",
+        "period": "1003—1004年及身后",
+        "category": "人物 · 外交",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 17,
+      "counts": {
+        "partial": 5,
+        "corrected": 2,
+        "not-needed": 5,
+        "covered": 5
+      },
+      "reviewFile": "wang-jizhong-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao-l21-l33.md"
+    },
+    {
+      "queueIds": [
+        "L22"
+      ],
+      "slug": "chanzhou-crisis",
+      "file": "data/narratives/chanzhou-crisis.ts",
+      "exportName": "chanzhouCrisis",
+      "summary": {
+        "slug": "chanzhou-crisis",
+        "seriesId": "liao",
+        "title": "澶州危局：皇帝过河以前与以后",
+        "subtitle": "迁都的声浪、一记辇背，与床子弩上的那一箭",
+        "summary": "1004年辽军破德清军、次澶渊，迁都之议四起；寇准固请渡河，高琼执挝筑辇，真宗登北城；张绬床子弩潜发，萧挞凛中额陨——和议从此开始。",
+        "period": "1004年",
+        "category": "战役 · 决策",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 33,
+      "counts": {
+        "covered": 16,
+        "partial": 8,
+        "corrected": 7,
+        "not-needed": 1,
+        "uncertain": 1
+      },
+      "reviewFile": "chanzhou-crisis-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao-l21-l33.md"
+    },
+    {
+      "queueIds": [
+        "L23"
+      ],
+      "slug": "cao-liyong-treaty",
+      "file": "data/narratives/cao-liyong-treaty.ts",
+      "exportName": "caoLiyongTreaty",
+      "summary": {
+        "slug": "cao-liyong-treaty",
+        "seriesId": "liao",
+        "title": "曹利用的三十万与盟约之后",
+        "subtitle": "一道斩令、三根手指，与一百二十年的边界",
+        "summary": "从真宗“虽百万亦可”到寇准“过三十万准将斩汝”，三指加颊的误传，到岁币银绢各如其数、兄弟之国与雄州榷场——澶渊之盟逐条拆开看。",
+        "period": "1004—1005年",
+        "category": "外交 · 和约",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 30,
+      "counts": {
+        "partial": 6,
+        "not-needed": 2,
+        "covered": 18,
+        "corrected": 4
+      },
+      "reviewFile": "cao-liyong-treaty-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao-l21-l33.md"
+    },
+    {
+      "queueIds": [
+        "L24"
+      ],
+      "slug": "shengzong-chaimu",
+      "file": "data/narratives/shengzong-chaimu.ts",
+      "exportName": "shengzongChaimu",
+      "summary": {
+        "slug": "shengzong-chaimu",
+        "seriesId": "liao",
+        "title": "圣宗亲政与燔柴礼的完整过程",
+        "subtitle": "一次辞让、一场驰马，与九个替身的传说",
+        "summary": "太后韩德让相继谢幕后圣宗亲政。《辽史·礼志》的柴册仪逐环拆解——再生室、八部之叟、拜日驰马、封土石志、升坛受册；十帐九替身属宋人使辽记录，辞让只此一次。",
+        "period": "1009—1011年及礼制",
+        "category": "制度 · 礼仪",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 17,
+      "counts": {
+        "covered": 5,
+        "partial": 6,
+        "not-needed": 3,
+        "corrected": 3
+      },
+      "reviewFile": "shengzong-chaimu-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao-l21-l33.md"
+    },
+    {
+      "queueIds": [
+        "L25"
+      ],
+      "slug": "shengzong-seal-poem",
+      "file": "data/narratives/shengzong-seal-poem.ts",
+      "exportName": "shengzongSealPoem",
+      "summary": {
+        "slug": "shengzong-seal-poem",
+        "seriesId": "liao",
+        "title": "玉玺诗里的天下与圣宗的身后评价",
+        "subtitle": "一方传国玺，一首六句诗，与“守成之令主”",
+        "summary": "相传辽圣宗咏传国玺“中原既失守，此宝归北方”——从玺的传说化传承，到圣宗一朝的治绩评价与身后交棒，收束辽03全卷。",
+        "period": "11世纪初及身后",
+        "category": "诗文 · 史观",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 12,
+      "counts": {
+        "covered": 4,
+        "corrected": 5,
+        "uncertain": 1,
+        "partial": 1,
+        "not-needed": 1
+      },
+      "reviewFile": "shengzong-seal-poem-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao-l21-l33.md"
+    },
+    {
+      "queueIds": [
+        "L26"
+      ],
+      "slug": "xingzong-two-mothers",
+      "file": "data/narratives/xingzong-two-mothers.ts",
+      "exportName": "xingzongTwoMothers",
+      "summary": {
+        "slug": "xingzong-two-mothers",
+        "seriesId": "liao",
+        "title": "兴宗的两位母亲",
+        "subtitle": "菩萨哥的沐浴赴死，与萧耨斤的“黝面狠视”",
+        "summary": "养母菩萨哥被诬赐死，生母萧耨斤把持摄政。银带赏赐引出母子冲突，重元告密后兴宗收回符玺；迎母归来，也没有消除戒备。",
+        "period": "1031—1037年及身后",
+        "category": "宫廷 · 继承",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 60,
+      "counts": {
+        "partial": 26,
+        "covered": 20,
+        "not-needed": 5,
+        "corrected": 9
+      },
+      "reviewFile": "xingzong-two-mothers-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao-l21-l33.md"
+    },
+    {
+      "queueIds": [
+        "L27"
+      ],
+      "slug": "chongxi-tribute-war",
+      "file": "data/narratives/chongxi-tribute-war.ts",
+      "exportName": "chongxiTributeWar",
+      "summary": {
+        "slug": "chongxi-tribute-war",
+        "seriesId": "liao",
+        "title": "从重熙增币到对夏败战",
+        "subtitle": "索十县的交涉赢了账面，河曲的沙地输了体面",
+        "summary": "1042年辽索关南十县，宋以增岁币二十万维持边界。两年后兴宗亲征西夏，元昊退兵焚草，辽军又遭风沙乱阵，皇帝带少数骑兵逃走。",
+        "period": "1042—1044年",
+        "category": "外交 · 战役",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 12,
+      "counts": {
+        "partial": 3,
+        "covered": 6,
+        "corrected": 3
+      },
+      "reviewFile": "chongxi-tribute-war-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao-l21-l33.md"
+    },
+    {
+      "queueIds": [
+        "L28"
+      ],
+      "slug": "luoyiqing-shuanglu",
+      "file": "data/narratives/luoyiqing-shuanglu.ts",
+      "exportName": "luoyiqingShuanglu",
+      "summary": {
+        "slug": "luoyiqing-shuanglu",
+        "seriesId": "liao",
+        "title": "罗衣轻、双陆赌城与兴宗的失意",
+        "subtitle": "“和你都输去也”“且观鼻在否”，与伶官的两句救命话",
+        "summary": "罗衣轻以一句双陆戏语劝止皇帝赌城，又在败战后拿鼻子和唐太宗讥刺兴宗。优人能说大臣不敢说的话，也要冒被杀的危险。",
+        "period": "1044年前后",
+        "category": "人物 · 宫廷",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 25,
+      "counts": {
+        "covered": 6,
+        "partial": 14,
+        "corrected": 1,
+        "not-needed": 4
+      },
+      "reviewFile": "luoyiqing-shuanglu-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao-l21-l33.md"
+    },
+    {
+      "queueIds": [
+        "L29"
+      ],
+      "slug": "huangtaishu-rebellion",
+      "file": "data/narratives/huangtaishu-rebellion.ts",
+      "exportName": "huangtaishuRebellion",
+      "summary": {
+        "slug": "huangtaishu-rebellion",
+        "seriesId": "liao",
+        "title": "皇太弟没有等到的皇位",
+        "subtitle": "免拜不名的皇太叔，与车阵后面那一箭",
+        "summary": "重元由皇太弟改皇太叔，1063年却与涅鲁古起兵突袭行宫。耶律良示警，仁先以车阵拒敌，叛军主谋被射杀；平乱又推高了乙辛的权位。",
+        "period": "1055—1063年",
+        "category": "宫廷 · 战役",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 40,
+      "counts": {
+        "partial": 12,
+        "covered": 18,
+        "not-needed": 3,
+        "corrected": 7
+      },
+      "reviewFile": "huangtaishu-rebellion-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao-l21-l33.md"
+    },
+    {
+      "queueIds": [
+        "L30"
+      ],
+      "slug": "yeluyixin-power",
+      "file": "data/narratives/yeluyixin-power.ts",
+      "exportName": "yeluyixinPower",
+      "summary": {
+        "slug": "yeluyixin-power",
+        "seriesId": "liao",
+        "title": "耶律乙辛怎样把权力握在手里",
+        "subtitle": "羖羊角尾的王字、食月的梦，与“无百万两黄金不足为宰相家”",
+        "summary": "乙辛从贫寒牧民之子进入宫廷，平乱后进封魏王。他先帮助仁先留朝，后来又排挤这位老臣；张孝杰等人结党，使谄媚与构陷侵入储位。",
+        "period": "1063年前后—大康初",
+        "category": "人物 · 权臣",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 30,
+      "counts": {
+        "partial": 13,
+        "covered": 9,
+        "corrected": 5,
+        "not-needed": 3
+      },
+      "reviewFile": "yeluyixin-power-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao-l21-l33.md"
+    },
+    {
+      "queueIds": [
+        "L31"
+      ],
+      "slug": "xiao-guanyin-supplement",
+      "file": "data/narratives/xiao-guanyin-supplement.ts",
+      "exportName": "xiaoGuanyinSupplement",
+      "summary": {
+        "slug": "xiao-guanyin-supplement",
+        "seriesId": "liao",
+        "title": "萧观音：诗文怎样变成罪证",
+        "subtitle": "梦月坠怀、伏虎林应制，与“曾窥飞鸟入昭阳”",
+        "summary": "月食梦兆与伏虎林应制诗写出萧观音的才名；《回心院》寄托望幸，《十香词》却被设作圈套，怀古诗三个字最终被摘来构陷她。",
+        "period": "1040—1075年",
+        "category": "人物 · 诗文",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 21,
+      "counts": {
+        "covered": 4,
+        "partial": 11,
+        "corrected": 6
+      },
+      "reviewFile": "xiao-guanyin-supplement-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao-l21-l33.md"
+    },
+    {
+      "queueIds": [
+        "L32"
+      ],
+      "slug": "taizi-harmed",
+      "file": "data/narratives/taizi-harmed.ts",
+      "exportName": "taiziHarmed",
+      "summary": {
+        "slug": "taizi-harmed",
+        "seriesId": "liao",
+        "title": "太子被害之后：皇孙的生路与乙辛败亡",
+        "subtitle": "上京的囚所、萧兀纳的谏言，与铁骨朵加身",
+        "summary": "耶律燕哥把太子的申辩改成认罪，浚在上京被害，妻子也遭灭口。萧兀纳保护皇孙，乙辛最终以禁物交易、谋奔宋及藏甲败亡，延禧则在1101年继位。",
+        "period": "1075—1101年",
+        "category": "宫廷 · 权臣",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 25,
+      "counts": {
+        "covered": 9,
+        "partial": 10,
+        "corrected": 3,
+        "not-needed": 3
+      },
+      "reviewFile": "taizi-harmed-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao-l21-l33.md"
+    },
+    {
+      "queueIds": [
+        "L33"
+      ],
+      "slug": "tianzuo-accession",
+      "file": "data/narratives/tianzuo-accession.ts",
+      "exportName": "tianzuoAccession",
+      "summary": {
+        "slug": "tianzuo-accession",
+        "seriesId": "liao",
+        "title": "天祚即位：平反与被赶走的谏臣",
+        "subtitle": "追谥顺宗、剖棺戮尸，与黄龙府看到的磨刀人",
+        "summary": "天祚为祖母和父母平反，清算乙辛党，却出现受贿宽免。萧兀纳因直谏遭贬，1111年在黄龙府再警告女真将变，奏章仍未被采纳。",
+        "period": "1101—1111年",
+        "category": "宫廷 · 外患",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 18,
+      "counts": {
+        "covered": 7,
+        "not-needed": 1,
+        "corrected": 3,
+        "partial": 7
+      },
+      "reviewFile": "tianzuo-accession-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-old-liao-l21-l33.md"
+    },
+    {
+      "queueIds": [
+        "L34"
+      ],
+      "slug": "haidongqing-touyu",
+      "file": "data/narratives/haidongqing-touyu.ts",
+      "exportName": "haidongqingTouyu",
+      "summary": {
+        "slug": "haidongqing-touyu",
+        "seriesId": "liao",
+        "title": "海东青、头鱼宴与阿骨打起兵",
+        "subtitle": "拒舞、从猎与迟来的授官，如何走向公开决裂",
+        "summary": "海东青贡赋与使者扰害积下怨愤；头鱼宴拒舞、从猎受赏、授官迟延与索还阿疏的冲突，在宁江州起兵之前逐层展开。",
+        "period": "1112—1114年",
+        "category": "外患 · 起兵",
+        "eventIds": [],
+        "personIds": []
+      },
+      "recordCount": 22,
+      "counts": {
+        "covered": 7,
+        "not-needed": 3,
+        "corrected": 3,
+        "partial": 9
+      },
+      "reviewFile": "haidongqing-touyu-review.json",
+      "independentReview": "completed",
+      "reviewReport": "cross-review-l34.md"
+    }
+  ],
+  "note": "实际注册L01—L34及独立逐段复核；旧草拟别名以legacyDraftSlug保存，不重复注册。L35—52见finish-liao-manifest。"
+}

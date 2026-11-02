@@ -1,0 +1,307 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：S24：已完整阅读本篇所列原段，对照正文及列明原典逐段自审；子代理起草，主代理已独立阅读全文原段、原典与逐段台账并完成交叉复核；页面验证待补。未回听音频；基线保持不变。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "partial": 11,
+    "covered": 8,
+    "not-needed": 1,
+    "corrected": 4,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "baling"
+      ],
+      "note": "以550起交锋、551反攻写真实节奏，未将萧绎内心准备充足当原话。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "baling",
+        "allied-fleet"
+      ],
+      "note": "任约宋子仙与王僧辩陈霸先具体分工展开，佛教名字泛论未扩展。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "allied-fleet"
+      ],
+      "note": "陈霸先由岭南参加平乱到扩大力量有承接；南越王类比非本篇。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [],
+      "note": "南越王与越南王口播插话不纳。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "allied-fleet"
+      ],
+      "note": "具体梁军反攻，不把北齐西魏都称同时一体围攻侯景。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "baling",
+        "allied-fleet"
+      ],
+      "note": "反攻确实推进，不采用全宇宙敌人的夸张表达。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "baling"
+      ],
+      "note": "任约为胡僧祐陆法和俘而获赦，宋子仙另被周铁虎擒送江陵处死，非王僧辩一概杀二人。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "baling",
+        "allied-fleet"
+      ],
+      "note": "侯景水陆受挫后退建康，补战术和粮食原因。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "forced-succession"
+      ],
+      "note": "败后急于称帝和先废简文明确写出。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "forced-succession"
+      ],
+      "note": "非正绪作为侯景逼写废位诏的理由，不当客观应废判决。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "forced-succession"
+      ],
+      "note": "萧纲被废为晋安王、萧栋为萧统孙，非另废一个晋安皇帝；强制禅代性质写明。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "last-cup"
+      ],
+      "note": "承接萧纲遇害，萧宝融吞金故事已在前篇限制，本篇不重放。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "last-cup"
+      ],
+      "note": "上寿酒未称毒酒；酒醉后彭雋王修纂以土囊压杀，非王伟亲手压杀。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "last-cup"
+      ],
+      "note": "551十一月萧栋禅位、汉国太始明确写出。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "last-cup"
+      ],
+      "note": "补侯景551年国号汉与220年东汉禅代相距三百多年；汉号的政治使用可讲，单凭一例不证明所有北方族群认同、刘氏血统，泛论部分研究关闭。",
+      "resolution": "body-added",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "partial",
+      "assessment": "uncertain",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "flight"
+      ],
+      "note": "东逃、二子皮囊、松江转船有原典；徐途之/舟山等转写候选未回听，不强定。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "flight"
+      ],
+      "note": "推二子入水有记，给士兵让位和收买人心的动机无据不纳。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "flight"
+      ],
+      "note": "羊鶤命转京口、侯景醒后反应与被杀写完整。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "flight"
+      ],
+      "note": "首送江陵、手送齐、煮漆首级入武库，非手漆收藏；争食记述明示史源。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "wang-wei-poem",
+        "old-proclamation"
+      ],
+      "note": "萧绎掌主盟、王伟求生，未说将所有党徒一概杀尽。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "wang-wei-poem",
+        "old-proclamation"
+      ],
+      "note": "补短诗全文及译意，另呈五百字诗，才爱与旧檄文转折分开。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "old-proclamation"
+      ],
+      "note": "只写檄文实际重瞳比喻，不扩写项羽板肋传说。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "old-proclamation"
+      ],
+      "note": "王伟旧檄文以独眼攻击萧绎，语境写明。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "old-proclamation"
+      ],
+      "note": "记酷刑处死，未添加无来源对话。"
+    },
+    {
+      "file": "南朝05_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "hou-jing-defeat",
+      "sectionIds": [
+        "old-proclamation"
+      ],
+      "note": "前半王伟结局与近四年战争终止承接；后半社会破坏另见S25，未称全局立即安定。"
+    }
+  ],
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "南朝05_clean_v1.md",
+        "paragraph": "P121",
+        "resolution": "body-added"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

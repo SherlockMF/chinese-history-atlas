@@ -1,10 +1,11 @@
 import "server-only";
 
-// The current AI contract is limited to the Five Dynasties series.
+// Timeline event retrieval retains the Five Dynasties contract; stories span all series.
 import { fiveDynastiesSeedData as seedData } from "@/data/seed/five-dynasties";
 import { MAX_YEAR, TIMELINE_MIN_YEAR } from "@/lib/history/year-range";
 import type { RetrievedEvidence } from "@/types/ai";
 import type { HistoricalEvent, SourcedEntity } from "@/types/history";
+import { retrieveNarratives } from "./narrative-retriever";
 
 import type {
   KnowledgeRetriever,
@@ -332,6 +333,8 @@ function contextualField(query: string): BodyField | undefined {
 }
 
 export class LocalHistoryRetriever implements KnowledgeRetriever {
+  constructor(private readonly options: { includeNarratives?: boolean } = {}) {}
+
   async retrieve(
     rawQuery: string,
     context: LocalHistoryRetrievalContext,
@@ -356,7 +359,8 @@ export class LocalHistoryRetriever implements KnowledgeRetriever {
     const field = contextualField(query);
     // Only resolve a complete deictic question, never arbitrary text sharing a pronoun.
     const routeEventId = context.currentPage?.match(/^\/explore\/([a-z0-9-]+)\/?$/)?.[1];
-    const contextEvent = field && seedData.events.find((event) => event.id === (routeEventId ?? context.selectedEvent));
+    const storyPage = /^\/series\/[^/]+\/stories\//.test(context.currentPage ?? "");
+    const contextEvent = field && !storyPage && seedData.events.find((event) => event.id === (routeEventId ?? context.selectedEvent));
     if (contextEvent) {
       return {
         chunks: [{ id: contextEvent.id, sourceId: `history-event:${contextEvent.id}`, people: [...contextEvent.personIds], dynasties: [...contextEvent.dynastyIds], events: [contextEvent.id], yearStart: contextEvent.startYear, yearEnd: contextEvent.endYear ?? contextEvent.startYear }],
@@ -418,6 +422,9 @@ export class LocalHistoryRetriever implements KnowledgeRetriever {
       selectedIds.add(match.event.id);
     }
 
+    const stories = this.options.includeNarratives === false ? { chunks: [], evidence: [], excerptsForServerPrompt: [] }
+      : retrieveNarratives(boundedQuery, context, resultLimit, signal);
+    if (stories.evidence.length && (!matches.length || /^\/series\/[^/]+\/stories\//.test(context.currentPage ?? ""))) return stories;
     return {
       chunks: matches.map(({ event }) => ({
         id: event.id,

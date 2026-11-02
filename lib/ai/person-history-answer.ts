@@ -48,7 +48,7 @@ function matchesKinship(relation: PersonRelation, person: Person, question: stri
 }
 
 async function resolveEvent(person: Person, message: string, history: PersonChatMessage[], signal: AbortSignal) {
-  const retriever = new LocalHistoryRetriever();
+  const retriever = new LocalHistoryRetriever({ includeNarratives: false });
   const context = { selectedPerson: person.id, currentPage: "/people" };
   const ownEvents = seedData.events.filter((event) => event.personIds.includes(person.id)).sort((a, b) => a.startYear - b.startYear);
   let selected: HistoricalEvent | undefined;

@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-30",
+  "method": "完整读完指定原段，对照古籍本纪、列传与通鉴逐段核实正文。兵数、战果及败因异文保留史源口径；无据对白、同伏地点和反事实不冒充覆盖。未回听录音。",
+  "counts": {
+    "corrected": 8,
+    "covered": 1,
+    "partial": 2
+  },
+  "rows": [
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaoguan-battle",
+      "sectionIds": [
+        "three-roads"
+      ],
+      "note": "小关会战明确为537正月、出兵在536末，此时元修已死，纠正534追元修就是本战的混合。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaoguan-battle",
+      "sectionIds": [
+        "three-roads",
+        "secret-march"
+      ],
+      "note": "保留三路部署，区分高欢蒲津、窦泰潼关方向、高敖曹上洛；不是三路同攻同一潼关城门。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaoguan-battle",
+      "sectionIds": [
+        "three-roads",
+        "secret-march"
+      ],
+      "note": "高昂字敖曹进攻上洛、小关战事与潼关方向分清；不把小关和潼关说成同地异名，兵力有限由周书六千骑具体承接。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiaoguan-battle",
+      "sectionIds": [
+        "three-roads"
+      ],
+      "note": "三路统将、进军方向及西魏三面受敌的压力明确；诸将不同意见在后节继续展开，不以笼统慌乱代替。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaoguan-battle",
+      "sectionIds": [
+        "choose-dou-tai",
+        "three-roads"
+      ],
+      "note": "高欢三浮桥、为何不先攻蒲坂及诸将建议分兵有据；判断牵制与先击窦泰首先由宇文泰提出，不虚构先有无名谋臣献策。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaoguan-battle",
+      "sectionIds": [
+        "choose-dou-tai",
+        "secret-march"
+      ],
+      "note": "主动潜出小关抢攻未成阵者，纠正始终坚守潼关城以逸待劳的战法。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaoguan-battle",
+      "sectionIds": [
+        "three-roads",
+        "choose-dou-tai",
+        "secret-march"
+      ],
+      "note": "高澄改为高敖曹；直攻高欢而窦泰救之的前后受敌危险依宇文深分析，非三路必定同来合围。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaoguan-battle",
+      "sectionIds": [
+        "choose-dou-tai",
+        "secret-march",
+        "bridge-and-defeat"
+      ],
+      "note": "先攻窦泰与高欢持重未即救的战前判断、实际冰薄未救分层；没有高昂必须等高欢命令才救或高欢认袭窦为佯攻的确证。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaoguan-battle",
+      "sectionIds": [
+        "choose-dou-tai",
+        "secret-march",
+        "bridge-and-defeat"
+      ],
+      "note": "宇文深具体进言保留，补宇文泰先有其计、苏绰达奚武支持；袭击与窦泰败亡展开，不将全策独归深。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiaoguan-battle",
+      "sectionIds": [
+        "secret-march",
+        "bridge-and-defeat",
+        "other-front"
+      ],
+      "note": "窦泰败亡、自杀/斩杀异文及俘获万余分别写明；原段只说损失万余，未指全数战死，不将其另立错讹。畏惧军法或不愿被俘的自杀动机未获依据，仍保留缺口。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiaoguan-battle",
+      "sectionIds": [
+        "other-front"
+      ],
+      "note": "承接关中饥荒、就粮与再次出兵；原段大旱之因未核，不用旱灾替换原典饥的表述。高欢复仇动机未在本篇展开，沙苑篇另呈北齐书忿兵的史家归因。"
+    }
+  ]
+}

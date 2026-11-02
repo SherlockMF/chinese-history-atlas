@@ -1,0 +1,154 @@
+{
+  "date": "2026-09-30",
+  "method": "完整读隋中P181–185、P193–199十二段，对读隋书3、61、64、67、83与通鉴181，补写裴矩图记、608年追击、609年四郡与西巡、张定和战死、张掖迎会和西北转输。风雪时序保留两书差异；后世钟表只作有时代区分的类比。逐段判断未承接的心理推断、现代疆界与绝对排名，未回听音频。",
+  "counts": {
+    "partial": 9,
+    "corrected": 3
+  },
+  "rows": [
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-western-tour",
+      "sectionIds": [
+        "merchants-and-maps"
+      ],
+      "note": "承接由裴矩资料与劝说引向西域的具体过程；原段把动机概括为看周边不顺眼、拟说对白及父亲可汗称号未在本篇作为已证事实收入，吐谷浑读音插话不入正文。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-western-tour",
+      "sectionIds": [
+        "merchants-and-maps",
+        "rescue-and-pursuit"
+      ],
+      "note": "按史源校正为608年裴矩劝铁勒攻吐谷浑、伏允请降求救、宇文述至临羌后追击；不混作高昌攻击突厥，可汗用史载伏允，且区分兵败与永久灭国。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P183",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-western-tour",
+      "sectionIds": [
+        "rescue-and-pursuit"
+      ],
+      "note": "承接可汗逃亡、控制旧地与广大范围，以史书临羌、且末、祁连、雪山四至说明；原段现代山脉转写和精确边界尚未核定，不把史书里数换成现代地图线。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P184",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-western-tour",
+      "sectionIds": [
+        "rescue-and-pursuit",
+        "yanzi-reception",
+        "garrisons-and-return"
+      ],
+      "note": "补齐西海、河源、鄯善、且末四郡，明确609年设置、608年进兵在前；复地在隋末，非设郡后立即全部丢失，并展开驻守、转输与伏允复归。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-western-tour",
+      "sectionIds": [
+        "garrisons-and-return"
+      ],
+      "note": "承接西北转输负担和通鉴西方先困的判断，解释道路损失后继续追征；年羹尧类比未核，刮地三尺未照录，也不把史家评论当地区贫困统计。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P193",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-western-tour",
+      "sectionIds": [
+        "emperor-on-the-road"
+      ],
+      "note": "承接西巡并补出608年五原巡行与609年河右之行的区分；没有为原段整个隋朝疆域的总括另作完整边界论证。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P194",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-western-tour",
+      "sectionIds": [
+        "merchants-and-maps",
+        "emperor-on-the-road"
+      ],
+      "note": "承接接续统一成果、对吐谷浑用兵和经营西域；以图记和决策过程替代原段代入皇帝内心的拥有天下对白，该心理独白未获证。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P195",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "sui-western-tour",
+      "sectionIds": [
+        "emperor-on-the-road",
+        "homage-and-rule"
+      ],
+      "note": "说明589年灭陈在文帝朝、杨广以晋王统军，承接统一与后续远行的关系；对听众的如果我是皇帝便享乐问答不作真实动机，全部现代中国疆域的概括未沿用。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P196",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-western-tour",
+      "sectionIds": [
+        "yanzi-reception",
+        "homage-and-rule"
+      ],
+      "note": "核故宫钟写八方向化而非八方相化，明示清宫后世器物；以裴矩厚利邀会、国家与居民的迎驾安排承接来朝愿景，不把所有外国都已臣属作为事实。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P197",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-western-tour",
+      "sectionIds": [
+        "emperor-on-the-road",
+        "snow-in-the-pass",
+        "yanzi-reception"
+      ],
+      "note": "609年长安出发、陇西渡河经西平、山谷到张掖行程承接，并增风雪异文；原段不听就打的拟对白和笼统宗主关系未作为已证心理采用。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P198",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-western-tour",
+      "sectionIds": [
+        "emperor-on-the-road",
+        "snow-in-the-pass",
+        "yanzi-reception",
+        "garrisons-and-return"
+      ],
+      "note": "承接约半年、到张掖及展示国力，补出迎会与仍在战斗的事实；张掖关西四骏转写未回听核定，敢经过即全部稳定占领的推断不采。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P199",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-western-tour",
+      "sectionIds": [
+        "snow-in-the-pass",
+        "garrisons-and-return"
+      ],
+      "note": "西行到河西的距离与展示承接，增加约半年归程和危险；历代唯一或最远以及西辽比较未完成全时段核查，不据此给绝对排名。"
+    }
+  ]
+}

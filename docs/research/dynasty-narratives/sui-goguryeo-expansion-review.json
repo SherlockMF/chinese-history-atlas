@@ -1,0 +1,990 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：完整逐段通读隋中P201/P206—P208及隋下P001—P012/P019—P033/P074—P128共86段，对读隋书48/64/70/81/84、通鉴178/181/182、三国史记4及旧唐书199上，法源寺缘起另核寺院机构资料。区分军事行动、史家记述、主持反事实方案与文学插话；新增承接不等于全覆盖，残余与未决逐项说明。原612年六节及旧pilot账本保留，未将下P034—P069重复计入本账本。baseline原判照录，未回听音频。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "partial": 33,
+    "corrected": 24,
+    "not-covered": 1,
+    "covered": 25,
+    "not-needed": 1,
+    "uncertain": 2
+  },
+  "rows": [
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P201",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "border-empires"
+      ],
+      "note": "承接朝贡体系与高句丽冲突，并区分古国与今天版图；原段所谓比现在大未说明比较对象，未给出现代疆域面积比较。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P206",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "border-empires"
+      ],
+      "note": "写辽东与半岛北部、早期册封战争往来；按隋书将曹操亲征改为曹魏正始年间毌丘俭之役。未据原段绘制今辽宁吉林的精确行政边界。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P207",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "campaign-598",
+        "remembering-the-dead"
+      ],
+      "note": "承接598年三十万征而未克，分写陆海补给风疫；以668年唐军入平壤限定隋唐都未攻下的泛化。打清一词转写未回听，不延伸为清代与古高句丽的同一战争。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P208",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "remembering-the-dead",
+        "cost-and-command"
+      ],
+      "note": "承接悯忠寺即今法源寺、追荐东征将士及三征耗损与民变；寺院机构材料可核建寺缘起，未据它确认将全部阵亡将士遗骸运回幽州集中安葬的细节。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P001",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "border-empires",
+        "qimin-envoy",
+        "silla-appeal"
+      ],
+      "note": "写新罗百济各受册封遣使、仍各有政权，高句丽与启民通使；未把统一整个辽东作为已证实的高句丽王明确战略宣言。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P002",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [],
+      "note": "契丹与金衰败时退守辽东的过场未指名提议者与时点，不能自行指定某人来替主播补全。隋征辽的具体边境关系已有正文；不以辽东同地名算此类比的采用，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "border-empires",
+        "qimin-envoy"
+      ],
+      "note": "承接跨辽东与半岛的区域关系、高句丽与启民通使；未展开大兴安岭、长白山、蒙古高原与中原通道的现代地理组合。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "qimin-envoy"
+      ],
+      "note": "以启民表文规范为圣人莫缘可汗，写依隋复起的背景；限定为具体盟友的表文，不把尊称一概解释为所有突厥人被打怕。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "qimin-envoy"
+      ],
+      "note": "以启民实际依隋和部落立场不一限制单一报复心态的说法；未把转身袭隋的拟对白及砖头类比当作已证内心或事件。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "border-empires",
+        "silla-appeal"
+      ],
+      "note": "明确新罗百济当时仍各有政权并相互作战，纠正高句丽已经吞并两国；并写朝贡关系不等于隋已直接治理各国。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "border-empires",
+        "silla-appeal"
+      ],
+      "note": "承接隋帝借册封、来朝寻求对诸国的权威；黑帮保护费比喻未作为朝贡制度的完整解释，具体贡赐制度未展开。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "border-empires",
+        "campaign-598"
+      ],
+      "note": "写597年边境指控及598年高元侵辽西；补明撤军后隋书仍记岁遣朝贡，纠正表面臣服却一直不纳贡的绝对化。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "border-empires",
+        "campaign-598"
+      ],
+      "note": "展开文帝责书中辽水比长江、高句丽比陈及具体边境争端；明确现存责书没有禁止私通突厥一句，不拼入607年交涉。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "campaign-598"
+      ],
+      "note": "承接文帝出兵未完成征服与补给困难，具体用水潦、疫病、海上风暴；原段把寒冷列为此次退军原因，所核编年未记，未径补。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "campaign-598"
+      ],
+      "note": "写高元谢罪、杨坚受降恢复往来，说明杨广出兵有前史；未采用将杨素、高颎、韩擒虎、贺若弼一并列作598年在场威慑力量的描述，韩擒虎已于592年去世。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "campaign-598",
+        "silla-appeal"
+      ],
+      "note": "承接战争的政治和边境前因，并将有现实来由与是否应当采用如此规模亲征分开讨论；应该打保留为评价问题而非史实命令。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "qimin-envoy"
+      ],
+      "note": "写607年北巡至启民驻地并遇高句丽使者，规范启民之名；面部神态、如坐针毡及临场问话没有史料支持，未演成确定现场。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "qimin-envoy"
+      ],
+      "note": "承接启民不隐境外交涉、带高句丽使者相见；未核杨广当场发怒及逐句口语问答，不以戏拟对白充实史料。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "qimin-envoy",
+        "border-empires"
+      ],
+      "note": "以高元、启民的真实外交关系展开要求入朝，区分607年传旨与597年责书，后者并无禁止通突厥原话。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "qimin-envoy"
+      ],
+      "note": "写牛弘宣旨及亲至启民处的理由；明确不能从由牛弘传旨推出皇帝按制度不能亲见该使者，史料反记带使人来见。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "qimin-envoy"
+      ],
+      "note": "承接命高句丽王早来朝、勿疑惧，并许以同启民一样的存养礼遇，转写引文依隋书原文释读。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "qimin-envoy"
+      ],
+      "note": "承接不来则带启民巡行其国的武力威胁；土特产插话略去，保留安抚与施压并用的含义。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "qimin-envoy"
+      ],
+      "note": "承接巡行作为武力威胁及隋要求高元来朝；宣旨没有百万兵额，未将此时威胁等同后来实际动员，也未虚拟高元接此旨后的即时答复。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "silla-appeal"
+      ],
+      "note": "依据三国史记611年真平王遣使奉表请师，纠正新罗王亲自来朝；将求援作为多重战争背景之一，不虚拟皇帝报复心理。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "silla-appeal"
+      ],
+      "note": "写新罗请求、杨广答应及隋可借机号令诸国；未证明此次亲征单由求援触发，也未替杨广拟定第一仗必须漂亮的内心要求。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "silla-appeal"
+      ],
+      "note": "承接朝贡权威与出兵规模的评价话题；打出风格等口语表达省去，未把国威作为唯一可证实的个人动机。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "alternate-strategy"
+      ],
+      "note": "保留主持人先召王再扣留的方案，并明确是今日推演；史书有召王与威胁，不能据此认定已有拘王计划。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "alternate-strategy"
+      ],
+      "note": "承接邀突厥共同出兵的设想，说明盟友自有利益且启民在612年前已去世；未验证以出兵测试私人忠诚一定有效。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "alternate-strategy"
+      ],
+      "note": "保留双方出兵、分路推进与围困的假设框架，以驻军和补给约束它；集团军只是现代类比，未写为隋代编制。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "alternate-strategy"
+      ],
+      "note": "承接持久、节制投入及提防盟友变化的推演；没有认定只要不倾全国之力即可防止突厥袭击，且校清启民可参与的时间边界。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "alternate-strategy"
+      ],
+      "note": "承接批评无限扩大投入与追求速决的讨论；原段对杨广必欲一次漂亮灭国的拟心对白未确证，主持插科未入正文。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "second-campaign"
+      ],
+      "note": "写613年再征与募骁果，明确补充兵员不等于已经没有任何兵可用，纠正绝对化说法。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "second-campaign"
+      ],
+      "note": "承接正月征集、三月出发、四月渡辽及骁果；分明宇文述杨义臣趋平壤、皇帝督攻辽东，纠正两处目标混说。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "second-campaign"
+      ],
+      "note": "写准便宜从事、飞楼撞车云梯地道、二十余日不克与双方消耗；把这一组攻城器械定位在辽东城，未混成已攻平壤。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "second-campaign"
+      ],
+      "note": "写高句丽守军应战与双方死伤，不以隋军未克推成守方毫无损失；与614年高句丽同样困弊相衔接。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "second-campaign"
+      ],
+      "note": "点明杨玄感起兵急报改变辽东战局，承接本段国内事件打断二征的核心转折。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "yang-su-shadow"
+      ],
+      "note": "写杨素平陈、平江南、助立杨广和其子玄感背景；未在本篇再演独孤后、杨素、杨广结盟全部经过，也未沿用屠江南泛称。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "yang-su-shadow"
+      ],
+      "note": "承接即位后厚赏与内怀猜忌的并存；不以时间越久必然膨胀替代具体记录，未拟杨素和杨广的自负疑忌对白。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "yang-su-shadow"
+      ],
+      "note": "据杨素传写606年改封楚公、楚隋同分野的厌当解释，纠正随国公和随州安置；太史言不改成已证实的皇帝占卜现场。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "yang-su-shadow"
+      ],
+      "note": "写病中名医问诊、赐药、暗问病情与杨素不肯服药，并保持为传记叙事；口语太医到场即悟的瞬间心理未作引文。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [],
+      "note": "纯借大郎喝药作戏谑对白，没有新增可以独立承接的历史情节；不写入正文，也不算已补史料。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "yang-su-shadow",
+        "liyang"
+      ],
+      "note": "写玄感受任用、疑惧与督粮，规范本段溧阳为黎阳，与下一段原稿地名一致；不将父亲被谋害及单一复仇动机确认为事实。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "liyang"
+      ],
+      "note": "承接黎阳粮运节点、皇帝与大军在外、玄感利用督运起兵的机会；未核现代鹤壁定位与历代产粮区概括，也不认定后方已经全无兵力。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "liyang"
+      ],
+      "note": "承接秘密召弟与召李密参与举事谋划；不用转写错乱的拟对白替代这一过程。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "liyang"
+      ],
+      "note": "写以家奴冒使者、诈称来护儿反作为起兵借口；铁枪将、四猛十三杰所对应的演义/评书版本未核，保留文学部分缺口。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "liyang"
+      ],
+      "note": "写闭黎阳城、搜集男夫、邻郡讨来护儿文书；将近万人与五千运夫三千篙梢按不同记载处理，不叠加为小两万。唐壁麾下演义版本未核，未并入历史履历。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "liyang"
+      ],
+      "note": "承接上柱国、家财丰厚与公开动员，并以上段两种起兵人数口径限制本段小两万人推算；未虚报精确兵额。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "liyang",
+        "three-strategies"
+      ],
+      "note": "写救民而非求富贵的号召、开仓赈粮以及李密上策截断皇帝归路；开仓明确放在围东都阶段，不压成同日三策会议动作。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "three-strategies"
+      ],
+      "note": "展开上策据临渝、截归路与断粮配合高句丽追击的设想，明确属于未实行的李密方案。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "three-strategies"
+      ],
+      "note": "写中策直趋长安、不滞沿途、利用关中险固和府库建立根据地，承接据关中对抗隋廷的核心。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "three-strategies"
+      ],
+      "note": "写下策急袭东都、利用政治号召与百官家属，又警惕固守和援军；未展开隋两都制度，未采用杨广从此不回大兴的绝对化概括。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "three-strategies"
+      ],
+      "note": "承接夺东都以影响朝廷、号召四方的意义与攻城不下被援军围攻的风险；现代南京北京类比不另作古代事实。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "three-strategies"
+      ],
+      "note": "写玄感选择下策与其他可能路线未实行的区别；承认可讨论其他结局，但不把可能改写成必然成功。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "three-strategies"
+      ],
+      "note": "写玄感认为夺东都会显示威势、动摇百官家属所在的朝廷，以及洛阳固守；未核出征必把最精锐部队留首都的普遍断言。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "luoyang-and-retreat"
+      ],
+      "note": "写越王杨侗、樊子盖守洛阳，玄感未克、杨广接报后结束攻辽；口语地图对白不作史实。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "luoyang-and-retreat"
+      ],
+      "note": "写十万高峰、辽东撤军和各路援军镇压，说明并非杨广亲率全部主力会战；杀玄感者明为杨积善，纠正杨颖转写。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "luoyang-and-retreat"
+      ],
+      "note": "写玄感自度不免、请弟杀己、弟自杀未死被捕，承接举事失败与后续追究的转折。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "punishment"
+      ],
+      "note": "据通鉴写镇压扩及受赈者及枉死，具体限定东都围城赈粮；未核原段诛九族与所有从者一律族灭的范围，不扩大刑杀。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "punishment"
+      ],
+      "note": "署名通鉴叙述皇帝以十万人响应为据，说人多聚盗及须严杀惩后的言论，完整承接本段核心。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "punishment"
+      ],
+      "note": "承接威刑震慑后人及其使百姓受害的判断；不将一次言论推广为民众存在仅为修河造船的全部政治信念。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "punishment"
+      ],
+      "note": "原段把维持最低劳力数量、视人一贯为工具写成皇帝稳定内心；已核言论与处分不足确认这一具体心理模型，正文明确只分析可见行为，保留未决。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "punishment"
+      ],
+      "note": "承接建设功业与暴虐处置应分别评价，列运河、都城、律令为不同议题；未再详述具体建设成效，也未以现代反人类罪标签作法律认定。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "punishment",
+        "luoyang-and-retreat"
+      ],
+      "note": "保留功业不能抵销受害的评价和二征受后方事件打断的背景；对工匠死亡无所谓、省得杀人的拟心对白未获确证。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "third-mobilization"
+      ],
+      "note": "写614年再征、三月往涿郡、临渝杀逃兵仍不能止逃、七月至怀远、国内乱与征兵失期，地名按原典规范。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "third-mobilization"
+      ],
+      "note": "所核编年能证逃亡失期和天下已乱，不能核定本段瓦岗军沿途招走征辽兵的具体现场；正文明确不把拟对白作已发生事件，保留未决。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "third-mobilization"
+      ],
+      "note": "承接诸军失期、隋仍有可用军与高元惧怕；按来护儿传写卑奢城胜后将趋平壤，纠正已经围平壤。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "third-mobilization"
+      ],
+      "note": "承接连续征发后动员受损、第三次仍出兵；拳皇体型比喻省略，没有史料数表可确认三次人数按所拟比例递减。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "third-withdrawal"
+      ],
+      "note": "写高元求降、交斛斯政、杨广大悦召还来护儿；未核明年必亲朝的许诺，不用疯癫评价解释决策。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "third-withdrawal"
+      ],
+      "note": "展开来护儿三出无功、主张趋平壤擒王、抗诏与崔君肃争执；未写成已将破城的确定结果，也不采用已死一百万人数字。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "third-withdrawal"
+      ],
+      "note": "承接高元求降后未入朝与来护儿不愿收兵的个案；没有把一国君主的一次行为推广为民族品性，孔子端午等插话不作史料。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "third-withdrawal"
+      ],
+      "note": "写受降后班师及政治收场和继续攻城的分歧，解释名义成果有限；我要荣誉不要结果的拟对白未确证。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "third-withdrawal"
+      ],
+      "note": "写八月班师、杨公卿袭御驾后队、再征高元入朝；按通鉴将告太庙与征王置于返西京之后，不把整段全安在东都龙椅前，亦不泛称一路无休止被打。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "third-withdrawal"
+      ],
+      "note": "承接高元最终未入朝、杨广命诸将整装再举；美女西苑和书信口语插话没有作为实际外交文书引用。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "third-withdrawal",
+        "cost-and-command"
+      ],
+      "note": "承接第四次未实行、高句丽政权未灭及连续战争负担；未给出三年战争近百万或大几十万死亡总数，史料口径不足拼出可靠合计。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "cost-and-command"
+      ],
+      "note": "写过度征发与恢复不足、指挥协调问题；明确不同人数口径不能算全国固定十分之一参战，并以之后尚有张须陀王世充领军限制正规军全耗尽说。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "cost-and-command"
+      ],
+      "note": "承接皇帝干涉与水陆各军协调失灵，也写613年授权变化；未再展开宋太宗高梁河类比或把军令细到现代连队当隋制。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "cost-and-command",
+        "alternate-strategy"
+      ],
+      "note": "承接庞大兵额不等于有效战力、转向替代方案的讨论；飞机大炮是主持假设性插话，不作为历史存在或速胜证明。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "alternate-strategy"
+      ],
+      "note": "完整保留邀突厥、双方出兵、分路进至边境、筑垒而暂不攻的主持方案，明确它未实际实行，不包装为史事。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "alternate-strategy"
+      ],
+      "note": "保留长期驻军、以将攻未攻造成备战压力的推演，补说明敌方也可能适应；不把心理效果预定为历史事实。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "alternate-strategy"
+      ],
+      "note": "保留消耗防备、牵住突厥兵力、等待内乱的方案结构，并指出敌反击、驻军补给和盟友利益等限制，未断言必然发生内乱。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "alternate-strategy"
+      ],
+      "note": "明确长期驻军本身需补给轮换、对手可能反击，限定低耗人力与边境必安的推论；不确认一条未经实施路线的成本与胜负。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "cost-and-command",
+        "alternate-strategy"
+      ],
+      "note": "承接批评无限追加投入及应比较其他选项的判断，保留为战争评价；皇帝福利与宫殿插话不另写。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "cost-and-command",
+        "alternate-strategy"
+      ],
+      "note": "以已知边境争端和外交目标说明辽东确有战略意义，纠正隋时完全无用的绝对判断；同时区分地区价值与倾力战争是否值得。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "cost-and-command"
+      ],
+      "note": "承接资源投入不成比例、军队协调与指挥问题；明确并非全无统属，且613年已有便宜从事，不把二十四路人人只听皇帝的概括套到全部战役。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "cost-and-command"
+      ],
+      "note": "区分612年败军、613年后方打断、614年受降却未达入朝目标；不以无指挥层级概括全军，也不将三战简单并成同一种战术失败。"
+    },
+    {
+      "file": "隋（下）_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "sui-goguryeo",
+      "sectionIds": [
+        "cost-and-command"
+      ],
+      "note": "用613年三吴征人因亲属不返而逃亡、加入起兵者的具体链条承接战争与民变；本段预告梳理其他义军不另算已写各起义传记。"
+    }
+  ],
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "隋（下）_clean_v1.md",
+        "paragraph": "P002",
+        "resolution": "research-closed"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

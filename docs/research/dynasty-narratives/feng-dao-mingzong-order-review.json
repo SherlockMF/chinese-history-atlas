@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-11",
+  "method": "独立重读17原段与正文；亲读通鉴275—278、新五代54冯道传、蔡东藩演义46及黄仁宇赫逊河畔五代十国网页转录；税省耗与留伶宦逐项校正，评价分作者尺度；纸本现代书页未校，音频未回听。",
+  "counts": {
+    "covered": 7,
+    "partial": 5,
+    "uncertain": 1,
+    "corrected": 3,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [
+        "government-limits"
+      ],
+      "note": "补通鉴278粗为小康原史评价及其边界，不泛称无例深远影响。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [
+        "literary-officials"
+      ],
+      "note": "安重诲自陈旧典不熟、荐文学臣与端明冯道赵凤已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [
+        "literary-officials"
+      ],
+      "note": "冯道被任用已用；太平年电视剧切片及主播不看剧约定不入史。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [],
+      "note": "冯道起大辽名、镔铁解释尚未亲核原典；本篇不采用，不能凭其曾仕辽算已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [
+        "four-surnames"
+      ],
+      "note": "亲读黄氏五代十国篇末，行政延续观点补回作者书名和具体解释层，不再无署名替原出处。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [
+        "four-surnames"
+      ],
+      "note": "同黄氏评价与欧阳修政治忠诚批评并列，新五代54具体归妇、赈济、助耕补人物行动。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [
+        "farm-poem",
+        "government-limits"
+      ],
+      "note": "通鉴275确免夏秋省耗、废孔谦苛法，不是国税以外全取消，具体税法调节与诗文承接。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [
+        "four-surnames"
+      ],
+      "note": "籍贯写瀛州景城不泛当今沧州，四姓十君已用；所有时代寿命必难仕十帝不作事实。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [
+        "four-surnames"
+      ],
+      "note": "十君逐名补列，四唐二晋二汉二周及另仕契丹，与任职并非始终同等权力区分。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [
+        "four-surnames"
+      ],
+      "note": "954卒、长乐老自号与实用主义评价已用，后者标明现代解释。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [],
+      "note": "铁打冯道克皇帝的人名占卜笑话，不写政治因果。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [
+        "four-surnames"
+      ],
+      "note": "多种评价角度由four-surnames承接；克帝师笑谈舍弃。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [
+        "four-surnames"
+      ],
+      "note": "欧阳修礼义廉耻批评已用有源原意；厚颜无耻拟引未当原文。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [
+        "four-surnames"
+      ],
+      "note": "独立亲读五代史演义46最号老成实最无耻、赫逊河畔五代十国篇末，明确署作者与书名；黄氏只概述不凑转写精确引文。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [
+        "government-limits"
+      ],
+      "note": "通鉴275留宦官30教坊100与孟汉琼续任纠全部消灭；277930列中央任命五类地方官职，人事收紧非已完全削尽军镇。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [
+        "government-limits"
+      ],
+      "note": "明宗恢复与晚年安夏皇子危机已评价；未核蔡东藩评语不署名伪引。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "feng-dao-mingzong-order",
+      "sectionIds": [
+        "government-limits"
+      ],
+      "note": "从厚继位与石敬瑭军权埋伏线已用；节目收束不新增事实。"
+    }
+  ],
+  "independentReview": "completed"
+}

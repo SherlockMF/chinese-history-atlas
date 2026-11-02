@@ -1,43 +1,42 @@
 import type { MultiPolygon, Polygon } from "geojson";
 import geometry from "@/data/maps/northern-qi-zhou-sui/geometry.json";
+import labels from "@/data/maps/northern-qi-zhou-sui/label-points.json";
 import type { HistoricalMapSnapshot, SnapshotMapSource, SnapshotRegion } from "@/types/series";
+import { fullAtlasScope, withFullAtlas } from "@/data/maps/full-atlas";
 
-const m1 = { title: "Zunkir · 两魏与梁（546）", url: "https://commons.wikimedia.org/wiki/File:Wei_Wei_Liang_546.svg", referenceYear: 546 };
-const m2 = { title: "Zunkir · 周、齐、陈（约572）", url: "https://commons.wikimedia.org/wiki/File:Zhou_Qi_Chen.svg", referenceYear: 572 };
-const chen5 = { title: "《陈书》卷五 · 淮南得失", url: "https://zh.wikisource.org/wiki/陳書/卷5" };
-const sui1 = { title: "《隋书》卷一 · 建隋与废后梁", url: "https://zh.wikisource.org/wiki/隋書/卷01" };
+export const snapshotMapScope = fullAtlasScope;
+const precision = "按《中国历史地图集》同年图页的经纬网配准、概括重绘，共享接触线；保留主要转折，不表示精确测绘、州县界或逐年实际控制。";
 
-export const snapshotMapScope = "仅示东经106°—123°、北纬26°—40°的中东部比较窗口；图框是裁切线，不是国界。西部、岭南等未完整绘制，留白不表示无人统治。";
-const precision = "依据参考图与纪年史料概括重绘，仅表示大致格局；参考图并非本年实测，接触线、海岸与地方控制存在误差，不是精确GIS疆界。";
-function region(year: keyof typeof geometry, polityId: string, labelPoint: [number, number], note: string): SnapshotRegion {
-  const regions = geometry[year] as Record<string, Polygon | MultiPolygon>;
-  return { polityId, geometry: regions[polityId], labelPoint, note, accuracyLevel: "approximate" };
+function atlasSource(fileLabel: string, referenceYear: number, volume: string): SnapshotMapSource {
+  return { title: `《中国历史地图集》${volume} · ${fileLabel.replace(/\.jpg$/, "")}（${referenceYear}年）`, fileLabel, referenceYear, redistributable: false };
+}
+function region(year: keyof typeof geometry, polityId: string, note: string): SnapshotRegion {
+  const point = (labels[year] as Record<string, number[]>)[polityId];
+  return {
+    polityId,
+    geometry: (geometry[year] as Record<string, Polygon | MultiPolygon>)[polityId],
+    labelPoint: [point[0], point[1]],
+    note,
+    accuracyLevel: "approximate",
+  };
 }
 function ready(year: number, label: string, note: string, regions: [SnapshotRegion, ...SnapshotRegion[]], sources: SnapshotMapSource[]): HistoricalMapSnapshot {
   return { id: `northern-qi-zhou-sui-${year}`, seriesId: "northern-qi-zhou-sui", year, label, note, accuracyNote: precision, scopeNote: snapshotMapScope, accuracyLevel: "approximate", status: "ready", regions, sources };
 }
-function pending(year: number): HistoricalMapSnapshot {
-  return { id: `northern-qi-zhou-sui-${year}`, seriesId: "northern-qi-zhou-sui", year, label: "资料整理中", note: "该阶段地图资料整理中", scopeNote: snapshotMapScope, accuracyNote: "尚未完成来源核对与区域重绘，不展示疆域。", accuracyLevel: "illustrative", status: "pending", regions: [], sources: [] };
-}
+
 export const mapSnapshots: HistoricalMapSnapshot[] = [
-  ready(550, "北方东西分立，南方梁室动荡", "高洋代东魏建北齐，西魏仍在；梁正经历侯景之乱，南方色块表示历史地域背景，不代表统一有效控制；西魏550年新占汉东尚未绘入其色块。", [
-    region("550", "northern-qi", [115, 37], "546年东魏图形概括改标北齐；550年前后的地方争夺尚未逐点重建。"),
-    region("550", "western-wei", [108.3, 36.5], "西魏与北齐并立；接触线参考546年图，550年新占汉东未绘入此色块，非本年逐段复原。"),
-    region("550", "southern-liang", [114, 30], "梁的历史地域背景；侯景与梁诸王等势力的实际控制未细分。"),
-  ], [m1, { title: "《北齐书》卷四 · 550年建齐", url: "https://zh.wikisource.org/wiki/北齊書/卷4", referenceYear: 550 }, { title: "《梁书》卷四 · 梁室丧乱", url: "https://zh.wikisource.org/wiki/梁書/卷04", referenceYear: 550 }]),
-  pending(557),
-  ready(577, "北周灭齐，北方主要区域合并", "北周灭北齐后控制北方主要区域；陈已取得淮南，江陵后梁仍依附北周。陈北伐前锋不等同于稳定领土。", [
-    region("577", "northern-zhou", [111.7, 36], "合并周齐主要区域；不表示577年各地北齐残余同时消失。"),
-    region("577", "chen", [117, 29.5], "依据573年取得淮南的记载，把接触带概括移至淮河附近；淮北前锋与据点未逐个绘制。"),
-    region("577", "western-liang", [112.45, 30.55], "江陵后梁，依附北周；小政权范围承用约572年参考图的概括形状。"),
-  ], [m2, { title: "《周书》卷六 · 577年灭齐", url: "https://zh.wikisource.org/wiki/周書/卷06", referenceYear: 577 }, chen5, { title: "《周书》卷四十八 · 江陵后梁", url: "https://zh.wikisource.org/wiki/周書/卷48" }]),
-  ready(581, "隋已建立，南陈仍在", "隋取代北周；陈在579年失去淮南后仍控制江南主要区域，江陵后梁继续存在。", [
-    region("581", "sui", [111.7, 36], "隋承接北周主要区域；江淮采用579年陈失淮南后的概括格局。"),
-    region("581", "chen", [116, 28.7], "南陈仍在江南；长江附近是前线参照，不表示全江水道皆为精确国界。"),
-    region("581", "western-liang", [112.45, 30.55], "江陵后梁此时尚未废除，不能提前并入隋；小区域边界仍为估计。"),
-  ], [m2, chen5, sui1]),
-  ready(589, "隋灭陈，南北重新统一", "隋在587年废后梁、589年灭陈后实现南北主要政权的统一；不外推隋后期扩张范围。", [
-    region("589", "sui", [113, 34], "合并同一比较窗口内的主要区域；不表示征服当日所有地方都已服从，也不包含602、609年扩张。"),
-  ], [m2, sui1, { title: "《隋书》卷二 · 589年平陈", url: "https://zh.wikisource.org/wiki/隋書/卷02", referenceYear: 589 }]),
-  pending(604), pending(617),
-];
+  ready(546, "两魏分立，南梁据有江南与巴蜀", "梁中大同元年、东魏武定四年、西魏大统十二年。此时北齐、北周尚未建立，地图保留东魏、西魏与梁的原年格局。", [
+    region("546", "eastern-wei", "东魏以邺为都，据有河北、山东及中原东部；不能提前标作北齐。"),
+    region("546", "western-wei", "西魏以长安为都，西连河西；本年巴蜀仍属梁，不能套用北周时期版图。"),
+    region("546", "southern-liang", "梁都建康，疆域延及巴蜀、岭南与交州一带；按546年图表达，未将侯景之乱后的分裂倒填到本年。"),
+  ], [atlasSource("04-21梁、东魏、西魏时期全图.jpg", 546, "第四册")]),
+  ready(572, "陈、齐、周并立，江陵后梁依附北周", "陈太建四年、齐武平三年、周建德元年。北周据关陇与巴蜀，北齐据河北、山东和江淮部分地区，南陈据江南；尚未发生577年北周灭齐。", [
+    region("572", "northern-qi", "北齐以邺为都，西与北周相接，南与陈对峙；采用572年全图及北齐分图核对。"),
+    region("572", "northern-zhou", "北周以长安为都，疆域延及河西、巴蜀和西南；与齐的接触线按同年图页概括。"),
+    region("572", "chen", "陈都建康，控制江南、岭南等地；本图早于573年陈取淮南，不借用后来的北伐范围。"),
+    region("572", "western-liang", "江陵后梁依附北周，仍单独标示。与五代朱温所建后梁不同，小区域轮廓为图集尺度概括。"),
+  ], [atlasSource("04-23陈、齐、周时期全图.jpg", 572, "第四册"), atlasSource("04-65齐.jpg", 572, "第四册"), atlasSource("04-67周.jpg", 572, "第四册")]),
+  ready(612, "隋大业八年：统一后的帝国版图", "采用图集大业八年（612年）隋时期全图，展示统一后的典型疆域及西部扩展。此图不能代表581年建隋或589年灭陈时的疆域。", [
+    region("612", "sui", "大兴、东都洛阳与南北诸郡所在的统一格局；西部依本年图集重绘。不将进军路线视为占领区，也不用于表示617年隋末各方实际控制。"),
+  ], [atlasSource("05-3隋时期全图.jpg", 612, "第五册")]),
+].map((snapshot) => withFullAtlas(snapshot));

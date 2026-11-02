@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-11",
+  "method": "起草后由根代理独立逐段对读原逐字稿、正文、定位与相关史源；按实际内容保留partial/uncertain，不回听音频。见cross-review-l45-l52.md。",
+  "counts": {
+    "covered": 4,
+    "corrected": 9,
+    "not-needed": 2
+  },
+  "rows": [
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "kuchlug-enters-court",
+      "sectionIds": [
+        "two-directions"
+      ],
+      "note": "乃蛮太阳汗子败走、高昌1209先归蒙承接，两事件分时。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "kuchlug-enters-court",
+      "sectionIds": [
+        "disguised-groom"
+      ],
+      "note": "冒名随从、扮马夫故事据译注拉施特引文分传说，非确证车夫试探史实。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "kuchlug-enters-court",
+      "sectionIds": [],
+      "note": "杀假王子、自己逃跑与旧汗气运自言无据戏拟。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "kuchlug-enters-court",
+      "sectionIds": [
+        "disguised-groom"
+      ],
+      "note": "识者为正妻古儿别速，非宴上公主一眼识真王子。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "kuchlug-enters-court",
+      "sectionIds": [
+        "disguised-groom"
+      ],
+      "note": "女儿婚姻及政治机会承接，未编皇帝招婿原话。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "kuchlug-enters-court",
+      "sectionIds": [
+        "army-and-ambush"
+      ],
+      "note": "招集也迷里等旧部、许诺援助与联络摩诃末承接；夸称掌亚洲戏拟删除。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "kuchlug-enters-court",
+      "sectionIds": [
+        "army-and-ambush"
+      ],
+      "note": "招兵扩大力量、战败再整军后突袭承接，非一次直接移交全部兵权。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "kuchlug-enters-court",
+      "sectionIds": [
+        "army-and-ambush"
+      ],
+      "note": "太上皇礼遇及约1213死亡承接，抑郁死因无证。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "kuchlug-enters-court",
+      "sectionIds": [
+        "army-and-ambush"
+      ],
+      "note": "1211实权转移与1213旧汗死分开，自号皇帝菊儿汗无可靠同礼证据。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "kuchlug-enters-court",
+      "sectionIds": [
+        "kashghar-khotan"
+      ],
+      "note": "旧朝共处与屈出律迫害分开，现代民族平等及篡位必矫枉过正不作事实。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "kuchlug-enters-court",
+      "sectionIds": [
+        "kashghar-khotan"
+      ],
+      "note": "具体地区政策代替全国普遍必然推论。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "kuchlug-enters-court",
+      "sectionIds": [
+        "kashghar-khotan"
+      ],
+      "note": "和阗可改信基督或佛或穿契丹衣，非全境只许佛；发型细节未核。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "kuchlug-enters-court",
+      "sectionIds": [
+        "kashghar-khotan"
+      ],
+      "note": "粮食驻兵和宗教压迫导致地方反应承接，哲别到来留L51。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "kuchlug-enters-court",
+      "sectionIds": [],
+      "note": "主持人和听众对哲别威名的感受，不是新的历史事实。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P194",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "kuchlug-enters-court",
+      "sectionIds": [
+        "army-and-ambush"
+      ],
+      "note": "本篇承接末段屈出律夺权，区分亲蒙古乃蛮身份及自号皇帝疑点；继承线另入L48。"
+    }
+  ]
+}

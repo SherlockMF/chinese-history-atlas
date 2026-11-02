@@ -1,0 +1,459 @@
+{
+  "date": "2026-10-02",
+  "method": "J01：金01 P008–045、P049–050。区分建城纪年、燕都考古、辽南京与金中都，逐段标明政治动机推测及蓟草传说边界。 已完整阅读所列原稿并查核所引史源；未回听音频，2026-10-02 根代理逐段独立交叉复核完成（root-completed）。原始基线不变。",
+  "counts": {
+    "covered": 14,
+    "corrected": 9,
+    "partial": 14,
+    "uncertain": 2,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "two-clocks"
+      ],
+      "note": "完整承接城市与首都不同时间尺度；省略巴西利亚类比不影响本段主旨。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "two-clocks"
+      ],
+      "note": "承接五朝古都及城早于紫禁城，说明辽陪都与金国都的差别。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "five-capitals"
+      ],
+      "note": "承接契丹建辽与多京背景。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "five-capitals"
+      ],
+      "note": "纠正把辽本朝疆域与后来西辽中亚扩张混写；不沿用东渤海南黄河北西伯利亚的整齐边界。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "five-capitals"
+      ],
+      "note": "纠正辽已大一统的表达；俄语中国源自契丹的词源旁支未补。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "five-capitals"
+      ],
+      "note": "校临潢、析津，补五京名号。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "five-capitals"
+      ],
+      "note": "京的方位名与府名区分；不说南京等不是正经地名。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "five-capitals"
+      ],
+      "note": "承接上京今巴林左旗一带；不复述未核行车距离。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "five-capitals"
+      ],
+      "note": "补中京大定府在宁城，东京辽阳、西京大同；不把南京概括为管辖全部十六州。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "two-clocks",
+        "five-capitals"
+      ],
+      "note": "纠正辽首次使北京为任何都城及各京只有单一军事职能的绝对说法。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "five-capitals"
+      ],
+      "note": "以辽史宫城坊市说明继承既有城市。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "two-clocks"
+      ],
+      "note": "区分建都纪念阙与建城纪念柱，核2003年纪念金中都850年。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "two-clocks"
+      ],
+      "note": "承接广安门外滨河公园蓟城纪念柱。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "two-clocks"
+      ],
+      "note": "采用纪念柱前1045年口径，不混同原稿前1046年及考古测年。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "two-clocks",
+        "bronze-and-enfeoffment"
+      ],
+      "note": "承接官方纪念口径及史记分封传统，说明并非精确考古建城日期。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "bronze-and-enfeoffment"
+      ],
+      "note": "明确尧后封蓟。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "two-clocks",
+        "bronze-and-enfeoffment"
+      ],
+      "note": "承接蓟燕并列分封，去除纪念柱即先秦受封现场的无证定位。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "bronze-and-enfeoffment"
+      ],
+      "note": "保留后世记载与实物证据区别，不确认周前燕蓟具体城史。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "bronze-and-enfeoffment"
+      ],
+      "note": "承接尊先圣与分宗亲两线；主持人的具体心理模拟未作为事实补写。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "bronze-and-enfeoffment"
+      ],
+      "note": "分封政治意义以解释呈现，不伪造先贤后代品德和周王评判。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "bronze-and-enfeoffment"
+      ],
+      "note": "正文补文化接触背景，并说明尧后必因精良战力守边的因果无证；具体边境军事实态未补。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "bronze-and-enfeoffment"
+      ],
+      "note": "正文区分北京地区与现代城区具体坐标，并指出分封前蓟城形态尚需证据；不确认既成城必在此点。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "bronze-and-enfeoffment"
+      ],
+      "note": "城在分封前已存在原为主持人推测；正文保留待证，不补远方贤王必反的心理演绎。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "bronze-and-enfeoffment"
+      ],
+      "note": "明确监视尧后说不获本次史源证实。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "bronze-and-enfeoffment"
+      ],
+      "note": "亲族监视尧后的具体目的及先后部署无法由分封并叙证明；正文明确限制，未复原无证政治计划。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "bronze-and-enfeoffment",
+        "yan-and-ji"
+      ],
+      "note": "承接房山琉璃河燕都与蓟不同，省略未核精确公里数。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "bronze-and-enfeoffment"
+      ],
+      "note": "以城址墓地与铭文承接考古证据。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "bronze-and-enfeoffment",
+        "yan-and-ji"
+      ],
+      "note": "分封并叙已承接，燕强蓟弱仅作解释而非已证过程。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "bronze-and-enfeoffment",
+        "yan-and-ji"
+      ],
+      "note": "承接燕蓟关系，拒绝将中央军械优势推演成实录。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "bronze-and-enfeoffment",
+        "yan-and-ji"
+      ],
+      "note": "燕并蓟传统与无证密令分开；未确认具体吞并过程。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "yan-and-ji"
+      ],
+      "note": "补城市重心变化，并纠正以今天偏远判断古代选址。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "jicheng-hill"
+      ],
+      "note": "承接年代依据问题，区分纪念口径与可见遗迹。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "yan-and-ji",
+        "jicheng-hill"
+      ],
+      "note": "保留更早城史未定，未给出无证周前年份。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "jicheng-hill"
+      ],
+      "note": "核水经注卷13蓟丘在城西北隅及因丘名邑。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "jicheng-hill"
+      ],
+      "note": "蓟草得名与白云观精确位置仍无所引原典支持，正文明确作为后层传说。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "jicheng-hill"
+      ],
+      "note": "民国白云观周边蓟草见闻未获一手记录，仅讲其证据边界。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [],
+      "note": "郦道元四处聊天采风为讲述想象，未回听且无行程原证；不作独立史事补入。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "jicheng-hill"
+      ],
+      "note": "承接三千多年尺度，同时明确不同日期所凭证据。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "earth-walls"
+      ],
+      "note": "承接元大都遗址公园与城市生活。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-beijing-origins",
+      "sectionIds": [
+        "earth-walls"
+      ],
+      "note": "承接古迹进入日常；不把全部现代土坡景观视为元代原物。"
+    }
+  ]
+}

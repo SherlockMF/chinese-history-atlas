@@ -1,0 +1,203 @@
+{
+  "date": "2026-09-30",
+  "method": "人工通读北魏01 P007–P011、北魏02 P125–P134、北魏03 P003–P004共17段，核国号议论、编年节点与疆界泛论，余项保留，未回听音频。",
+  "counts": {
+    "covered": 4,
+    "corrected": 7,
+    "partial": 6
+  },
+  "rows": [
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "old-name",
+        "three-dates"
+      ],
+      "note": "起讫与代北旧基业、北魏称帝和统一节点已交代。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "old-name",
+        "three-dates"
+      ],
+      "note": "代号旧基业与北魏建国联系已写；约160年校为相差148年或149纪年，不把力微的追尊帝号当正式建代。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "changing-country",
+        "three-dates"
+      ],
+      "note": "代北到两魏分裂的时序已写；晋到隋的全部王朝沿革与节目倒叙定位未展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "changing-country"
+      ],
+      "note": "指出疆界须分年代及控制方式；辽西到新疆东部等具体边界未完成地图考证。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "changing-country"
+      ],
+      "note": "代北向河北等区域扩展与不同控制层次已写；蒙古高原边界及各时期南界未逐线展开。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "three-dates"
+      ],
+      "note": "398年十二月受玺称帝、改天兴与魏的称号已交代。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "three-dates"
+      ],
+      "note": "建国初期混乱背景转入三个年份，明确398并非统一北方时间。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "cui-hong"
+      ],
+      "note": "魏者大名、神州之上国归于崔宏国号议论，不作为单字词义直接释为伟大美好。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "cui-hong"
+      ],
+      "note": "曹魏与北魏的同名区分已写；刘备自称汉及吴蜀地名沿革未展开。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-name",
+      "sectionIds": ["cui-hong"],
+      "note": "补读三国志文帝纪，写入曹丕先继魏王、再受禅建魏与不沿用汉号；将禅位诏书的天命表述与事实过程分开。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "old-name",
+        "cui-hong"
+      ],
+      "note": "国号表达受命与天下主张已展开，限制直接继承曹魏的推断。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "three-dates",
+        "changing-country"
+      ],
+      "note": "宫室宗庙社稷与官署礼制已写，区分宣示和实际统一；未把后起夏国放到398格局中。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "old-name",
+        "changing-country"
+      ],
+      "note": "北魏为区分称谓且398未统一北方已明确，不据后来的胜局推定必然南下成功。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "three-dates",
+        "changing-country"
+      ],
+      "note": "398称帝保留，明确并非首个非汉统治集团的中原政权。"
+    },
+    {
+      "file": "北魏02_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "changing-country"
+      ],
+      "note": "承接前秦先例与北魏长期延续；苻坚并非前秦开国者及国祚长短比较未专题展开。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "three-dates"
+      ],
+      "note": "拓跋珪建国称帝与先世追尊区分已写。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wei-name",
+      "sectionIds": [
+        "three-dates"
+      ],
+      "note": "386与398及534的起讫和年数校正；十二帝的具体计数口径仍未逐人展开。"
+    }
+  ]
+}

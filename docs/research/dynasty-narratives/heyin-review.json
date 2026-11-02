@@ -1,0 +1,377 @@
+{
+  "date": "2026-09-30",
+  "method": "逐段人工阅读北魏06 P044–P076并比对河阴正文；covered表示可辨实质内容承接，corrected表示史料校正，partial保留未展开独立内容。未回听原音。",
+  "counts": {
+    "covered": 13,
+    "corrected": 11,
+    "partial": 9
+  },
+  "rows": [
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "opportunity"
+      ],
+      "note": "尔朱荣的婚姻联系、高欢为其献策与进军机会已承接，校正同音转写不改变实质主张。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "opportunity",
+        "images"
+      ],
+      "note": "高欢谈霸业、尔朱荣另择新君及转入占验的主线已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "images"
+      ],
+      "note": "区分先有政治协商后铸铜像；不沿用把这次占验写成铸金人与脱模技术解释。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "images"
+      ],
+      "note": "诸宗室铸像与元子攸像成已承接；冯太后选后时铸像的独立前例未核写。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "images"
+      ],
+      "note": "拥立者、河阳会合与渡河即位次序已校正；皇帝排序数字未沿用。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "images"
+      ],
+      "note": "太后与后宫落发已写，补沉河结局；主事人为尔朱荣，不把拟审问对白当史录。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "images",
+        "message"
+      ],
+      "note": "元子攸受制处境已承接，校正尔朱荣与世隆混写；与汉献帝整体高下比较不作定论。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "encircled"
+      ],
+      "note": "杀朝臣、另树亲党的权力逻辑已展开，补费穆进言与慕容绍宗反对。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "encircled"
+      ],
+      "note": "按祭天名义集百官于行宫西北校正一般共商大事之说，区分尔朱荣与世隆。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "encircled"
+      ],
+      "note": "元雍、元钦等二千余人及元子攸兄弟遇害已写，人数保留史书记数口径。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "encircled"
+      ],
+      "note": "屠杀朝臣后进一步逼近皇位的转折已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "encircled"
+      ],
+      "note": "求禅文发生于晚到朝士受围时；皇帝被移帐、兄弟遇害另述，不沿用杀尽侍卫的拼接场面。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "message"
+      ],
+      "note": "元子攸面对杀戮仍传话应对已写；汉献帝懦弱的类比不作已证明的比较。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "message"
+      ],
+      "note": "改为皇帝遣使传话，保留退位或改立选择，不写面对持刀尔朱荣怒斥。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "message"
+      ],
+      "note": "另择元氏亲贤主张已承接；按史文传话而非当面争辩，保留受制处境。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "message"
+      ],
+      "note": "勇气的评价有编辑说明；鲜卑血统和铸像证明命格的解释未采为事实。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "message"
+      ],
+      "note": "高欢劝进已写；跪地喊杀和主持人惊讶的场面未作实录。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "message"
+      ],
+      "note": "高欢与贺拔岳意见相反已写；开国功臣内心独白及单以私怨解释反对未证实。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "message"
+      ],
+      "note": "贺拔岳以清除奸逆名义与立即篡位矛盾劝阻的主张已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "message"
+      ],
+      "note": "控制皇帝不等于获得各地服从、急于称帝可能招祸已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "message"
+      ],
+      "note": "篡位过早的政治危险已写；经营势力后再篡位的完整策略未在所用史文明示。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "message"
+      ],
+      "note": "曹操曹丕类比保留为编辑讨论，不能据此断言当事人有相同长期计划。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "message"
+      ],
+      "note": "尔朱荣在劝阻后犹疑未决的主干已承接，口语插话省略。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "four-casts"
+      ],
+      "note": "仍想称帝并再次占验已承接，不把戏谑拟想作内心实录。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "four-casts"
+      ],
+      "note": "四次金像未成、刘灵助占验、悔惧谢罪已承接，补元天穆亦不吉的情节。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "four-casts",
+        "message"
+      ],
+      "note": "贺拔岳提出诛高欢已承接；纯为反对高欢的动机仍不当作已证明事实。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "four-casts"
+      ],
+      "note": "诛高欢谢罪之议、左右以仍需武将劝免已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "four-casts"
+      ],
+      "note": "替高欢铸像明确为节目戏谑；尔朱荣死于元子攸刺杀，不能记成被高欢杀死。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "city"
+      ],
+      "note": "按史书记叩头请死及后来再谢罪，不写随意作揖；宗室南奔主线已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "city"
+      ],
+      "note": "河阴后宗室在杀戮阴影下投梁的主张已承接，未把求帝位作唯一动机。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "city"
+      ],
+      "note": "元悦等南奔及梁介入已写；不能据此断言整个南部防线等于消失。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "city"
+      ],
+      "note": "梁支持元颢、陈庆之入洛与尔朱荣反攻夺回洛阳已承接。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "heyin",
+      "sectionIds": [
+        "city"
+      ],
+      "note": "洛阳反复逃亡、秩序破坏与战争代价已写；董卓时代的具体历史比较未展开。"
+    }
+  ]
+}

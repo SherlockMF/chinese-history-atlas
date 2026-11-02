@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读10原段与全文，亲读辽72倍传全段、辽3至930、71述律与通鉴280全卷；修两处书楼、两信不同年/目的和遇害早于自焚，兄弟感情与母偏幼子作为解释不补亲口话；音频未回听。",
+  "counts": {
+    "partial": 4,
+    "covered": 3,
+    "corrected": 3
+  },
+  "rows": [
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yelu-bei",
+      "sectionIds": [
+        "under-watch"
+      ],
+      "note": "监视与唐密召有辽72，兄弟旧情不错无法当全程事实，移编辑解释。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yelu-bei",
+      "sectionIds": [
+        "under-watch",
+        "poem-on-the-sea"
+      ],
+      "note": "海上诗四句按卷72“立木海上，刻诗”原文；主持人对诗水平的评价保留为节目观点，不写进史文层。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yelu-bei",
+      "sectionIds": [
+        "poem-on-the-sea"
+      ],
+      "note": "补东丹西宫书楼/乐田园诗与医巫闾绝顶望海堂两处，纠先前只以医巫闾排渤海书楼；唐臣求书未核，仍部分。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yelu-bei",
+      "sectionIds": [
+        "two-letters-south"
+      ],
+      "note": "辽72倍密报紧随934从珂弑君，石敬瑭求援936，删几乎同时，世系先后明确。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yelu-bei",
+      "sectionIds": [
+        "two-letters-south",
+        "refusing-the-fire"
+      ],
+      "note": "两封信不同年且动机不完全相同：倍请讨弑君、石求救谋位；从珂末日次序另分源。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yelu-bei",
+      "sectionIds": [
+        "refusing-the-fire"
+      ],
+      "note": "辽72拒同焚被李彦绅害；通鉴280杀在从珂回洛、自焚之前，纠原稿自焚后才杀倍。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yelu-bei",
+      "sectionIds": [
+        "refusing-the-fire"
+      ],
+      "note": "石敬瑭以王礼权厝、太宗改葬医巫闾山、谥文武元皇王、世宗谥让国皇帝、显陵及重熙增谥义宗按卷72完整链条写入。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yelu-bei",
+      "sectionIds": [
+        "huang-tai-di"
+      ],
+      "note": "属意李胡与册太弟实用；不喜欢倍所以先立德光的拟话无源，删旧正文通行解释冒实话。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yelu-bei",
+      "sectionIds": [
+        "huang-tai-di"
+      ],
+      "note": "偏幼子解释明确人物评价，太弟名分不是德光即位初已有约定交位的史证，正文去附加条件确断。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yelu-bei",
+      "sectionIds": [
+        "huang-tai-di"
+      ],
+      "note": "天显五年“册皇弟李胡为寿昌皇太弟，兼天下兵马大元帅”按卷3原文；皇太弟称号罕见与横渡之约后果衔接。"
+    }
+  ],
+  "independentReview": "completed"
+}

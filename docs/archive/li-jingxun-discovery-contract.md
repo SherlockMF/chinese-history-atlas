@@ -1,5 +1,17 @@
 # 现场发现接口 V1
 
+## WebGL 联调版本（2026-09-20，未验收）
+
+Web 基线 `9bff6ec64ab8b3a5877631711e459c467a7e3b70`；Game HEAD `8f30b9f004d90aac80e8ecf17b28a2e49075b7a2`，契约修复 `2e7bef7a08b56bba69113b76b244e2541fa01069`；schemaVersion = 1。当前 U10 场景与交互修复尚未提交，构建以 manifest 的 SHA-256 固定，不将 Game HEAD 当作完整构建源码版本。
+
+iframe Bridge 使用 JavaScript 对象。READY / EXIT 均含 type、schemaVersion、siteId；DISCOVERY 另含 discoveryId、state，不含 timestamp；INIT 的 discoveries 为 `{discoveryId,state}[]`。消息名称保持 HISTORY_GAME_READY / HISTORY_DISCOVERY / HISTORY_INIT / HISTORY_GAME_EXIT。具体严格校验见 `lib/field/contract.ts`。
+
+当前三个外部 ID 为 li-jingxun.epitaph、li-jingxun.gold-necklace、li-jingxun.green-glass-bottle；映射见 `data/sites/li-jingxun/field-discoveries.ts`。Game 另有九项发现尚无此 Web 映射，会被拒绝，本轮不扩展内容目录。下面的 HTTP 导入 key 与 Bridge 外部 ID 不应混用。
+
+修复构建已通过真实场景渲染、READY/INIT smoke、重载和失败场景测试；三个墓志实玩 Case 尚未全部验收。构建来源、大小、复现和手动验收记录见 [Step 7 状态](../field-webgl-integration-status.md)。
+
+U10 已接通真实 E → `InspectMode.Enter`，并修正玩家自身碰撞体遮挡交互射线、视角 Y 符号及碰撞绕序。Web 已导入并通过真实启动 smoke；自动化仍受 Pointer Lock 错误限制，墓志热点和退出全流程等待实玩验收，不能以 observed 或启动成功代替。
+
 档案页：`/archive/li-jingxun`；旧地址 `/investigate/li-jingxun` 重定向。
 首页与北齐北周至隋专题首页均提供入口。档案有独立导航，不使用朝代年份控件。
 

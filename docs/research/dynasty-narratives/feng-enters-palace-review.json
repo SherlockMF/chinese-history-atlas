@@ -1,0 +1,467 @@
+{
+  "date": "2026-09-30",
+  "method": "人工逐段复读北魏04 P020–P042、P044–P060共40段，对照魏书13、83上、97、5、6，北史13及通鉴122、128。区分已证事件、明确纠正与未找到原典依据的对白或心理描写；未将这类未决段落虚报为覆盖，未回听音频。",
+  "counts": {
+    "partial": 13,
+    "corrected": 12,
+    "uncertain": 12,
+    "not-needed": 1,
+    "covered": 2
+  },
+  "rows": [
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "family"
+      ],
+      "note": "交代冯氏后来为文明太后、文成妻及姓名未见本传；本篇止于465年，完整执政功业与所有女性政治家的比较排名没有展开。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "family"
+      ],
+      "note": "核长乐信都、冯弘孙女冯朗女，补高云冯跋冯弘的衔接及父亲先降魏再获罪；纠正从慕容直接到冯弘和魏灭北燕即杀尽冯家男子的混并，未强定冯朗为次子。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "family",
+        "aunt"
+      ],
+      "note": "写姑母为太武左昭仪，说明北燕与魏关系背景；未强定因受宠如何入宫，昭仪与汉代名号沿革未展开。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "family",
+        "aunt"
+      ],
+      "note": "写父亲获罪使女儿入宫，身份受损的处境已承接；六七岁及负责洗衣尚未核得，本篇明确不把这些细节当确证。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "family",
+        "aunt"
+      ],
+      "note": "姑母抚养教训已写，以冯熙生还和冯朗先仕魏纠正亲族全灭；机缘巧合相认与姑母原话无据，未采用。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "aunt"
+      ],
+      "note": "承接昭仪姑母对入宫侄女的照料和家族分离；仅靠姿色受宠、注定不能失宠及以隐忍为核心的教导未见确证，不反推心理。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "aunt"
+      ],
+      "note": "以抚养教训和冯入宫粗学书计承接教育经历；苦差、侥幸相认、姑母规划她嫁王孙求上升的对白未找到原典依据。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "aunt"
+      ],
+      "note": "本段核心是来客时收课本、秘密学习藏锋的具体场景；所核魏书13、83上及北史13未见，正文说明不可据简略学习记载填成此场景。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "aunt",
+        "young-consort"
+      ],
+      "note": "写452年文成即位、冯年少入选贵人；公开十四岁与卒年四十九的原典抵牾，不照录十二岁，超龄早熟及伪装天真无从证实。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "aunt",
+        "young-consort"
+      ],
+      "note": "承接濬十三岁即位与冯入选贵人；姑母调停、冯十二岁及如胶似漆的恋爱日常未获足够依据，不作青梅竹马定论。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "aunt",
+        "young-consort"
+      ],
+      "note": "本段核心为冷落其他嫔御、搬出姑宫及隐忍贤淑的生活展开，原典仅有入选贵人和后来立后，无法核实这些具体场景。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "white-tower"
+      ],
+      "note": "保留帝登白楼见李氏，改为李氏已经入宫后的相遇；街头妖娆女子、冯氏及百官同在现场没有见于所核传记。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "white-tower"
+      ],
+      "note": "以军中被俘、仁诛后送平城与帝下楼临幸说明李氏经历，纠正街头拦再嫁妇的场景；不虚构她先前婚姻或爱慕答问。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "white-tower",
+        "unspoken"
+      ],
+      "note": "冯氏在场吃醋、青梅地位受威胁的整段内心戏无可核记录；正文明确不能由后来的权位倒推出这段心理。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "white-tower",
+        "unspoken"
+      ],
+      "note": "按传记地点为斋库且李氏已在宫内，限定冯清店铺、率百官候门的扩写；临幸本事承接，拟声性笑谈不保留。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "white-tower",
+        "unspoken"
+      ],
+      "note": "史料没有皇帝要求再娶、冯操办纳娶及帝问嫉妒的对白；李氏本已被送宫，不将她受幸一事当成这些对白的证据。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "unspoken"
+      ],
+      "note": "所谓青梅夫妻位置永不被替代的直接对白，所核原典未见；正文只保留夫妻名位，不替她说完此番保证。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "unspoken"
+      ],
+      "note": "纳妾是君后本分的对白及因童年创伤不敢吃醋的心理链条无从确认；不能用已知的姑母抚育代替本段事实。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [],
+      "note": "主持人相互调侃与切换解读角度，没有新增可独立核查的历史情节。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "unspoken"
+      ],
+      "note": "本段主张冯因国仇把文成当工具、婚姻是一场早定计划；原典不足确认，正文提醒家世和后来善政不能证明这种早期动机。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "unspoken"
+      ],
+      "note": "本段自身也承认未必如此；害怕吃醋被杀和坚持复仇目标是人物心理推演，暂无可核史料，不按史实承接。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "unspoken",
+        "flames"
+      ],
+      "note": "本段争论冯是否确有感情，没有另给可核动作；正文保留感情无法由现存叙述定论的边界，后续投火另在P058核对。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "unspoken",
+        "flames"
+      ],
+      "note": "承接文成注意民生和丧礼投火的史载材料；重用汉臣的具体人事未展开，由施政推冯欣赏、由投火断真情均保留为解释而不作事实。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "white-tower"
+      ],
+      "note": "承接李入平城宫后受幸怀孕及454年生弘；文成长久不访冯、冯关爱李及两人的长幼比较未有确据。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "white-tower"
+      ],
+      "note": "明确李氏为战俘后入宫，不据未核的再嫁经历推年龄；冯较小而资历较长、给予主场关爱均不能由此成立。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "white-tower"
+      ],
+      "note": "本段核心是冯照料孕妇令帝满意，所核李氏孕生记录没有冯在场或照料情节；不因有李怀孕这个背景就判本段已覆盖。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "young-consort"
+      ],
+      "note": "456正月立后与此前贵人身份已写；照顾李氏导致立后、成婚三年及第一阶段人生目标是未证因果，没有作为正文事实。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "young-consort",
+        "unspoken"
+      ],
+      "note": "分开456年的皇后名位与后来幼帝时期实际临朝；本传不记冯生育，不能推定不可能生育或已在456年主宰国政。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "unspoken",
+        "heir"
+      ],
+      "note": "李氏生男、立储连及母死已展开；不把冯无所出说成主动避孕，皇帝笑着告知旧制的戏拟对白无据，明写魏书命令在常太后名下。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "heir"
+      ],
+      "note": "孩子校为献文拓跋弘，写456旧制处置及条记亲人；李入宫前是否知制无记载，不虚构其预先所知。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "heir"
+      ],
+      "note": "区分献文拓跋弘与孝文拓跋宏、后改元姓；文字同音错写按原典校正，未回听原音，不断言节目口头一定把弘说错。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "heir"
+      ],
+      "note": "校弘宏及改姓背景，454出生与456母死分开；冯传明确亲养为467年生的孝文，未用此记录填献文幼年养育。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "heir"
+      ],
+      "note": "皇后受尊皇太后与保母受尊保太后的名位区别已说明；视献文如己出、具体养育以及文成观察的情节未核得。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "unspoken",
+        "heir"
+      ],
+      "note": "皇帝欣慰及冯靠不吃醋成为博弈赢家，是对未证照料情节的进一步心理解释，暂无足够证据承接。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "unspoken",
+        "heir"
+      ],
+      "note": "承接李氏已因立储而死、孩子仍为继承人；冯怀抱养育以及夫妻之爱升级为社稷之情没有具体史料支撑。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "unspoken",
+        "heir"
+      ],
+      "note": "本段称史书记载夫妻避风港及每日归来场面，所查后妃与本纪未见，不把一般君主忙政常识当作这段夫妻日常的证据。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "flames"
+      ],
+      "note": "写465文成去世与冯皇后丧礼；此前一家三口多年幸福生活和确定病死细节未从原典核实。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "flames"
+      ],
+      "note": "按魏书写大丧三日之后焚御服器物、后悲叫投火、救出许久乃苏；不强定第三天、每日哭泣或烟呛为昏迷病因。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "flames"
+      ],
+      "note": "承接获救后苏醒的记录，并明确史书无预先安排救援证据，不能由记录直接断定演戏；保留原段对动机无法确认的讨论。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "feng-enters-palace",
+      "sectionIds": [
+        "flames"
+      ],
+      "note": "正文明确区分传记记录的投火动作与后人爱情或表演解释，未将任何一种解读定成事实。"
+    }
+  ]
+}

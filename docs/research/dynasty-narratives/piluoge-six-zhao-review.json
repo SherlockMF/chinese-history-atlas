@@ -1,0 +1,444 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核：逐读台账所列原P、正文全部节与对应原典缓存，核查实际承接并纠正错位；未回听音频，不把候选计为全覆盖。",
+  "audioReviewed": false,
+  "counts": {
+    "covered": 12,
+    "partial": 17,
+    "corrected": 8,
+    "not-needed": 2
+  },
+  "rows": [
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "唐吐竞争构成诸诏选择的背景。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "保留区域政治而非现代国界角度；国际关系类比不作为史源。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "不保留其余五诏全部投吐蕃的绝对说法，改写具体交往与竞争。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [],
+      "note": "金轮法王等小说玩笑不承接。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "吐蕃与唐竞争使西南势力成为双方关注对象。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "保留南诏争取唐廷承认；唯一盟友因而榨取所有利益的心理不确认为事实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "封号改变政治位置进入正文，不将资源最大化动机写成实录。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "沿用唐代朝贡关系；653遣子及具体到威州路线未在本节史源落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "云南王封号与归义赐名进入正文。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "皮逻阁主导兼并明确；第五代的统一编号因诸书世次差异不强定。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "唐廷牵制吐蕃的背景保留；兼并后预防南诏强大的预先谋划未杜撰。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "允许合诏与随后利益冲突分开，未认定双方已有完整分治方案。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "王昱受厚利并向朝廷请求合诏落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "不沿用唐全程不介入的概括，后节实际介绍节度使杀张寻求。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [],
+      "note": "分而治之的抽象国家模型不作为唐廷密议。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "周边势力选择的地缘背景保留，未据类比补精确婚约。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "承认与地方军力相互作用入文，架空策略对白舍弃。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "兼并要争取唐廷许可入文，现代边界类比不落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-needed",
+      "assessment": "corrected",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "balance"
+      ],
+      "note": "对应玄宗开元时序，宣宗口误明确纠正。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "hostage"
+      ],
+      "note": "蒙嶲照原失明与质子背景进入正文。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "hostage"
+      ],
+      "note": "按新唐书原罗为照原之子，不照录孙子关系。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "hostage"
+      ],
+      "note": "归还原罗并获拥立的具体过程落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "hostage"
+      ],
+      "note": "立后数月杀照原、逐原罗的两步过程落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "hostage"
+      ],
+      "note": "兼并并非和平共识，明确后续杀逐与夺地。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "war"
+      ],
+      "note": "越析波冲及其地进入兼并故事。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "war"
+      ],
+      "note": "张寻求私通王妻、杀波冲按新唐书记述。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "war"
+      ],
+      "note": "剑南节度使召杀张寻求、无首领后归南诏落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "war"
+      ],
+      "note": "补出新唐书贞元中与皮逻阁时序冲突，不虚定具体年份。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "war"
+      ],
+      "note": "三浪联合抵抗与败后退守过程落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "war"
+      ],
+      "note": "剑川余部延续数代，纠正一次性吞并的印象。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "torch"
+      ],
+      "note": "松明楼祭祖设宴按晚出传说讲述。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "torch"
+      ],
+      "note": "胡蔚本记四诏赴宴，与口述三王不同；不作统一实录。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "torch"
+      ],
+      "note": "宴醉放火与收尸辨骨的传统进入传说节。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "torch"
+      ],
+      "note": "慈善劝夫与铁镯识骨保留传说层次。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "torch"
+      ],
+      "note": "铁镯使尸骨得识的故事承接，非考古验证。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "torch"
+      ],
+      "note": "皮逻阁逼婚与慈善拒绝进入故事。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "torch"
+      ],
+      "note": "依所读胡蔚本写闭城粮尽自杀，投洱海为另一版本未当事实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "torch"
+      ],
+      "note": "星回节多种起源传统并列，不定唯一来源。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "piluoge-six-zhao",
+      "sectionIds": [
+        "war"
+      ],
+      "note": "738只是重要阶段，三浪后续贞元抵抗纠正全灭断言。"
+    }
+  ],
+  "independentReview": {
+    "reviewer": "finish_jin_xia_dali",
+    "status": "complete",
+    "paragraphCount": 39,
+    "audioReviewed": false
+  }
+}

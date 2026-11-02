@@ -1,0 +1,552 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11收尾独立复核：逐读指定原P、现正文及所用原典；实义评价以编辑解读承接，未证心理、比例和全称判断明确研究结案；未回听音频。",
+  "counts": {
+    "partial": 6,
+    "corrected": 22,
+    "covered": 15,
+    "not-needed": 7
+  },
+  "rows": [
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "toward-the-capital"
+      ],
+      "note": "洛阳陷落与百官迎谒承接，商丘徐州宿州具体顺序未全展开；旧台账称这些地名已正文保留不实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "toward-the-capital"
+      ],
+      "note": "离京六日是张承范表文，不是潼关激战六日；补绝粮、禁坑与天堑夹击经过，按通鉴编年。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "toward-the-capital"
+      ],
+      "note": "潼关失守、皇帝秘密带兵五百及少数亲眷出逃承接；华州乔钤留守细节未全展开，不写全覆盖。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "toward-the-capital"
+      ],
+      "note": "僖宗先兴元后成都按史文；玄宗奔蜀类比保留为节目比喻。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "toward-the-capital"
+      ],
+      "note": "卢携结局更正：非抑郁而终，是“归罪于携而贬之……是夕，携饮药死”。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "toward-the-capital",
+        "entry-and-order"
+      ],
+      "note": "卢携服药自尽在前节，张仲武之子直方据新唐212补入；入长安是广明十二月公历881，非唐已改中和元年。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "entry-and-order"
+      ],
+      "note": "迎黄巢事实并非仅守个屁玩笑，已以张直方灞上率文武迎谒承接。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "entry-and-order"
+      ],
+      "note": "新唐212明记谋劫黄巢及屠其族，补回反抗计划与族诛；通鉴宣慰主语尚让，单书略写不能否定另一书族诛。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "entry-and-order"
+      ],
+      "note": "新唐212明记谋劫黄巢及屠其族，补回反抗计划与族诛；通鉴宣慰主语尚让，单书略写不能否定另一书族诛。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "entry-and-order"
+      ],
+      "note": "通鉴确有部众往往施财贫者，补回原段真实内容；旧台账不见本段的断言失实，同时并读数日后失控杀掠。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "daqi-throne"
+      ],
+      "note": "即位广明十二月壬辰与公历881分开；三品以上停任四品以下照旧，孟楷左仆射盖洪右仆射，不笼统盖洪独掌左右。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "daqi-throne",
+        "pi-rixiu"
+      ],
+      "note": "皮日休任翰林通鉴254直接有文，修旧说不见通鉴；家族与北上路上被俘经历未确证，不虚报。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "pi-rixiu"
+      ],
+      "note": "任职见通鉴，咏牡丹无作于大齐的时间证据，不能认定颂黄巢；不把“借名文人归心”拟对白转事实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [],
+      "note": "于老师插科打诨段，无实质命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "pi-rixiu"
+      ],
+      "note": "牡丹四句据渊鉴类函竞夸、独占，校正竟夸/独立；明确传署皮日休且创作背景未证，不无依据贬为作者必然可疑。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "pi-rixiu"
+      ],
+      "note": "菊与牡丹花王意象互读明确编辑赏析，不作诗人真实政治献颂。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [],
+      "note": "语气玩笑段，无实质命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "pi-rixiu"
+      ],
+      "note": "完整字谜见南部新书丁非北梦；三屈律拆巢且史书说疑嘲头貌，不作跪谁，也不能凭字谜反推应举不中。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "pi-rixiu"
+      ],
+      "note": "完整字谜见南部新书丁非北梦；三屈律拆巢且史书说疑嘲头貌，不作跪谁，也不能凭字谜反推应举不中。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "pi-rixiu"
+      ],
+      "note": "完整字谜见南部新书丁非北梦；三屈律拆巢且史书说疑嘲头貌，不作跪谁，也不能凭字谜反推应举不中。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "pi-rixiu"
+      ],
+      "note": "完整字谜见南部新书丁非北梦；三屈律拆巢且史书说疑嘲头貌，不作跪谁，也不能凭字谜反推应举不中。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "pi-rixiu"
+      ],
+      "note": "陆游引该闻录巢败被诛另据尹洙家族墓志主避难依钱氏；三类冲突不得略为两死法并断定死长安。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "门阀与皇权关系的引入承接，转入五姓七望谱系。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "五姓七望定义（五姓七郡望、排名有版本）按节目与通行表述一致。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "七家名单（陇西李、赵郡李、博陵崔、清河崔、范阳卢、荥阳郑、太原王）承接为通行谱系。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "魏晋以来延续数百年的门阀特征承接。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "唐语林明确文宗替庄恪太子求婚而罢选；旧文用公主择婿记载否定原段太子故事属错误校正，现分别并列。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "氏族志崔干第一后降第三亲读确认；郑女嫁崔皋枝节未在本篇亲核补入，真实部分覆盖。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "旧族仍有教育与仕途优势的解释保留；郑半朝、8相、百进士未找有定义统计研究，删除无源数字不称已承接。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "旧族官场资源的解释承接，卢携范阳具体家世未本次核补；不凭失意反推必由士族阻断。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [],
+      "note": "拟对白段，情绪不进史文层。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "“屠杀殆尽”限定：黄巢清算公卿有三层史据（停任、诛张直方、洗城），门阀退场是跨数百年过程至白马驿；维持基线校正。“内库烧为锦绣灰，天街踏尽公卿骨”按《秦妇吟》引用。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "掘墓人评价承接为节目观点层；大齐不能代表唐亡的逻辑保留。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "僖宗流亡朝廷尚在、政权未终的判断承接。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "门阀长过程、科举非到宋才真、王谢诗时代与不将暴力自动当促进平等均解释栏直承接；不能把屠杀定义为全族物理消灭。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [],
+      "note": "当代感想段，无唐末新命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "门阀长过程、科举非到宋才真、王谢诗时代与不将暴力自动当促进平等均解释栏直承接；不能把屠杀定义为全族物理消灭。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "门阀长过程、科举非到宋才真、王谢诗时代与不将暴力自动当促进平等均解释栏直承接；不能把屠杀定义为全族物理消灭。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "门阀长过程、科举非到宋才真、王谢诗时代与不将暴力自动当促进平等均解释栏直承接；不能把屠杀定义为全族物理消灭。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "research-closed：实际补侯景求婚王谢、梁武帝以门高非偶拒之及朱张以下建议；明确跨朝类比不证明黄巢落第与贵族婚姻有直接因果。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "门阀长过程、科举非到宋才真、王谢诗时代与不将暴力自动当促进平等均解释栏直承接；不能把屠杀定义为全族物理消灭。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "corrected",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [],
+      "note": "通天纹玩笑段，无唐末命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [],
+      "note": "太原王玩笑段，无唐末命题。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "five-clans"
+      ],
+      "note": "影响深远的总评承接，正文已作分层限定。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "xicheng-and-after"
+      ],
+      "note": "881年官军一度攻入长安承接，转入具体经过。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "xicheng-and-after"
+      ],
+      "note": "百姓迎官军按“坊市民喜，争欢呼出迎官军，或以瓦砾击贼，或拾箭以供官军”；恐惧心理承接为节目解读。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "xicheng-and-after"
+      ],
+      "note": "官军确曾入城，黄巢东走后侦知失序反袭而非始终抵住后因胜利不追；按881四月编年校正。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "xicheng-and-after"
+      ],
+      "note": "官军确曾入城，黄巢东走后侦知失序反袭而非始终抵住后因胜利不追；按881四月编年校正。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [],
+      "note": "拟对白段，无新增史实。"
+    },
+    {
+      "file": "五代十国01_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangchao-daqi",
+      "sectionIds": [
+        "xicheng-and-after"
+      ],
+      "note": "洗城史记流血成川，不等所有居民杀净；旧文说杀干净有史文支撑属于过度断言，且洗城881不是882。"
+    }
+  ],
+  "independentReview": "complete",
+  "independentReport": "final-unadopted-liao-wudai-independent.md"
+}

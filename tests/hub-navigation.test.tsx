@@ -7,6 +7,7 @@ import { useHistoryStore } from "@/features/history-state/history-store";
 import { northernQiZhouSuiConfig } from "@/data/series/northern-qi-zhou-sui/config";
 import { ReadingPathNav } from "@/features/events/reading-path-nav";
 import { events } from "@/data/seed";
+import { findSeriesBySlug } from "@/data/series";
 
 describe("hub and series hierarchy", () => {
   it("returns guided reading to its topic home", () => {
@@ -34,5 +35,14 @@ describe("hub and series hierarchy", () => {
     expect(screen.getByRole("link", { name: "专题首页" })).toHaveAttribute("href", "/series/northern-qi-zhou-sui?year=608");
     expect(screen.getByRole("link", { name: "切换专题" })).toHaveAttribute("href", "/");
     expect(screen.getByRole("link", { name: "地图" })).toHaveAttribute("href", "/series/northern-qi-zhou-sui/map?year=608");
+    expect(screen.getByRole("link", { name: "都城" })).toHaveAttribute("href", "/series/northern-qi-zhou-sui?year=608#city-overlay-daxing");
+  });
+  it.each([SiteHeader, MobileNav])("only offers an existing city section and keeps its year", Navigation => {
+    useHistoryStore.getState().reset({ series: findSeriesBySlug("jin")!, routePrefix: "/series/jin", currentYear: 1208 });
+    const { rerender } = render(<Navigation />);
+    expect(screen.getByRole("link", { name: "都城" })).toHaveAttribute("href", "/series/jin?year=1208#city-overlay-jin");
+    useHistoryStore.getState().reset({ series: findSeriesBySlug("liao")!, routePrefix: "/series/liao", currentYear: 1111 });
+    rerender(<Navigation />);
+    expect(screen.queryByRole("link", { name: "都城" })).not.toBeInTheDocument();
   });
 });

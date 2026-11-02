@@ -1,0 +1,598 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核：逐读台账所列原P、正文全部节与对应原典缓存，核查实际承接并纠正错位；未回听音频，不把候选计为全覆盖。",
+  "audioReviewed": false,
+  "counts": {
+    "covered": 12,
+    "partial": 31,
+    "corrected": 8,
+    "not-needed": 2
+  },
+  "rows": [
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "kingmakers"
+      ],
+      "note": "王嵯巅自816弑君至晚年掌权的四十余年政治跨度落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "kingmakers"
+      ],
+      "note": "寻阁劝去世接幼主的时序保留，不用在位一年推每年精确日期。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "kingmakers"
+      ],
+      "note": "早期军政地位承接；初勇阵与联蕃战术支线未在此展开。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "kingmakers"
+      ],
+      "note": "弄栋节度使职位与劝龙晟幼主线索落实，幼年年龄明示地方记层次。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "buddhas"
+      ],
+      "note": "三尊金佛共金三千两及供奉；不能改成每尊3000两。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "buddhas"
+      ],
+      "note": "三尊金佛共金三千两及供奉；不能改成每尊3000两。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "buddhas"
+      ],
+      "note": "嘉定神将退南诏进攻，非南诏金佛护国；原定州按胡蔚本校嘉定，神异保留传说。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "buddhas"
+      ],
+      "note": "嘉定神将退南诏进攻，非南诏金佛护国；原定州按胡蔚本校嘉定，神异保留传说。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "kingmakers"
+      ],
+      "note": "816王嵯巅杀劝龙晟、立其弟劝利落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "kingmakers"
+      ],
+      "note": "采用唐书大容与兄义，赐蒙姓厚赏入文，不作大荣。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "kingmakers"
+      ],
+      "note": "罢官受戒信三宝与复清平官依据地方史分层。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "kingmakers"
+      ],
+      "note": "受戒处分实际承接，不将朝廷君臣内心博弈写成密议。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "kingmakers"
+      ],
+      "note": "宗教身份与继续任官并存，未写永久退出。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "kingmakers"
+      ],
+      "note": "复任清平官进入正文，具体处分日与原因不新增。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "kingmakers"
+      ],
+      "note": "权力得以延续进入分析，不据佛戒推出权臣完全服从。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "kingmakers"
+      ],
+      "note": "保留君主和权臣互相依赖的后果，完美驯臣判断不确认。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "kingmakers"
+      ],
+      "note": "丰祐继位及掌兵继续落实；唐书823与地方824异文注明。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "kingmakers"
+      ],
+      "note": "幼主连续出现属地方记录，不强合年龄为可靠无误年表。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "recovery"
+      ],
+      "note": "水利建设进入正文，不全归王嵯巅个人功绩。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "recovery"
+      ],
+      "note": "疏水灌田与晟君工役明确，未照抄原述王独力兴农。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "recovery"
+      ],
+      "note": "修城灌渠承接，书中会昌元年干支矛盾不抄成确定日期。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "recovery"
+      ],
+      "note": "五华楼作为王廷场所保留，面积高度未核不补定。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "recovery"
+      ],
+      "note": "楼与四方来客的地方记忆入文，夸大尺度不采用。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "capital"
+      ],
+      "note": "829杜元颖失治、边防松弛与袭蜀联系落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "capital"
+      ],
+      "note": "邛戎巂突袭后入成都西外城的路线承接。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "capital"
+      ],
+      "note": "亲读通鉴244后补梓州西郭：郭钊兵少不能战，以书责嵯巅并修好，不写郭钊战胜。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "capital"
+      ],
+      "note": "书信回称报复杜元颖、修好退军及郭钊至成都立约的实际经过补入。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [],
+      "note": "汉字与族语地名音译泛论不承担此战进程。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [],
+      "note": "关于语言文字学习的旁谈不另纳入王嵯巅故事。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "capital"
+      ],
+      "note": "入西外城而非完全攻取成都内城明确。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "capital"
+      ],
+      "note": "停十日、市不扰肆与撤退掳人形成前后反差。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "capital"
+      ],
+      "note": "数万子女工技被迫南迁及产业后果落实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "capital"
+      ],
+      "note": "唐救兵追击、王亲自殿后进入战事。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "capital"
+      ],
+      "note": "大渡河哭别及赴水死亡承接。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "capital"
+      ],
+      "note": "唐书十三为十分之三；通鉴记死者以千计，两书分述，不拼现代精确人数。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-needed",
+      "assessment": "corrected",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "capital"
+      ],
+      "note": "后来归四千不能推断仅四千存活，正文明确限定。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "recovery"
+      ],
+      "note": "筹边楼地图、询路、训练修堡与运粮，另亲核通鉴244相关原文。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "recovery"
+      ],
+      "note": "831索归四千亲核通鉴244，不等于征服南诏或全体归还。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "ending"
+      ],
+      "note": "安南等方向军事扩张承接，不把所有行动写成王亲征。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "ending"
+      ],
+      "note": "骠地扩张与其他将领活动保留，不补未核国界。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "ending"
+      ],
+      "note": "段宗牓救缅与狮子国传统分层，不能证王远征斯里兰卡。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "ending"
+      ],
+      "note": "救缅狮子国与世隆龙精/掌文分别定位，神异属于世隆不是狮子王，不作事实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "ending"
+      ],
+      "note": "救缅狮子国与世隆龙精/掌文分别定位，神异属于世隆不是狮子王，不作事实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "ending"
+      ],
+      "note": "救缅狮子国与世隆龙精/掌文分别定位，神异属于世隆不是狮子王，不作事实。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "ending"
+      ],
+      "note": "南方征战方向保留，跨海征服斯里兰卡断言不采用。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "ending"
+      ],
+      "note": "段宗牓救缅回以酬赠金佛诱迎、拜佛突斩并镕佛，据晚出记；未说同旧三尊，删除错误首尾同一物联系。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "ending"
+      ],
+      "note": "段宗牓救缅回以酬赠金佛诱迎、拜佛突斩并镕佛，据晚出记；未说同旧三尊，删除错误首尾同一物联系。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "ending"
+      ],
+      "note": "段宗牓救缅回以酬赠金佛诱迎、拜佛突斩并镕佛，据晚出记；未说同旧三尊，删除错误首尾同一物联系。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "ending"
+      ],
+      "note": "权臣被清算的地方记述入文，君主不信所有臣子的心理不编造。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "ending"
+      ],
+      "note": "不篡位与实际左右王廷并陈，功绩残酷合评属于编辑分析。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "ending"
+      ],
+      "note": "扩张成本与权臣不能自动消解财政压力的评议入文。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P193",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "ending"
+      ],
+      "note": "宫廷宗教与权力联系承接，妃妾早死的细节未铺成普遍规律。"
+    },
+    {
+      "file": "大理（上）_clean_v1.md",
+      "paragraph": "P194",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "wang-cuodian-court-war",
+      "sectionIds": [
+        "ending"
+      ],
+      "note": "扶幼不篡不等于纯善的评价落实，不以全体皇帝出家立论。"
+    }
+  ],
+  "independentReview": {
+    "reviewer": "finish_jin_xia_dali",
+    "status": "complete",
+    "paragraphCount": 53,
+    "audioReviewed": false
+  }
+}

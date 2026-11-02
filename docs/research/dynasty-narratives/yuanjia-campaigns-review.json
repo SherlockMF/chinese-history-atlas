@@ -1,0 +1,242 @@
+{
+  "date": "2026-09-30",
+  "method": "人工逐段通读指定原稿，逐项核对正文实际承接，并对读所列古籍、诗词原文及必要现代释文。未回听音频；推论、未识别实物和未核定数字不按已覆盖计。",
+  "counts": {
+    "covered": 3,
+    "corrected": 12,
+    "partial": 5
+  },
+  "rows": [
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "two-reigns",
+        "memory"
+      ],
+      "note": "佛狸指拓跋焘，宋书字佛狸与后世词中名称已连接。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "memory",
+        "two-reigns"
+      ],
+      "note": "核对辛弃疾词题、1205署年、佛狸祠及元嘉原句；将行宫到祠限定为后世释词传统。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "two-reigns"
+      ],
+      "note": "写刘义隆为刘裕之子与文帝治政、用兵评价；相声插話不属故事内容，后代一概无能的泛评未沿用，未展开刘裕全篇功业。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "two-reigns"
+      ],
+      "note": "拓跋焘年号太平真君已明确。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "two-reigns"
+      ],
+      "note": "校正太平真君十一年为450、年号属魏太武帝，与刘宋元嘉分列；市场板凳佛实物、题年及真伪未识别，本篇不作器物承接，旧wei-culture独立记录不改。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "two-reigns",
+        "earlier-huatai"
+      ],
+      "note": "元嘉之治、农政与赈恤、文帝封狼居胥期待已承接；限制全面年年繁荣以及想统一必然开战的泛推。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "earlier-huatai",
+        "relief"
+      ],
+      "note": "明确450元嘉27七月出兵，但春魏已围悬瓠；改冀州为济州碻磝，陆贞为陆真；魏九月动身十月到前线，另分清430/431滑台攻守。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "relief"
+      ],
+      "note": "陆真率少数人夜入滑台慰劳守军、传援军消息、察营返回完整承接，无虚构对白。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "relief"
+      ],
+      "note": "围城数月、援军消息使坚守有等待对象已写；正义理由普遍鼓舞军心的理论未作历史证据展开。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "relief"
+      ],
+      "note": "皇帝亲征和救兵到来对守军的意义已承接；无据的人人认为正义便愿赴死、名将必能扭转士气等泛论未采纳。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "relief"
+      ],
+      "note": "陆真入城与拓跋焘渡河、宋军溃退连续写出，未以足球比拟战斗或将少数潜入者定为自报敢死队。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "five-roads"
+      ],
+      "note": "宋弃济州碻磝退历城、魏分路南下已写；不拟帝不顾后方失地的一段宣言。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "uncertain",
+      "assessment": "partial",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "five-roads"
+      ],
+      "note": "五路将领与方向按魏书、通鉴更正为仁、长孙真、建、那及帝中路；四十万与宋估十万未核到同一口径，未列数，也未逐个讲汉代地名沿革。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "five-roads",
+        "guabu"
+      ],
+      "note": "瓜步、仁经历阳临江、那至广陵依魏书本纪；解释江西不等于现代省份，并保留各路临江而非据此整个地区归魏。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "covered",
+      "assessment": "corrected",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "five-roads"
+      ],
+      "note": "宋军败退与部分城邑降魏承接，同时明确寿阳、彭城不下，纠正所有守军一概崩溃。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "five-roads",
+        "guabu",
+        "withdrawal"
+      ],
+      "note": "魏到江北瓜步、未夺建康与南下限度已写，纠正占领长江流域的泛化和以君主自知吃不下作定论。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "guabu",
+        "withdrawal"
+      ],
+      "note": "以造筏、宋沿江水军、魏缺粮及回撤时疾疫等实录取代冷兵器无法渡江和未经证明的气候决定论。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "guabu",
+        "withdrawal"
+      ],
+      "note": "瓜步行宫与盘道毡屋、军粮困境和归路风险具体承接；未拟帝退无可退自刎内心，也不称人生理想完成。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "memory",
+        "withdrawal"
+      ],
+      "note": "辛弃疾原句、后世行宫起源释读与五世纪驻留分层；写北方统一成果但柔然仍在、刘宋江南未亡，纠正柔然被灭。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "covered",
+      "assessment": "corrected",
+      "storySlug": "yuanjia-campaigns",
+      "sectionIds": [
+        "withdrawal",
+        "memory"
+      ],
+      "note": "到达长江与北方扩张成果承接，补盱眙失利、杀掠、撤退限度，纠正所有对外目标已实现。"
+    }
+  ]
+}

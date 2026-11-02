@@ -1,0 +1,511 @@
+{
+  "date": "2026-10-11",
+  "method": "逐读所列原P、全部正文与各节实际引用原典后独立交叉复核；逐P说明已用线索、校正或限定部分，baselineVerdict保留。未回听音频。",
+  "counts": {
+    "covered": 13,
+    "partial": 20,
+    "corrected": 10,
+    "not-needed": 2
+  },
+  "rows": [
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "favorites"
+      ],
+      "note": "少年参与国事与1059近臣案、1061亲政分年实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "favorites"
+      ],
+      "note": "皇帝不平与国相专权补，欲杀内心不编对白。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "favorites"
+      ],
+      "note": "高怀正毛惟昌校名，乳母夫身份及案由、帝止不获补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "trap"
+      ],
+      "note": "梁氏告密身份引入补，无女刺客行动。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "trap"
+      ],
+      "note": "讹庞儿媳与帝妻嫂辈、私情亲属关系实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "trap"
+      ],
+      "note": "有染记述及权力风险补，解恨评价不作事实。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "trap"
+      ],
+      "note": "父子不满谋伏补，捆绑及绿帽对白无据。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "trap"
+      ],
+      "note": "谋杀帝补，强令儿媳诱杀、儿立王和宽免承诺未核。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "trap"
+      ],
+      "note": "梁告密与先手补，设府软禁退位和内心推宁令无据。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "trap"
+      ],
+      "note": "密报阴谋实补，不以模拟对话替原文。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "trap"
+      ],
+      "note": "密室擒父补，装病买通侍卫放安检无据。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "trap"
+      ],
+      "note": "非父子俱携短兵进宫，史载擒父遣军杀子。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "trap",
+        "queens"
+      ],
+      "note": "统军名按亲读清卷20作漫咩；讹庞父子被分别控制，皇后废与九月赐死分期。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "queens"
+      ],
+      "note": "梁入宫并立后及家族入口实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "queens"
+      ],
+      "note": "后来的梁太后身份连写，不玩粮食同音。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "queens"
+      ],
+      "note": "听故事代入属主持体验，无须独立史事实段。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "boundary"
+      ],
+      "note": "邻国问题补，宋亦有实战侵田非全无旧怨。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "boundary"
+      ],
+      "note": "诛相后议界补，归罪舅父完整书信及无限全还不证。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "boundary",
+        "ritual-books"
+      ],
+      "note": "具体堠界规则与去蕃礼，不写全国全盘汉化。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "ritual-books"
+      ],
+      "note": "原述改姓李已补1063七月表改、宋英宗不悦据清卷20；不能反推全国嵬名用法尽撤。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "ritual-books"
+      ],
+      "note": "复李姓与礼仪争议补入；弱化外国感、争文化正统等内心动机仅作解释，未有本人自述。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "ritual-books"
+      ],
+      "note": "复李姓已有实读年次；汉化处境可讨论，不把族群同化心理作直接史实。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "ritual-books"
+      ],
+      "note": "迪玛特奥类比非史实，改礼已实補。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "ritual-books"
+      ],
+      "note": "求诗章石本九经等书目与实赐九经分明；改姓李反令英宗不悦，非一概获赞喜。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "ritual-books"
+      ],
+      "note": "礼仪使臣座位争补，对话道德高位解释不作宋内心。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "ritual-books"
+      ],
+      "note": "扩汉蕃双官号实补，无一半比例证据亦非纯汉官。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "ritual-books",
+        "marriage-and-tibet"
+      ],
+      "note": "官制和求婚联写，不确认改姓李专为求婚原因。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "marriage-and-tibet"
+      ],
+      "note": "1061尚公主被拒实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "marriage-and-tibet"
+      ],
+      "note": "昔尝赐姓拒婚理由实补，无宗族幻想升级。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "marriage-and-tibet"
+      ],
+      "note": "联宋援意据清20补，婚即强绑定作为解释限度。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "marriage-and-tibet"
+      ],
+      "note": "辽压力见请求背景，不假定辽必预攻。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "marriage-and-tibet"
+      ],
+      "note": "改礼求书、复李姓与求婚仍受宋拒绝，已由前节承接；乖孩子无威胁之心理不作为史实。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "marriage-and-tibet"
+      ],
+      "note": "河湟非永远不攻夏，讹庞败与族投实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "marriage-and-tibet"
+      ],
+      "note": "辽董毡冲突按清版且附司马异说，夏攻败而非把握取胜。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "marriage-and-tibet"
+      ],
+      "note": "青唐败筑堡及辽禁铜，不写攻蕃后辽即全缓和。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "envoys"
+      ],
+      "note": "英宗继位吳宗来贺礼争实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "envoys"
+      ],
+      "note": "厩夜断食与不逊、司马批己方补，侮辱单因论留限度。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "envoys"
+      ],
+      "note": "回使恶化后1064秦凤泾原入掠实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "envoys"
+      ],
+      "note": "有刘几告警未采非宋全无准备；使诘问非实际大举讨伐。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "envoys"
+      ],
+      "note": "百万兵为高宜言经夏使投诉非宋宣布军令，诏拒及归边吏实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "silver-armour"
+      ],
+      "note": "1066亲征与守伏夜袭实补，纯秀肌肉目的不证。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "silver-armour"
+      ],
+      "note": "银甲毡帽骆马黄屋督战原文实补。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "silver-armour"
+      ],
+      "note": "伏强弩中箭与谢罪补，按衣色识主心理未核。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "silver-armour"
+      ],
+      "note": "复求币冲突与笔记伤死单列，无法定箭伤必唯一死因。"
+    },
+    {
+      "file": "西夏03_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xia-liangzuo-personal-rule",
+      "sectionIds": [
+        "silver-armour"
+      ],
+      "note": "1067十二月二十一虚岁在位二十实补，平衡解释为编辑解读。"
+    }
+  ],
+  "independentReview": "complete"
+}

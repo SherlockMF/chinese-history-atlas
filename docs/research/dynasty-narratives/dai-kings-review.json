@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-30",
+  "method": "人工通读北魏01 P104–P111共8段，对照魏书序纪、皇后列传及相关通鉴、晋书原文。逐段记录正文实质承接、明确校正与未采用命题；不以挂载来源代替语义覆盖。未回听音频。",
+  "counts": {
+    "corrected": 6,
+    "partial": 2
+  },
+  "rows": [
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-kings",
+      "sectionIds": [
+        "family"
+      ],
+      "note": "悉鹿、绰、弗、禄官接掌与重新聚众已展开；据魏书将悉鹿校为力微之子、禄官校为力微之子及弗叔父，不沿用两处兄弟关系。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "dai-kings",
+      "sectionIds": [
+        "three-parts"
+      ],
+      "note": "三部分治、三位首领及猗卢击匈奴乌桓已写；四十余万限定为史载控弦骑士而非总人口。代郡一部按参合陂北定位，未把古代辖区直接等同现代蔚县。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dai-kings",
+      "sectionIds": [
+        "cities"
+      ],
+      "note": "盛乐北都、平城南都、南百里新平城及六修统南部均已写；明确修故平城，并非平城始建。三地分开，不将新平城笼统认作盛乐旁的卫星城。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dai-kings",
+      "sectionIds": [
+        "cities",
+        "alliance"
+      ],
+      "note": "援晋与受封代王的关系已展开；314为约攻未果，315才进封代王，补此前援兵、土地与封代公的累积。新平城用途不径断为保卫盛乐。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "dai-kings",
+      "sectionIds": [
+        "cities",
+        "alliance"
+      ],
+      "note": "封王许置官属、受封前已有城邑已承接；以部众、城邑、晋朝名号逐步积累说明建国，不把封爵当天直接当作全部制度突然转变。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dai-kings",
+      "sectionIds": [
+        "settlement"
+      ],
+      "note": "建城表明生活不止逐草迁徙已写，并以王氏反对定居说明两者并存；女真生活方式比较及嘎仙洞祭祖为确认生活习惯的推想未展开或采作史实。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "dai-kings",
+      "sectionIds": [
+        "settlement",
+        "before-wei"
+      ],
+      "note": "猗卢营城与代国在拓跋前史中的地位已写；蒙古始终纯游牧、鲜卑一概定居的跨族群断语未核，正文仅讨论拓跋具体选择。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "dai-kings",
+      "sectionIds": [
+        "before-wei"
+      ],
+      "note": "代国属于北魏前史已写；以386年拓跋珪先即代王、四月改魏王区分起点，不将扩张到一定规模或称帝当作北魏开始的必要条件。"
+    }
+  ]
+}

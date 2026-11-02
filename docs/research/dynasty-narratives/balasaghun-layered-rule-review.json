@@ -1,0 +1,305 @@
+{
+  "date": "2026-10-11",
+  "method": "起草后由根代理独立逐段对读原逐字稿、正文、定位与相关史源；按实际内容保留partial/uncertain，不回听音频。见cross-review-l45-l52.md。",
+  "counts": {
+    "corrected": 9,
+    "not-needed": 3,
+    "partial": 7,
+    "covered": 4,
+    "uncertain": 4
+  },
+  "rows": [
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "old-rulers"
+      ],
+      "note": "扩张与高昌关系承接，私人报复动机无证。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [],
+      "note": "主持人与大石对话戏拟。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "old-rulers"
+      ],
+      "note": "高昌王室延续承接，不认定登基即单次南征。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "old-rulers"
+      ],
+      "note": "地方统治及监督承接，纠正所有属国同一套路。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "old-rulers"
+      ],
+      "note": "少数统治集团处境承接，内心盘算与报复狮子汗未作事实。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "invited-capital"
+      ],
+      "note": "七河地理与牧场城镇空间承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "invited-capital"
+      ],
+      "note": "先来契丹迁移背景保留，一万骑身份地点计量尚未直接核全史。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "invited-capital"
+      ],
+      "note": "军人获得待遇但被分开妇女细节未直接核原始文本。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "invited-capital"
+      ],
+      "note": "妇女拆离目的和生育控制未直接核，未写作事实。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "invited-capital"
+      ],
+      "note": "妇女被迁走去向未核，不补猜测。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "invited-capital"
+      ],
+      "note": "族群投附保留，见亲人拥抱属节目戏拟。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "invited-capital"
+      ],
+      "note": "内乱带来机会承接，预先等待灭国的心理无直接证据。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "invited-capital"
+      ],
+      "note": "伊布拉辛无力制部族承接，不以父强子弱解释全部危机。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "invited-capital"
+      ],
+      "note": "葛逻禄康里承接，纠正固定铁弗高车等同族源。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "partial",
+      "assessment": "not-needed",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [],
+      "note": "新节目预告与串场。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "invited-capital"
+      ],
+      "note": "内外压力承接，直接收编一万骑数量未核。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "invited-capital"
+      ],
+      "note": "邀请进入及降格承接，具体头衔按伊斯兰文本。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "invited-capital"
+      ],
+      "note": "都城兼具农牧条件承接，旧王具体喀什和阗分封及一次改名未硬断。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "invited-capital"
+      ],
+      "note": "宫帐与都城核心承接，异名不全等同一次改名。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "tribute-and-paiza"
+      ],
+      "note": "监督官沙黑纳及属国自治，对应贡赋与牌符节。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "partial",
+      "assessment": "not-needed",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [],
+      "note": "棒子面与胆量笑谈，不含须承接的独立事件。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "tribute-and-paiza"
+      ],
+      "note": "多种人口和分层治理问题承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "tribute-and-paiza"
+      ],
+      "note": "多宗教共处承接，纠正现代全面宗教自由称谓。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "tribute-and-paiza"
+      ],
+      "note": "居民经营土地牲畜承接，不宣称现代绝对财产权。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "tribute-and-paiza"
+      ],
+      "note": "一第纳尔与什一税岁贡分开，纠正七八克及全国固定年税。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "tribute-and-paiza"
+      ],
+      "note": "保留地方衣冠及银牌臣属标记承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P193",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "balasaghun-layered-rule",
+      "sectionIds": [
+        "invited-capital",
+        "tribute-and-paiza"
+      ],
+      "note": "本篇承接前半农牧核心与属国监督；后半继承另入L48。"
+    }
+  ]
+}

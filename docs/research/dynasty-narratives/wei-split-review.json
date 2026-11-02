@@ -1,0 +1,300 @@
+{
+  "date": "2026-09-30",
+  "method": "逐段人工阅读北魏06 P134–P145及北齐 P019–P032，核对同一分裂事件的两份原稿并补入割血结盟与对梁战事，保留原12条并新增14条；未回听音频。",
+  "counts": {
+    "corrected": 17,
+    "covered": 6,
+    "partial": 2,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "successions"
+      ],
+      "note": "补足元晔、元恭、元朗与元修的并存和废立次序，不沿用原稿压缩后的直线继位及皇帝排序。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "portrait"
+      ],
+      "note": "保留鳞文与性情的史籍记述，不把古籍异相直接诊断为先天皮肤病。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "successions"
+      ],
+      "note": "元修惧怕受骗、王思政不能担保、高欢陈诚流泪及迎立仪式均已承接；对白依史书转述。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "portrait"
+      ],
+      "note": "从妹关系依史书校正，并以亲理冤狱和政治活动限制完全不理朝政的笼统判断。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "portrait"
+      ],
+      "note": "人物观察与纵容的戏剧化内心说法不当事实，改以实际任官、联盟和军队冲突承接矛盾。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "portrait",
+        "westward"
+      ],
+      "note": "皇帝反抗、高欢进兵与元修西奔的主线已展开；不将冲突归因于原稿虚拟对白和轻敌动机。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "two-courts"
+      ],
+      "note": "明月入关与蒺藜自缢依史籍承接，不沿用择最美同行、因被抛弃而自杀等无据动机。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "westward"
+      ],
+      "note": "投奔宇文泰及元修西奔已展开为关中接掌、出奔、路途和迎驾经过。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "two-courts"
+      ],
+      "note": "明确元修离洛、元善见被立并迁邺，修正原稿人名混用；私德责骂不写作史实。转写疑点未回听。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "two-courts"
+      ],
+      "note": "保留关中失和、元修遇鸩、元宝炬即位和东西两朝分立；限定具体下毒者，区分534与535。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "name-of-wei"
+      ],
+      "note": "承接北魏走向两座受制朝廷的感慨；嘎仙洞族源、拓跋珪建国及迁都的独立历史未在本篇展开，另列前史队列。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "name-of-wei"
+      ],
+      "note": "保留对元子攸反抗与元氏名号被保留的评价，转为个人选择、军权与皇位关系的明确编辑解读。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "successions"
+      ],
+      "note": "纠正尔朱荣被杀后仍立元修的倒序，写清元晔、元恭、元朗与532高欢迎立元修。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "portrait"
+      ],
+      "note": "补元修任官结盟、组亲军与高欢实质干预，不采用无作为却因高欢始终恭敬而膨胀的单因解释。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "portrait",
+        "blood-pledge"
+      ],
+      "note": "先联络贺拔岳、贺拔胜，再由岳死后宇文泰接掌；按阶段讲清不同势力。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "blood-pledge"
+      ],
+      "note": "核通鉴156之533年八月为割心前血遣使赐贺拔岳，非写血书给宇文泰。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "wei-split",
+      "sectionIds": [],
+      "note": "围绕取血位置、贫血、出血量的现代玩笑不构成独立史事；未据为医学事实。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "westward"
+      ],
+      "note": "西奔依靠宇文泰、高欢进军而元修出逃的实质命题已写，段内血笑话不另列缺口。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "two-courts"
+      ],
+      "note": "校正534年另立者元善见而非元子攸，说明催返未果、另立与迁邺次序。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "two-courts"
+      ],
+      "note": "分别写东魏元善见及元修入关，明月为从妹；不将西魏元宝炬535即位提前到西奔当天。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P027",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "two-courts",
+        "portrait"
+      ],
+      "note": "从妹关系、入关携明月、其被杀后失和与元修遇鸩、元宝炬继立已写，未把血伤致死笑谈当事实。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P028",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "name-of-wei"
+      ],
+      "note": "两朝都保留魏号、各奉元氏朝廷的实质内容已写，伤口塞玉插话不入史。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "name-of-wei"
+      ],
+      "note": "保留正统竞争，连军队土地资源说明非唯一战争原因；以533对梁战事限定南方始终和平说。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "name-of-wei"
+      ],
+      "note": "说明梁武帝礼佛与边境交战可并存，不将两魏与梁关系都写为无关彼此。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "name-of-wei"
+      ],
+      "note": "两位拥立者保留元氏皇帝与魏号并凭其发令，已构成收束主旨。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "wei-split",
+      "sectionIds": [
+        "two-courts",
+        "name-of-wei"
+      ],
+      "note": "长安、洛阳到邺的朝廷空间变化已写；后续战争及曹操与邺的独立旁支在下一组，不视为此篇补完。"
+    }
+  ]
+}

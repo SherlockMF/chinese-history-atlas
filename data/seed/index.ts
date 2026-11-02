@@ -6,20 +6,24 @@ import { northernQiZhouSuiLocations } from "./northern-qi-zhou-sui-locations";
 import { northernQiZhouSuiPersonRelations } from "./northern-qi-zhou-sui-relations";
 import { northernQiZhouSuiEvents } from "./events/northern-qi-zhou-sui";
 import { deepFreeze } from "@/lib/deep-freeze";
+import { expansionDynasties, expansionLocations, expansionRelations, expansionEvents } from "@/data/series/expansion";
 import type { EventRelation, HistoryDataSet } from "@/types/history";
 
-const newEventRelations: EventRelation[] = northernQiZhouSuiEvents.flatMap((event) => event.consequenceEventIds.map((targetEventId) => ({
+const newEventRelations: EventRelation[] = [...northernQiZhouSuiEvents, ...expansionEvents].flatMap((event) => event.consequenceEventIds.map((targetEventId) => ({
   id: `${event.id}-${targetEventId}`, sourceEventId: event.id, targetEventId, type: "consequence" as const,
   description: "按核验事件组织的前后联系；不表示唯一原因。",
-  sourceRefs: [...new Set([...event.sourceRefs, ...northernQiZhouSuiEvents.find((item) => item.id === targetEventId)!.sourceRefs])],
-  sourceEpisodes: event.sourceEpisodes ?? [], contentOrigin: "mixed" as const, verificationStatus: "reviewed" as const,
+  sourceRefs: [...new Set([...event.sourceRefs, ...events.find((item) => item.id === targetEventId)!.sourceRefs])],
+  ...(event.contentOrigin === "historical-extension"
+    ? { sourceEpisodes: [] as [], contentOrigin: "historical-extension" as const }
+    : { sourceEpisodes: event.sourceEpisodes ?? [], contentOrigin: "mixed" as const }),
+  verificationStatus: "reviewed" as const,
 })));
 
 export const seedData: HistoryDataSet = deepFreeze({
-  dynasties: [...fiveDynastiesSeedData.dynasties, ...northernQiZhouSuiDynasties],
+  dynasties: [...fiveDynastiesSeedData.dynasties, ...northernQiZhouSuiDynasties, ...expansionDynasties],
   people, events,
-  locations: [...fiveDynastiesSeedData.locations, ...northernQiZhouSuiLocations],
-  personRelations: [...fiveDynastiesSeedData.personRelations, ...northernQiZhouSuiPersonRelations],
+  locations: [...fiveDynastiesSeedData.locations, ...northernQiZhouSuiLocations, ...expansionLocations],
+  personRelations: [...fiveDynastiesSeedData.personRelations, ...northernQiZhouSuiPersonRelations, ...expansionRelations],
   eventRelations: [...fiveDynastiesSeedData.eventRelations, ...newEventRelations],
   dynastySuccessions: fiveDynastiesSeedData.dynastySuccessions,
   regions: fiveDynastiesSeedData.regions,

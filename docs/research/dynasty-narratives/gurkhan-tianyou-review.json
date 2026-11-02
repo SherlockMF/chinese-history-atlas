@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11根代理独立复核：逐P对读原稿、正文及史源；辽末话本与史载分层，宗王与齐妃有出处情节补入，西迁纪年及亲属异说保留。独立语义核对完成；音频未回听，partial不作全段覆盖。",
+  "counts": {
+    "partial": 6,
+    "covered": 3,
+    "corrected": 2,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gurkhan-tianyou",
+      "sectionIds": [
+        "two-titles"
+      ],
+      "note": "吸纳人口与拥立承接，1132叶密里精确场景受纪年节限定。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gurkhan-tianyou",
+      "sectionIds": [
+        "two-titles"
+      ],
+      "note": "菊儿汗称号承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gurkhan-tianyou",
+      "sectionIds": [
+        "two-titles"
+      ],
+      "note": "汗中之汗及天佑皇帝双称承接，族群多数不能直接推定。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gurkhan-tianyou",
+      "sectionIds": [
+        "two-titles"
+      ],
+      "note": "天佑、延庆及辽制延续承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "gurkhan-tianyou",
+      "sectionIds": [
+        "two-titles"
+      ],
+      "note": "保留辽名分与另称西辽区分承接。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gurkhan-tianyou",
+      "sectionIds": [
+        "two-titles"
+      ],
+      "note": "双名号承接，清代类比略。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "gurkhan-tianyou",
+      "sectionIds": [],
+      "note": "天可汗类比无本篇独立历史命题。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gurkhan-tianyou",
+      "sectionIds": [
+        "chronology"
+      ],
+      "note": "建国阶段与个人1132选择分别承接，天宁塔外形不作建国证据。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gurkhan-tianyou",
+      "sectionIds": [
+        "chronology"
+      ],
+      "note": "汉文典章与新政权承接，历史头一份绝对判断未用。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gurkhan-tianyou",
+      "sectionIds": [
+        "chronology"
+      ],
+      "note": "文化交流与枢纽作用承接，未作无量化的空前影响判断。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gurkhan-tianyou",
+      "sectionIds": [
+        "khitai-name"
+      ],
+      "note": "Khitai称中国的传播承接，不归于西辽独创。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gurkhan-tianyou",
+      "sectionIds": [
+        "chronology"
+      ],
+      "note": "1132常见整理与菊儿汗、天佑、黑契丹承接，时地有歧异。"
+    }
+  ]
+}

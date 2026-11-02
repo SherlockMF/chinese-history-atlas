@@ -1,0 +1,310 @@
+{
+  "date": "2026-09-30",
+  "method": "人工通读北魏01 P077–P103共27段，对照魏书序纪、晋书卫瓘传和通鉴卷77、80。逐段记录具体承接与未采用命题；不以来源挂载代替语义覆盖。未回听音频。",
+  "counts": {
+    "partial": 6,
+    "corrected": 16,
+    "covered": 5
+  },
+  "rows": [
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "luoyang"
+      ],
+      "note": "261年出使已写；人口与领土面积、牧场承载的泛论未在本篇展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "luoyang"
+      ],
+      "note": "曹奂在位、太子留洛及人格声誉已写；质子身份明确引通鉴，不把宾客待遇与质子身份对立，也不拟突然强扣场面或所有皇帝都喜欢的泛称。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "luoyang"
+      ],
+      "note": "太子留洛、金帛馈赠已写；限定为外交往来中的记数，不全归个人魅力带来的私人礼物。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "魏晋易代、和好延续与沙漠汗居留已承接，司马炎禅位校为受禅。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "年老与西晋时期居留已承接，并写请求归乡获准；九十上下的具体年龄未另行推算。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "父老求归、晋武帝备礼护送已写；区分归省理由和已商定继位的推断。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "return"
+      ],
+      "note": "267归部、275再赴晋已写；不以能归乡直接认定此后不再涉及质子身份。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "return",
+        "wei-guan"
+      ],
+      "note": "275返程厚礼、并州受阻、卫瓘恐为后患均已展开；官名正文依魏书，晋书官职另在来源注列明。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "wei-guan"
+      ],
+      "note": "密请留人及晋武帝难于失信而拒绝已展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "wei-guan"
+      ],
+      "note": "保留金锦离间，明确第二方案获晋帝同意，校正背着皇帝私行贿的顺序。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "wei-guan"
+      ],
+      "note": "执事与外部大人受贿保留，明确未见诸部先向晋帝告反才获准扣留的中间步骤。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "birds"
+      ],
+      "note": "277遣归、力微闻归大悦已写；明确史料未载反复表忠说服和卫瓘亲自护送。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "birds"
+      ],
+      "note": "大悦、派诸部阴馆迎接及宴饮已写；父亲预想儿子继位、发挥外交人脉的独白未采用。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "birds"
+      ],
+      "note": "受贿背景、酒酣见鸟与沙漠汗主动展示均已承接。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "birds"
+      ],
+      "note": "箭与弹丸的动作区别已交代；草原远程武器的一般性概述未展开。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "birds"
+      ],
+      "note": "援弹飞丸与当地无用弹习俗已写；小弓具体形制、与现代弹弓的器物比较及在中原学习经过未复原。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "birds"
+      ],
+      "note": "落鸟、服饰改变、诸部担忧变俗失势已展开，明确不能以酒酣推定醉眼看花。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "message"
+      ],
+      "note": "引空弓怪术、乱国害民的谗言及父亲疑惑已写，按序纪保留叙述，不另作临床诊断。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "message"
+      ],
+      "note": "保留不可容者便当除之原句，说明不能直接改成无疑义的正式处死令。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "message"
+      ],
+      "note": "塞南被害与矫害措辞已写，明确不据父龄推其五六十岁，评论从才高招忌转入继承利益。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "message"
+      ],
+      "note": "后悔已承接，明确未载父亲如何回想早先好孩子的过程；不以射鸟玩笑解释死亡。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "message",
+        "axe"
+      ],
+      "note": "后悔接库贤扰动诸部；使用先受贿而非此时才买通发动新招，回忆对白的限度见上一节。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "axe"
+      ],
+      "note": "乌丸王库贤、亲近任势及庭中磨钺斧已写；保留早先受贿，不将庭中固定成库贤私宅。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "axe"
+      ],
+      "note": "诸部询问、库贤谣称将尽杀长子的威胁及谣言性质均已明确。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "axe"
+      ],
+      "note": "信谣散走、力微卒及104岁58年记数已写；区别忧死的传记归因与可确认的病因。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "axe"
+      ],
+      "note": "结合晋书边防功业与魏书继承冲突，保留卫瓘介入而不把全部责任只推给一人。"
+    },
+    {
+      "file": "北魏01_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "shamohan",
+      "sectionIds": [
+        "axe"
+      ],
+      "note": "太子遇害、部众离散与悉鹿继立作后果衔接；之后频繁更替的具体过程留BW05。"
+    }
+  ]
+}

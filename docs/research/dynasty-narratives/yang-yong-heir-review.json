@@ -1,0 +1,376 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：完整读隋上P164–166与隋中P041–068共31段，以隋书诸传、本纪与通鉴校读，补成八节。婚姻门第与全面社会集团解释分开，保留云氏远祖谱系、高德幕后及自查说未证项；不把节目对白和现代类比当实录，未回听音频。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "partial": 12,
+    "uncertain": 3,
+    "corrected": 2,
+    "covered": 11,
+    "not-covered": 2,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "two-marriages"
+      ],
+      "note": "杨勇杨广储位冲突及婚姻政治背景承接；江南阶层矛盾如何逐项导致争位未完成社会史论证，不能以概括关系取代。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "two-marriages"
+      ],
+      "note": "保留夺储牵动姻亲官僚与地方任职关系，并限制两王等同整个南北集团的解释；转写不明的其他诸子夺嫡类比未核。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "two-marriages"
+      ],
+      "note": "正文明确不能由两王婚姻推出东都和运河的全部缘由；本段把后续工程单归派系矛盾的因果链未获充分证据，仍待核。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "five-sons"
+      ],
+      "note": "按隋书明确五子次序：勇、广、俊、秀、谅，纠正原段重复次子及末句转写混乱；早期继承安排以下文立勇和参决政务为据。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "five-sons"
+      ],
+      "note": "杨勇在父亲辅政时任职参与创业、杨广出任伐陈元帅均承接，不把后来争位提前写成父亲原定计划。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "five-sons"
+      ],
+      "note": "原段已有杨广统帅与诸将实际作战、兄弟培养各有侧重的区分；正文承接并展开具体职任，不把扩写视为纠错。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "five-sons",
+        "two-marriages"
+      ],
+      "note": "兄弟职责、婚姻安排承接，并用杨勇屯兵及杨广地方总管职任限制兄只政弟只军；杨谅最得宠的全家比较未展开。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "two-marriages"
+      ],
+      "note": "杨勇元孝矩女、杨广梁主萧岿女的正妻身份与门第背景分别写明，不沿用元袁混写。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "two-marriages"
+      ],
+      "note": "据重其门地明文承接元家北魏宗室与政治联姻分量；不能由此证明所有北方勋贵都由这桩婚姻统一代表，独孤婚姻比较未重述。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "two-marriages"
+      ],
+      "note": "萧妃南方皇室背景和两婚联络旧朝家族承接；两大集团因此稳固的整体判断未当已证事实。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "cloud-and-heir"
+      ],
+      "note": "元氏正妃、云氏昭训而受到近于嫡妻礼遇的冲突完整承接。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [],
+      "note": "云氏为赫连勃勃后裔的具体谱系未核到可直接读的墓志原文；隋书本传只支持云定兴父女关系，正文未采用远祖断言，来源注保留待核。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [],
+      "note": "胡夏灭亡不自动取消每个后裔的贵族地位，现代爱新觉罗类比也非六世纪云氏身份档案。现有云昭训子嗣与受宠可以讲，不推出出身阶层已经失效，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "cloud-and-heir"
+      ],
+      "note": "生长子并报喜的情节入口承接；未定开皇初具体年月，也未采用手舞足蹈跑入、现代串演对白。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "cloud-and-heir"
+      ],
+      "note": "杨俨为云氏所生、杨坚因非正妃之子说生不得地，及嫡庶继承含义写明；人物揣测改由可证礼制关系解释。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "cloud-and-heir"
+      ],
+      "note": "云定兴作为云昭训之父、以龙种因云而出的双关回应，按隋书原语承接，不另定他当时的官职。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P054",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "cloud-and-heir"
+      ],
+      "note": "龙与云姓双关及机敏应答的意思承接，并说明不能据吉利话消除嫡庶问题。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "cloud-and-heir",
+        "another-grandson"
+      ],
+      "note": "以帝后共同抱养杨俨的明文纠正长子从未受到祖父重视；皮笑肉不笑、不看云定兴等表情没有写成史实。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "another-grandson",
+        "winter-audience"
+      ],
+      "note": "萧氏生杨昭并由宫中抱养、冬至是礼仪节点承接；未核两孙出生仅相隔不久，冬至为老天生日的解释未纳入。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "winter-audience"
+      ],
+      "note": "百官东宫受贺、杨坚询问与辛亶朝贺用词区别完整承接，并展开有司集中召集的实际争议。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "winter-audience",
+        "gao-de-petition"
+      ],
+      "note": "贺而不得僭越君臣等级及停止地方另向东宫贡贺、586高德事件的过渡都承接；不是把普通小范围祝贺一并禁绝。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "gao-de-petition"
+      ],
+      "note": "本段虽以姓名笑谈为主，仍包含高德真实姓名，正文已明确，故不沿用基线整段无需的过宽判断。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [],
+      "note": "只含现代导航品牌和走错路的双关玩笑，无独立历史命题，不补入正文。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "gao-de-petition"
+      ],
+      "note": "洛阳男子、586三月上书请传位太子、杨坚拒绝及理由都有原典支撑并写出；不沿用自拟口语奏折。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "gao-de-petition"
+      ],
+      "note": "劝禅敏感与帝不愿传位承接；原段认定因此查案、认定太子催位及代周心理类比并未获直接证据。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "gao-de-petition"
+      ],
+      "note": "令杨勇自己调查高德的关键情节，在所读隋书高祖纪和通鉴586条未见；正文不复原此调查，不以人物经历推测替代证据。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "gao-de-petition",
+        "weiding-answer"
+      ],
+      "note": "韦鼎答帝后最爱者的问答已定位并写入；高德或出自他人策划仍无证，且不把相术问答强接成劝禅后的连续现场。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "weiding-answer",
+        "unsteady-inheritance"
+      ],
+      "note": "皇帝已有储君仍问谁得嗣、信任松动对周边官员构成难题有所承接；不能由一次问答证明全朝官员已同时得知。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "unsteady-inheritance"
+      ],
+      "note": "储君需学政又须服从皇帝的两难以杨勇具体处境展开；跨朝太子职业难度与所有父亲必然猜忌的普遍判断未采用。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [
+        "unsteady-inheritance"
+      ],
+      "note": "储位引来竞争及并非所有兄弟必然争位的限定承接；节目提及历朝不愿继位者未逐一补成案例。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "yang-yong-heir",
+      "sectionIds": [],
+      "note": "宋徽宗及转写不清人物的皇位意愿属于无法由即位事实证明的心理类比。没有回听原音，不强定第二人；杨勇储位史事已有正文，不补他们想/不想当皇帝，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    }
+  ],
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "隋（中）_clean_v1.md",
+        "paragraph": "P050",
+        "resolution": "research-closed"
+      },
+      {
+        "file": "隋（中）_clean_v1.md",
+        "paragraph": "P068",
+        "resolution": "research-closed"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读28P及相邻53—54衔接、全正文，亲核宋272/274与辽11/83/85。修撤民路线、潘先认可无文、王侁非纯文人、挞凛参与擒获/奚低射落不同叙功及误卷84，三十年我国与个人对手区别、杨氏非唯一子。音频未回听。",
+  "counts": {
+    "corrected": 11,
+    "covered": 8,
+    "partial": 9
+  },
+  "rows": [
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P055",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "west-route-pressure"
+      ],
+      "note": "辽11斜轸北伐初已奉山西军职，不误作东路已打完才调西；四州得失承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P056",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "west-route-pressure"
+      ],
+      "note": "“诏迁四州之民于内地，令美等以所部之兵护之”逐字承接；监军王侁（亻+先）字注记。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P057",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "the-evacuation-plan"
+      ],
+      "note": "寰已失，云先出、宋次应、朔民石碣谷，纠正云朔寰逐城搬民最后决战的路线。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P058",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "the-evacuation-plan"
+      ],
+      "note": "杨业方案解释有承接，宋272未明写潘美先同意，正文不虚补。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P059",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "the-evacuation-plan"
+      ],
+      "note": "评价潘美依据实行动而非演义的思路承接；高梁河潘催逃未独证不采。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P060",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "the-evacuation-plan",
+        "the-quarrel"
+      ],
+      "note": "王侁宋274有军旅实绩，非纯文人；潘同意未明文不写。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P061",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "the-quarrel"
+      ],
+      "note": "王侁正面出战意见有源；四州指标/不仁不义道德指责不是宋272对白，未编现场。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P062",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "the-quarrel"
+      ],
+      "note": "杨业时不利徒伤卒申辩有源，固执不成熟/骂街改据史行动，不杜撰对白。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P063",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "the-quarrel"
+      ],
+      "note": "宋272他志质疑与杨自述降将压力，不写原段北汉降将辱骂为直接原话。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P064",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "the-quarrel"
+      ],
+      "note": "揭短之痛承接；杨业旧号“无敌”与北汉时代补入。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P065",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "the-quarrel"
+      ],
+      "note": "杨业应战按史文“今君责业以避死，当为诸公先驰耳”承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P066",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "chenjiagu"
+      ],
+      "note": "决死安排与带子出战承接；延玉同殁见后文史文。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P067",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "chenjiagu"
+      ],
+      "note": "陈家谷之约按“诸君于此张步兵强弩……不然，无遗类矣”逐字承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P068",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "chenjiagu"
+      ],
+      "note": "潘等谷口布兵有源，没问题放心上等承诺对白未载不采。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "chenjiagu"
+      ],
+      "note": "王侁登台望军、以为契丹败走、欲争其功按史文“侁使人登托逻台望之”承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "chenjiagu"
+      ],
+      "note": "聞业败即退实源承接；原见百姓溃军死者到眼前未见，未加。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "chenjiagu"
+      ],
+      "note": "美不能制与退兵有源，听谁命令/要求保护拟对白不造。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "chenjiagu",
+        "captor-and-death"
+      ],
+      "note": "85挞凛从斜轸败宋擒获与83奚低射落，不以卷83省称否定挞凛；跨节补引用。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "captor-and-death"
+      ],
+      "note": "撞碑演义与实擒辨别，见杨为斜轸非休哥；原旧来源84奚低误卷，实83。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "captor-and-death"
+      ],
+      "note": "史话“我国角胜三十余年”，非两将个人三十年，也不仅凭此断言北汉三十年辽战全部已核。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "captor-and-death"
+      ],
+      "note": "末节限定心理推测不可确证，未把斜轸膨胀敬佩作为事实复现。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "captor-and-death"
+      ],
+      "note": "含挞凛擒杨实义，不应仅因诸葛司马类比整段not-needed；亲核辽85补回。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "captor-and-death"
+      ],
+      "note": "“既擒，三日死”（辽史）与“乃不食，三日死”（宋史）两记并陈；七郎八虎等演义谱系澄清；“杨彦昭”更正杨延昭。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "captor-and-death"
+      ],
+      "note": "杨有延玉及宋272六存子不只延昭；本传百余部下不肯退故事补回，演义不实写。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "captor-and-death"
+      ],
+      "note": "不是恶意潘仁美，但主帅不能制和失约仍责，不以军命难违免责。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "captor-and-death"
+      ],
+      "note": "绝食的敬意承接为主持人评价层。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "captor-and-death"
+      ],
+      "note": "不食三日决绝承接；饭水摆前/敌诱非文，减肥动物类比不采。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "chenjiagu",
+      "sectionIds": [
+        "captor-and-death"
+      ],
+      "note": "杨死与宋军退败已承接，失败收束；汽水玩笑不采。"
+    }
+  ],
+  "independentReview": "completed"
+}

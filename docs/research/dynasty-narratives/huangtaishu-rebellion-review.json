@@ -1,0 +1,447 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读辽04各原段、正文与所列原典，纠正源文、年代和叙事层级；逐条说明实际承接。音频未回听，不以转写之外的对白补写。",
+  "counts": {
+    "partial": 12,
+    "covered": 18,
+    "not-needed": 3,
+    "corrected": 7
+  },
+  "rows": [
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-heir-who-wasnt"
+      ],
+      "note": "在位46年承接，侮辱性第一混蛋定性未作为史实。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-heir-who-wasnt"
+      ],
+      "note": "用全朝赞语评价后果，不因在位久断危害排名。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-heir-who-wasnt"
+      ],
+      "note": "兴宗许弟传位又培养儿子的两线背景明确。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-heir-who-wasnt"
+      ],
+      "note": "辽21沉静严毅兴宗敛容与少年履历均恢复。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [],
+      "note": "道德制高点形象玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "accession"
+      ],
+      "note": "柩前继位政务明确，临终治国指导细节没有史源不增。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [],
+      "note": "人生经验闲聊段，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "accession"
+      ],
+      "note": "“己丑，兴宗崩，即皇帝位于柩前，哀恸不听政。辛卯，百僚上表固请，许之”逐字承接；“八月初四”以己丑日对应。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "accession"
+      ],
+      "note": "求直言访治道与节目念原文的安排承接。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "accession"
+      ],
+      "note": "“求直言，访治道，劝农兴学，救灾恤患”逐字承接（赞语“粲然可观”补入）。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "accession"
+      ],
+      "note": "赞语属整朝六卷末论，不特指重元一乱。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "accession"
+      ],
+      "note": "初政与后续对照保留，虚伪表演心理不实证。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "accession"
+      ],
+      "note": "骨肉诸部问题依赞语，顺利继位疑问不是新增事实。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-title"
+      ],
+      "note": "期待落空由许位与继位对照，不编想法对白。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-title"
+      ],
+      "note": "安抚与野心分析保留，爷俩玩他属评论未照录。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-title"
+      ],
+      "note": "壬辰任太叔非翌日；史文免汉拜不名，唯一称号和侄许位未证。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-title"
+      ],
+      "note": "免汉拜不名和军事任用实际承接。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-title"
+      ],
+      "note": "安抚政治读法明确但非心迹可知。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-rebellion"
+      ],
+      "note": "涅鲁古谋反与“趁猎突袭行宫”承接；衔柴火的旧俗玩笑互见辽03。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-rebellion"
+      ],
+      "note": "耶律良告变、道宗不信承接；事后“密告重元变，命籍横帐夷离堇房”的封赏补入。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-rebellion"
+      ],
+      "note": "原典甘伏斧锧，纠节目油锅誓；忠直以行动呈现。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-rebellion"
+      ],
+      "note": "召涅鲁古验反建议据辽96，非现代拟语。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-rebellion"
+      ],
+      "note": "辽96太后托疾召帝实际恢复，不再称无源铺演。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [],
+      "note": "太后无故事的闲聊段，无实质命题。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-rebellion"
+      ],
+      "note": "使者帐下被扣辽96明确。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-rebellion"
+      ],
+      "note": "辽96以佩刀断帟逃回，不是割绑自己的绳。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-rebellion"
+      ],
+      "note": "耶律仁先登场承接。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-rebellion"
+      ],
+      "note": "仁先劝帝不弃扈从及两院心未可知原理已恢复。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-rebellion"
+      ],
+      "note": "车阵、拆行马30余骑，与本纪数千兵层次区分。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-rebellion"
+      ],
+      "note": "阿廝护卫苏射杀入文，与本传中矢被擒异述注明。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-rebellion"
+      ],
+      "note": "伤退到黎明再攻承接；群臣枢密院护驾细节本次未增。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-rebellion"
+      ],
+      "note": "原典次日奚人2000实际承接，另萧塔剌援兵非倒戈。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-rebellion"
+      ],
+      "note": "辽96是五院部萧塔剌援军，不照编奚首领效忠戏。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-rebellion"
+      ],
+      "note": "重元逃漠自杀及族诛明确；不倒置族诛为自杀后翌日。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-psychology"
+      ],
+      "note": "野心政治评价保留，不代证当事人悔意。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P133",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-psychology"
+      ],
+      "note": "爵位可安身的假设保留；海昏侯闲比未入事实。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P134",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "the-psychology"
+      ],
+      "note": "善终只作反事实，不宣称道宗心中确无杀意。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P135",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "two-names-rising"
+      ],
+      "note": "乱后两人凸显的引入承接。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P136",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "two-names-rising"
+      ],
+      "note": "仁先乙辛升迁两书南北使差异并列，良后续履历恢复。"
+    },
+    {
+      "file": "辽04_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "huangtaishu-rebellion",
+      "sectionIds": [
+        "two-names-rising"
+      ],
+      "note": "纠良有德无才再无作为断语，辽96有作赋编集与多官经历；乙辛权术另篇。"
+    }
+  ],
+  "independentReview": "completed"
+}

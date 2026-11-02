@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11收尾检查核通鉴279预借五月、实收六万与督责；未回听音频。",
+  "counts": {
+    "partial": 5,
+    "covered": 10,
+    "corrected": 3,
+    "not-needed": 2
+  },
+  "rows": [
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "promise"
+      ],
+      "note": "兵变承诺与财力危机实际承接；前半史在德后帝威望上升、朝政变好未证，不因后半使用而全段covered。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "promise"
+      ],
+      "note": "兵变需兵支持的机制已落在赏军承诺，不单把抽象格言当史料。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "promise"
+      ],
+      "note": "凤翔旧部与归降军等待奖赏已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "promise"
+      ],
+      "note": "入洛每人百缗承诺与预计五十万缗已用；一吊等千枚现实折陌另有差，不凭今京话定实币。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "promise"
+      ],
+      "note": "入洛等赏与皇帝不得撤诺已用，去军人齐声拟对话。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "promise"
+      ],
+      "note": "王玫虚报数百万、实数三万两匹已用；不写王梅好办法拟语。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [],
+      "note": "小王、皇上乐出后槽牙的即兴模仿，无独立财经措施。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "promise"
+      ],
+      "note": "搜集民财、后改租值标准已用；民脂民膏不是可核拟奏原文。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "five-months"
+      ],
+      "note": "按房产估租值征借已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "five-months"
+      ],
+      "note": "自住租住均预借五个月租值已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [],
+      "note": "现代house及民脂民膏语义笑谈，前段租值事实不再重复。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "five-months"
+      ],
+      "note": "research-closed：承接催征指标、地方强制权和额外搜刮风险的分析；原典无官员统一收一万交八千的收支账，固定20%侵吞明确不采用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-needed",
+      "assessment": "corrected",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "five-months"
+      ],
+      "note": "research-closed：预借五月僦直与逼征已实述，原段十个月租值无所亲读史文支持；不采用加倍数额或把侵吞比例作为账目。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "five-months"
+      ],
+      "note": "六万不足、皇帝下军巡使狱日夜督责已用；冯家拟指责不当原话。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "five-months",
+        "broken-reward"
+      ],
+      "note": "前半贫民自缢投井在five-months，后半宫中器物筹钱在broken-reward，补双节精确定位。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "broken-reward"
+      ],
+      "note": "宫中器物簪珥合计不足、军人不满已用，买命钱作为解释非本人用语。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "broken-reward"
+      ],
+      "note": "李专美建议按现财力均给、立法纪已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "broken-reward"
+      ],
+      "note": "赏额按将领七十、归命军二十、在京十缗分等，不统一六十缗；减诺引怨已用。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "broken-reward"
+      ],
+      "note": "除菩萨扶生铁谣已用有源；跨西夏灭亡类比不当此时事件。"
+    },
+    {
+      "file": "五代十国04_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "last-tang-army-reward-debt",
+      "sectionIds": [
+        "broken-reward"
+      ],
+      "note": "军士怨、晋阳石敬瑭仍为强镇难题已用；不编全员后悔程度。"
+    }
+  ],
+  "independentReview": "complete",
+  "independentReport": "final-unadopted-liao-wudai-independent.md"
+}

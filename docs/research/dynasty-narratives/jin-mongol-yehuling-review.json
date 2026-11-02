@@ -1,0 +1,452 @@
+{
+  "date": "2026-10-02",
+  "method": "2026-10-11 独立逐读金02 P077—116全部40条、正文与台账，亲读金史1、44、93、元史1、119、150及圣武亲征录相关段；补制度与战绩评价，纠正无民役工程与土豪原话，保留1211/1212异载；未回听音频。",
+  "counts": {
+    "partial": 18,
+    "corrected": 11,
+    "covered": 6,
+    "uncertain": 3,
+    "not-needed": 2
+  },
+  "rows": [
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "forest-and-steppe"
+      ],
+      "note": "承接各部演变与蒙金关系背景；未细写各部全部兴衰。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "forest-and-steppe"
+      ],
+      "note": "写草原关系及边防压力；宗弼北征弘吉剌塔塔尔失败和蒙古必因抢劫壮大均未证。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "forest-and-steppe"
+      ],
+      "note": "以多种生计并存承接女真是否游牧之问，未把草原军必然难捉写为定律。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "forest-and-steppe"
+      ],
+      "note": "改女真完全不游牧为早期季节移动、农业采猎并存。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "forest-and-steppe"
+      ],
+      "note": "森林生活与田猎写入；不扩大为所有女真长期只有固定一业。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "forest-and-steppe"
+      ],
+      "note": "承接渔猎农业组合，未保留辽女真文明程度高下的比较。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "forest-and-steppe"
+      ],
+      "note": "绥可筑室、耕垦、纳葛里和安出虎定居全部承接。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "forest-and-steppe"
+      ],
+      "note": "阿骨打禁止除军官外骑马的具体命令未核得，正文只写可证骑射农业共存。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "forest-and-steppe"
+      ],
+      "note": "女真不产马及因此汉化快的单因链未证；保留关系与资源背景而不采断言。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "forest-and-steppe"
+      ],
+      "note": "新增与辽及金兵制比较，明确汉制与猛安谋克、汉军部族军并存，纠正立即一元化的简化。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "forest-and-steppe"
+      ],
+      "note": "早期筑室写实，不采乡下木屋到北京大房子的线性心理。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [],
+      "note": "木屋贫困与房价式口语比较未作历史事实补写。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "forest-and-steppe"
+      ],
+      "note": "季节迁移和定居转变实际承接，蒙古移动等于看到繁华就想占的推论未证。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "forest-and-steppe"
+      ],
+      "note": "新增金对辽宋蒙古不同战绩的比较，解释转到军备、补给和指挥；不将野性多少当确定原因。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "forest-and-steppe"
+      ],
+      "note": "辽金兴亡与草原冲突实际写入胜负比较；不把辽腐朽或林地野性写成单因定论。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "tribute-encounter"
+      ],
+      "note": "实际写净州受贡；金朝一律禁止蒙古首领入京以防羡慕的政策未证。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "tribute-encounter"
+      ],
+      "note": "边地受贡写入，羡慕首都即生反心的类比未证。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "tribute-encounter"
+      ],
+      "note": "据元史写章宗遣卫王净州受贡，不断言是成汗后铁木真主动申请入京。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "tribute-encounter"
+      ],
+      "note": "章宗派卫王边地受贡与见面已实际承接；老皇帝顾不上、给面子等心理对白没有所核史载，不误记成早餐段。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "tribute-encounter"
+      ],
+      "note": "受贡会面及铁木真不为礼承接；帐中闭目、睡醒、鞠躬动作未获元史所核原文支持。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "tribute-encounter"
+      ],
+      "note": "双方不礼与请求出兵承接，委屈被迫起床的心理未证。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "tribute-encounter"
+      ],
+      "note": "元史见允济不为礼写入，不加尚未跪便叫平身的情景。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [],
+      "note": "新鞋比喻与帐中哄笑为节目演绎，未入事实段。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "tribute-encounter"
+      ],
+      "note": "永济归而欲请兵、恰遇章宗死及继位写入。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "tribute-encounter"
+      ],
+      "note": "金使诏令跪拜与问新君名写入。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "tribute-encounter"
+      ],
+      "note": "记乘马北去而不写必在打猎现场；对新君轻蔑意思保留。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "tribute-encounter"
+      ],
+      "note": "天上人、庸懦、何必拜的史载关键话语承接且注明出处视角。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "tribute-encounter",
+        "wusha-failure"
+      ],
+      "note": "1211出兵及决裂前准备实写，不以一次轻慢解释全部战争。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "tribute-encounter",
+        "wusha-failure"
+      ],
+      "note": "实力与边防变化并写，主观自信为口述推断不独立确认。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "wusha-failure"
+      ],
+      "note": "术赤、察合台、窝阔台分路有本纪；不采察合台第四子的错误排序，也未把拖雷仅写守家。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "wusha-failure"
+      ],
+      "note": "哲别乌沙堡乌月营进攻承接。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "wusha-failure"
+      ],
+      "note": "督修界壕与临敌不备承接；修防用工七十五万而只役戍兵，正文纠正不能冒写民众被大量征役。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "wusha-failure"
+      ],
+      "note": "思忠战败解职，不是哲别当场斩杀。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "retreat-to-huihe"
+      ],
+      "note": "野狐岭和当地人凭险建议写入，不把广阔战场全缩成一条狭沟。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "cavalry-or-combined"
+      ],
+      "note": "主将姓纥石烈；明安为麾下使者，非已核副元帅；战事编年差异明确。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "retreat-to-huihe"
+      ],
+      "note": "据金93承裕传，土豪熟悉溪涧并请土兵前锋、官军声援承接地利机会；不虚构民力养兵的责骂原话或具体埋伏图。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "cavalry-or-combined"
+      ],
+      "note": "四十万作元史所称号兵数，不作为准确在场或全歼人数。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "cavalry-or-combined"
+      ],
+      "note": "军事争论为无名契丹军师主张速骑，九斤选择马步俱进，非明安劝山顶伏兵。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "cavalry-or-combined"
+      ],
+      "note": "九斤理由为避险求稳，未证儒家天朝不屑诈术的对白及原因。"
+    },
+    {
+      "file": "金02_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "jin-mongol-yehuling",
+      "sectionIds": [
+        "retreat-to-huihe",
+        "cavalry-or-combined"
+      ],
+      "note": "补木华黎敢死突阵及会河追败；不采所有名将齐至与40万全亡的拼接。"
+    }
+  ]
+}

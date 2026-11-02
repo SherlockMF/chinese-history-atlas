@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-02",
+  "method": "L02：辽组子代理完整阅读列出原段、检索并阅读所列原典后逐段自审；未回听音频，独立交叉复核待主代理完成，原基线不变。",
+  "counts": {
+    "covered": 4,
+    "corrected": 2,
+    "not-needed": 1,
+    "partial": 9,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "a-city-keeps-living"
+      ],
+      "note": "承接938幽州升南京，补936割让与南京含义。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "a-city-keeps-living"
+      ],
+      "note": "承接燕云取得及北京辽代遗存。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "two-similar-pagodas"
+      ],
+      "note": "承接天宁寺塔八角密檐砖塔与玲珑塔相似。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "two-similar-pagodas"
+      ],
+      "note": "慈寿寺塔明确明万历营建，不按一模一样复刻；工业背景识图玩笑略。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [],
+      "note": "个人是否入寺经历无新增历史信息。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "two-similar-pagodas"
+      ],
+      "note": "保留对熟悉佛教形制的观看感受，不据此断言所有营建传统完全相同。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "two-similar-pagodas"
+      ],
+      "note": "分开塔与寺前身年代，北魏光林寺旧说不确证；辽继唐政治正统的概括另需文本。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "two-similar-pagodas",
+        "stone-sutras"
+      ],
+      "note": "承接纠正刻板印象，不推广为无差别身份结论。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "qingshui-inscription",
+        "stone-sutras"
+      ],
+      "note": "以施主经书建筑具体说明文化联系，赐姓不能自动等于一切认同。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "a-city-keeps-living",
+        "stone-sutras"
+      ],
+      "note": "保留历史联系讨论，不把唐到辽合法性与全员主观意识当事实。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "qingshui-inscription"
+      ],
+      "note": "承接大觉寺辽代起点，明确具体创建年不详。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P023",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "qingshui-inscription"
+      ],
+      "note": "馆方朝日解释并列地形条件，不靠朝向独定年代。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P024",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "old-tree-different-clocks"
+      ],
+      "note": "千年银杏文化承接；7.5米胸径无可核测量，不擅改为同值胸围。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P025",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "old-tree-different-clocks",
+        "stone-sutras"
+      ],
+      "note": "承接银杏观赏与云居寺转场，营销照片指控不采用。"
+    },
+    {
+      "file": "辽01_clean_v1.md",
+      "paragraph": "P026",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "stone-sutras"
+      ],
+      "note": "石经始于隋，院落历代形成，辽塔后修，纠正辽代全起源说。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P215",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "stone-sutras"
+      ],
+      "note": "承接建筑与文学相通的反思；萧氏诗作全文身份推论不在建筑篇代证。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P216",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liao-beijing-temples",
+      "sectionIds": [
+        "stone-sutras"
+      ],
+      "note": "承接北京地方史进入辽代视野，不把认识改变等同所有差异消失。"
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "date": "2026-10-11",
+  "method": "独立复核：亲读本篇台账全部对应原段、正文与列明原典；2026-10-11逐P校验实际sectionIds与transcripts，修正未核片段评估；未回听音频。史源缓存output/research-source-cache。",
+  "counts": {
+    "covered": 16,
+    "partial": 8,
+    "corrected": 7,
+    "not-needed": 1,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "early-talks"
+      ],
+      "note": "真宗怯战、辽无休哥斜轸级统帅的对称判断承接为分析层。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "early-talks"
+      ],
+      "note": "早期信使往来落实，长编指出议和先于挞凛死；“第一次没谈拢接着打”单线归因未证。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "early-talks"
+      ],
+      "note": "瀛州不克与守城过程落实，不是朔州；双方仍边谈边战。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "early-talks"
+      ],
+      "note": "御驾亲征升级承接；太后圣宗南下随军承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "deep-push"
+      ],
+      "note": "观音奴与挞凛同先锋及祁州德清动作有卷85依据；冀州会师尚未核定。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "avoid-the-capital"
+      ],
+      "note": "迁都之议与“历史惊人相似”的感慨承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "avoid-the-capital"
+      ],
+      "note": "金陵方案（王钦若）承接；长编“群臣有以金陵之谋告上”正文记法补入。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "avoid-the-capital"
+      ],
+      "note": "成都方案（陈尧叟）与寇准出场承接；“罪可斩”注明出自《宋史·寇准传》，长编原话“群臣怯懦无知，不异于乡老妇人之言”。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "avoid-the-capital"
+      ],
+      "note": "寇准的反驳与杨延昭仍在边线承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "crossing-the-river"
+      ],
+      "note": "亲征的争论承接为节目分析层。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "crossing-the-river"
+      ],
+      "note": "马上皇帝与深宫皇帝的对比保留为主持人评论。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "partial",
+      "assessment": "not-needed",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [],
+      "note": "清蒸红烧谐音玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "crossing-the-river"
+      ],
+      "note": "真宗的血性判断承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "crossing-the-river"
+      ],
+      "note": "长编先赵元份留守，元份病后王旦自澶州权留守；不写出发前即命王旦。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "crossing-the-river"
+      ],
+      "note": "十日不返问答未见长编，保留限度而非声称发生。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "crossing-the-river"
+      ],
+      "note": "未据立太子对白叙事；区分1004无册立太子与王旦留守的实际安排。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "crossing-the-river"
+      ],
+      "note": "澶州黄河分南北两城、皇帝先至南城承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "crossing-the-river"
+      ],
+      "note": "不肯渡河的迟疑承接；高琼出场。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "crossing-the-river"
+      ],
+      "note": "高琼“陛下若不幸北城，百姓如丧考妣”“执挝筑辇夫背：何不亟行”逐字承接；登北城士气大涨有史文。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "talin-hit"
+      ],
+      "note": "兵力对比未由原典核定，仅承接双方对峙，不以估数全覆盖。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "talin-hit"
+      ],
+      "note": "双方士气高涨的对峙承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "talin-hit"
+      ],
+      "note": "挞凛遇弩在真宗未至澶州时，不能按皇帝到后叫阵的先后。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "talin-hit"
+      ],
+      "note": "张緓守床子弩有长编原文；叫阵/八牛构制未证，督战与按视地形分别叙。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "talin-hit"
+      ],
+      "note": "中額后送回寨、当夜死，不是当场射杀；原稿张环校为原典张緓，未回听。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "talin-hit"
+      ],
+      "note": "休哥989中伤998卒，不能说死于尹继伦手；挞凛1004中弩卒。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "talin-hit"
+      ],
+      "note": "主将死、辽军失倚仗的态势承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "talin-hit"
+      ],
+      "note": "太后哭慟有卷85；骂街口音与捺钵闲谈不虚作史事，口音仅作限定。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "talin-hit"
+      ],
+      "note": "捺钵/口音不复原；卷85亲核论赞原句有据，非因卷14未载而判无源。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "talin-hit"
+      ],
+      "note": "卷85论赞“将与宋战…我兵失倚，和议始定…天厌其乱…”恢复，并区分论赞与实际早期议和。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "peace-track"
+      ],
+      "note": "传信作用落实；王继忠给太后具体算账对白未见原典。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "peace-track"
+      ],
+      "note": "撤退风险为编辑分析，未证二十万追八万行动或太后对话。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "peace-track"
+      ],
+      "note": "谈判条件与威慑分析承接，具体边谈边撤策划与“赶紧跑”对白未证。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "chanzhou-crisis",
+      "sectionIds": [
+        "peace-track"
+      ],
+      "note": "两边传话与真宗急和、寇准杨延昭反对承接；杨延昭扼要路奏疏注记；曹利用篇预告。"
+    }
+  ],
+  "independentReview": "completed"
+}

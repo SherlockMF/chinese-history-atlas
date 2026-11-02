@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11 主代理逐读本批150条原段、故事正文与原有逐段note；亲读辽史27—30、71、98，金史2、3、74，宋史335、357，北盟7、10、11及契丹国志相应段落；修正文妃诗、交涉与战役时序、刘延庆指挥评价、大石系绳引路青冢及林牙官称，不以引用范围或关键字命中代替语义对应；未回听音频。",
+  "counts": {
+    "corrected": 6,
+    "partial": 6,
+    "covered": 7,
+    "not-needed": 2
+  },
+  "rows": [
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P069",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "poetic-remonstrance"
+      ],
+      "note": "萧瑟瑟为文妃而非皇后；文学与劝谏承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P070",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "poetic-remonstrance",
+        "succession-and-yudu"
+      ],
+      "note": "文妃与元妃身份分开，奉先是元妃兄；亲属关系在继承节，已补P070单段定位。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P071",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "poetic-remonstrance"
+      ],
+      "note": "整首讽谏歌按辽史校字入诗栏。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "poetic-remonstrance"
+      ],
+      "note": "歌体、敢讽外戚的文学阅读承接，不排女诗人名次。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "poetic-remonstrance"
+      ],
+      "note": "保留“往代兮秦天子”，二世变体未有传本依据不合入诗。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "poetic-remonstrance"
+      ],
+      "note": "外戚私兵与讽谏承接；皇帝记恨有纪传，奉先因诗才谋害为推断。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "succession-and-yudu"
+      ],
+      "note": "晋王、秦王母系与贤名承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "succession-and-yudu"
+      ],
+      "note": "奉先忌晋王、谋害承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "succession-and-yudu"
+      ],
+      "note": "余睹妹夫及构陷拥立承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [],
+      "note": "猜测真有谋反的节目评论，史传判诬不作事实。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "succession-and-yudu"
+      ],
+      "note": "文妃赐死与余睹在军中降金承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "succession-and-yudu"
+      ],
+      "note": "余睹姓名恢复；捕拿角色据纪文而非原稿拟对白。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "succession-and-yudu"
+      ],
+      "note": "追将议论纵逃与降金承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "succession-and-yudu"
+      ],
+      "note": "降将军政情报作用承接，不造阿骨打兴奋对白。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [],
+      "note": "刘备曹仁现代假想类比。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "succession-and-yudu"
+      ],
+      "note": "私人复仇不能代替情报价值的分析；拟复仇独白略。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "yuanyang-lake"
+      ],
+      "note": "1122中京失守、出居庸往鸳鸯泺。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "yuanyang-lake"
+      ],
+      "note": "追袭行宫承接，未用严格包围及现代精确坐标。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "yuanyang-lake"
+      ],
+      "note": "奉先以杀晋王止战建议及皇帝采信承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "yuanyang-lake"
+      ],
+      "note": "晋王赐死、继续逃亡承接；各京失陷重排。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiaosese-jinwang",
+      "sectionIds": [
+        "yuanyang-lake"
+      ],
+      "note": "西京亦于1122春失，不能声称还剩西京南京两京直到其后。"
+    }
+  ]
+}

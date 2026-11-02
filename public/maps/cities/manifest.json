@@ -1,0 +1,23 @@
+{
+  "provider": "OpenFreeMap",
+  "upstream": "https://tiles.openfreemap.org/planet/20260913_164504_pt/{z}/{x}/{y}.pbf",
+  "dataLicense": "ODbL",
+  "attribution": "© OpenMapTiles · © OpenStreetMap contributors",
+  "regions": {
+    "jin": [
+      116.29,
+      39.84,
+      116.455,
+      39.958
+    ],
+    "daxing": [
+      108.858,
+      34.19,
+      109.01,
+      34.3
+    ]
+  },
+  "minzoom": 10,
+  "maxzoom": 14,
+  "tileCount": 180
+}

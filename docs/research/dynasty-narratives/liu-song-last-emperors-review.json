@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-02",
+  "method": "完整读南朝02 P111–P129，逐项对宋书8/9/10/72、南齐书1/2/53、南史3/11、通鉴134/135。宫廷故事按先后展开，宗法身份、身世传闻和现代确证分开。未回听音频，未作医学诊断；保留箭字缺文及顺帝年龄矛盾。2026-10-02由独立子代理逐段重读原稿、正文和原典完成交叉复核。",
+  "counts": {
+    "partial": 11,
+    "covered": 2,
+    "corrected": 5,
+    "uncertain": 1
+  },
+  "rows": [
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "ninety-of-everything"
+      ],
+      "note": "承接明帝奢费和战争造成的财政困境，不把各时期战争仅合成元嘉北伐；脱险后补偿性消费的内心对白未证。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "ninety-of-everything"
+      ],
+      "note": "九十御用品与南史食量均有对应原典，补近臣权势背景；怕重回猪槽的动机、糖油推断不作为史实。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "ninety-of-everything"
+      ],
+      "note": "承接472年病逝与史书记年三十四，虞愿传所记贪食胀闷、水患日久分开说明；不把吃死了当现代可确诊因果。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "two-pagodas"
+      ],
+      "note": "具体补故宅湘宫寺、十层未成改两座五层、向巢尚之夸功；PTSD与变态的现代诊断没有可靠证据，不写作既成事实。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "two-pagodas",
+        "an-heir-without-uncles"
+      ],
+      "note": "补虞愿以卖儿贴妇钱反驳、袁粲失色、驱出后复召，以及宗室清除、近臣和辅政安排；未以权臣四起一语代替全国权力的完整考察。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "an-heir-without-uncles"
+      ],
+      "note": "区分刘裕、刘彧、刘昱三人及父子关系，472继位至477遇害约五年，463出生所以九周岁可成立，不能只因史书虚岁把九岁判错。后续暴行依实际先后叙述。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "new-pavilion-and-four-ministers"
+      ],
+      "note": "区分登极初受制与后来失控，随行的是陈太妃；474休范为叔父，476景素为堂兄，不能将两次叛乱合称叔叔清君侧。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "new-pavilion-and-four-ministers",
+        "a-target-at-noon"
+      ],
+      "note": "展开萧道成新亭战功、四贵形成和领军府画腹为靶；留旧年表，史书记斂板申无罪，没有照添跪哭对白。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "a-target-at-noon"
+      ],
+      "note": "落实劝阻者王天恩为皇帝左右，按原典呈现一箭死便无后射的劝说和换箭；电子底本具体箭字缺，未实证圆头无箭头结构。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "a-target-at-noon"
+      ],
+      "note": "承接萧道成遇险后谋废立，刘昱与前废帝为堂兄弟的代际关系由上下文可辨；心中咒骂未拟写，刘琦等转写未回听。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "a-target-at-noon",
+        "the-night-of-the-weaver"
+      ],
+      "note": "通鉴记袁粲反对、褚渊默然，非四贵共同同意；王敬则先结侍从与七夕时序明确，不无据写金钱买通。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "the-night-of-the-weaver"
+      ],
+      "note": "赌跳、往尼寺、新安寺偷狗煮食饮酒、醉归均有史源；往尼寺不推出已证性事，未补寻欢作乐的场面。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "the-night-of-the-weaver"
+      ],
+      "note": "保留七夕命杨玉夫伺织女与生死威胁，校由王敬则联络的行动链，不直接把杨玉夫写成萧道成亲自买通的唯一下手人。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "the-night-of-the-weaver"
+      ],
+      "note": "补杨玉夫同杨万年乘熟睡弑帝、陈奉伯送首、王敬则转呈及开禁门；未保留无史源的临时内心独白、道德咒骂及未逐一核的第七帝计数。独立复核已在正文补明陈奉伯携首出门，传递链与本行一致。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "the-night-of-the-weaver",
+        "family-records-and-rumours"
+      ],
+      "note": "承接后废帝死后迎立刘准，按本纪明确是明帝第三子而非后废帝之子；原稿没有具体讲出的暴行未虚称已补全。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "family-records-and-rumours"
+      ],
+      "note": "独立交叉复核：宋书41和南史11均保存陈妙登、李道儿和刘准为休范子的叙述，已补宋书的较早证据；本纪以明帝子登记。生物血缘仍无从确认，不将传闻升级现代学界定论。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "family-records-and-rumours",
+        "leaving-the-palace"
+      ],
+      "note": "承接少年刘准被迎立及掌权者萧道成；具体生育能力推测未证，顺帝出生与史书卒岁不自洽，正文不替原十岁另强定一数，未回听。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "leaving-the-palace"
+      ],
+      "note": "展开477至479权力集中、479四月禅位离宫、通鉴天王家之叹和受封看守，原稿两年后退位主线完整承接。"
+    },
+    {
+      "file": "南朝02_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "liu-song-last-emperors",
+      "sectionIds": [
+        "leaving-the-palace"
+      ],
+      "note": "据通鉴补门外骑马、卫士杀王报疾与齐帝奖赏，区别宋齐本纪简记死亡；刘宋终结在四月禅位，非五月死亡时才结束。十二岁不直接采定，本纪卒十三与出生年矛盾留note。"
+    }
+  ]
+}

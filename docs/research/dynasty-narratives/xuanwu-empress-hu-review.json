@@ -1,0 +1,400 @@
+{
+  "date": "2026-09-30",
+  "method": "人工完整通读北魏06 P003–P022、P030–P043与北魏03 P005共35段，对读魏书卷8、9、13、21上及通鉴卷146–150、152。逐P区分事实承接、明确纠正与未展开的跨朝比较；帝纪计数、李氏外戚支线及总体敛财机制仍保留缺口。本文不重复河阴屠戮，未回听音频。",
+  "counts": {
+    "covered": 6,
+    "partial": 7,
+    "corrected": 21,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P003",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "xuanwu-wars"
+      ],
+      "note": "承接迁洛后元恂被废赐死的前史，不沿用以体态作人物解释的插科；正文只作后继背景，不重述前篇政变。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P004",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "xuanwu-wars"
+      ],
+      "note": "承接孝文次子元恪497年立太子、499年即位及宣武世宗名号；第八帝和全朝十二部帝纪的计数口径没有在本篇核定。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "xuanwu-wars"
+      ],
+      "note": "承接孝文南征归途去世、宣武继续战争，写汉中降魏与入剑阁迫涪城后撤，校正拿下整个四川的扩大叙述。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "xuanwu-wars"
+      ],
+      "note": "补柔然犯塞、遣源怀出征及宣武朝史家衰势评价；原段所有受损鲜卑贵族借战争敛财的总体机制，未凭个别王传推定。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "royal-wealth"
+      ],
+      "note": "补叔父元禧辅政、田业盐铁和贿赂，说明503年收盐池利和501年谋反赐死；校正历代一律垄断、信佛便不能杀宗亲的说法。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "royal-wealth"
+      ],
+      "note": "补宣武亲讲佛经，但用元禧被赐死说明崇佛不能推成一概不杀；以宽纵与危机重罚并存替代戏拟佛教辩解。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "royal-wealth"
+      ],
+      "note": "元祥校为元详，补公私营贩、侵夺和驱宅迫迁的具体行为；不把与元禧攀比发财的拟对白作为史实。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "royal-wealth"
+      ],
+      "note": "元禧赐死与元详拘禁死亡限制宗亲皆不能杀；明确两人聚敛传记不足以推出十余年耗空整个国库。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "xuanwu-wars",
+        "royal-wealth"
+      ],
+      "note": "承接侵夺、民生与起事压力，同时写灾荒征调和赈恤，不将孝文时人人过好日子、私人盐铁经营一项必致全部灾难当成事实。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "xuanwu-wars",
+        "mother-survives"
+      ],
+      "note": "承接南北战争、境内起事及512年立储不杀胡氏；明确改变旧制的心理动机未能仅凭崇佛与仁慈核定。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "mother-survives"
+      ],
+      "note": "补立储生母处死旧例、胡氏生元诩后保命，校正当时身份为充华嫔而非在位皇后；冯氏处置李氏与李惠一家细节在本篇未复核展开。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "mother-survives"
+      ],
+      "note": "承接胡氏保命和元恪十余岁才立储，校正宣武母亲因旧制而被赐死的暗示，不以信佛自动证明决策原因。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "mother-survives"
+      ],
+      "note": "明确宣武生母高氏在汲郡暴卒及谋害传闻，限制以立储母死经历推出废制心理的叙事，拟写心声未当史实。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "mother-survives"
+      ],
+      "note": "承接515年患病去世、传统三十三岁及约十六年在位；少数善终的全朝比较未统计，行善得善终的果报解释未作为因果。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "regency-relief",
+        "loss-and-return"
+      ],
+      "note": "承接元诩孝明继位、胡氏从皇太妃升太后；补元叉刘腾专政与太后失权阶段，限制一位太后独力造成全部衰亡的归责。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "regency-relief",
+        "loss-and-return"
+      ],
+      "note": "承接幼帝、太后初期理政与其后用人失序和私生活史家批评，补受理冤诉、解除于忠兵权及两次临朝的区别。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "loss-and-return"
+      ],
+      "note": "承接胡太后私生活争议及面首话题，以史传元怿记载与男宠词义承接，省去纯节目调笑。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P020",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "loss-and-return"
+      ],
+      "note": "解释面首指男宠；原段历史上非孤例的跨朝比较没有另引个案展开，留出范围。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P021",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "loss-and-return"
+      ],
+      "note": "回答胡太后所选元氏宗亲为元怿；西夏梁太后、冯太后李冲与多数男宠来自侍卫的比较没有逐一核定。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P022",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "loss-and-return"
+      ],
+      "note": "补元怿是宣武弟、史传逼幸之说及政变遇害，明确不把以汉化为由拒绝的戏拟对话当原话。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "regency-relief"
+      ],
+      "note": "补元诩传统六岁继位及516瀛州开仓，说明幼帝诏令须放在太后临朝和朝臣参与下理解；尔朱荣姓名在此原段只作转场。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "regency-relief",
+        "summons"
+      ],
+      "note": "补516年洛阳河阴高龄贫病者查实列报与母子权争，以临朝体制限定独由幼帝仁政的判断，以密诏胁太后限定直接除母说。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [],
+      "note": "买通枕边人的主持人拟策与相互打趣，没有新增已发生的具体历史行动。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "summons"
+      ],
+      "note": "承接孝明帝召尔朱荣举兵内向，补前锋至上党后又命停止的史书记述。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "summons"
+      ],
+      "note": "承接依靠外兵与尔朱女为孝明嫔的婚姻联系，校正两个政权和亲说及直接杀母命令，说明军权介入宫廷的风险。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "summons"
+      ],
+      "note": "承接引入外部强兵可能失控的警示；董卓跨朝比较未另述，柔然平乱即占全部六镇的断言在本篇未写，另交six-garrisons限定。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "summons"
+      ],
+      "note": "承接郑俨徐纥与太后构成权力集团，区分郑俨私情、徐纥政治亲信，不把两人同案即都证成情夫；密召目的依通鉴为胁太后。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "sudden-death"
+      ],
+      "note": "承接胡氏保命后卷入弑子指控的反讽，明确不能据一次灾难反证杀储君生母制度合理，亦不抹掉其他执政者和战争因素。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "sudden-death"
+      ],
+      "note": "补通鉴太后郑徐谋鸩说，区分本纪仅记帝崩、后妃传时论与通鉴直接叙述，不补无记载的下毒现场。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "sudden-death"
+      ],
+      "note": "承接皇帝去世后须重新安排继承且没有已确认男性子嗣，作为女婴继位的背景。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "infant-succession"
+      ],
+      "note": "补潘充华生女、隐称皇子和女婴继位，校正朝廷已知女性并公开接受女帝的暗示。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "infant-succession"
+      ],
+      "note": "补承认性别、改立元钊；以本纪通鉴连续记日与后妃传经数日并列，限定一天精确说和中国首位女帝称法。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "infant-succession"
+      ],
+      "note": "说明元姑娘非传世本名，继位幼儿为元钊、元宝晖之子，校原稿元昭；明确短暂隐瞒性别继位与公开称帝的区别。"
+    },
+    {
+      "file": "北魏06_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "infant-succession"
+      ],
+      "note": "承接太后先称皇子后自行揭明再立幼主、信任受损及尔朱荣另择宗亲主张，停在河阴之前。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P005",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xuanwu-empress-hu",
+      "sectionIds": [
+        "infant-succession"
+      ],
+      "note": "补女婴虽无独立本纪但被正史记载，限定一天与数日异说，以及不能无条件称公开统治意义上的首位女皇帝。"
+    }
+  ]
+}

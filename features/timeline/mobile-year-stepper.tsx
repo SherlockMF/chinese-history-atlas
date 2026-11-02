@@ -7,12 +7,12 @@ import { fiveDynastiesConfig } from "@/data/series/five-dynasties/config";
 import type { HistorySeriesConfig } from "@/types/series";
 import { Button } from "@/components/ui/button";
 
-export function MobileYearStepper({ series = fiveDynastiesConfig }: { series?: HistorySeriesConfig }) {
+export function MobileYearStepper({ series = fiveDynastiesConfig, years }: { series?: HistorySeriesConfig; years: readonly number[] }) {
   const MIN_YEAR = series.timelineMinYear;
   const MAX_YEAR = series.timelineMaxYear;
   const currentYear = useHistoryStore((state) => state.currentYear);
   const setCurrentYear = useHistoryStore((state) => state.setCurrentYear);
-  const years = Array.from({ length: MAX_YEAR - MIN_YEAR + 1 }, (_, index) => MIN_YEAR + index);
+  const hasCurrentYear = years.includes(currentYear);
   return (
     <div className="flex flex-wrap items-center gap-2 md:flex-nowrap">
       <Button variant="outline" size="icon" aria-label="上一年" disabled={currentYear <= MIN_YEAR} onClick={() => setCurrentYear(currentYear - 1)}>
@@ -22,10 +22,12 @@ export function MobileYearStepper({ series = fiveDynastiesConfig }: { series?: H
         <span className="sr-only">直接选择年份</span>
         <select
           aria-label="直接选择年份"
-          value={currentYear}
+          value={hasCurrentYear ? currentYear : ""}
+          disabled={!years.length}
           onChange={(event) => setCurrentYear(Number(event.target.value))}
           className="h-10 w-full appearance-none rounded-full border border-ink/20 bg-paper px-5 text-center font-serif text-base text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cinnabar"
         >
+          {!hasCurrentYear ? <option value="" disabled hidden>{currentYear} 年</option> : null}
           {years.map((year) => <option key={year} value={year}>{year} 年</option>)}
         </select>
       </label>

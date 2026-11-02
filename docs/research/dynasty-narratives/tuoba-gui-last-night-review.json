@@ -1,0 +1,168 @@
+{
+  "date": "2026-09-30",
+  "method": "人工通读北魏03 P006–P019共14段，逐项对照魏书2、3、15、16及通鉴115、119，寒食散对照诸病源候论卷6，遗址对照大同官方规划。记录具体承接、史料限定与未展开命题；未回听音频，不以关键词或同名人物代替覆盖。",
+  "counts": {
+    "partial": 5,
+    "corrected": 7,
+    "covered": 2
+  },
+  "rows": [
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P006",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tuoba-gui-last-night",
+      "sectionIds": [
+        "powder"
+      ],
+      "note": "承接拓跋珪晚年服寒食散、409年病发与称帝后的政局背景；称帝才开始服散、功成思想放松导致放纵的时点和心理因果未获史料支持。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P007",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-last-night",
+      "sectionIds": [
+        "powder"
+      ],
+      "note": "写五石及草石配伍，校正为钟乳、紫石英、白石英、硫黄、赤石脂；限定古方互有不同，不当作拓跋珪本人完整固定配方。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P008",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tuoba-gui-last-night",
+      "sectionIds": [
+        "powder"
+      ],
+      "note": "写服散发热，并把张仲景发明说限定为后世皇甫氏比较方药后的归源判断，原文亦存在华佗说；专为治伤寒而发明的目的未确定，七贤未逐人考证。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P009",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-last-night",
+      "sectionIds": [
+        "powder"
+      ],
+      "note": "已承接古人期待神明开朗、体力增强及服散影响衣着活动的背景；明确不能将七贤裸身薄衣雪中活动一概判为服散所致，未虚构七人服药记录。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P010",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-last-night",
+      "sectionIds": [
+        "powder",
+        "suspicion"
+      ],
+      "note": "服散与末年猜忌、疑杀均写；明确史载症候不能直接确诊现代重金属中毒，不把创业成功必致刚愎、多疑写成史实或唯一原因。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P011",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "tuoba-gui-last-night",
+      "sectionIds": [
+        "suspicion"
+      ],
+      "note": "具体写追忆旧日得失并翻起臣下旧过，不只点出性情多疑；口述中拟写的轻视目光和自我夸耀不作逐字史料对白。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P012",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "tuoba-gui-last-night",
+      "sectionIds": [
+        "suspicion"
+      ],
+      "note": "写旧臣遭杀、拓跋仪旧功与出逃赐死，并校为秦明王翰之子，未断言与珪同母；原段另提拓跋觚长期留作人质的经历本篇未展开。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P013",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-last-night",
+      "sectionIds": [
+        "appeal"
+      ],
+      "note": "将次子名字校为拓跋绍，展开母亲待杀和宫中人人自危的行动条件，不把弑父单纯归于道武性格。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P014",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-last-night",
+      "sectionIds": [
+        "appeal",
+        "night"
+      ],
+      "note": "贺夫人获谴被囚待杀、密告求救、绍联络宫人宦者并越墙弑父均已展开；具体过失无记载，不沿用可能只是小错的断言。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P015",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-last-night",
+      "sectionIds": [
+        "pingcheng"
+      ],
+      "note": "平城即今山西大同、宫廷所在已写；区分宫殿未完整留存与城墙夯土、明堂等北魏遗存仍在，不沿用遗迹完全消失。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P016",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "tuoba-gui-last-night",
+      "sectionIds": [
+        "pingcheng"
+      ],
+      "note": "已承接大同为当时政治中心；胡沙虎守云州的跨朝代插话未核述，不用同地名充当该人物事迹覆盖。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P017",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "tuoba-gui-last-night",
+      "sectionIds": [
+        "night",
+        "afterwards"
+      ],
+      "note": "写拓跋珪史载三十九岁、嗣三十二岁并区分短寿与被杀；北魏十二帝总数口径、诸帝寿数比较及力微寿数没有另行全表核证。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P018",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "tuoba-gui-last-night",
+      "sectionIds": [
+        "gates"
+      ],
+      "note": "展开嗣潜返、联络旧臣、宫卫送绍与母子被杀后即位，承接长子杀弑父弟而为第二帝的核心；力微用光寿命指标是口头笑谈。"
+    },
+    {
+      "file": "北魏03_clean_v1.md",
+      "paragraph": "P019",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "tuoba-gui-last-night",
+      "sectionIds": [
+        "afterwards"
+      ],
+      "note": "明确珪太祖、嗣太宗及前者被弑；以嗣持续患病而423年卒的记载限制前期皇帝全被亲近者杀的概括，不以短寿等同非正常死亡。"
+    }
+  ]
+}

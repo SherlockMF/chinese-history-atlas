@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-02",
+  "method": "J05逐段核街巷、饮食、族群与纪念地标，区分考古研究的复原范围、疑似河道和近现代记忆。 已完整阅读所列原稿并查核所引史源；未回听音频，辽组非起草代理已完成原段全文、正文、逐段台账与引文上下文的独立交叉复核；页面待主代理批验。原始基线不变。",
+  "counts": {
+    "partial": 12,
+    "corrected": 5,
+    "not-needed": 1,
+    "covered": 3
+  },
+  "rows": [
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "old-streets"
+      ],
+      "note": "承接街巷保存辽金线索；未确认原段概称各条仍为金代原路。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "old-streets"
+      ],
+      "note": "写广内大街与檀州街、南横街周边；前三门—枣林前街的每一段精确同线关系未证。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "old-streets"
+      ],
+      "note": "以唐辽旧区、金扩建与元东北新城分层替代三千年始终同一路段的绝对说法。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "food-and-people"
+      ],
+      "note": "保留南横街饮食生活背景，未逐店罗列且不报告现时门店状态。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P173",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [],
+      "note": "老字号偏爱宣武及卤煮之乡为串场玩笑，不作为金代事实。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P174",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "food-and-people"
+      ],
+      "note": "据传承人访谈写清末苏造肉改制沿革，不采女真食谱直传或“老完颜卤煮”玩笑。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P175",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "old-streets",
+        "food-and-people"
+      ],
+      "note": "承接烂缦胡同与街巷转场，未证所有小店名单与金代对应。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P176",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "old-streets"
+      ],
+      "note": "以辽金城址范围和烂缦附近东界复原承接；未把今日胡同名称直接定为金已有，也未证迎新街贾家胡同始建年。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P177",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "river-name"
+      ],
+      "note": "潘家河沿疑似东护河有考古研究依据；不宣称现代道路与古河精确平行关系已定。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P178",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "river-name"
+      ],
+      "note": "解释旧称河沿与追索水道位置的关系。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P179",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "river-name"
+      ],
+      "note": "河道消失涉及淤塞改道建设，未证大火使全城与河道一次消失。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P180",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "river-name"
+      ],
+      "note": "承接地名在新城中留下线索的主题，未写丽泽当下建设规模。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P181",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "river-name"
+      ],
+      "note": "保留旧称线索，去掉金代距今整千年的不准确计年。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P182",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "river-name"
+      ],
+      "note": "回应城市旧称传递历史问题的总结。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P183",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "food-and-people"
+      ],
+      "note": "承接从戏曲敌我叙事转向城市多族群历史，未另写杨家将评书分析。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P184",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "food-and-people"
+      ],
+      "note": "保留人群迁徙融合的主题；达斡尔、云南本人全部已获人种学直系证明的主张未获证，不重述。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "food-and-people"
+      ],
+      "note": "以语言田野调查纠正满语无人使用；女真到满洲保留历史变化，不写自动全体改名。天宁寺塔本批J02已有细述。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P186",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "food-and-people"
+      ],
+      "note": "承接金清在城市记忆中的层次；不把相隔时代的全部人群一概称同一民族两次入主。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P187",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "yanjiao-marker"
+      ],
+      "note": "写所见地标位置与形制，个人骑车见闻不转为共同经历。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P188",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "yanjiao-marker"
+      ],
+      "note": "核楼在皇城东北隅，保留纪念与基址之别；碑向东移100米说未证。"
+    },
+    {
+      "file": "金01_clean_v1.md",
+      "paragraph": "P189",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jin-streets-and-memory",
+      "sectionIds": [
+        "yanjiao-marker"
+      ],
+      "note": "明确现代纪念设施与旧楼遗址不同，保留寻访城市记忆的落点。"
+    }
+  ]
+}

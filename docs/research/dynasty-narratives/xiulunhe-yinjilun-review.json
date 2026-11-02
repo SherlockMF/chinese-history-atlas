@@ -1,0 +1,255 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读22P与全文，亲读长编30战事段与注文、宋257/275、辽12/13/14/83及宋5。修989/997/998倒序、主力送粮前阵与夜袭、未明非午餐、负伤非当场致死、千人不确定全灭、后续战争不被黑面威名无限抹去；音频未回听。",
+  "counts": {
+    "corrected": 8,
+    "covered": 7,
+    "partial": 6,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "after-yongxi"
+      ],
+      "note": "休哥998而非999，且徐河989在先，不把人事换代摆到此战前。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "after-yongxi"
+      ],
+      "note": "太宗997崩真宗立，辽南下不因此才始，时序校正。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "after-yongxi"
+      ],
+      "note": "卷83论赞“斜轸擒继业于朔州，旋复故地。宋自是不复深入，社稷固而边境宁”逐字承接；口述断句讹误已正。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "after-yongxi"
+      ],
+      "note": "后方稳是辽史赞誉，989非宋刚换皇帝，纠正倒置。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "after-yongxi"
+      ],
+      "note": "长期持续边战承接，出师不义道义类比不复作战争败胜定因。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "after-yongxi"
+      ],
+      "note": "“于越至矣”止儿啼按卷83承接（见L18原引）；本段标注为传闻色彩浓厚但史文有据。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [],
+      "note": "假人脑袋玩笑段，无实质命题。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "the-ignored-column"
+      ],
+      "note": "巡检尹与于越辽军遭遇有源，未核规模最大不冠最大。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "the-ignored-column"
+      ],
+      "note": "“不击而过，径袭大军”按《长编》卷30承接；千余人与数万骑对比。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "the-ignored-column"
+      ],
+      "note": "千余巡队被越过与尹识轻视有源，拟对白不造。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "the-ignored-column"
+      ],
+      "note": "被越过受轻视是实义，非只因网络措辞整段not-needed。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "the-ignored-column"
+      ],
+      "note": "不战径趋大军有源；罕见/休哥心理横不把现代观感作证。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "the-ignored-column",
+        "xuhe-night"
+      ],
+      "note": "尾随计划与袭击实义跨两节恢复，补单123精确引用。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "xuhe-night"
+      ],
+      "note": "史文夜行数十里、天未明食，非跟数天；骄傲视为尹判断，不造休哥回想自己射皇帝心理。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "xuhe-night"
+      ],
+      "note": "短兵袭击实义承接，北京老六想象和独帐肉搏不造。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "xuhe-night"
+      ],
+      "note": "短兵突袭实义承接；休哥暮年年龄未核、不论独自肉搏史实。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "xuhe-night"
+      ],
+      "note": "宋275/长编天未明而非大中午，食未竟臂伤先遁，亲兵反应拟场景不造。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P128",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "xuhe-night"
+      ],
+      "note": "史文先遁，未见亲兵誓救或千人歼灭；明确不把铺演当实。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P129",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "xuhe-night"
+      ],
+      "note": "989至998九年，未证伤后致死，不把善终任上死因写定。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P130",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "black-face-king"
+      ],
+      "note": "尹继伦名垂史册与胆大评价承接。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P131",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "black-face-king",
+        "xuhe-night"
+      ],
+      "note": "名将非死此战、千人非全被歼；今人轻敌反思可以成立，事实范围明确。"
+    },
+    {
+      "file": "辽03_clean_v1.md",
+      "paragraph": "P132",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xiulunhe-yinjilun",
+      "sectionIds": [
+        "black-face-king"
+      ],
+      "note": "宋军列阵、追击有源，不照两边撤开无胜负；后还有边战与辽将，不称辽再无战将/直到1004无大举。"
+    }
+  ],
+  "independentReview": "completed"
+}

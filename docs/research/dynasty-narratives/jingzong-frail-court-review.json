@@ -1,0 +1,461 @@
+{
+  "date": "2026-10-11",
+  "method": "独立逐读41原段/全文台账，亲读辽8/9/74/79全相关、85高勋、71萧绰、72追谥、77屋质及国志6/13；另读新唐103与旧唐75苏世长十旬原语，纠先前休哥保宁二误年、高勋移南京/旧案、谏猎十年误义；未核心理类比诚实partial，史館朕定式保留；音频未回听。",
+  "counts": {
+    "partial": 16,
+    "corrected": 10,
+    "covered": 13,
+    "not-needed": 2
+  },
+  "rows": [
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "child-in-firewood"
+      ],
+      "note": "共享转场段，本篇正面承接：穆宗召见与“吾儿已成人，可付以政”按卷8；“国运上升”为节目观点。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "child-in-firewood"
+      ],
+      "note": "辽8世宗第二子萧后所生、穆宗堂侄；国志13甄氏长子异记分层，不能用吾儿或排行误作亲侄/长子确定。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "child-in-firewood"
+      ],
+      "note": "火神淀之乱即世宗遇害事，以卷8“察割之乱”与《契丹国志》卷6“火神淀弑逆”对写。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "child-in-firewood"
+      ],
+      "note": "国志6藏柴刘解里毡束有源，年龄4/9异；养永兴宫有辽8，酗酒致无体能不近女色无因果史证。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "child-in-firewood"
+      ],
+      "note": "吾儿成人可付政有辽8，不明确写朕死传你帝位，删自动视为诏定继承的引申；倍德光支系变换实际采用。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "child-in-firewood"
+      ],
+      "note": "辽8贤率女里思温高勋甲骑赴行在，非只派臣接；上句可付政不是公告人尽知正式指定，纠旧covered扩大。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "child-in-firewood"
+      ],
+      "note": "契丹人对耶律倍“去国的同情”等心理分析为节目解释层，不写成史实；“史称辽景宗”按卷9统和元年上尊谥庙号。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "child-in-firewood"
+      ],
+      "note": "“景”字释义为节目发挥；史文仅记统和元年“上尊谥孝成皇帝，庙号景宗”与重熙二十一年加谥。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "child-in-firewood"
+      ],
+      "note": "在位十三年按卷9“年三十五，在位十三年”；“身体不好”按《契丹国志》卷6“自幼得疾，沉疴连年”“婴风疾，多不视朝”。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "child-in-firewood"
+      ],
+      "note": "童年创伤、心理扭曲为节目解读；史文对应项为卷8“耶律贤适止之，帝悟，不复言”与卷79“由是穆宗终不见疑”，本篇以史文呈现。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "child-in-firewood",
+        "men-he-raised"
+      ],
+      "note": "疾弱国志6/13实在child节，补精97引用；腓特烈百日帝类比未另核生平，名臣/期望转入men。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "men-he-raised"
+      ],
+      "note": "“启用一大批名臣”按卷9赞“保宁而来，人人望治。以景宗之资，任人不疑，信赏必罚”与卷79论“景宗之世，人望中兴”。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "men-he-raised"
+      ],
+      "note": "萧思温北院枢密使、高勋封秦王按卷8保宁元年三月；韩匡嗣引出按卷74；萧思温、高勋迎驾即卷8驰赴名单。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "men-he-raised"
+      ],
+      "note": "韩匡嗣“拜上京留守。顷之，王燕，改南京留守。保宁末，以留守摄枢密使”按卷74，节目三项官历逐项相合；韩氏望族为节目概述。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "men-he-raised"
+      ],
+      "note": "辽74知古未省见、逃庸保、匡嗣善医直长乐宫皇后视犹子与间言引父，给太祖治病而认识父的戏拟次序不采。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "men-he-raised"
+      ],
+      "note": "知古太祖佐命功臣、匡嗣景宗任用、德让匡嗣子三代分清；思温是后族非韩氏汉臣同类，不把全部起用者称汉人。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "men-he-raised"
+      ],
+      "note": "萧绰为思温女按卷71“北府宰相思温女”，选贵妃、册皇后、生圣宗按卷71；“此女必能成家”为思温语，非册后评语，节目连用略有跳跃。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "three-imperial-lines"
+      ],
+      "note": "节目“景宗追封耶律李胡为章肃皇帝”时间与名号均误：卷72“统和中，追谥钦顺皇帝。重熙二十一年，更谥章肃”；景宗朝怀柔实绩为卷8进封诸王、致奠让国皇帝及世宗庙。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "three-imperial-lines"
+      ],
+      "note": "倍由世宗追谥、德光已帝、李胡统和才帝号分别采用，去景宗时三支已齐的旧文矛盾。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "three-imperial-lines"
+      ],
+      "note": "“辈分乱”“一笔写不出两个耶律”为节目调侃不采；怀柔不彻底以卷9乾亨二年“喜隐复谋反，囚于祖州”、四年“遣使赐喜隐死”收束。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "guo-xi-memorial"
+      ],
+      "note": "郭袭谏猎有辽79，疑乱与兄弟招酒猎拟对白未证；不知郡人不等于能证他非汉人。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "guo-xi-memorial"
+      ],
+      "note": "口述“不满十旬为乐”等句为听写讹变，故事按卷79原文引用：“昔唐高祖好猎，苏世长言不满十旬未足为乐，高祖即日罢，史称其美。”"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "guo-xi-memorial"
+      ],
+      "note": "纣王打猎等联想为节目发挥不采；疏文对穆宗之政与“南有强敌”的警告按卷79原文写入。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "guo-xi-memorial"
+      ],
+      "note": "新唐103亲读不满十旬是猎乐反讽非建国未满十年，高祖变色笑问、后猎又不纳谏；辽79简化典故保留书别。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "guo-xi-memorial"
+      ],
+      "note": "节目“尽量不打”“打猎次数减少”史无其文；史文为卷79“上览而称善”“赐协赞功臣，拜武定军节度使”与卷9赞“善郭袭之谏，纳而不用”。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "wuzhi-good-death"
+      ],
+      "note": "名将入重要职位采用，独立纠旧补：休哥980乾亨二非970保宁二；斜轸976保宁八，两纪时序分开。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "wuzhi-good-death"
+      ],
+      "note": "屋质薨按卷8保宁五年“五月癸亥，于越屋质薨，辍朝三日”；年五十七、帝痛悼、辍朝三日、立祠树碑按卷77，节目细节逐项相合。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "wuzhi-good-death"
+      ],
+      "note": "贾诩类比（“算无遗策”）为节目评论；屋质善筹有卷77“世宗以屋质善筹”可参，类比不写成史实。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "wuzhi-good-death"
+      ],
+      "note": "“没当皇帝的心”为节目评论，史文无此语；善终事实见P113。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "wuzhi-good-death"
+      ],
+      "note": "紫衣换装讨乱有辽77，唾手皇位数次不要无据，正文不再用脱衣画面冒充放弃可得皇位史证；贾诩年寿未展开。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "rice-and-zhen"
+      ],
+      "note": "补高勋应历初已由上京移南京、969定策进秦，不能全部安排景宗这时把他派南京；原南书院史纠职。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "rice-and-zhen"
+      ],
+      "note": "“起了要乱的心”为节目解释；史文止于耶律昆“必有异志”的指控；高勋得宠时“席宠放恣”“纳赂请谒，门若贾区”按卷79贤适传。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "rice-and-zhen"
+      ],
+      "note": "请种稻按卷85“保宁中，以南京郊内多隙地，请疏畦种稻，帝欲从之”；“广集粮”为节目引申。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "rice-and-zhen"
+      ],
+      "note": "辽85昆疑引水为田若叛官军难入已用；只是他提出的安全指控，不证明马永无法过所有稻田。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "rice-and-zhen"
+      ],
+      "note": "“帝疑之，不纳”按卷85；白洋淀、咸鸭蛋等玩笑不采。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "rice-and-zhen"
+      ],
+      "note": "“王朝建立阶段大家不断试底线”为节目观点层；汉臣与契丹的结构张力不写成定论。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "rice-and-zhen"
+      ],
+      "note": "种稻未准具体结局采用；原拟认错尴尬无证。新增高勋罪案以970思温亡/978高诛及女里贼书分层，不连造978谋杀死人。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "rice-and-zhen"
+      ],
+      "note": "“中兴之主”按卷9赞“人人望治”、卷79论“人望中兴”；萧绰分担国政按《契丹国志》卷6“大诛罚，大征讨，蕃汉诸臣集众共议，皇后裁决，报之知帝而已”。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [
+        "rice-and-zhen"
+      ],
+      "note": "“皇后以朕批文件”校正为制度语境：卷8保宁八年“二月壬寅，谕史馆学士，书皇后言亦称‘朕’暨‘予’，著为定式”，约束的是史馆书写；夫妻共治按《契丹国志》卷6。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [],
+      "note": "转入辽宋战争的预告段，实质内容留给下一篇，不承接。"
+    },
+    {
+      "file": "辽02_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "jingzong-frail-court",
+      "sectionIds": [],
+      "note": "“打仗在哪儿打、幽云十六州”引入下题，不承接。"
+    }
+  ],
+  "independentReview": "completed"
+}

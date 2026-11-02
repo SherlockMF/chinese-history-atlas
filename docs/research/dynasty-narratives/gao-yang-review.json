@@ -1,0 +1,263 @@
+{
+  "date": "2026-09-30",
+  "method": "完整通读北齐P102–123，核读北齐书、北史与资治通鉴对应纪传，逐项核年次、人物、史源差异和段落承接。无据心理、遗传疾病诊断与暴力现场扩写不采用；未回听录音。",
+  "counts": {
+    "corrected": 13,
+    "partial": 8,
+    "covered": 1
+  },
+  "rows": [
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "take-power",
+        "court-fear"
+      ],
+      "note": "接权过程落实到杨愔等夜议、留守与赴晋阳；李祖娥受侵害以高洋事后报复说辞的史源层级交代，不补当时内心和对杨某对白。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "take-power"
+      ],
+      "note": "承接父兄未称帝而高洋接权、走向禅代；原段强爷胜祖与因兄被厨子杀而自定称帝的心理链无据，未采用。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "take-power",
+        "abdication"
+      ],
+      "note": "元善见姓名校正，具体写高洋进爵及迫使元善见面对预拟禅诏，不只笼统说传统做法。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "take-power",
+        "abdication"
+      ],
+      "note": "承接娄昭君龙虎之谏与受禅阻力；依通鉴写一度退回晋阳再行，不把仪式辞让次数或母亲嫌貌当确定原因。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "abdication",
+        "court-fear"
+      ],
+      "note": "保留建齐和威胁嫁母，但拆开550受禅与即位数年后纵酒的叙事；卷166在556年条下回顾，不能把各事统一钉死555年。胡人不改作匈奴。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "abdication",
+        "rule-and-march"
+      ],
+      "note": "建齐、劝农、兴学和讨论麟趾格均实写，未把后来法律成果前移；机械头四年及东西不能打所以北征的无据动机不采用，春秋齐命名对比未单独展开。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "rule-and-march"
+      ],
+      "note": "契丹、柔然、突厥互动及多次出征有实体叙事；原段柔然当时才改名如如的词源沿革未展开，也不采用匈奴替代参战对象。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "rule-and-march",
+        "abdication"
+      ],
+      "note": "据本纪写步越山岭、袒身行军与食肉饮水；不增生肉，分年交代而非一次扫平。东魏被北齐取代已在受禅节实写。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "abdication",
+        "rule-and-march"
+      ],
+      "note": "明确邺为国都、晋阳军事据点，承接北征勇力；英雄天子称号的具体发话者和无粮即吃人肉推论未采用，不能算全部覆盖。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "court-fear"
+      ],
+      "note": "正文明确史书记酗酒与暴行，不足以作现代疾病或遗传病诊断，未设四年到期发病。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "court-fear"
+      ],
+      "note": "具体承接市里游行、袒露、涂粉黛与不可预测惩罚；不把清醒糊涂当临床结论，女子衣服这一独立说法未证实采用。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "court-fear"
+      ],
+      "note": "涂粉黛与袒露身体有明确叙述；外貌嘲弄和对不同兄弟的调侃不属于需重现的史实。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "court-fear",
+        "two-women"
+      ],
+      "note": "元氏受侵害落实555年并标明报复为加害者说辞；杀戮和侄女婚姻以崔暹家事展开，未泛称每天无差别杀。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "保留乐安公主婆媳不和和高洋询问；本传召母入内与本纪吊丧经过分述，纠正把两处拼成连续事件。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "思夫问答及杀崔暹遗孀有承接；述律后仿效高洋的影响链未有来源支持，未采用。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "薛嫔、高岳身份及高洋疑忌、高岳否认和遇害有实写；原段天天浓情蜜意、始终相伴的关系状态未获史源确认，未承接。原段只称叔叔，不将其误记为明确声称亲叔；正文仅写宗室爵号。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "本纪突然起意与后妃传产后遇害的差异在正文可见，排除搂抱之际捅死这一未经证实现场。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "宴席展示杀戮、随后哭随尸车均有实写；省略藏首与分尸细部，不采裹整尸在身上的扩写。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "two-women"
+      ],
+      "note": "交代史文弄髀作琵琶状与佳人难再得之叹；未写真制成可奏乐器、现代歌词或一边抱人一边唱的现场。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "abdication",
+        "yuan-clan"
+      ],
+      "note": "写元善见封中山王、551遇害及559元韶回答光武中兴，分清两人两时，不作高洋自问自答。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "yuan-clan"
+      ],
+      "note": "保留皇帝命令、婴幼儿遇害、弃尸漳水与通鉴721数字；同段列元蛮元文遥幸存，纠正姓氏全灭。"
+    },
+    {
+      "file": "北齐_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "gao-yang",
+      "sectionIds": [
+        "yuan-clan",
+        "succession"
+      ],
+      "note": "不食鱼恐惧后果、559去世与高殷继位均实写；550至559不是两个四年。通鉴167明确在病重临终前记向高演夺位勿杀之言，正文据此补入，与北史编排分述；不扩写成对所有弟弟的共同托孤。省略鱼腹残余细节。"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-11",
+  "method": "人工完整通读北魏04 P082–P105共24段，对读魏书卷6、7上、13、36、46、四库本卷105之3及资治通鉴卷132–134。区分李訢原案、举报与再起，父子记龄、传位与太上皇军政活动，并并列受迫传位和死因不同记载。未核的容貌夜谈保留partial，拟写训斥和美少年说不计采用；未回听音频。 2026-10-11末轮：对本台账指定未采用段亲读原段和相关原典，逐项标research-closed；可证内容或明确编辑解读补入，拟对白及无证情节保留not-covered，未回听音频。新写部分待独立交叉复核。",
+  "counts": {
+    "partial": 10,
+    "covered": 3,
+    "corrected": 7,
+    "not-covered": 3,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "li-brothers"
+      ],
+      "note": "承接冯太后内宠李弈及其姓名、宫廷背景；选一批美男子侍寝的具体程序和三十出头年龄未采用，年龄在前篇按467年二十余岁处理。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "li-brothers"
+      ],
+      "note": "补李弈父李顺、兄李敷及家族官宦背景；帅、多才多艺、善解人意未获本传支持，没有仅凭内宠身份推定。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "li-brothers"
+      ],
+      "note": "承接太后宠李弈与帝意已疏；夜宿互诉内容未复原，也不把所有鲜卑人的伦理概括为均不介意。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "li-brothers"
+      ],
+      "note": "承接皇帝疏远李弈与宫廷关系对案件的背景作用；不把汉化程度、羞耻和怕打皇室脸的完整心理链写成明载。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "li-brothers",
+        "accusations"
+      ],
+      "note": "交代470年李敷、弟李弈与旧交李訢三人身份和贪污原案，说明李訢与李敷族属虽远而从小交好，以及朝廷暗示免死后举报转向兄弟。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "accusations"
+      ],
+      "note": "并列魏书二十余条和通鉴三十余条，补有司承旨、裴攸与材料来源；保留案件受权力引导的证据，不断言每条罪名都是莫须有。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "accusations"
+      ],
+      "note": "承接470年冬李氏兄弟被诛与冯太后不满，补家族连坐背景；情绪对白是口播代拟而非史料引文。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "accusations"
+      ],
+      "note": "承接太后对李弈被诛不满，明确史书不足以划定尚未愤怒到极点的心理阶段；未据笑谈补宫廷对话。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "li-xin"
+      ],
+      "note": "补李訢先减死、受百鞭髡发配役，之后才复为太仓尚书并参政，校正举报后立即无事获升的压缩过程。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "li-xin",
+        "religion-pressure"
+      ],
+      "note": "承接李訢受倚重、皇帝好黄老与沙门，姓名改为献文帝弘；某次授官令太后立刻起废帝之心、皇帝精密挑衅的心理未核定。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "religion-pressure"
+      ],
+      "note": "承接宗教志趣和退隐倾向，同时列470年亲御柔然，限制越来越不管国政、只会空谈的笼统结论；受太后压力另据天象志分层说明。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [],
+      "note": "research-closed：亲读魏书6、13及通鉴133；献文崇黄老佛教、太后施压的记载已分层呈现，但未有太后以太武灭佛训斥献文的该段原话。此拟对白未采用，不从灭佛旧事推出这次宫廷谈话。",
+      "researchStatus": "research-closed"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [],
+      "note": "research-closed：魏书13确记冯太后抚养皇孙，通鉴133确记471年群臣讨论传位；未有本段关于男友、代代明君和命皇帝退出的完整谈话。抚孙与禅位不能拼成这段拟对白，未采用。",
+      "researchStatus": "research-closed"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "religion-pressure"
+      ],
+      "note": "以魏书天象志承接受迫于太后的史文，另列退隐公开理由；太后党羽经营至何程度和双方即时问答未核成可写过程。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "uncle-or-son"
+      ],
+      "note": "承接献文欲传位叔父子推及其沉静仁厚、有时誉，说明幼子与成年宗王的继承选择。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "uncle-or-son"
+      ],
+      "note": "承接传叔有治理理由，补拓跋云、源贺、拓跋丕、陆馛等反对与继承原则；限制全部归为太后一人命令传子的解释。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "retired-emperor"
+      ],
+      "note": "明确471年父弘十八、子宏五岁均按传统记龄，传位后尊太上皇帝，并解释此称号为何与总揽万机相连；不混成两代同名。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [],
+      "note": "只为十三岁得子、十八岁退位之间的口误和一代二代称呼打趣，无新增历史命题；相应记龄已在前后正文澄清。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "religion-pressure",
+        "retired-emperor"
+      ],
+      "note": "确认上迫于太后传位太子确见魏书天象志，与本纪公开退隐诏令分层；承接十八岁太上皇未交尽权力，并补鹿野浮图与禅僧共处，限制绝无寺院生活的回答。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "retired-emperor"
+      ],
+      "note": "以472、473、475年具体调兵亲征大阅承接退位后继续执政，也有宗教生活；不断喊出家、行为分裂的戏剧化细节没有核成史文。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [],
+      "note": "research-closed：通鉴133记献文传位后总军国大事、住崇光宫，并与禅僧居鹿野浮图；魏书6、13亦无本段聚美少年及太后许可玩乐的具体记载。不把禅僧改作美少年，也不据此推定私人关系，该情节未采用。",
+      "researchStatus": "research-closed"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "death-records"
+      ],
+      "note": "承接476年六月甲子中外戒严与军队分等，明确七天后暴崩；太后召见、献文被捕的具体链条未证实。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "death-records"
+      ],
+      "note": "承接献文去世及此前权力变化的死因问题；没有把软禁并剥夺全部权力的场景复原成已证事实，正文明确现有时序不足支持该链条。"
+    },
+    {
+      "file": "北魏04_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "xianwen-abdication",
+      "sectionIds": [
+        "death-records",
+        "second-regency"
+      ],
+      "note": "并列本纪不言死因、皇后传时人传闻、天象志鸩毒及通鉴定说，校正无记载却对外病死；承接冯氏再临朝，并将孝文记龄由登基时五岁改为476年十岁。"
+    }
+  ],
+  "independentReview": "complete",
+  "audioReviewed": false,
+  "independentReport": "final-unadopted-north-independent.md",
+  "independentReviewScope": "末轮北朝15原段的逐段语义复核；所涉5份台账210行、235映射结构核验。"
+}

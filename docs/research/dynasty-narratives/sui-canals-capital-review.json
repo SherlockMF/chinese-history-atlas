@@ -1,0 +1,393 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：全文通读指定原段，逐条对照已核读史籍与正文；区分时代、工程和统计口径，未回听音频。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "partial": 19,
+    "covered": 5,
+    "uncertain": 1,
+    "corrected": 5,
+    "not-covered": 2
+  },
+  "rows": [
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "why-luoyang"
+      ],
+      "note": "承接营都与运河一起观察；琼花迁都说未核版本，未据原稿确定小说名称与情节。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "why-luoyang"
+      ],
+      "note": "以604年诏书中水陆贡赋、东部治理和军情展开洛阳相对区位，不仅重复地理中心一句。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "why-luoyang"
+      ],
+      "note": "杨广扬州任职、萧氏婚姻及节目南方集团解释已署属；全南方贵族利益代表和无祸害的全称断言未证。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "why-luoyang"
+      ],
+      "note": "说明南方政治解释边界；开仓赈民具体年地、拥护程度和受关陇控制的细节未复原。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "why-luoyang"
+      ],
+      "note": "疆域扩大与治理距离承接；汉代设郡一概羁縻的制度比较未展开。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "not-covered",
+      "assessment": "uncertain",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [],
+      "note": "两千年权力单线集中、清代达峰的总论未核证；不借洛阳篇冒充覆盖。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "why-luoyang",
+        "a-city-in-months"
+      ],
+      "note": "按诏书说明旧址残破另建及治理目的；控制南方集团的心理解释仍非已证事实。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "a-city-in-months"
+      ],
+      "note": "605三月至606正月城成跨两纪年而非两整年；东京役丁与开渠河南百余万分开，劳役代价承接。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "why-luoyang",
+        "a-city-in-months"
+      ],
+      "note": "工期与城址组成校正，不把唐代完整形制倒填605年；南对伊阙北倚邙山和旧城大小比较未作完整空间复原。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "why-luoyang"
+      ],
+      "note": "政治地理与三集团解释明确为节目观点；具体集团利益与文化差异如何整合尚未逐项论证。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "a-city-in-months"
+      ],
+      "note": "东京役丁伤亡明确出处与计数限制；校正营都后才统一，指出589先平陈605后营都。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "a-city-in-months",
+        "joined-waterways"
+      ],
+      "note": "通济渠名称、征役、既有河网和唐继受城市展开；唐两都制度形成过程未专写。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "joined-waterways"
+      ],
+      "note": "写曹操白沟前史及渠网连接；邓艾刘裕具体旧渠逐段复用关系未全核，仍部分。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "joined-waterways",
+        "tongzhou-and-time"
+      ],
+      "note": "城河联系与南北交流有承接；乾隆类比和南方经济空前繁荣的比较未采用。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "tongzhou-and-time"
+      ],
+      "note": "运河交通、人口交流与城市主题承接；流动速度改善没有量化，未写一通即全国改观。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "north-to-zhuojun"
+      ],
+      "note": "区分现代京杭叙述和隋代河洛枢纽、涿郡终端；沧州聊城等逐点线路尚未绘制。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "joined-waterways",
+        "north-to-zhuojun"
+      ],
+      "note": "校正曹操修永济渠：曹操引淇入白沟，隋608开永济；不混今白沟地名。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "joined-waterways",
+        "north-to-zhuojun"
+      ],
+      "note": "写连接既有水系与两次百余万征发，分别标明河南和河北工程。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "north-to-zhuojun"
+      ],
+      "note": "河洛、余杭、涿郡分清；2700公里、十纬度、七省五水系未逐线测核，未照搬。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "joined-waterways",
+        "north-to-zhuojun"
+      ],
+      "note": "用谷洛黄河汴泗淮及永济江南渠段解释人工接续南北水路，没有写此前绝无南北人工河。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "yuan-locks"
+      ],
+      "note": "船向西与水倒流分开，说明水源闸门及元代积水潭，严格跨时代。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "yuan-locks"
+      ],
+      "note": "元1292—1293通惠、七闸斗门与十处二十座两种记数，先建都后通惠的顺序已校；古代陆路与现代线路完整比较未展开。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [],
+      "note": "现代北京武汉铁路与两千年陆路同线缺少时期、路线和地图证据。此工程史需要分年代核路线，不能拿京西古道名称当证明；不把旁谈扩成隋代运输事实，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "north-to-zhuojun"
+      ],
+      "note": "611征辽馈运说明北向军需作用；卢沟桥杜家坎模式口全部同线未核，商业永远最次不作定论。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "north-to-zhuojun",
+        "tongzhou-and-time"
+      ],
+      "note": "军需和城市交流承接；诸城迅速极度繁荣无比较证据，西门庆致富仍需小说核读。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "tongzhou-and-time"
+      ],
+      "note": "西门庆靠运河致富、私人家具产地与通州藏品好坏分别需要小说文本和器物出处；现有运河交流总论不能证实三项具体见闻。超出本篇隋代工程叙事且无所述证据，研究关闭，不留下笼统待做提示。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P167",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "tongzhou-and-time"
+      ],
+      "note": "补1151通州名与1177墓志；私人师傅苏作家具见闻未证，插话不必承接。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P168",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "benefits-and-burdens"
+      ],
+      "note": "长期工程利益与评价杨广的区分已形成结尾论述。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P169",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "benefits-and-burdens"
+      ],
+      "note": "后人继受设施的论旨有承接；秦道路及刘邦具体行军路线未写，不算全部。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P170",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "benefits-and-burdens"
+      ],
+      "note": "工程长期作用不能消去当时劳役和民生损失的主要评价明确承接。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P171",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "benefits-and-burdens"
+      ],
+      "note": "不惜民力评价有事实衔接；汉武帝比较与命运优劣未扩写。"
+    },
+    {
+      "file": "隋（中）_clean_v1.md",
+      "paragraph": "P172",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-canals-capital",
+      "sectionIds": [
+        "joined-waterways",
+        "benefits-and-burdens"
+      ],
+      "note": "以江南河龙舟与巡行明文纠正绝非享乐，公共作用同时保留；未将南方利益集团或千年预见写为已证动机。"
+    }
+  ],
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "隋（中）_clean_v1.md",
+        "paragraph": "P163",
+        "resolution": "research-closed"
+      },
+      {
+        "file": "隋（中）_clean_v1.md",
+        "paragraph": "P166",
+        "resolution": "research-closed"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "covered": 15,
+    "corrected": 5,
+    "partial": 4
+  },
+  "rows": [
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "wuyue-sea"
+      ],
+      "note": "补钱镠从董昌乡兵起家、二十劲卒伏弩与八百里地名故事；其后经营军府分开。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "wuyue-sea"
+      ],
+      "note": "907梁封吴越王、杭州中心与两浙地盘已用，受封不直接等称帝。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "wuyue-sea"
+      ],
+      "note": "吴唐邻国压力与泛海朝贡取外援已用，不只说南唐吞易而无本地抵抗。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "wuyue-sea"
+      ],
+      "note": "海外册新罗渤海有史源、不证明海国全实际臣服；吴越继承亦有变动不全稳定。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "min-trade-and-division"
+      ],
+      "note": "补旧五代4开平三年四月即909受封闽王，港口传说与实际海路贸易分层。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "min-trade-and-division"
+      ],
+      "note": "俭约礼士四门学、招海商与港口传说分层已用；一切邻国全友好不采用。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "min-trade-and-division"
+      ],
+      "note": "李仁达福州、留从效泉州分开，建州灭王氏不等全福建归唐，纠正一人占三州。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "min-trade-and-division",
+        "jingnan-toll"
+      ],
+      "note": "分闽引吴越南唐战、高季兴南平王背景已用，原稿跨两个国家按实际两节映射。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "jingnan-toll"
+      ],
+      "note": "许出兵不出、求地截货、明宗讨荆南已用；不简单类比所有契丹作风。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "jingnan-toll"
+      ],
+      "note": "荆归峡三州小国多称臣取赐有据；还有截贡、攻郢等，纠正从不打仗。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P157",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "jingnan-toll",
+        "chu-tea"
+      ],
+      "note": "荆南生存方式与楚马殷身分已用；揣手只钱的拟对白舍弃。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P158",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "chu-tea"
+      ],
+      "note": "马殷从孙儒刘建峰、907梁封楚王已用，补茶邸商业与兵农。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P159",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "chu-tea"
+      ],
+      "note": "内奉中央外修兵农与多邻国交战已用；湖南现代省全境最大版图未逐县核全。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P160",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "chu-tea"
+      ],
+      "note": "诸子争位951南唐取楚、其后武平仍存已用；贵州广东精确现代边界未细绘。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P161",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "southern-han-court"
+      ],
+      "note": "刘隐岭南经营与招礼文士已用，封号全串不补未经逐次校年细目。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P162",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "southern-han-court"
+      ],
+      "note": "弟刘岩917帝、大越已用；汉字霸气龙傲天笑谈不入。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P163",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "southern-han-court"
+      ],
+      "note": "番禺、918改汉已用；所有姓刘必建汉的概括不作历史规则。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P164",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "southern-han-court"
+      ],
+      "note": "王定保杨洞潜等文士与制度已用；北方全武夫没文人不成立，区域广度只简述未画全。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P165",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "southern-han-court"
+      ],
+      "note": "942刘岩卒刘玢继、饮宴失治已用，殇帝谥号不直接证明必死于享乐。"
+    },
+    {
+      "file": "五代十国05_clean_v1.md",
+      "paragraph": "P166",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "southern-han-court"
+      ],
+      "note": "张遇贤乱、角抵勇士杀玢、晟改名夺位诛兄弟、958鋹继已用，补寝门具体情节。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P137",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "earlier-recap"
+      ],
+      "note": "902是杨行密受吴王封，非按帝制建吴；广陵地方政权已形成的脉络承接。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "earlier-recap"
+      ],
+      "note": "907王建前蜀、钱镠受梁吴越王封已用；不把电视剧热度当史料。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "earlier-recap"
+      ],
+      "note": "海路贡使、回赐与北朝取名位关系已用；丝茶瓷铜钱药材每年固定清单本次未逐物核，不补账。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "ten-kingdoms-survival-routes",
+      "sectionIds": [
+        "earlier-recap"
+      ],
+      "note": "地方并立与朝贡互利已用；全十国只忍等未来的集体心理不虚定。"
+    }
+  ]
+}

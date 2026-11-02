@@ -17,7 +17,8 @@ export interface RetrievedEvidence {
   eventId: string;
   sourceId: string;
   title: string;
-  year: number;
+  year?: number;
+  story?: { seriesId: string; slug: string; sectionId: string; period: string };
   summary: string;
   matchedEvidence?: {
     label: string;
@@ -42,6 +43,7 @@ export interface AiSource {
   title: string;
   episode?: string;
   references?: string[];
+  href?: string;
 }
 
 export interface AiAnswer {

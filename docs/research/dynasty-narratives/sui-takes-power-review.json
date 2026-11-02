@@ -1,0 +1,497 @@
+{
+  "date": "2026-10-11",
+  "method": "此前审查方法（历史记录）：完整读北周P045–046、P072–084十五段与隋（上）P029–053二十五段，以周书隋书通鉴逐事校读，补成八节。明辨矫诏与不存在可复原的另一份遗诏、亳州旧任与扬州未赴、分批诛五王与三方战争；地域文化泛论和现代人格诊断不因同属这章自动算采用，未回听音频。 2026-10-11末轮：对本台账指定未采用段亲读原段和相关原典，逐项标research-closed；可证内容或明确编辑解读补入，拟对白及无证情节保留not-covered，未回听音频。新写部分待独立交叉复核。\n2026-10-11最后未采用段落处理：本次只补/关闭finalUnadoptedReview列出的原段，具体实际正文和未采用理由见各行resolution/note；其余旧段判定保留。新增修改已由主代理独立对读原P、实际正文和史源，详见末轮独立复核报告。",
+  "counts": {
+    "partial": 12,
+    "corrected": 12,
+    "covered": 12,
+    "not-needed": 1,
+    "not-covered": 3
+  },
+  "rows": [
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "a-large-inheritance"
+      ],
+      "note": "577灭齐与北方主要州郡归一、陈和突厥仍在明确；北周疆域不及全盛北魏及具体北方叛乱、失地的比较没有逐项核图与展开，保留缺口。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "a-large-inheritance"
+      ],
+      "note": "武帝灭齐后578拟北征而病卒已展开；从元修西奔至宇文家崛起的整段回顾未在本篇重述，不能以最后统一一句覆盖前史。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P072",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "danger-and-transfer"
+      ],
+      "note": "岳父关系和宣帝对杨坚的猜忌落实，以对杨后灭族威胁、逼死记录限制热爱皇后的概括；明确不能把某次受威胁作为已经决定篡位的时间证明。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P073",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "danger-and-transfer"
+      ],
+      "note": "召见前命左右见杨坚色变即杀、入见后神情自若而脱身的情节完整承接，依据隋书与通鉴，不据乱码另造人名。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P074",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "danger-and-transfer"
+      ],
+      "note": "对受召一事必使杨坚定下造反决心的心理因果直接设证据界限，改以能核的求外任行动说明处境；不把现代性格推演写成史实。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P075",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "the-disputed-edict"
+      ],
+      "note": "580年宣帝重病、召近臣交代后事而失语及死亡均按记载落实，正文不强定诸书有异的具体日序。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P076",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "the-disputed-edict"
+      ],
+      "note": "刘昉郑译引入辅政、矫诏与颜之仪拒签均写明；区分伪托帝命与改动现存真实遗诏，没有证据复原所谓原来另定的人选全文。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P077",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "the-disputed-edict",
+        "palace-and-princes",
+        "the-child-left-behind"
+      ],
+      "note": "保留遗诏内容不可复原的限定，静帝原名衍后改阐、579父传子、580父死至581禅位的顺序明确；不把天元帝死亡视作静帝初登基。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P078",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "the-disputed-edict",
+        "palace-and-princes",
+        "abdication-and-name",
+        "the-child-left-behind"
+      ],
+      "note": "幼帝约两年在位、杨坚先辅政后受禅、开皇元年五月杀静帝和隋建立全链条展开，细化为579二月至581二月及受禅后遇害。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "three-fronts",
+        "abdication-and-name"
+      ],
+      "note": "以尉迟迥、司马消难、王谦三处军事抵抗及邺城战事纠正基本未动兵卒夺政；区分杨坚本人未逐场亲战与实际调兵用战。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "abdication-and-name",
+        "the-child-left-behind"
+      ],
+      "note": "557至581相距二十四年明确，用起止年份说明国祚，口头算岁数笑谈不另扩写。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "not-needed",
+      "assessment": "corrected",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "northern-succession"
+      ],
+      "note": "research-closed：新节逐项交代534北魏分裂、535西魏文帝登位、550齐代东魏、557周代西魏、577周灭齐、581隋代周，区分分裂并立兼并代朝；混乱及早该结束为主观评价，以明确编辑解读讨论资源延续而不作史实结论。",
+      "researchStatus": "research-closed"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "northern-succession"
+      ],
+      "note": "research-closed：新节以高欢拥立并主政东魏、宇文泰经营西魏、宇文邕灭齐为具体例证，明确讨论能力与继承资格不同；未采用留名只有两种原因的排他判断，也不冒充已完成全朝君主的功过排名。评价边界已研究确定。",
+      "researchStatus": "research-closed"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "a-large-inheritance",
+        "the-child-left-behind"
+      ],
+      "note": "灭齐给隋留下北方军政基础、杨坚与宇文赟翁婿关系及代周均承接；宇文邕深化府兵的具体制度工作未在本篇研究，不能算全段覆盖。"
+    },
+    {
+      "file": "北周_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "northern-succession"
+      ],
+      "note": "research-closed：以周书7所记宇文赟太子监国出征、即位诛宇文宪、传位仍掌权，补明确编辑解读比较处境和约束；未据行为反差诊断人格分裂，未把它推广为所有南北朝君主共性。南朝另篇口播过渡不虚设故事，医学化泛论关闭未采用。",
+      "researchStatus": "research-closed"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P029",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "a-large-inheritance",
+        "danger-and-transfer"
+      ],
+      "note": "杨坚由后父任上柱国大司马、地位隆重而被宣帝猜忌及武帝朝延续的背景均承接；不按缺损句补造宣帝的肯定或否定。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P030",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "danger-and-transfer"
+      ],
+      "note": "灭杨家威胁及杨丽华关系承接，说明无法由父子关系推出宣帝专为反父而猜疑；用逼杨后死的记载限定深爱概括。太子行为规范的具体条目未在本篇重述。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P031",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "danger-and-transfer"
+      ],
+      "note": "灭族威胁、召杨坚入宫、命左右以色变为杀机和脱身均承接；刀斧手仅按左右待命表述，不额外补宫殿布置。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P032",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "danger-and-transfer"
+      ],
+      "note": "神色自若脱险的具体行为承接；原段将其概括为一次次脱险及成熟心理素质，史书此段未证反复次数，未扩大为稳定人格诊断。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P033",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "danger-and-transfer"
+      ],
+      "note": "因猜忌向郑译求外任的目的与行动落实，以史书私语为据，不将节目自拟申请外调对话当逐字史料。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P034",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "danger-and-transfer"
+      ],
+      "note": "明确亳州是较早旧任、宣帝已征还；580获任的是扬州且未出发，不能据此写已在亳州获得地盘与安全。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P035",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "danger-and-transfer"
+      ],
+      "note": "承接并纠正本段把亳州到任与临近夺权相连的时间线；现代亳州地理、到任后谋士集体劝兵的细节没有独立核实，不以时间纠正代替全段核毕。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P036",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "danger-and-transfer",
+        "the-disputed-edict"
+      ],
+      "note": "宣帝五皇后与政治危机、杨坚留在京中待到皇帝病危落实；到任部属劝起兵、拍手称时机未熟和此前积极备战的情节未查到所引原典支持，仍留缺口。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P037",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "the-disputed-edict"
+      ],
+      "note": "579传位、580宣帝卒和本纪所记二十二岁已承接；帝王幸福生活等心理评价不据此推定。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P038",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "the-disputed-edict"
+      ],
+      "note": "明辨静帝生母朱满月、杨丽华为嫡母，杨坚不是生母之父；不能将姥爷笑谈照搬成亲外祖父关系。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P039",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "the-disputed-edict",
+        "palace-and-princes"
+      ],
+      "note": "郑译刘昉利用幼主年幼引杨坚辅政、百官与兵马受节度及宫门禁卫控制均落实，外祖关系已在前节明确限定，未把幼帝无力反对扩写为主动同意。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P040",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [],
+      "note": "本段只有嗯，无实质历史命题。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P041",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "palace-and-princes"
+      ],
+      "note": "掌权后为防宗王生变，以千金公主婚事召赵陈越代滕五王入朝的动机、五王名称与六月到京均明确。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P042",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "palace-and-princes",
+        "allegiances-in-the-east",
+        "three-fronts"
+      ],
+      "note": "五王入朝与逐批被杀分开，不是到会即杀；尉迟迥原有相州据点、反对挟幼主和邺城旧齐背景写明，不把入朝清洗与起兵压成一次行动。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P043",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "allegiances-in-the-east"
+      ],
+      "note": "杨坚宇文氏及尉迟迥同出北周统治圈、尉迟迥原有相州军政基础与夺权冲突展开；原段所引关陇勋贵阶层的系统构成没有全展开，保留结构解释的限度。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P044",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "allegiances-in-the-east"
+      ],
+      "note": "邺城为旧齐都城、东部州郡响应的历史背景已写；现代山东曲阜泰山的文化旅游比较与当时整体文化认同未专论。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P045",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [],
+      "note": "封禅、当代年节食品与古代东西/南北差异跨越不同历史时期，没有同一取样口径。现有杨坚取代北周叙事无须借此泛论作因果；当代食品类比与长期轴线断言不采用，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P046",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [],
+      "note": "齐鲁儒学与秦起于养马不能直接推出整个西部文化落后，更不能自动移到六世纪派系。东西军政关系已有具体人物，不另补单线地域高低评价，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P047",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-covered",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [],
+      "note": "从西周分封推到汉代地方薄弱、再说民众未真正共同生活，是未给史料指标的千年总论。分立/战争并不等于人口绝无迁徙联系，本项不作绝对社会生活结论，研究关闭。",
+      "resolution": "research-closed",
+      "finalReviewDate": "2026-10-11"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P048",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "allegiances-in-the-east"
+      ],
+      "note": "地方主帅凭州郡与军队作不同选择、李穆等势力并非由一纸命令统一的事实有所承接；原段上次大一统距几百年及各地门阀主宰认同的广泛断言未系统核写。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P049",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "allegiances-in-the-east",
+        "three-fronts"
+      ],
+      "note": "韦孝宽平尉迟迥已展开，另写司马消难王谦，纠正只平一叛乱即无障碍；尉迟迥麾下关中人、李穆支持杨坚及李德林参谋直接限制关陇对山东的单因解释。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P050",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "abdication-and-name"
+      ],
+      "note": "581大定年号、二月幼帝禅让与劝进辞让礼仪落实，并与已经掌握的实权区分。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P051",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "abdication-and-name"
+      ],
+      "note": "三让、常服从相府入宫备礼即位、幼帝禅位的仪式和事实均有承接，常服细节据隋书高祖纪。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P052",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "abdication-and-name"
+      ],
+      "note": "去辵求宁处的说法追到胡三省注，并列赵一清金石字例所提通用异说；嫌随意味着做跟班、古随国弱小的心理与编钟插话不当杨坚实录，保留字形原因未能定论。"
+    },
+    {
+      "file": "隋（上）_clean_v1.md",
+      "paragraph": "P053",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "sui-takes-power",
+      "sectionIds": [
+        "abdication-and-name",
+        "the-child-left-behind"
+      ],
+      "note": "初都长安、改元开皇、隋立与翁婿代业含义均承接；隋唐演义等话本常称开皇爷及其用词频率未作版本调查，开皇之治此处仅为年号入口不冒充施政专题。"
+    }
+  ],
+  "independentReview": "complete",
+  "audioReviewed": false,
+  "finalUnadoptedReview": {
+    "date": "2026-10-11",
+    "independentReview": "complete",
+    "paragraphs": [
+      {
+        "file": "隋（上）_clean_v1.md",
+        "paragraph": "P045",
+        "resolution": "research-closed"
+      },
+      {
+        "file": "隋（上）_clean_v1.md",
+        "paragraph": "P046",
+        "resolution": "research-closed"
+      },
+      {
+        "file": "隋（上）_clean_v1.md",
+        "paragraph": "P047",
+        "resolution": "research-closed"
+      }
+    ],
+    "method": "最后review-not-covered原P逐读；实际可补内容落正文，现代排名、无证心理、无指名类比与个人见闻明确研究关闭，不靠判定更换清零。",
+    "independentReviewer": "root",
+    "independentReport": "docs/research/dynasty-narratives/final-unadopted-south-other-independent.md"
+  },
+  "independentReport": "final-unadopted-north-independent.md",
+  "independentReviewScope": "末轮北朝15原段的逐段语义复核；所涉5份台账210行、235映射结构核验。"
+}

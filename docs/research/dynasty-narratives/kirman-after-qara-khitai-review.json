@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-11",
+  "method": "起草后由根代理独立逐段对读原逐字稿、正文、定位与相关史源；按实际内容保留partial/uncertain，不回听音频。见cross-review-l45-l52.md。",
+  "counts": {
+    "corrected": 4,
+    "not-needed": 1,
+    "partial": 3,
+    "covered": 3
+  },
+  "rows": [
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P185",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "kirman-after-qara-khitai",
+      "sectionIds": [
+        "different-endings",
+        "baraq-in-kirman"
+      ],
+      "note": "1218地方先后归蒙与布拉黑较早进入花剌子模分开，非全体朝亡即逃波斯。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P186",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "kirman-after-qara-khitai",
+      "sectionIds": [
+        "different-endings",
+        "baraq-in-kirman"
+      ],
+      "note": "1222建政、1230年代初臣属与1306终点分开；35年说不采用。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P187",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "kirman-after-qara-khitai",
+      "sectionIds": [],
+      "note": "对亡国者的遗憾串场，无新事实。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P188",
+      "baselineVerdict": "not-needed",
+      "assessment": "partial",
+      "storySlug": "kirman-after-qara-khitai",
+      "sectionIds": [
+        "women-and-memory"
+      ],
+      "note": "蒙古新兴与政治终点承接，民族并非同时消失。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P189",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "kirman-after-qara-khitai",
+      "sectionIds": [
+        "women-and-memory"
+      ],
+      "note": "延续到起儿曼的族群政治文化问题承接，非原西辽始终连续同朝。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P190",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "kirman-after-qara-khitai",
+      "sectionIds": [
+        "women-and-memory"
+      ],
+      "note": "宗教共处、迁置强制与屈出律压迫分期，纠正现代自由平等贯穿无冲突。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P191",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "kirman-after-qara-khitai",
+      "sectionIds": [
+        "women-and-memory"
+      ],
+      "note": "女摄政具体权力及起儿曼女王比较承接，不推广普遍社会平等。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P192",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "kirman-after-qara-khitai",
+      "sectionIds": [
+        "women-and-memory"
+      ],
+      "note": "女性治理与责任并列评价，宽厚为骨子天性无法证实。"
+    },
+    {
+      "file": "西辽_clean_v1.md",
+      "paragraph": "P193",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "kirman-after-qara-khitai",
+      "sectionIds": [
+        "women-and-memory"
+      ],
+      "note": "普速完宫变责任承接；葛逻禄迁置并未彻底永久解决，详L48。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P195",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "kirman-after-qara-khitai",
+      "sectionIds": [
+        "different-endings",
+        "baraq-in-kirman",
+        "women-and-memory"
+      ],
+      "note": "西辽与起儿曼政权区分，改信及合法性变化，不硬断全程自号辽。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P196",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "kirman-after-qara-khitai",
+      "sectionIds": [
+        "different-endings",
+        "baraq-in-kirman",
+        "women-and-memory"
+      ],
+      "note": "中国史与欧亚史交叉及契丹融入不同群体承接，不等于族群一夕消失。"
+    }
+  ]
+}

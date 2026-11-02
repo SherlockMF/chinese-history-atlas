@@ -1,0 +1,473 @@
+{
+  "date": "2026-10-11",
+  "method": "逐段亲读原逐字稿、正文及对应原典，完成独立语义复核；未回听音频。",
+  "counts": {
+    "covered": 19,
+    "corrected": 10,
+    "partial": 12,
+    "not-needed": 1
+  },
+  "rows": [
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "jinghu"
+      ],
+      "note": "周行逢死、幼主周保权与张文表乱引出荆湖进兵已用，蒙古枕头谚语不作宋君引语。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "jinghu"
+      ],
+      "note": "马楚951已灭而周保权为后继武平，纠正947马楚掌权周行逢并延续至963的混同。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "jinghu"
+      ],
+      "note": "借援湖南借道荆南的机会已用，枕头插话舍弃。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "jinghu"
+      ],
+      "note": "慕容延钊入荆南、高继冲降已用，补正借道与兼并两种实际结果。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "jinghu"
+      ],
+      "note": "进湖南与俘周保权已用；三江口各日军程未逐步画图。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "jinghu"
+      ],
+      "note": "岳朗取与周保权俘由荆湖节承接，明确结束武平不再误称当时才灭马楚。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "shu"
+      ],
+      "note": "补宋史479孟昶联北汉蜡丸帛书与赵彦韬取书告宋，背景与两路战相接。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "shu"
+      ],
+      "note": "宋479是赵彦韬取联络书告宋，再让孙遇等指画山川营寨制图；不是初次就交出唯一兵力地图。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "shu"
+      ],
+      "note": "凤州北线与归州长江西线两路已写，列王全斌崔彦进及刘光义曹彬。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "shu"
+      ],
+      "note": "剑门破王昭远俘、夔巫等两路逼成都、965孟昶降已用，补后续掠杀降兵与惩处。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "shu"
+      ],
+      "note": "荆湖通蜀通江南的战略位置由相邻三次进军承接；不只以地盘图省去具体路线。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "covered",
+      "assessment": "partial",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "wuyue"
+      ],
+      "note": "吴越朝贡归宋与保境效果由纳土节承接；谁大认谁的拟宣言不按所有王一律心理。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "wuyue",
+        "southern-tang"
+      ],
+      "note": "吴越与南唐朝贡、仍存自家统治由两节承接；服字不等已经献地灭国。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "southern-han"
+      ],
+      "note": "下一步选择南汉由南汉战节承接；潘美洗地主播插话不入。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "southern-han"
+      ],
+      "note": "潘美尹崇珂970进贺州及沿途推进已用，历史潘美与演义潘仁美不混。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "southern-han"
+      ],
+      "note": "补宋481970十二月韶州莲花山象阵、李承渥数万军；原稿扬言水路诱调全部主力未在本篇所读书找到，不虚覆盖。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "southern-han"
+      ],
+      "note": "原漏劲弩射战在宋481找到，补集中劲弩射象、奔踶坠人反践己军、韶州陷。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "southern-han"
+      ],
+      "note": "971推进广州灭南汉已用，补竹木寨、间道双炬借风夜火及刘鋹焚府受俘。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "southern-tang"
+      ],
+      "note": "李煜守国与拒召及宋出师由唐战节承接；蠢货与早联合必能存是主播判断，不作史实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "southern-tang"
+      ],
+      "note": "974曹彬部署灭唐已用，跨辽节目军衔串场不入。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "southern-tang"
+      ],
+      "note": "曹彬此次领军已用；巅峰武力99和老将排名无史料量尺不采用。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "southern-tang"
+      ],
+      "note": "曹彬部署、潘美都监不是简单副帅，采石浮桥和秦淮推进已写，十万兵逐军总数未核。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "southern-tang"
+      ],
+      "note": "金陵降与朱令赟皖口援军被刘遇击败已写，不称王明吴越合军全歼固定十万。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P138",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "wuyue"
+      ],
+      "note": "太祖976卒与尚余吴越北汉已用；宫中饮酒宿卧疑案未亲核，本篇不展开烛影斧声。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P139",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "wuyue"
+      ],
+      "note": "978钱俶朝宋太宗纳土已写，纠正仍朝太祖及别回去拟对白；附13州1军86县。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P140",
+      "baselineVerdict": "not-needed",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "wuyue"
+      ],
+      "note": "钱氏纳土与北汉仍存已用，电视剧视角不作史源。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P141",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "northern-han"
+      ],
+      "note": "长编20明确薛居正等劝慎虑、太宗今日敌弱我强坚持亲征，补回奏对。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P142",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "northern-han"
+      ],
+      "note": "补长编20四面具体将领与西面换位争执，柴荣比较仍是口述拟话，不虚代原话。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P143",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "northern-han"
+      ],
+      "note": "宋多军围太原、辽援及郭进破援已用；十万精确军数与辽主觉得麻烦未写定。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P144",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "northern-han"
+      ],
+      "note": "辽确派援而被石岭击败已用，不以观战或不卖力的心理解释实战败退。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P145",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [],
+      "note": "吕布辕门射戟与平生不好斗的评书类比，不属于宋辽援战记录。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P146",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "northern-han"
+      ],
+      "note": "郭进石岭破辽援已用，纠正援军只是喜爱和平旁观的戏说。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P147",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "northern-han"
+      ],
+      "note": "太原持续受攻与君主督战由围城节承接；夸张全城早扛不住及劝万金躯对白未原文直引。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P148",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "northern-han"
+      ],
+      "note": "长编20有将士争效命于锋镝之下，朕岂忍坐观原答，补围城临阵劝止。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P149",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "northern-han"
+      ],
+      "note": "郭万超降、城南督攻与继元请降已用；眼里冒火形象不作目击记录。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P150",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "northern-han"
+      ],
+      "note": "长编20确有上恐屠其城，因麾众少退，不再误排为单纯主播内心拟写；受降后杀亡命兵也并列。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P151",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "northern-han"
+      ],
+      "note": "979五月继元夜请、次日降宋已用；胜兄耀武动机没有写成史实。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P152",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "northern-han"
+      ],
+      "note": "长编20所记十州一军四十一县与原稿相合；宋4十州四十县异文分列，不虚校原稿全错。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P153",
+      "baselineVerdict": "corrected",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "northern-han"
+      ],
+      "note": "迁富户吏民、移新并州、烧旧太原已用，龙脉危险只是后人解释不作原因证据。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P154",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "northern-han"
+      ],
+      "note": "毁旧城与980引水有具体记录，纠正此后无皇帝即验证气运的迷信因果。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P155",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "northern-han"
+      ],
+      "note": "北汉后辽问题未消失、随后高梁河败撤已用，先前轻视辽援的判断不沿用。"
+    },
+    {
+      "file": "五代十国06_clean_v1.md",
+      "paragraph": "P156",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "song-unification-campaigns",
+      "sectionIds": [
+        "northern-han"
+      ],
+      "note": "979北汉归宋与燕辽问题尚存已用，不把国内统一等于全部旧唐疆域收回；节目闭环串场舍弃。"
+    }
+  ]
+}

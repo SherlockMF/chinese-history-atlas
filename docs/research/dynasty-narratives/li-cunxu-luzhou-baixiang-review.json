@@ -1,0 +1,248 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11收尾独立复核：逐读指定原P、现正文及所用原典；实义评价以编辑解读承接，未证心理、比例和全称判断明确研究结案；未回听音频。",
+  "counts": {
+    "covered": 6,
+    "partial": 6,
+    "corrected": 6,
+    "not-needed": 4
+  },
+  "rows": [
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "arrows"
+      ],
+      "note": "908正月李克用卒与晋王继立已用；年龄不作本篇中心，没有据玩笑推死后开疆。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "arrows"
+      ],
+      "note": "遗命辅佐及救潞州、三矢故事已用；长子称谓未核不强化，三矢明确世言层次。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "arrows"
+      ],
+      "note": "三矢中的契丹结盟后归梁已用；记名如来与催兵对白舍弃。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "arrows"
+      ],
+      "note": "三矢还庙与雁门葬地分别据伶官传和新五代4，不把祭庙直接当墓。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-needed",
+      "assessment": "not-needed",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [],
+      "note": "主播总结李克用人生、切回朱温的过场。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "liang-two-capitals"
+      ],
+      "note": "research-closed：本篇实述907梁设置开封东都、洛阳西都及京兆大安府，校清主语朱温；另一篇zhu-wen-tang-end的liang-founded原已叙事实，不再把夹寨范围锚当成两京覆盖。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "clamp-camp"
+      ],
+      "note": "潞州被梁围、新君面对危局与梁主离前线已用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "clamp-camp"
+      ],
+      "note": "不沿用只服丧二十七日即出兵；按通鉴记正月承位、五月解围，战机与丧制分开。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "clamp-camp"
+      ],
+      "note": "大雾、倍道进军、两面破寨已用；四十九日必须停留的民俗式判断不写为军令。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "clamp-camp"
+      ],
+      "note": "上党屏障及解围战略价值已用；开封完全无险的地理绝对断言不承接。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [],
+      "note": "包青天和片段插话不承担新的夹寨事实。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "alliances"
+      ],
+      "note": "对宿将猜忌及镇定求晋联盟已用；做帝后第一件事即怀疑所有人的心理顺序不虚定。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [],
+      "note": "凌烟阁、二十四功臣比喻不当后梁封功事实。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "alliances"
+      ],
+      "note": "王重师受谗被杀灭族、刘知俊惧而叛已用。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "alliances"
+      ],
+      "note": "内部信任受损与宿将叛离已用；910已无能将的全称判断撤去。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P121",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "baixiang"
+      ],
+      "note": "王景仁到柏乡、晋援河北已用；关键战役为911正月，不照口述910混定。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P122",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "baixiang"
+      ],
+      "note": "周德威袭草料、引出营并待疲的过程已用，增高邑桥战约束。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P123",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "baixiang"
+      ],
+      "note": "柏乡大败与主动权转移已用；全部主动权、后梁无抵抗的夸大不保留。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P124",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [],
+      "note": "朱温展示昔日威风的拟对白，无独立战场行动。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P125",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "rao-raid"
+      ],
+      "note": "912放火奇袭由史建瑭李嗣肱等实施，李存勖不在；迷路退兵已用，不沿用晋王亲率精锐烧梁营。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P126",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "rao-raid"
+      ],
+      "note": "生子当如李亚子按通鉴放908夹寨后，不与912奇袭逃跑强绑；战乱感叹非具体伤亡数字。"
+    },
+    {
+      "file": "五代十国02_clean_v1.md",
+      "paragraph": "P127",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "li-cunxu-luzhou-baixiang",
+      "sectionIds": [
+        "rao-raid"
+      ],
+      "note": "912绕路撤退、民持农具追击已用；江山若有此子必稳的假设只属口述评价。"
+    }
+  ],
+  "independentReview": "complete",
+  "independentReport": "final-unadopted-liao-wudai-independent.md"
+}

@@ -1,0 +1,406 @@
+{
+  "date": "2026-10-11",
+  "method": "独立重读36原段与正文，亲读通鉴273—275相关编年及新五代37/63/5；恢复第二次修好、巡游三泉、内外库、搜民女与优名，校从珂职地、渡江人数和善友身份；音频未回听。",
+  "counts": {
+    "corrected": 10,
+    "partial": 9,
+    "not-needed": 3,
+    "covered": 14
+  },
+  "rows": [
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P079",
+      "baselineVerdict": "corrected",
+      "assessment": "corrected",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "后唐923—936已校正，不沿用937；朱友贞有想法但能力一般的心理评判不作事实。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P080",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "唐国号及政治承认范围已用；现代各省全部面积清单未逐图校核，不虚标全覆盖。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P081",
+      "baselineVerdict": "corrected",
+      "assessment": "partial",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "短期取蜀及称臣不等吞并已用；除吴汉外其余全部臣服的全称未逐国核定。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P082",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [],
+      "note": "姓李才够复唐的聊天，不能作史家统一评选标准。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P083",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [],
+      "note": "刘备中山靖王与卖草鞋包装的跨朝对话不入。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P084",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "周边称臣与独立前蜀对比已用；认为契丹一时弄不了的心理不虚定。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P085",
+      "baselineVerdict": "covered",
+      "assessment": "covered",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "前蜀王衍及其三川地盘已用。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P086",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "亲读新五代63，补成都及三川地盘，非遗与歌词仍只是笑谈。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P087",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "补西川东川山南西道三川具体组成，新五代63逐次并地可核；刘备反事实省略。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P088",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "亲读新五代63及通鉴273，宦者、龙舟锦帆锦帐、沿途供给负担已具体补回。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P089",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "巡游与李严探蜀、后唐征服决定已用；吃睡每家与眼里没有我的拟语不留。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "李严出使考察虚实已用；不因同名混三国李严。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "李严回报促成出兵已用；保证全体一打就跑的对白不作原典结论。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "通鉴273明确李彦稠924再使、蜀派欧阳彬回聘、修好后撤军，恢复原先未覆盖的第二次外交。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "第二使往来及蜀撤边兵补入，与李继岌都统郭掌招讨共同承接，不虚造使者捧杀对白。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "康延孝即李绍琛先锋、入川桥关与抵成都已用；不是全程无抵抗。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "通鉴273925王衍巡出成都至利州才信唐兵来，补具体时点。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "三将领三万逆战于三泉败、王衍归成都补实，成都降仍经后续进军，不作只有一战。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "shu-journey"
+      ],
+      "note": "前蜀灭与郭入城约束军队已用，补七十日及断桥溺死代价；成功后的朝廷失序由后三节承接，英明忽变坏标签不作事实。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "money-and-performers"
+      ],
+      "note": "音乐俳优兴趣本早有，纠正无缘由晚年忽变；胜利冲昏头脑与PTSD的猜心不定论。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "money-and-performers"
+      ],
+      "note": "内外库制度、刘后薪果贩卖与贡分两份具体行动补入，不用心理标签替代史料。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [],
+      "note": "明君本应没有钱概念与康熙乾隆类比，不作五代事实。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "money-and-performers"
+      ],
+      "note": "亲读通鉴273/274补内库积与外库亏、军人雇妻卖子采蔬而饥死；贿买一切官全称仍未证。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "money-and-performers"
+      ],
+      "note": "926臣请动内库补军粮已用，所请不等于所有国库从此完全空。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "money-and-performers"
+      ],
+      "note": "三银盆、三个幼子见通鉴274（三月），修原台账误指卷275；妆具拒内库和伶人刺史均承接。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "money-and-performers"
+      ],
+      "note": "周匝请求两伶人任刺史与郭反对已用，也保留敬新磨救县令的不同例子。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "money-and-performers"
+      ],
+      "note": "通鉴273补张宪奏营妇女千余失踪而实际被入宫，监军重任与搜选民女有具体原史。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "partial",
+      "assessment": "partial",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "money-and-performers"
+      ],
+      "note": "勋旧防范具体落李嗣源求从珂已用；开国第一功臣排序不当统一定论。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "money-and-performers"
+      ],
+      "note": "通鉴273嗣源家太原，请从珂任北京内牙以便其家，并非从珂召到成德嗣源身旁；被降突骑戍石门镇。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "guo-death",
+        "ye-mutiny"
+      ],
+      "note": "魏博换防超期、郭朱遭杀与魏博哗变已用，按因果多线解释，不仅归无薪抢妻。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "money-and-performers",
+        "ye-mutiny"
+      ],
+      "note": "新五代37李天下明确优名已补，不作战场自号；欲亲征被群臣劝止在ye-mutiny补；龙虎大将军未证。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "guo-death",
+        "ye-mutiny"
+      ],
+      "note": "郭崇韬朱友谦死激将恐惧已用；嗣源先被军逼入邺、上表被阻后南下，不是听道德责问便自动反；卖柴菜等对白舍弃。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "partial",
+      "assessment": "covered",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "ye-mutiny"
+      ],
+      "note": "嗣源占大梁与营兵归附已用，诸将拥戴有行动而非人格魅力独因。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "xingjiao-gate"
+      ],
+      "note": "庄宗退洛、汜水待西军与兴教门变已用；继岌未在汜水会父，纠正父子会师后吃饭出征。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "xingjiao-gate"
+      ],
+      "note": "补新五代5史记年四十三、善友鹰坊身份；郭从谦拜叔养子关系不作血叔，中箭死亡。"
+    },
+    {
+      "file": "五代十国03_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "partial",
+      "assessment": "corrected",
+      "storySlug": "later-tang-shu-and-mutiny",
+      "sectionIds": [
+        "xingjiao-gate"
+      ],
+      "note": "乐器覆尸焚烧、雍陵葬已用；明宗四月柩前即位在先，不记七月墓前始称帝。"
+    }
+  ],
+  "independentReview": "completed"
+}

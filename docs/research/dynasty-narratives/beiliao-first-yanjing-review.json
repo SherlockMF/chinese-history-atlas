@@ -1,0 +1,369 @@
+{
+  "date": "2026-10-11",
+  "method": "2026-10-11 主代理逐读本批150条原段、故事正文与原有逐段note；亲读辽史27—30、71、98，金史2、3、74，宋史335、357，北盟7、10、11及契丹国志相应段落；修正文妃诗、交涉与战役时序、刘延庆指挥评价、大石系绳引路青冢及林牙官称，不以引用范围或关键字命中代替语义对应；未回听音频。",
+  "counts": {
+    "partial": 17,
+    "corrected": 6,
+    "covered": 7,
+    "not-needed": 3
+  },
+  "rows": [
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P090",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "northern-liao"
+      ],
+      "note": "退入夹山承接，六十里沼泽具体尺寸未核采用。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P091",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "northern-liao"
+      ],
+      "note": "留淳守燕与通信困难承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P092",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "northern-liao"
+      ],
+      "note": "兴宗孙、道宗侄恢复；淳为天祚堂叔辈，非同辈或天祚亲叔。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P093",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "northern-liao"
+      ],
+      "note": "天锡即位、降封天祚和大石拥立承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P094",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "northern-liao"
+      ],
+      "note": "太祖八代孙、进士与翰林履历承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P095",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "northern-liao"
+      ],
+      "note": "林牙官称与北辽称谓承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P096",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "northern-liao"
+      ],
+      "note": "“伪”作为立场呈现，南京守务承接；北京土生猜测略。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P097",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "sea-alliance"
+      ],
+      "note": "宋金夹攻与盟约背景承接，不简化兄弟盟为不平等属国。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P098",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "sea-alliance"
+      ],
+      "note": "增币纳字不等于宋一切名分都下属，收复目标承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P099",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "sea-alliance"
+      ],
+      "note": "1120宋使随金攻上京承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P100",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "sea-alliance"
+      ],
+      "note": "上京旦巳破外城与请求汉地承接，全部十六州承诺受限定。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P101",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [],
+      "note": "宋使完整后悔独白无史文依据。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P102",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [],
+      "note": "两帝玩乐对照无新增历史命题。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P103",
+      "baselineVerdict": "not-covered",
+      "assessment": "not-needed",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [],
+      "note": "文曲武曲与玩球笑话。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P104",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "sea-alliance"
+      ],
+      "note": "金军战力和宋方误判承接，宗翰宗望不是耶律姓。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P105",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "sea-alliance"
+      ],
+      "note": "方腊起事1120—1121，非两年平乱准确年表。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P106",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "sea-alliance"
+      ],
+      "note": "平乱部队转北上承接，历练干部玩笑略。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P107",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "sea-alliance"
+      ],
+      "note": "取燕目标与金宋交涉承接，不造徽宗对白。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P108",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "sea-alliance"
+      ],
+      "note": "童贯蔡攸与西边军队经验承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P109",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "sea-alliance"
+      ],
+      "note": "种师道姓名恢复。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P110",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "white-gou"
+      ],
+      "note": "大石轻骑与西路先锋承接，不以小说称号作身份史证。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P111",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "white-gou"
+      ],
+      "note": "杨可世初战受挫承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P112",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "white-gou"
+      ],
+      "note": "增援和白沟对峙承接，总兵力不采单一3万10万。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P113",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "white-gou"
+      ],
+      "note": "旗榜招降及大石拒绝承接，折旗动作未核实。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P114",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "white-gou"
+      ],
+      "note": "过界交战与盟约争执承接，不称确定背水布阵。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P115",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "white-gou"
+      ],
+      "note": "奚将萧干与杨可世负伤承接，非萧翰。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P116",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "white-gou"
+      ],
+      "note": "奚军作用承接，共同族源血缘说不据音近推定。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P117",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "white-gou"
+      ],
+      "note": "奚王府与地位讨论承接，族群固定上下层未采用。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P118",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "white-gou"
+      ],
+      "note": "宋初次取燕失败承接，高梁河回顾不另编细节。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P119",
+      "baselineVerdict": "not-covered",
+      "assessment": "covered",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "dismissal-and-death"
+      ],
+      "note": "种师道建议、密劾助贼、致仕及刘代任承接。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P120",
+      "baselineVerdict": "not-covered",
+      "assessment": "corrected",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "dismissal-and-death"
+      ],
+      "note": "淳病死为两篇转场，本篇不采急死。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P204",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "dismissal-and-death"
+      ],
+      "note": "宋方取燕战略误判讨论承接，节目绝对否定须受限定。"
+    },
+    {
+      "file": "辽05_clean_v1.md",
+      "paragraph": "P205",
+      "baselineVerdict": "not-covered",
+      "assessment": "partial",
+      "storySlug": "beiliao-first-yanjing",
+      "sectionIds": [
+        "dismissal-and-death"
+      ],
+      "note": "宋方弃和平与决策责任讨论承接，不以艺术才华代替政治分析。"
+    }
+  ]
+}

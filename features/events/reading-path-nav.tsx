@@ -11,7 +11,7 @@ export function ReadingPathNav({ pathId, eventId, events, paths = legacyPaths, s
   if (index < 0) return null;
   const previous = events.find((event) => event.id === ids[index - 1]);
   const next = events.find((event) => event.id === ids[index + 1]);
-  const href = (event: HistoricalEvent) => `/explore/${event.id}?year=${event.startYear}&path=${path.id}`;
+  const href = (event: HistoricalEvent) => `/explore/${event.id}?year=${event.startYear}&path=${path.id}${seriesSlug === "five-dynasties" ? "" : `&series=${seriesSlug}`}`;
   return <nav aria-label="主题导读" className="mb-8 rounded-2xl border border-cinnabar/20 bg-cinnabar/5 p-5">
     <div className="flex flex-wrap items-baseline justify-between gap-3"><p className="font-serif text-lg">{path.title} <span className="ml-2 text-xs text-muted">第 {index + 1} / {ids.length} 站</span></p><Link href={`/series/${seriesSlug}#reading-paths`} className="py-2 text-xs text-cinnabar underline underline-offset-4 focus-visible:outline-cinnabar">全部导读</Link></div>
     <div className="mt-3 grid gap-3 sm:grid-cols-2">

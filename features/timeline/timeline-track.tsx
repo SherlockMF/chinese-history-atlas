@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useRef } from "react";
+import { useReducedMotion } from "framer-motion";
 
 import { useHistoryStore } from "@/features/history-state/history-store";
 import { cn } from "@/lib/utils";
@@ -15,21 +16,33 @@ export function TimelineTrack({ eventsByYear, series = fiveDynastiesConfig }: { 
   const setCurrentYear = useHistoryStore((state) => state.setCurrentYear);
   const viewportRef = useRef<HTMLDivElement>(null);
   const selectedRef = useRef<HTMLButtonElement>(null);
+  const hasCentered = useRef(false);
+  const reducedMotion = useReducedMotion();
   const slots = useMemo(() => getTimelineSlots(eventsByYear, currentYear, series), [eventsByYear, currentYear, series]);
 
   useEffect(() => {
     const viewport = viewportRef.current;
     const selected = selectedRef.current;
     if (!viewport || !selected) return;
-    const centerSelection = () => {
-      const left = selected.offsetLeft + selected.offsetWidth / 2 - viewport.clientWidth / 2;
-      viewport.scrollTo?.({ left: Math.max(0, Math.min(left, viewport.scrollWidth - viewport.clientWidth)), behavior: "instant" });
-    };
-    centerSelection();
-    const observer = new ResizeObserver(centerSelection);
+    const left = selected.offsetLeft + selected.offsetWidth / 2 - viewport.clientWidth / 2;
+    viewport.scrollTo?.({ left: Math.max(0, Math.min(left, viewport.scrollWidth - viewport.clientWidth)), behavior: hasCentered.current && !reducedMotion ? "smooth" : "instant" });
+    hasCentered.current = true;
+  }, [slots, reducedMotion]);
+
+  useEffect(() => {
+    const viewport = viewportRef.current;
+    if (!viewport) return;
+    let width = viewport.clientWidth;
+    const observer = new ResizeObserver(() => {
+      const selected = selectedRef.current;
+      if (!selected || viewport.clientWidth === width) return;
+      width = viewport.clientWidth;
+      const left = selected.offsetLeft + selected.offsetWidth / 2 - width / 2;
+      viewport.scrollTo?.({ left: Math.max(0, Math.min(left, viewport.scrollWidth - width)), behavior: "instant" });
+    });
     observer.observe(viewport);
     return () => observer.disconnect();
-  }, [slots]);
+  }, []);
 
   return (
     <div ref={viewportRef} className="relative mt-4 overflow-x-auto pb-3" aria-label={`${series.timelineMinYear}至${series.timelineMaxYear}年时间轨`}>
@@ -54,7 +67,7 @@ export function TimelineTrack({ eventsByYear, series = fiveDynastiesConfig }: { 
               </span>
               <span className="relative z-10 grid h-6 place-items-center">
                 <span className={cn(
-                  "rounded-full border border-ink/20 bg-paper group-hover:border-cinnabar",
+                  "rounded-full border border-ink/20 bg-paper transition-[width,height,background-color,box-shadow] duration-300 group-hover:border-cinnabar",
                   range ? "w-24 border-dashed px-2 text-[10px] leading-5 text-muted" : marked ? "size-2.5 bg-ink" : "size-1.5",
                   active && "size-4 border-cinnabar bg-cinnabar ring-2 ring-cinnabar/20",
                 )}>{range ? "暂无收录" : null}</span>
