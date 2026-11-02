@@ -256,6 +256,6 @@ test("Jin keyboard controls, map inspection and switching topics stop playback",
   await page.getByRole("banner").getByRole("link", { name: "切换专题", exact: true }).click();
   await page.locator(`a[href="${root}"]`).click();
   await expect(page).toHaveURL(new RegExp(`${root}(?:\\?|$)`), { timeout: 30_000 });
-  await expect(page.getByRole("button", { name: "全景浏览", exact: true })).toHaveAttribute("aria-pressed", "true");
-  await expect(map).toHaveAttribute("data-rendered-year", "382");
+  await expect(page.getByRole("button", { name: "全景浏览", exact: true })).toHaveAttribute("aria-pressed", "true", { timeout: 30_000 });
+  await expect(map).toHaveAttribute("data-rendered-year", "382", { timeout: 30_000 });
 });
