@@ -1,7 +1,23 @@
 import { expect, test } from "@playwright/test";
 
+const production = Boolean(process.env.CI) || process.env.PLAYWRIGHT_PRODUCTION === "1";
+
+test("production keeps the unavailable Field and mock endpoint closed", async ({ page }) => {
+  test.skip(!production || Boolean(process.env.NEXT_PUBLIC_HISTORY_FIELD_MODE && process.env.NEXT_PUBLIC_HISTORY_FIELD_MODE !== "disabled"), "Requires the default disabled production Field");
+  await page.goto("/archive/li-jingxun");
+  await expect(page.getByRole("link", { name: "进入现场", exact: true })).toHaveCount(0);
+  await page.getByRole("link", { name: "现场版本准备中", exact: true }).click();
+  await expect(page.getByRole("heading", { name: "现场版本准备中", exact: true })).toBeVisible();
+  await expect(page.locator("iframe")).toHaveCount(0);
+  await expect(page.getByRole("link", { name: "返回调查档案", exact: true })).toHaveAttribute("href", "/archive/li-jingxun");
+  await page.goto("/field/mock/li-jingxun");
+  // Streamed notFound responses can retain HTTP 200; verify the rendered boundary.
+  await expect(page.getByRole("heading", { name: "没有找到这条历史路径", exact: true })).toBeVisible();
+  await expect(page.getByRole("button", { name: "READY", exact: true })).toHaveCount(0);
+});
+
 test("Mock Field cases A/B/C preserve Archive discoveries through exit and reload", async ({ page }) => {
-  test.skip(process.env.PLAYWRIGHT_PRODUCTION === "1" && process.env.NEXT_PUBLIC_HISTORY_FIELD_MODE !== "mock", "Production defaults to disabled");
+  test.skip(production && process.env.NEXT_PUBLIC_HISTORY_FIELD_MODE !== "mock", "Production defaults to disabled");
   await page.goto("/archive/li-jingxun");
   // A fresh Playwright context keeps this isolated from a real user's records.
   await page.getByRole("link", { name: "进入现场", exact: true }).click();
