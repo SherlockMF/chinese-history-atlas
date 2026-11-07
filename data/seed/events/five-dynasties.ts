@@ -229,7 +229,7 @@ export const fiveDynastiesEvents: HistoricalEvent[] = [
     id: "later-han-founded", title: "刘知远称帝、后汉肇建", eventType: "founding", tracks: fiveDynasties, startYear: 947,
     summary: "刘知远在太原称帝，沿用天福年号，是后汉政权的起点；六月进入开封后才正式改国号为汉。",
     background: "后晋覆亡、契丹占领开封，河东军政集团拥立刘知远，以争取中原各镇支持。",
-    process: "二月刘知远在太原即皇帝位，称天福十二年；此时耶律德光尚在中原，辽軍尚未北撤。",
+    process: "二月刘知远在太原即皇帝位，称天福十二年；此时耶律德光尚在中原，辽军尚未北撤。",
     result: "刘知远建立独立朝廷，逐步取得地方军镇归附。",
     impact: "这一称帝为此后南下接收开封、正式使用汉国号奠定基础。",
     personIds: ["liu-zhiyuan", "guo-wei"], dynastyIds: ["later-han", "later-jin"], locationIds: ["taiyuan"], causeEventIds: ["later-jin-falls"], consequenceEventIds: ["later-han-enters-kaifeng","liu-zhiyuan-dies"],

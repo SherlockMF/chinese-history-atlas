@@ -119,9 +119,10 @@ export const northernPeople: Person[] = [
     sourceRefs: ["《新五代史》卷十《汉本纪第十》", "《资治通鉴》卷二百八十六至卷二百八十八"], verificationStatus: "reviewed", ...mixed([5]),
   },
   {
-    id: "liu-chengyou", name: "刘承祐", birthYear: 931, deathYear: 951, dynastyIds: ["later-han"], roles: ["后汉隐帝", "皇帝"], roleCategories: ["ruler"],
+    id: "liu-chengyou", name: "刘承祐", birthYear: 931, deathYear: 950, dynastyIds: ["later-han"], roles: ["后汉隐帝", "皇帝"], roleCategories: ["ruler"],
     summary: "刘知远之子，因清洗顾命重臣逼反郭威，后汉中原政权随之覆亡。",
     biography: "刘承祐即位时年少，朝政由顾命大臣主持。950 年他突然诛杀杨邠等并试图处置郭威，郭威起兵南下；刘承祐出逃途中被杀。",
+    disputedNote: "本数据按后汉乾祐三年记 deathYear=950；乾祐三年十一月出逃被杀时公历已入 951 年初，因此现代资料也常标作 951 年去世。",
     sourceRefs: ["《资治通鉴》卷二百八十八至卷二百八十九《后汉纪三至四》", "《旧五代史》卷一百零一《汉书·隐帝纪》"], verificationStatus: "reviewed", ...mixed([5]),
   },
   {

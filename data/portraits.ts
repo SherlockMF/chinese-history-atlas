@@ -46,7 +46,7 @@ export const portraits: Record<string, PersonPortraitData> = {
     "width": 1086,
     "height": 1448,
     "kind": "imagined",
-    "note": "画中约50岁，为创作设定；未采用传世本人肖像，容貌、神态及服饰细节为艺术想象。本图为程序绘制的原创扁平风插画，非 AI 生成。"
+    "note": "画中约30岁，为创作设定；未采用传世本人肖像，容貌、神态及服饰细节为艺术想象。本图为程序绘制的原创扁平风插画，非 AI 生成。"
   },
   "wang-sengbian": {
     "src": "/portraits/series/wang-sengbian.webp",
