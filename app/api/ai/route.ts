@@ -1,11 +1,11 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
 import { narrativeCatalog } from "@/data/narratives/catalog";
-import { findSeriesBySlug } from "@/data/series";
+import { findSeriesBySlug, getRouteSeries } from "@/data/series";
 
 import { MockLlmProvider } from "@/lib/ai/mock-provider";
 import { aiAnswerSchema } from "@/lib/ai/validate-answer";
-import { MAX_YEAR, TIMELINE_MIN_YEAR } from "@/lib/history/year-range";
+import { HISTORY_MAX_YEAR, HISTORY_MIN_YEAR, isGlobalHistoryPage } from "@/lib/ai/history-scope";
 import { LocalHistoryRetriever } from "@/lib/rag/local-history-retriever";
 import type { RetrievedEvidence } from "@/types/ai";
 
@@ -41,10 +41,15 @@ const requestSchema = z.object({
     currentPage: z.string().max(200),
   }).superRefine((context, validation) => {
     const route = context.currentPage.match(/^\/series\/([a-z0-9-]+)\/stories\/([a-z0-9-]+)\/?(?:#[a-z0-9-]+)?$/);
-    const series = route ? findSeriesBySlug(route[1]) : null;
-    const registeredStory = series && narrativeCatalog.some(story => story.seriesId === series.id && story.slug === route![2]);
-    const minimum = registeredStory ? series!.timelineMinYear : TIMELINE_MIN_YEAR;
-    const maximum = registeredStory ? series!.timelineMaxYear : MAX_YEAR;
+    const slug = context.currentPage.match(/^\/series\/([^/]+)/)?.[1];
+    const series = slug ? findSeriesBySlug(slug) : getRouteSeries(context.currentPage);
+    if (!series || (route && !narrativeCatalog.some(story => story.seriesId === series.id && story.slug === route[2]))) {
+      validation.addIssue({ code: "custom", path: ["currentPage"], message: "Unknown history series or story" });
+      return;
+    }
+    const global = isGlobalHistoryPage(context.currentPage);
+    const minimum = global ? HISTORY_MIN_YEAR : series.timelineMinYear;
+    const maximum = global ? HISTORY_MAX_YEAR : series.timelineMaxYear;
     if (context.currentYear < minimum || context.currentYear > maximum) {
       validation.addIssue({ code: "custom", path: ["currentYear"], message: "Current year is outside the supported series range" });
     }
@@ -91,8 +96,8 @@ function boundRetrievedEvidence(
         item.matchedQueryYears.filter(
           (year) =>
             Number.isInteger(year) &&
-            year >= TIMELINE_MIN_YEAR &&
-            year <= MAX_YEAR,
+            year >= HISTORY_MIN_YEAR &&
+            year <= HISTORY_MAX_YEAR,
         ),
       ),
     ].slice(0, MAX_EVIDENCE_MATCHED_YEARS);

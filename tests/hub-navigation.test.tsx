@@ -27,7 +27,7 @@ describe("hub and series hierarchy", () => {
     expect(screen.getByRole("link", { name: "山河纪总首页" })).toHaveAttribute("href", "/");
     expect(screen.queryByText(/534—618/)).not.toBeInTheDocument();
     expect(screen.queryByRole("navigation", { name: "移动端主要导航" })).not.toBeInTheDocument();
-    expect(screen.queryByRole("button", { name: /问史/ })).not.toBeInTheDocument();
+    expect(screen.getByRole("button", { name: /问史/ })).toBeVisible();
   });
   it("provides topic home and switch in the single topic navigation", () => {
     useHistoryStore.getState().reset({ series: northernQiZhouSuiConfig, routePrefix: "/series/northern-qi-zhou-sui", currentYear: 608 });

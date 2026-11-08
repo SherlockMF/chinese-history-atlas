@@ -2,12 +2,9 @@
 
 import { MessageCircle } from "lucide-react";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
 import { useHistoryStore } from "@/features/history-state/history-store";
 
 export function SiteHeader({ isGlobal = false }: { isGlobal?: boolean }) {
-  const pathname = usePathname();
-  const storyPage = /^\/series\/[a-z0-9-]+\/stories\/[a-z0-9-]+\/?$/.test(pathname ?? "");
   const year = useHistoryStore((state) => state.currentYear);
   const series = useHistoryStore((state) => state.series);
   const prefix = useHistoryStore((state) => state.routePrefix);
@@ -32,7 +29,7 @@ export function SiteHeader({ isGlobal = false }: { isGlobal?: boolean }) {
       {!isGlobal ? <nav aria-label="主要导航" className="hidden items-center gap-1 lg:flex">{links.map((link) => <Link key={link.label} prefetch={false} href={link.href} className="whitespace-nowrap rounded-full px-3 py-2 text-sm text-ink/70 hover:bg-ink/5 hover:text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cinnabar xl:px-4">{link.label}</Link>)}</nav> : <span className="hidden lg:block" />}
       <div className="flex shrink-0 items-center justify-end gap-2">
         <Link href={isGlobal ? "/#series" : "/"} className="inline-flex min-h-11 items-center rounded-full px-3 py-2 text-sm text-cinnabar hover:bg-cinnabar/5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cinnabar">{isGlobal ? "选择专题" : "切换专题"}</Link>
-        {!isGlobal && (series.id === "five-dynasties" || storyPage) ? <button type="button" onClick={() => setOpen(true)} aria-haspopup="dialog" aria-expanded={open} aria-label="问史 · 随时可问" className="inline-flex min-h-11 items-center gap-2 rounded-full px-2 py-2 text-xs text-muted hover:text-cinnabar focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cinnabar"><MessageCircle aria-hidden="true" className="size-4" /><span className="hidden sm:inline">问史</span></button> : null}
+        <button type="button" onClick={() => setOpen(true)} aria-haspopup="dialog" aria-expanded={open} aria-label="问史 · 随时可问" className="inline-flex min-h-11 items-center gap-2 rounded-full px-2 py-2 text-xs text-muted hover:text-cinnabar focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cinnabar"><MessageCircle aria-hidden="true" className="size-4" /><span className="hidden sm:inline">问史</span></button>
       </div>
     </div>
   </header>;

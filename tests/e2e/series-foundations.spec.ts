@@ -5,6 +5,16 @@ test("series entry routes and people remain isolated", async ({ page }) => {
     const response = await page.goto(path);
     expect(response?.status(), path).toBe(200);
     await expect(page.getByRole("heading", { level: 1 })).toBeVisible();
+    await page.getByRole("button", { name: "问史 · 随时可问" }).click();
+    const drawer = page.getByRole("dialog", { name: "问史助手" });
+    await expect(drawer).toBeVisible();
+    if (path === "/") {
+      await expect(drawer.getByText("全站历史 · 站内资料检索")).toBeVisible();
+      await drawer.getByLabel("向问史提问").fill("1038年");
+      await drawer.getByRole("button", { name: "发送问题" }).click();
+      await expect(drawer.locator('a[href="/explore/xia-founded"]').first()).toBeVisible();
+    }
+    await drawer.getByRole("button", { name: "关闭问史" }).click();
   }
   await page.goto("/series/five-dynasties/people");
   await expect(page.getByRole("heading", { name: "石敬瑭", exact: true })).toBeVisible();
@@ -15,7 +25,12 @@ test("series entry routes and people remain isolated", async ({ page }) => {
   const response = await page.goto("/series/northern-qi-zhou-sui/people");
   expect(response?.status()).toBe(200);
   await expect(page.getByRole("heading", { name: "杨坚", exact: true })).toBeVisible();
-  await expect(page.getByRole("button", { name: /与杨坚对话/ })).toHaveCount(0);
+  await page.getByRole("button", { name: "与杨坚对话" }).click();
+  const dialogue = page.getByRole("dialog", { name: "与杨坚对话" });
+  await dialogue.getByRole("button", { name: "介绍一下你的生平" }).click();
+  await dialogue.getByRole("button", { name: "发送对话" }).click();
+  await expect(dialogue.getByRole("log")).toContainText("我是杨坚");
+  await dialogue.getByRole("button", { name: "关闭对话" }).click();
   await expect(page.getByRole("heading", { name: "石敬瑭", exact: true })).toHaveCount(0);
 });
 

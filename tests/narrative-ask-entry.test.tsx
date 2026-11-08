@@ -24,10 +24,10 @@ describe("asking from a narrative page", () => {
     expect(screen.queryByText(/当前上下文：1038年/)).not.toBeInTheDocument();
   });
 
-  it("does not expose unsupported timeline retrieval on another series home", () => {
+  it("offers history retrieval on another series home", () => {
     route.path = "/series/western-xia";
     render(<SiteHeader />);
-    expect(screen.queryByRole("button", { name: /问史/ })).not.toBeInTheDocument();
+    expect(screen.getByRole("button", { name: /问史/ })).toBeVisible();
   });
 
   it("sends the story context and closes the assistant when following a chapter source", async () => {

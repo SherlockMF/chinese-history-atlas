@@ -1,7 +1,7 @@
 import "server-only";
 
 import { supportsPersonChat } from "@/lib/ai/person-chat-scope";
-import { fiveDynastiesSeedData as seedData } from "@/data/seed/five-dynasties";
+import { seedData } from "@/data/seed";
 import { personEventDialogues } from "@/data/person-dialogues";
 import { LocalHistoryRetriever } from "@/lib/rag/local-history-retriever";
 import type { HistoricalEvent, Person, PersonRelation } from "@/types/history";
@@ -24,10 +24,8 @@ function inPerson(text: string, person: Person) {
 }
 
 function lifeStory(person: Person) {
-  return inPerson(person.biography ?? person.summary, person)
-    .replace(/[他她]/g, "我")
-    .replace(/其(?=军|晚年|统治|建议|事业|在位|与|专断|跨朝|养子|政权|死后|兄|子)/g, "我的")
-    .replace("我的与", "我与");
+  // Keep recorded third-person wording: pronouns may refer to someone else.
+  return `站内人物资料记载：${person.biography ?? person.summary}`;
 }
 
 function matchesKinship(relation: PersonRelation, person: Person, question: string) {
@@ -111,7 +109,7 @@ export async function getPersonHistoryAnswer(
   signal.throwIfAborted();
   const question = normalize(message);
   const answer = (text: string, refs: string[] = person.sourceRefs): PersonChatAnswer => ({ answer: text, references: unique(refs) });
-  if (!supportsPersonChat(person.id, question)) return answer("人物对话目前仅支持五代十国专题，其他专题的资料请在对应人物页和事件页查看。", []);
+  if (!supportsPersonChat(person.id)) return answer("尚未收录这位人物的资料，请选择站内已有的人物。", []);
   const namedOthers = seedData.people.filter((other) => other.id !== person.id && question.includes(other.name));
   if (/真人|机器人|你是AI|你是ai|模型/.test(question)) return answer(`我是${person.name}的角色演绎，用已有史料与你交谈，并不是真实人物。`, []);
   if (/^(你好|您好|嗨|在吗|早上好|晚上好|哈喽)$/.test(question)) return answer(`你好，我是${person.name}。想聊我的经历，还是想问一个当年的选择？`, []);

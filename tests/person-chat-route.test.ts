@@ -10,17 +10,20 @@ const request = (body: unknown = input) => new Request("http://localhost/api/per
 });
 
 describe("person chat route", () => {
-  it.each(["history", "free"])("does not send an unsupported subject to a configured model (%s)", async (mode) => {
+  it.each(["history", "free"])("accepts another period's subject with the configured model (%s)", async (mode) => {
+    vi.mocked(fetch).mockResolvedValue(Response.json({ choices: [{ message: { content: "我们依据杨坚的人物档案来看。" } }] }));
     const response = await POST(request({ ...input, mode, message: "杨坚何时去世" }));
-    expect(response.status).toBe(400);
-    expect(await response.json()).toMatchObject({ code: "CHAT_SERIES_UNSUPPORTED" });
-    expect(fetch).not.toHaveBeenCalled();
+    expect(response.status).toBe(200);
+    expect(await response.json()).toMatchObject({ method: "model" });
+    expect(fetch).toHaveBeenCalledTimes(1);
   });
-  it.each(["history", "free"])("rejects unsupported series before any model call (%s)", async (mode) => {
+  it.each(["history", "free"])("uses the selected new-series persona in model calls (%s)", async (mode) => {
+    vi.mocked(fetch).mockResolvedValue(Response.json({ choices: [{ message: { content: "我是杨坚。" } }] }));
     const response = await POST(request({ ...input, mode, personId: "yang-jian" }));
-    expect(response.status).toBe(400);
-    expect(await response.json()).toMatchObject({ code: "CHAT_SERIES_UNSUPPORTED" });
-    expect(fetch).not.toHaveBeenCalled();
+    expect(response.status).toBe(200);
+    expect(await response.json()).toMatchObject({ method: "model" });
+    const payload = JSON.parse(vi.mocked(fetch).mock.calls[0][1]!.body as string);
+    expect(payload.messages[0].content).toContain("历史人物「杨坚」");
   });
   beforeEach(() => {
     vi.stubGlobal("fetch", vi.fn());

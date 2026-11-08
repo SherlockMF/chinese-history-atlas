@@ -10,16 +10,16 @@ const shi = people.find((person) => person.id === "shi-jingtang")!;
 const signal = new AbortController().signal;
 
 describe("local person conversation", () => {
-  it("also enforces scope when called directly with a new-series person", async () => {
+  it("introduces a new-series person when called directly", async () => {
     const reply = await getPersonHistoryAnswer(allPeople.find((item) => item.id === "yang-jian")!, "你是谁？", signal);
-    expect(reply.answer).toContain("仅支持五代十国");
-    expect(reply.references).toEqual([]);
+    expect(reply.answer).toContain("我是杨坚");
+    expect(reply.references.length).toBeGreaterThan(0);
   });
-  it("does not answer out-of-series dates using another person's profile", async () => {
+  it("uses the named person's profile across series", async () => {
     const reply = await getPersonHistoryAnswer(shi, "杨坚何时去世", signal);
-    expect(reply.answer).toContain("五代十国");
+    expect(reply.answer).toContain("杨坚");
     expect(reply.answer).not.toContain("没有确切记载");
-    expect(reply.references).toEqual([]);
+    expect(reply.references).toEqual(allPeople.find(item => item.id === "yang-jian")!.sourceRefs);
   });
   it("distinguishes missing date fields from missing historical records", async () => {
     const reply = await getPersonHistoryAnswer({ ...shi, deathYear: undefined }, "你何时去世", signal);

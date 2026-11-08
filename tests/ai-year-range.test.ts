@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 
 import { POST } from "@/app/api/ai/route";
 import { aiAnswerSchema } from "@/lib/ai/validate-answer";
+import { HISTORY_MIN_YEAR, HISTORY_MAX_YEAR } from "@/lib/ai/history-scope";
 
 const requestForYear = (currentYear: number) =>
   new Request("http://localhost/api/ai", {
@@ -38,8 +39,8 @@ describe("AI year range", () => {
     ["/series/western-xia/stories/missing", 1038],
     ["/series/jin/stories/xia-last-cities-two-endings", 1038],
     ["/series/western-xia/stories/xia-last-cities-two-endings", 1300],
-    ["/series/western-xia/timeline", 1038],
-  ])("does not expand the legacy year contract for %s at %i", async (currentPage, currentYear) => {
+    ["/series/unknown/timeline", 1038],
+  ])("rejects unknown routes or out-of-period years for %s at %i", async (currentPage, currentYear) => {
     const response = await POST(new Request("http://localhost/api/ai", {
       method: "POST", headers: { "content-type": "application/json" },
       body: JSON.stringify({ message: "为什么", context: { currentYear, currentPage } }),
@@ -59,11 +60,11 @@ describe("AI year range", () => {
     expect(response.status).toBe(400);
   });
 
-  it.each([875, 979])("accepts answer year %i", (year) => {
+  it.each([HISTORY_MIN_YEAR, 589, 875, 979, 1038, HISTORY_MAX_YEAR])("accepts answer year %i", (year) => {
     expect(aiAnswerSchema.safeParse(answerForYear(year)).success).toBe(true);
   });
 
-  it.each([874, 980])("rejects answer year %i", (year) => {
+  it.each([HISTORY_MIN_YEAR - 1, HISTORY_MAX_YEAR + 1])("rejects answer year %i", (year) => {
     expect(aiAnswerSchema.safeParse(answerForYear(year)).success).toBe(false);
   });
 });

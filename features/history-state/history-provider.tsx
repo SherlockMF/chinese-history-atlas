@@ -57,7 +57,7 @@ function HistoryUrlSync() {
         series,
         routePrefix,
         isPlaying: false,
-        aiDrawerOpen: series.id === "five-dynasties" && state.aiDrawerOpen,
+        aiDrawerOpen: state.aiDrawerOpen,
       });
     } finally {
       applyingUrl.current = false;

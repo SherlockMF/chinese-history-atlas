@@ -7,6 +7,7 @@ import { type FormEvent, useEffect, useRef, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { useHistoryStore } from "@/features/history-state/history-store";
 import { aiAnswerSchema } from "@/lib/ai/validate-answer";
+import { isGlobalHistoryPage } from "@/lib/ai/history-scope";
 import type { AiAnswer, AiContext } from "@/types/ai";
 import { AiEmpty } from "./ai-empty";
 import { AiError } from "./ai-error";
@@ -22,12 +23,15 @@ export function AiDrawer() {
   const selectedEvent = useHistoryStore((state) => state.selectedEvent);
   const routeEvent = pathname.match(/^\/explore\/([a-z0-9-]+)\/?$/)?.[1];
   const eventId = routeEvent ?? selectedEvent;
-  const context = { currentYear, selectedDynasty, selectedPerson, selectedEvent: eventId, currentPage: pathname };
+  const context = isGlobalHistoryPage(pathname)
+    ? { currentYear, currentPage: pathname }
+    : { currentYear, selectedDynasty, selectedPerson, selectedEvent: eventId, currentPage: pathname };
   return open ? <AiDrawerSession key={JSON.stringify(context)} context={context} onClose={() => setOpen(false)} /> : null;
 }
 
 function AiDrawerSession({ context, onClose }: { context: AiContext; onClose: () => void }) {
   const { currentYear, selectedEvent: eventId } = context;
+  const globalPage = isGlobalHistoryPage(context.currentPage);
   const storyPage = /^\/series\/[a-z0-9-]+\/stories\/[a-z0-9-]+\/?$/.test(context.currentPage);
   const [message, setMessage] = useState("");
   const [answer, setAnswer] = useState<AiAnswer>();
@@ -104,13 +108,13 @@ function AiDrawerSession({ context, onClose }: { context: AiContext; onClose: ()
       }}
       className="fixed inset-x-0 bottom-0 top-auto m-0 h-[min(42rem,92dvh)] max-h-[92dvh] w-full max-w-none overflow-hidden rounded-t-3xl border-0 bg-mist p-0 text-ink shadow-2xl backdrop:bg-ink/35 backdrop:backdrop-blur-[2px] open:flex open:flex-col sm:inset-y-0 sm:left-auto sm:right-0 sm:h-dvh sm:max-h-dvh sm:w-[28rem] sm:rounded-none">
       <header className="flex shrink-0 items-center justify-between border-b border-ink/10 bg-paper px-5 py-3">
-        <div><h2 className="flex items-center gap-2 font-serif text-xl"><MessageCircle aria-hidden="true" className="size-4 text-cinnabar" />问史</h2><p className="mt-1 text-xs text-muted">{storyPage ? "当前故事" : `${currentYear}年`} · 站内资料检索{eventId && !storyPage ? " · 已关联当前事件" : ""}</p></div>
+        <div><h2 className="flex items-center gap-2 font-serif text-xl"><MessageCircle aria-hidden="true" className="size-4 text-cinnabar" />问史</h2><p className="mt-1 text-xs text-muted">{globalPage ? "全站历史" : storyPage ? "当前故事" : `${currentYear}年`} · 站内资料检索{eventId && !storyPage ? " · 已关联当前事件" : ""}</p></div>
         <Button variant="ghost" size="icon" className="size-11" onClick={onClose} aria-label="关闭问史"><X aria-hidden="true" className="size-5" /></Button>
       </header>
       <div aria-live="polite" className="flex min-h-0 flex-1 flex-col overflow-y-auto overscroll-contain p-5">
         {loading ? <p role="status" className="rounded-2xl bg-white/60 p-5 text-sm text-muted">正在查阅当前线索……</p>
           : error ? <AiError message={error} onRetry={() => void ask()} />
-          : answer ? <AiMessage answer={answer} onSourceNavigate={() => { triggerRef.current = null; onClose(); }} /> : <AiEmpty year={currentYear} storyPage={storyPage} />}
+          : answer ? <AiMessage answer={answer} globalPage={globalPage} onSourceNavigate={() => { triggerRef.current = null; onClose(); }} /> : <AiEmpty year={currentYear} storyPage={storyPage} globalPage={globalPage} />}
       </div>
       <form onSubmit={submit} className="shrink-0 border-t border-ink/10 bg-paper p-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
         <label className="sr-only" htmlFor="history-question">向问史提问</label>

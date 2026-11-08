@@ -1,8 +1,8 @@
 import "server-only";
 
-// Timeline event retrieval retains the Five Dynasties contract; stories span all series.
-import { fiveDynastiesSeedData as seedData } from "@/data/seed/five-dynasties";
-import { MAX_YEAR, TIMELINE_MIN_YEAR } from "@/lib/history/year-range";
+import { seedData } from "@/data/seed";
+import { getRouteSeries } from "@/data/series";
+import { HISTORY_MAX_YEAR, HISTORY_MIN_YEAR, isGlobalHistoryPage } from "@/lib/ai/history-scope";
 import type { RetrievedEvidence } from "@/types/ai";
 import type { HistoricalEvent, SourcedEntity } from "@/types/history";
 import { retrieveNarratives } from "./narrative-retriever";
@@ -18,6 +18,9 @@ export type LocalHistoryRetrievalContext = RetrievalContext;
 const MAX_RESULTS = 5;
 const MAX_QUERY_LENGTH = 1000;
 const MAX_EXCERPT_LENGTH = 900;
+const peopleById = new Map(seedData.people.map(person => [person.id, person]));
+const dynastiesById = new Map(seedData.dynasties.map(dynasty => [dynasty.id, dynasty]));
+const locationsById = new Map(seedData.locations.map(location => [location.id, location]));
 type BodyField = keyof Pick<
   HistoricalEvent,
   "summary" | "background" | "process" | "result" | "impact"
@@ -77,7 +80,7 @@ function extractQueryYears(value: string): number[] {
     const token = match[1];
     const year = Number(token);
     if (String(year) !== token) continue;
-    if (year >= TIMELINE_MIN_YEAR && year <= MAX_YEAR) years.add(year);
+    if (year >= HISTORY_MIN_YEAR && year <= HISTORY_MAX_YEAR) years.add(year);
   }
   return [...years];
 }
@@ -183,15 +186,15 @@ function scoreEvent(
 
   const relatedNames = [
     ...event.personIds.map(
-      (id) => seedData.people.find((person) => person.id === id)?.name,
+      (id) => peopleById.get(id)?.name,
     ),
     ...event.dynastyIds.flatMap((id) => {
-      const dynasty = seedData.dynasties.find((candidate) => candidate.id === id);
+      const dynasty = dynastiesById.get(id);
       return dynasty ? [dynasty.name, dynasty.shortName] : [];
     }),
     ...event.locationIds.map(
       (id) =>
-        seedData.locations.find((location) => location.id === id)?.name,
+        locationsById.get(id)?.name,
     ),
   ].filter((name): name is string => Boolean(name));
 
@@ -243,6 +246,10 @@ function scoreEvent(
 
   const contextYear = context.year ?? context.currentYear;
   let contextBoost = 0;
+  if (context.currentPage && !isGlobalHistoryPage(context.currentPage)) {
+    const series = getRouteSeries(context.currentPage);
+    if (event.tracks.some(track => series.trackIds.includes(track))) contextBoost += 15;
+  }
   if (context.selectedEvent === event.id) contextBoost += 60;
   if (
     context.selectedPerson &&
@@ -342,7 +349,11 @@ export class LocalHistoryRetriever implements KnowledgeRetriever {
     signal?: AbortSignal,
   ): Promise<RetrievalResult> {
     signal?.throwIfAborted();
-    const boundedQuery = rawQuery.slice(0, MAX_QUERY_LENGTH);
+    if (context.currentPage && isGlobalHistoryPage(context.currentPage)) context = { currentPage: context.currentPage };
+    const contextualYear = context.year ?? context.currentYear;
+    const useContextYear = contextualYear !== undefined && !isGlobalHistoryPage(context.currentPage ?? "/")
+      && /^(?:这一年|这年|当年)(?:发生了什么|有什么事|发生了什么事)?[？?]?$/.test(rawQuery.trim());
+    const boundedQuery = useContextYear ? `${contextualYear}年` : rawQuery.slice(0, MAX_QUERY_LENGTH);
     const query = normalize(boundedQuery);
     const queryYears = extractQueryYears(boundedQuery);
     const pureYearQuery = isYearOnlyQuery(boundedQuery);
@@ -425,7 +436,7 @@ export class LocalHistoryRetriever implements KnowledgeRetriever {
     const stories = this.options.includeNarratives === false ? { chunks: [], evidence: [], excerptsForServerPrompt: [] }
       : retrieveNarratives(boundedQuery, context, resultLimit, signal);
     if (stories.evidence.length && (!matches.length || /^\/series\/[^/]+\/stories\//.test(context.currentPage ?? ""))) return stories;
-    return {
+    const eventResult: RetrievalResult = {
       chunks: matches.map(({ event }) => ({
         id: event.id,
         sourceId: `history-event:${event.id}`,
@@ -442,5 +453,18 @@ export class LocalHistoryRetriever implements KnowledgeRetriever {
         evidenceFor(event, matchKind, matchedYears, bodyField),
       ),
     };
+    // Keep a story hit discoverable when a broad person/topic query also finds events.
+    // Exact event questions and explicit years retain their event-first contract.
+    if (stories.evidence[0]?.matchKind === "title" && resultLimit > 1 && !queryYears.length
+      && !matches.some(({ event }) => query.includes(normalize(event.title)))) {
+      const eventCount = Math.min(eventResult.evidence.length, resultLimit - 1);
+      const storyCount = resultLimit - eventCount;
+      return {
+        chunks: [...eventResult.chunks.slice(0, eventCount), ...stories.chunks.slice(0, storyCount)],
+        evidence: [...eventResult.evidence.slice(0, eventCount), ...stories.evidence.slice(0, storyCount)],
+        excerptsForServerPrompt: [...eventResult.excerptsForServerPrompt.slice(0, eventCount), ...stories.excerptsForServerPrompt.slice(0, storyCount)],
+      };
+    }
+    return eventResult;
   }
 }

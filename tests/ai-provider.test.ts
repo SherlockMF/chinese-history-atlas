@@ -85,6 +85,7 @@ describe("MockLlmProvider", () => {
     expect(answer.sources).toEqual([
       {
         sourceId: "history-event:chenqiao-mutiny",
+        href: "/explore/chenqiao-mutiny",
         title: "陈桥兵变、北宋建立",
         references: [
           "《续资治通鉴长编》卷一",

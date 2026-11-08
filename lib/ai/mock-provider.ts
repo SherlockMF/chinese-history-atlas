@@ -100,7 +100,7 @@ export class MockLlmProvider implements LlmProvider {
         sourceId: item.sourceId,
         title: item.title,
         references: [...item.sourceRefs],
-        ...(item.story ? { href: `/series/${item.story.seriesId}/stories/${item.story.slug}#${item.story.sectionId}` } : {}),
+        href: item.story ? `/series/${item.story.seriesId}/stories/${item.story.slug}#${item.story.sectionId}` : `/explore/${item.eventId}`,
       })),
     };
   }

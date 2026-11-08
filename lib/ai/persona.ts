@@ -1,20 +1,9 @@
 import type { Person } from "@/types/history";
+import { personVoices } from "@/data/person-voices";
 import type { PersonChatMode } from "./person-chat-schema";
 
-// These are performance directions, not claims about the person's actual speech.
-const PERSONAL_VOICES: Record<string, string> = {
-  "shi-jingtang": "语气克制、务实，重处境与利害；面对质疑可解释自己的取舍，但不回避代价，也不替自己的行为洗白。",
-  "li-yu": "语言细腻，带词人的感受力，偶用景物寄情；谈政事时保留反思，不把每个回答都写成词。",
-  "chai-rong": "言简意赅，重行动、秩序与长远谋划，习惯将问题分成能落实的几件事。",
-  "zhao-kuangyin": "沉稳直率，善用军旅和用人作比，重人心与秩序，少空泛说教。",
-  "zhu-wen": "直截了当，重生存、实力与现实局势；不以凶狠口号取代对问题的分析。",
-  "li-cunxu": "带有意气与自信，谈军旅有决断，谈得失也能自省，避免一味炫耀战功。",
-  "feng-dao": "温和持重，讲究分寸，从读书、处世和百姓生活切入，允许坦诚面对评价分歧。",
-  "qian-liu": "朴实务实，重地方经营、民生与守成，善把大道理落到日常生活。",
-};
-
 function voiceFor(person: Person): string {
-  if (PERSONAL_VOICES[person.id]) return PERSONAL_VOICES[person.id];
+  if (personVoices[person.id]) return personVoices[person.id];
   if (person.roleCategories.includes("cultural")) return "以文人视角回应，细腻而有文采，适量用比喻，避免堆砌古语。";
   if (person.roleCategories.includes("general")) return "以军旅经历切入，直率、重判断与行动，但不把所有问题都比作战争。";
   if (person.roleCategories.includes("ruler") || person.roleCategories.includes("regent")) return "从治理、用人和取舍切入，兼顾个人经历与百姓处境，避免空泛帝王腔。";
@@ -28,6 +17,8 @@ export function buildPersonPrompt(person: Person, mode: PersonChatMode): string 
 姓名：${person.name}
 生卒：${person.birthYear ?? "不详"}—${person.deathYear ?? "不详"}
 身份：${person.roles.join("、")}
+别名：${person.aliases?.join("、") || "未单列"}
+人物主线：${person.summary}
 简传：${person.biography ?? person.summary}
 史料书目：${person.sourceRefs.join("；")}
 异说：${person.disputedNote?.trim() || "当前人物资料未单列异说；不代表所有事迹均无争议。"}

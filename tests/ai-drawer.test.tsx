@@ -40,6 +40,19 @@ describe("AiSuggestionChips", () => {
       selectedEvent: "founding-later-jin",
     });
   });
+
+  it("links cross-period events by their source title without clamping their year", () => {
+    render(<AiSuggestionChips answer={{ ...answer, relatedPeople: [], relatedEvents: ["xia-founded"], relatedYears: [1038], sources: [{ sourceId: "history-event:xia-founded", title: "西夏建立", href: "/explore/xia-founded" }] }} />);
+    expect(screen.getByRole("link", { name: "西夏建立" })).toHaveAttribute("href", "/explore/xia-founded");
+    expect(screen.queryByRole("button", { name: "1038年" })).not.toBeInTheDocument();
+    expect(useHistoryStore.getState().currentYear).toBe(923);
+  });
+
+  it("does not apply a topic timeline year on the global home", () => {
+    render(<AiSuggestionChips answer={answer} globalPage />);
+    expect(screen.getByText("936年")).toBeVisible();
+    expect(screen.queryByRole("button", { name: "936年" })).not.toBeInTheDocument();
+  });
 });
 
 describe("AiMessage narrative sources", () => {
