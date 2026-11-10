@@ -1,37 +1,37 @@
 {
   "siteId": "li-jingxun",
   "schemaVersion": 1,
-  "buildVersion": "unity-6000.3.24f1-u15-28f5562b",
+  "buildVersion": "unity-6000.3.24f1-u18-a2772adb",
   "gameCommit": null,
-  "sourceRepositoryHead": "8f30b9f004d90aac80e8ecf17b28a2e49075b7a2",
+  "sourceRepositoryHead": "a1f32d8fee248b74ce8b9b115d22585c66e65ffd",
   "unityVersion": "6000.3.24f1",
   "source": "history-field/game/Builds/WebGL",
-  "builtAt": "2026-09-23T02:47:29.5412492Z",
-  "artifactLatestWriteAt": "2026-09-23T02:47:20.6729261Z",
+  "builtAt": "2026-10-13T06:48:57.568Z",
+  "artifactLatestWriteAt": "2026-10-13T06:48:56.939538Z",
   "gitTracked": false,
-  "sourceTotalBytes": 56143388.0,
+  "sourceTotalBytes": 56532072.0,
   "files": [
     {
       "path": "Build/WebGL.data.gz",
-      "bytes": 42583201,
-      "sha256": "28f5562bd7e4354b69a2e93ab353fb6aef03a10874c65d5307be1db362ec05f7"
+      "bytes": 42950979,
+      "sha256": "a2772adb772e7318a352db32c761a9de2a91144f189edfccb6e6c0da57781036"
     },
     {
       "path": "Build/WebGL.framework.js.gz",
-      "bytes": 91322,
-      "sha256": "65a80637053d4e68f0c337ee4c39de0c59de2d4d74543fee92d0b727dd559941"
+      "bytes": 91440,
+      "sha256": "4d30367f703cd7321324ce3c9eb394da12dcdbc26e38608f0139eaa181dab1c2"
     },
     {
       "path": "Build/WebGL.loader.js",
       "bytes": 26983,
-      "sha256": "c597a1f388b4b70ee490bb61c3e067d4bfe114ce25df3ddcb6c539d18b4bfeeb"
+      "sha256": "27fda8dc15bf02de43f9c7d0ccb1073748999e8d93c081abd793377de0259c9d"
     },
     {
       "path": "Build/WebGL.wasm.gz",
-      "bytes": 13441882,
-      "sha256": "1b0d52b102c01a19fddb18c27f709ed24e02cdd85560f1d07aa134388100b09d"
+      "bytes": 13462670,
+      "sha256": "8fcfe4c934879231a8d5a4d02347a11f621331dbcc5851cb55991007f8cd7eda"
     }
   ],
-  "sourceDirty": true,
-  "sourceNote": "U15 responsive burial warning panel and mutually exclusive HUD messages are uncommitted; artifact identity is pinned by SHA-256. No gameplay or performance acceptance was run."
+  "sourceDirty": false,
+  "sourceNote": "U18 inspection positioning, evidence linking and departure feedback build (game/Logs/u18-webgl-final.log: Succeeded, warnings=2, errors=0). The artifact was built 2026-10-13, before the U10-U18 work was committed as a1f32d8 on 2026-11-08; artifact identity is pinned by SHA-256. Working tree is clean at import time."
 }
